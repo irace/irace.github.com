@@ -6,7 +6,7 @@ new TWTR.Widget({
   rpp: 10,
   interval: 6000,
   width: 250,
-  height: 800,
+  height: 600,
   theme: {
     shell: {
       background: '#333333',

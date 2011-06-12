@@ -1,38 +1,84 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7 ]> <html class="no-js ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="no-js ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> 
+<html class="no-js" lang="en"> <!--<![endif]-->
 <head>
+    <meta charset="utf-8" />
+
+    <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame
+         Remove this if you use the .htaccess -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
     <title>Bryan Irace</title>
-    
-    <link rel="stylesheet" href="styles.css" />
+    <meta name="author" content="Bryan Irace" />
+    <meta name="description" content="Personal website" />
+
+    <!-- Mobile viewport optimized: j.mp/bplateviewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- CSS: implied media="all" -->
+    <!-- Sacrificing some page load speed in favor of organization -->
+    <link rel="stylesheet" href="css/reset.css?v=1" /> <!-- Version number used for cache-busting -->
+    <link rel="stylesheet" href="css/styles.css?v=1" /> 
+    <link rel="stylesheet" href="css/helpers-and-media-queries.css?v=1" />
     <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Kameron" />
 
-    <script type="text/javascript" src="http://widgets.twimg.com/j/2/widget.js"></script>
-    <script type="text/javascript" src="scripts.js"></script>
-</head>
-<body>
-    <nav>
-        <ul>
-            <li><a href="#about">about</a></li>
-            <li><a href="#programming">programming</a></li>
-            <li><a href="#music">music</a></li>
-            <li><a href="http://bryanirace.com">blog</a></li>
-        </ul>
-    </nav>
+    <!-- All JavaScript at the bottom, except for Modernizr which enables HTML5 elements & feature detects -->
+    <script src="js/libs/modernizr-1.7.min.js"></script>
     
-    <section id="about">
-        <a name="about" />
+    <!-- TODO: Add this to the bottom of the page to prevent slow load, use jQuery to position after load -->
+    <script src="http://widgets.twimg.com/j/2/widget.js"></script>
+    <script src="js/scripts.js"></script>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#about">about</a></li>
+                <li><a href="#programming">programming</a></li>
+                <li><a href="#music">music</a></li>
+                <li><a href="#blog">blog</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section>
+        <a id="about"></a>
         <h1>about</h1>
     </section>
 
-    <section id="programming">
-        <a name="programming" />
+    <section>
+        <a id="programming"></a>
         <h1>programming</h1>
     </section>
     
-    <section id="music">
-        <a name="music" />
+    <section>
+        <a id="music"></a>
         <h1>music</h1>
     </section>
+
+    <section>
+        <a id="blog"></a>
+        <h1>blog</h1>
+        
+        <!-- TODO: Use Tumblr API to display last blog post -->
+        <!-- <script type="text/javascript" src="http://bryanirace.com/js"></script> -->
+    </section>
+    
+    <!-- JavaScript at the bottom for fast page loading -->
+
+    <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if necessary -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.js"></script>
+    <script>window.jQuery || document.write("<script src='js/libs/jquery-1.6.1.min.js'>\x3C/script>")</script>
+
+    <!--[if lt IE 7 ]>
+        <script src="js/libs/dd_belatedpng.js"></script>
+        <script>DD_belatedPNG.fix("img, .png_bg"); // Fix any <img> or .png_bg bg-images. Also, please read goo.gl/mZiyb </script>
+    <![endif]-->
     
 </body>
 </html>
