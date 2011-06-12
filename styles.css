@@ -1,0 +1,39 @@
+/* Common */
+
+a:link,
+a:visited, 
+a:hover, 
+a:active {
+    text-decoration: none;
+    color: black;
+}
+
+h1,
+nav > ul > li {
+    font-family: "Kameron", Arial, serif;
+    font-size: 30px;
+}
+
+/* Twitter widget */
+
+#twtr-widget-1 {
+    float: right;
+}
+
+/* Navigation */
+
+nav > ul > li {
+    display: inline;
+}
+
+nav > ul > li:before {
+    content: "/ ";
+}
+
+nav > ul > li:first-child:before {
+    content: "";
+}
+
+nav > ul > li:after {
+    content: " ";
+}
