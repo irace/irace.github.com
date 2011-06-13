@@ -1,5 +1,9 @@
 /* Common */
 
+body {
+    margin: 15px;
+}
+
 a:link,
 a:visited, 
 a:hover, 
@@ -7,10 +11,30 @@ a:active {
     text-decoration: none;
 }
 
+h1 {
+    font-weight: normal;
+}
+
+body > section p,
+body > section li {
+    font-size: 22px;
+}
+
+p,
+h1, 
+li {
+    font-family: "Kameron", Arial, serif;
+}
+
 h1,
 nav > ul > li {
-    font-family: "Kameron", Arial, serif;
     font-size: 30px;
+}
+
+h1,
+body > section p,
+body > section ul {
+    margin-bottom: 10px;
 }
 
 /* Twitter widget */
