@@ -1,16 +1,11 @@
-/* the humans responsible & colophon */
-/* humanstxt.org */
-
 /* TEAM */
   Bryan Irace
-  Site: bryanirace.com
+  Site: bryanirace.com, bryan.irace@gmail.com
   Twitter: @irace
   Location: New York, NY
 
-/* THANKS */
-  Names (& URL): Paul Irish
-
 /* SITE */
+  Language: English
   Standards: HTML5, CSS3
-  Components: Modernizr, jQuery
-  Software: Coda, Pixelmator, Git
+  Components: Bootstrap, jQuery
+  Software: WebStorm, Pixelmator, Git

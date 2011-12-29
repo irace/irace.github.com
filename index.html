@@ -1,84 +1,183 @@
-<!doctype html>
-<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
-<!--[if lt IE 7 ]> <html class="no-js ie6" lang="en"> <![endif]-->
-<!--[if IE 7 ]>    <html class="no-js ie7" lang="en"> <![endif]-->
-<!--[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!--> 
-<html class="no-js" lang="en"> <!--<![endif]-->
+<!DOCTYPE html>
+<html>
 <head>
-    <meta charset="utf-8" />
+    <title>Bryan Irace - NYC-based software developer</title>
 
-    <!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <!--[if lt IE 9]>
+        <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
 
-    <title>Bryan Irace</title>
-    <meta name="author" content="Bryan Irace" />
-    <meta name="description" content="Personal website" />
+    <link rel="author" type="text/plain" href="http://bryanirace.com/humans.txt" />
 
-    <!-- Mobile viewport optimized: j.mp/bplateviewport -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="http://twitter.github.com/bootstrap/1.4.0/bootstrap.min.css" />
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Cabin+Condensed" />
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Trykker" />
+    <link rel="stylesheet" href="styles.css" />
 
-    <!-- CSS: implied media="all" -->
-    <!-- Sacrificing some page load speed in favor of organization -->
-    <link rel="stylesheet" href="css/reset.css?v=1" /> <!-- Version number used for cache-busting -->
-    <link rel="stylesheet" href="css/styles.css?v=1" /> 
-    <link rel="stylesheet" href="css/helpers-and-media-queries.css?v=1" />
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Kameron" />
-
-    <!-- All JavaScript at the bottom, except for Modernizr which enables HTML5 elements & feature detects -->
-    <script src="js/libs/modernizr-1.7.min.js"></script>
-    
-    <!-- TODO: Add this to the bottom of the page to prevent slow load, use jQuery to position after load -->
     <script src="http://widgets.twimg.com/j/2/widget.js"></script>
-    <script src="js/scripts.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="http://twitter.github.com/bootstrap/1.4.0/bootstrap-scrollspy.js"></script>
+    <script src="scripts.js"></script>
 </head>
 
 <body>
-    <header>
-        <nav>
-            <ul>
-                <li><a href="#programming">programming</a></li>
-                <li><a href="#music">music</a></li>
-                <li><a href="#writing">writing</a></li>
+
+<div class="topbar" data-scrollspy="scrollspy">
+    <div class="topbar-inner">
+        <div class="container">
+            <a class="brand" href="#">Bryan Irace</a>
+            <ul class="nav">
+                <li><a href="#programming">Programming</a></li>
+                <li><a href="#music">Music</a></li>
+                <li><a href="http://blog.bryanirace.com">Blog &raquo;</a></li>
             </ul>
-        </nav>
-    </header>
+            <p class="pull-right"><a href="mailto:bryan.irace@gmail.com">Contact &raquo;</a></p>
+        </div>
+    </div>
+</div>
 
-    <section id="programming-section">
-        <a id="programming"></a>
-        <h1>programming</h1>
-        <p>I studied computer science at Boston College and have been developing software professionally since 2008. My experience is primarily in front-end web development and design, Java web applications and services, and native iOS applications.</p>
-        <p>I'm currently interested in learning more about Python, jQuery, Node.js, and REST.</p>
-        <p>Projects I'm working on can be viewed on <a href="https://github.com/irace/">GitHub</a>. Programming questions and answers can be found on <a href="http://stackoverflow.com/users/503916/bryan-irace">Stack Overflow</a>.</p>
-    </section>
-    
-    <section id="music-section">
-        <a id="music"></a>
-        <h1>music</h1>
-    </section>
+<div class="container-fluid">
+    <div class="sidebar">
+        <div class="sidebar-inner">
+            <script>
+                // TODO: How to do this on page load?
+                new TWTR.Widget({
+                    version: 2,
+                    type: 'profile',
+                    rpp: 10,
+                    interval: 6000,
+                    width: 220,
+                    height: twitterTimelineHeight(),
+                    theme: {
+                        shell: {
+                            background: '#333333',
+                            color: '#ffffff'
+                        },
+                        tweets: {
+                            background: 'whiteSmoke',
+                            color: '#404040',
+                            links: '#00438A'
+                        }
+                    },
+                    features: {
+                        scrollbar: true,
+                        loop: false,
+                        live: true,
+                        hashtags: true,
+                        timestamp: true,
+                        avatars: false,
+                        behavior: 'all'
+                    }
+                }).render().setUser('irace').start();
+            </script>
 
-    <section id="writing-section">
-        <a id="writing"></a>
-        <h1>writing</h1>
-        <p>As as student, I wrote a technology column for the Boston College Heights and continue to write my thoughts on software and software development on <a href="http://www.bryanirace.com">Tumblr</a>.</p>
-    </section>
-    
-    <!-- JavaScript at the bottom for fast page loading -->
+            <a href="humans.txt"><img src="http://humanstxt.org/img/oficial-logos/humanstxt-isolated-blank.gif" /></a>
+        </div>
+    </div>
 
-    <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if necessary -->
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.js"></script>
-    <script>window.jQuery || document.write("<script src='js/libs/jquery-1.6.1.min.js'>\x3C/script>")</script>
+    <div class="content">
+        <div class="hero-unit">
+            <p>Hello. I studied computer science at Boston College and have been developing software professionally
+                since 2008. My experience is primarily in front-end web development and design, native iOS
+                applications, and full-stack Java web applications and services.</p>
 
-    <script src="js/plugins.js"></script>
+            <p>I am currently focused on <a href="#programming">learning</a> JavaScript (the language
+                itself, the Node.js platform, and frameworks such as Backbone), <a href="#music">creating</a>
+                digital music with Ableton Live, and <a href="http://blog.bryanirace.com">writing</a> about the software
+                industry.</p>
+        </div>
 
-    <script src="http://bryanirace.com/api/read/json?num=1&type=text&callback=tumblrAPICallback"></script>
+        <section id="programming">
+            <div class="page-header">
+                <h1>Programming</h1>
+            </div>
 
-    <!--[if lt IE 7 ]>
-        <script src="js/libs/dd_belatedpng.js"></script>
-        <script>DD_belatedPNG.fix("img, .png_bg"); // Fix any <img> or .png_bg bg-images. Also, please read goo.gl/mZiyb </script>
-    <![endif]-->
-    
-    <!-- TODO: Add Google Analytics eventually -->
-    
+            <div class="row">
+                <div class="span6">
+                    <h2>Open source</h2>
+
+                    <p>A few side projects I've been working on recently include:</p>
+
+                    <dl>
+                        <dt><a href="http://bryanirace.com/webzap">Webzap</a></dt>
+                        <dd>A simple, unobtrusive tool for pushing webpages from one device to another. The destination
+                            computer runs a lightweight HTTP server and source devices (e.g. laptops/phones/tablets) use
+                            a bookmarklet to send over the desired page.
+                        </dd>
+
+                        <dt><a href="http://bryanirace.com/balances">Balances</a></dt>
+                        <dd>A mobile web app for keeping track of money you owe and is owed to you. Built using jQuery
+                            Mobile, Node.js, Express/Jade, MongoDB/Mongoose, and the Facebook Open Graph API.
+                        </dd>
+                    </dl>
+
+                    <p>All of my personal programming work can be found on GitHub.</p>
+
+                    <p><a class="btn" href="http://www.github.com/irace">Bryan Irace on GitHub &raquo;</a></p>
+                </div>
+
+                <div class="span5">
+                    <h2>Q & A</h2>
+
+                    <p>I'm an active member of the Stack Overflow programming Q&A community:</p>
+
+                    <p>
+                        <a href="http://stackoverflow.com/users/503916/bryan-irace">
+                            <img src="http://stackoverflow.com/users/flair/503916.png" width="208" height="58"
+                                 alt="profile for Bryan Irace at Stack Overflow, Q&amp;A for professional and enthusiast programmers"
+                                 title="profile for Bryan Irace at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+                        </a>
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <section id="music">
+            <div class="page-header">
+                <h1>Music</h1>
+            </div>
+
+            <div class="row">
+                <div class="span11">
+                    <h2>Creating</h2>
+
+                    <p>I've been interested in creating digital music for most of my life, and am currently focused on
+                        learning to use Ableton Live. Here a recent track:</p>
+
+                    <p>
+                        <!-- TODO: Use HTML5 instead? -->
+                        <object height="81" width="100%">
+                            <param name="movie"
+                                   value="https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F11884676&amp;show_comments=false&amp;auto_play=false&amp;color=ff7700" />
+                            <param name="allowscriptaccess" value="always" />
+                            <embed allowscriptaccess="always" height="81"
+                                   src="https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F11884676&amp;show_comments=false&amp;auto_play=false&amp;color=ff7700"
+                                   type="application/x-shockwave-flash" width="100%"></embed>
+                        </object>
+                    </p>
+
+                    <p>This song and others are available on SoundCloud.</p>
+                    <p><a class="btn" href="http://soundcloud.com/bryan-irace">Bryan Irace on SoundCloud &raquo;</a></p>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="span11">
+                    <h2>Currently listening to</h2>
+                    <p>All of the music I listen to is aggregated in real-time by Last.fm.</p>
+                    <p><a class="btn" href="http://last.fm/user/bryanirace">Bryan Irace on Last.fm &raquo;</a></p>
+                </div>
+            </div>
+        </section>
+    </div>
+</div>
+
+<footer class="footer">
+    <div class="container">
+        <p class="pull-right"><a href="#">Back to top</a></p>
+        <p>Made in NYC. Freely available under the <a href="http://bryan.mit-license.org">MIT License</a>.</p>
+    </div>
+</footer>
+
 </body>
 </html>
