@@ -6,7 +6,7 @@ function resizeTwitterWidget() {
 }
 
 function twitterTimelineHeight() {
-    return $(window).height() - 325;
+    return $(window).height() - 310;
 }
 
 $(window).resize(resizeTwitterWidget);
