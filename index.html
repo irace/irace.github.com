@@ -18,6 +18,7 @@
     <script src="http://widgets.twimg.com/j/2/widget.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script src="http://twitter.github.com/bootstrap/1.4.0/bootstrap-scrollspy.js"></script>
+    <script src="http://twitter.github.com/hogan.js/builds/1.0.3/hogan.js"></script>
     <script src="scripts/scripts.js"></script>
 </head>
 
@@ -41,6 +42,16 @@
     <div class="sidebar">
         <div class="sidebar-inner">
             <div id="twitter-widget"></div>
+            <div id="last-blog-post"></div>
+            
+            <script id="last-blog-post-template" type="text/mustache">
+                <dl>
+                    <dt>Latest blog posts</dt>
+                    {{#posts}}
+                        <dd><a href="{{url}}">{{regular-title}}</a></dd>
+                    {{/posts}}
+                </dl>
+            </script>
         </div>
     </div>
 
@@ -52,10 +63,12 @@
 
             <p>I am currently focused on <a href="#programming">learning</a> JavaScript (the language
                 itself, the Node.js platform, and frameworks such as Backbone), <a href="#music">creating</a>
-                digital music with Ableton Live, and <a href="http://blog.bryanirace.com">writing</a> about the software
-                industry.</p>
+                digital music with Ableton Live, and <a href="http://blog.bryanirace.com">writing</a> about software.
+            </p>
         </div>
 
+        <div id="updates"></div>
+        
         <section id="programming">
             <div class="page-header">
                 <h1>Programming</h1>
@@ -137,6 +150,9 @@
         <p>Made in NYC. Freely available under the <a href="http://bryan.mit-license.org">MIT License</a>.</p>
     </div>
 </footer>
+
+<!-- JSONP -->
+<script src="http://blog.bryanirace.com/api/read/json?num=3&type=text&callback=tumblrAPICallback"></script>
 
 </body>
 </html>

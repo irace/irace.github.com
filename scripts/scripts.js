@@ -1,16 +1,3 @@
-function resizeTwitterWidget() {
-    var timelineHeight = twitterTimelineHeight();
-    $('.twtr-widget').height(timelineHeight + 111);
-    $('.twtr-doc').height(timelineHeight + 101);
-    $('.twtr-timeline, .twtr-bd').height(timelineHeight);
-}
-
-function twitterTimelineHeight() {
-    return $(window).height() - 310;
-}
-
-$(window).resize(resizeTwitterWidget);
-
 // Google Analytics
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-22036475-1']);
@@ -26,6 +13,17 @@ _gaq.push(['_trackPageview']);
     var s = document.getElementsByTagName('script')[0];
     s.parentNode.insertBefore(ga, s);
 })();
+
+
+function twitterTimelineHeight() {
+    return $(window).height() - 510;
+}
+
+function tumblrAPICallback(response) {
+    var template = Hogan.compile($('#last-blog-post-template').html());
+
+    $('#last-blog-post').html(template.render({ posts: response.posts }));
+}
 
 $(function() {
     // Twitter profile widget
@@ -58,4 +56,12 @@ $(function() {
             behavior: 'all'
         }
     }).render().setUser('irace').start();
+
+    // Resize the Twitter widget as the window is resized
+    $(window).resize(function() {
+        var timelineHeight = twitterTimelineHeight();
+        $('.twtr-widget').height(timelineHeight + 111);
+        $('.twtr-doc').height(timelineHeight + 101);
+        $('.twtr-timeline, .twtr-bd').height(timelineHeight);
+    });
 });
