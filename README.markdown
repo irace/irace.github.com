@@ -1,1 +1,1 @@
-Static homepage, used to highlight software I develop, music I make, and blog posts I write.
+Personal site, used to highlight software I develop, music I make, and blog posts I write.
