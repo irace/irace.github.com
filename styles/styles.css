@@ -1,6 +1,6 @@
 body {
-    background: url(images/background2.png) 10% 0 repeat-x fixed,
-        #eee url(images/background.png) no-repeat fixed;
+    background: url(/images/background2.png) 10% 0 repeat-x fixed,
+        #eee url(/images/background.png) no-repeat fixed;
 }
 
 /* Navigation */
