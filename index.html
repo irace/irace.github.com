@@ -40,37 +40,7 @@
 <div class="container-fluid">
     <div class="sidebar">
         <div class="sidebar-inner">
-            <script>
-                // TODO: How to do this on page load?
-                new TWTR.Widget({
-                    version: 2,
-                    type: 'profile',
-                    rpp: 10,
-                    interval: 6000,
-                    width: 220,
-                    height: twitterTimelineHeight(),
-                    theme: {
-                        shell: {
-                            background: '#333333',
-                            color: '#ffffff'
-                        },
-                        tweets: {
-                            background: 'whiteSmoke',
-                            color: '#404040',
-                            links: '#00438A'
-                        }
-                    },
-                    features: {
-                        scrollbar: true,
-                        loop: false,
-                        live: true,
-                        hashtags: true,
-                        timestamp: true,
-                        avatars: false,
-                        behavior: 'all'
-                    }
-                }).render().setUser('irace').start();
-            </script>
+            <div id="twitter-widget"></div>
         </div>
     </div>
 
