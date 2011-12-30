@@ -1,7 +1,7 @@
 body {
 
-    background: url(background2.png) 10% 0 repeat-x fixed,
-        url(background.png) no-repeat fixed;
+    background: url(images/background2.png) 10% 0 repeat-x fixed,
+        url(images/background.png) no-repeat fixed;
     background-color: #eee;
 }
 
