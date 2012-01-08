@@ -12,7 +12,7 @@
     right: 0;
     z-index: 10000;
     overflow: visible;
-    border-top: 10px solid #00438a;
+    border-top: 10px solid #BCD279;
     font-size: 13px;
 }
 
@@ -110,15 +110,14 @@
 
 /* Custom */
 
+.topbar {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
 .brand {
     font-family: 'Trykker', serif;
 }
 
 .topbar-inner {
     height: 40px;
-}
-
-h1 {
-    font-weight: bold;
-    font-size: 18px;
 }
