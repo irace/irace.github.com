@@ -14,6 +14,10 @@ _gaq.push(['_trackPageview']);
     s.parentNode.insertBefore(ga, s);
 })();
 
+function twitterTimelineHeight() {
+    return $(window).height() - 510;
+}
+
 function tumblrAPICallback(response) {
     // TODO: Figure out how to include Mustache tags inside HTML files without Jekyll interpreting them
     var template = Hogan.compile('<dl><dt>Latest blog posts</dt>{{#posts}}<dd><a href="{{url}}">{{regular-title}}</a></dd>{{/posts}}</dl>');
@@ -30,7 +34,7 @@ $(function() {
         rpp: 10,
         interval: 6000,
         width: 220,
-        height: 375,
+        height: twitterTimelineHeight(),
         theme:{
             shell: {
                 background: '#333333',
@@ -52,4 +56,12 @@ $(function() {
             behavior: 'all'
         }
     }).render().setUser('irace').start();
+
+    // Resize the Twitter widget as the window is resized
+    $(window).resize(function () {
+        var timelineHeight = twitterTimelineHeight();
+        $('.twtr-widget').height(timelineHeight + 111);
+        $('.twtr-doc').height(timelineHeight + 101);
+        $('.twtr-timeline, .twtr-bd').height(timelineHeight);
+    });
 });

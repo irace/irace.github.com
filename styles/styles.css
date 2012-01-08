@@ -1,6 +1,5 @@
-body {
-    background: url(/images/background2.png) 10% 0 repeat-x fixed,
-        #eee url(/images/background.png) no-repeat fixed;
+body, footer {
+    background-color: #eee;
 }
 
 /* Navigation */
@@ -23,6 +22,13 @@ body {
     padding-top: 50px;
 }
 
+.top-container {
+    background: url(/images/background2.png) 10% 0 repeat-x fixed,
+        #f5f5f5 url(/images/background.png) no-repeat fixed;
+
+    padding-bottom: 17px;
+}
+
 .page-header h1, h2 {
     font-family: 'Cabin Condensed', sans-serif;
 }
@@ -40,7 +46,7 @@ section {
     background-color: #fff;
     width: 820px;
     margin: auto;
-    min-height: 650px;
+    min-height: 700px;
 
     -webkit-border-radius: 0 0 6px 6px;
     -moz-border-radius: 0 0 6px 6px;
@@ -82,5 +88,5 @@ section {
 footer {
     border-top: 1px solid darkgray;
     padding: 20px 0;
-    background-color: #eee;
+    margin-top: 0;
 }

@@ -23,26 +23,29 @@
 </head>
 
 <body>
+<div class="top-container">
 
-<div class="topbar" data-scrollspy="scrollspy">
-    <div class="topbar-inner">
-        <div class="container">
-            {% include navigation.html %}
+    <div class="topbar" data-scrollspy="scrollspy">
+        <div class="topbar-inner">
+            <div class="container">
+                {% include navigation.html %}
+            </div>
         </div>
     </div>
-</div>
-
-
-<div class="container-fluid">
-    <div class="sidebar">
-        {% include sidebar.html %}
+    
+    
+    <div class="container-fluid">
+        <div class="sidebar">
+            {% include sidebar.html %}
+        </div>
+    
+        <div class="content">
+            {{ content }}
+        </div>
     </div>
 
-    <div class="content">
-        {{ content }}
-    </div>
-</div>
-
+</div>    
+    
 <footer class="footer">
     <div class="container">
         {% include footer.html %}
