@@ -15,7 +15,8 @@ _gaq.push(['_trackPageview']);
 })();
 
 function tumblrAPICallback(response) {
-    var template = Hogan.compile($('#last-blog-post-template').html());
+    // TODO: Figure out how to include Mustache tags inside HTML files without Jekyll interpreting them
+    var template = Hogan.compile('<dl><dt>Latest blog posts</dt>{{#posts}}<dd><a href="{{url}}">{{regular-title}}</a></dd>{{/posts}}</dl>');
 
     $('#last-blog-post').html(template.render({ posts: response.posts }));
 }
