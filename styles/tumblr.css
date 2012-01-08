@@ -125,3 +125,7 @@
 sup {
     vertical-align: text-bottom;
 }
+
+.nav.pull-right {
+    float: right;
+}
