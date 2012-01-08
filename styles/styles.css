@@ -5,7 +5,7 @@ body, footer {
 /* Navigation */
 
 .topbar {
-    border-top: 10px solid #BCD279;
+    border-top: 10px solid #00438A;
 }
 
 .brand {
@@ -13,7 +13,11 @@ body, footer {
 }
 
 .page-header {
-    border-top: 5px solid #BCD279;
+    border-top: 5px solid #00438A;
+}
+
+.nav.pull-right {
+    float: right;
 }
 
 /* Main content */
@@ -43,7 +47,6 @@ section {
 }
 
 .container-fluid {
-    background-color: #fff;
     width: 820px;
     margin: auto;
     min-height: 700px;
@@ -55,9 +58,11 @@ section {
     -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, .15);
     -moz-box-shadow: 0 1px 2px rgba(0, 0, 0, .15);
     box-shadow: 0 1px 2px rgba(0, 0, 0, .15);
+    background: #fff url(/images/stripe-background-tiled.png) repeat-y fixed;
 }
 
 .content {
+    background-color: #fff;
     padding: 0 20px;
     border-left: 1px solid #eee;
 }

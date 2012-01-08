@@ -15,12 +15,12 @@ _gaq.push(['_trackPageview']);
 })();
 
 function twitterTimelineHeight() {
-    return $(window).height() - 510;
+    return $(window).height() - 310;
 }
 
 function tumblrAPICallback(response) {
     // TODO: Figure out how to include Mustache tags inside HTML files without Jekyll interpreting them
-    var template = Hogan.compile('<dl><dt>Latest blog posts</dt>{{#posts}}<dd><a href="{{url}}">{{regular-title}}</a></dd>{{/posts}}</dl>');
+    var template = Hogan.compile('{{#posts}}<li><a href="{{url}}">{{regular-title}}</a></li>{{/posts}}');
 
     $('#last-blog-post').html(template.render({ posts: response.posts }));
 }
