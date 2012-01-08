@@ -121,3 +121,7 @@
 .topbar-inner {
     height: 40px;
 }
+
+sup {
+    vertical-align: text-bottom;
+}
