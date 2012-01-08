@@ -15,7 +15,7 @@ _gaq.push(['_trackPageview']);
 })();
 
 function twitterTimelineHeight() {
-    return $(window).height() - 310;
+    return $(window).height() - 360;
 }
 
 function tumblrAPICallback(response) {
