@@ -126,6 +126,6 @@ sup {
     vertical-align: text-bottom;
 }
 
-.nav.pull-right {
+.topbar div > ul.nav.pull-right {
     float: right;
 }
