@@ -1,158 +1,89 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Bryan Irace - NYC-based software developer</title>
+---
+layout: default
+---
 
-    <link rel="author" type="text/plain" href="http://bryanirace.com/humans.txt" />
-    <link rel="shortcut icon" href="images/favicon.png" />
+<div class="hero-unit">
+    <p>Hello. I studied computer science at Boston College and have been developing software professionally
+        since 2008. My experience is primarily in front-end web development and design, native iOS
+        applications, and full-stack Java web applications and services.</p>
 
-    <link rel="stylesheet" href="http://twitter.github.com/bootstrap/1.4.0/bootstrap.min.css" />
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Cabin+Condensed" />
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Trykker" />
-    <link rel="stylesheet" href="styles/styles.css" />
-
-    <!--[if lt IE 9]>
-        <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <script src="http://widgets.twimg.com/j/2/widget.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script src="http://twitter.github.com/bootstrap/1.4.0/bootstrap-scrollspy.js"></script>
-    <script src="http://twitter.github.com/hogan.js/builds/1.0.3/hogan.js"></script>
-    <script src="scripts/scripts.js"></script>
-</head>
-
-<body>
-
-<div class="topbar" data-scrollspy="scrollspy">
-    <div class="topbar-inner">
-        <div class="container">
-            <a class="brand" href="#">Bryan Irace</a>
-            <ul class="nav">
-                <li><a href="#programming">Programming</a></li>
-                <li><a href="#music">Music</a></li>
-                <li><a href="http://blog.bryanirace.com">Blog &raquo;</a></li>
-            </ul>
-            <p class="pull-right"><a href="mailto:bryan.irace@gmail.com">Contact &raquo;</a></p>
-        </div>
-    </div>
+    <p>I am currently focused on <a href="#programming">learning</a> JavaScript (the language
+        itself, the Node.js platform, and frameworks such as Backbone), <a href="#music">creating</a>
+        digital music with Ableton Live, and <a href="http://blog.bryanirace.com">writing</a> about software.
+    </p>
 </div>
 
-<div class="container-fluid">
-    <div class="sidebar">
-        <div class="sidebar-inner">
-            <div id="twitter-widget"></div>
-            <div id="last-blog-post"></div>
-            
-            <script id="last-blog-post-template" type="text/mustache">
-                <dl>
-                    <dt>Latest blog posts</dt>
-                    {{#posts}}
-                        <dd><a href="{{url}}">{{regular-title}}</a></dd>
-                    {{/posts}}
-                </dl>
-            </script>
-        </div>
+<div id="updates"></div>
+
+<section id="programming">
+    <div class="page-header">
+        <h1>Programming</h1>
     </div>
 
-    <div class="content">
-        <div class="hero-unit">
-            <p>Hello. I studied computer science at Boston College and have been developing software professionally
-                since 2008. My experience is primarily in front-end web development and design, native iOS
-                applications, and full-stack Java web applications and services.</p>
+    <div class="row">
+        <div class="span6">
+            <h2>Open source</h2>
 
-            <p>I am currently focused on <a href="#programming">learning</a> JavaScript (the language
-                itself, the Node.js platform, and frameworks such as Backbone), <a href="#music">creating</a>
-                digital music with Ableton Live, and <a href="http://blog.bryanirace.com">writing</a> about software.
+            <p>A few side projects I've been working on recently include:</p>
+
+            <dl>
+                <dt><a href="http://bryanirace.com/webzap">Webzap</a></dt>
+                <dd>A simple, unobtrusive tool for pushing webpages from one device to another. The destination
+                    computer runs a lightweight HTTP server and source devices (e.g. laptops/phones/tablets) use
+                    a bookmarklet to send over the desired page.
+                </dd>
+
+                <dt><a href="http://bryanirace.com/balances">Balances</a></dt>
+                <dd>A mobile web app for keeping track of money you owe and is owed to you. Built using jQuery
+                    Mobile, Node.js, Express/Jade, MongoDB/Mongoose, and the Facebook Open Graph API.
+                </dd>
+            </dl>
+
+            <p>All of my personal programming work can be found on GitHub.</p>
+
+            <p><a class="btn" href="http://www.github.com/irace">Bryan Irace on GitHub &raquo;</a></p>
+        </div>
+
+        <div class="span5">
+            <h2>Q &amp; A</h2>
+
+            <p>I'm an active member of the Stack Overflow programming Q &amp; A community:</p>
+
+            <p>
+                <a href="http://stackoverflow.com/users/503916/bryan-irace">
+                    <img src="http://stackoverflow.com/users/flair/503916.png" width="208" height="58"
+                         alt="Bryan Irace on Stack Overflow" title="Bryan Irace on Stack Overflow">
+                </a>
             </p>
         </div>
-
-        <div id="updates"></div>
-        
-        <section id="programming">
-            <div class="page-header">
-                <h1>Programming</h1>
-            </div>
-
-            <div class="row">
-                <div class="span6">
-                    <h2>Open source</h2>
-
-                    <p>A few side projects I've been working on recently include:</p>
-
-                    <dl>
-                        <dt><a href="http://bryanirace.com/webzap">Webzap</a></dt>
-                        <dd>A simple, unobtrusive tool for pushing webpages from one device to another. The destination
-                            computer runs a lightweight HTTP server and source devices (e.g. laptops/phones/tablets) use
-                            a bookmarklet to send over the desired page.
-                        </dd>
-
-                        <dt><a href="http://bryanirace.com/balances">Balances</a></dt>
-                        <dd>A mobile web app for keeping track of money you owe and is owed to you. Built using jQuery
-                            Mobile, Node.js, Express/Jade, MongoDB/Mongoose, and the Facebook Open Graph API.
-                        </dd>
-                    </dl>
-
-                    <p>All of my personal programming work can be found on GitHub.</p>
-
-                    <p><a class="btn" href="http://www.github.com/irace">Bryan Irace on GitHub &raquo;</a></p>
-                </div>
-
-                <div class="span5">
-                    <h2>Q &amp; A</h2>
-
-                    <p>I'm an active member of the Stack Overflow programming Q &amp; A community:</p>
-
-                    <p>
-                        <a href="http://stackoverflow.com/users/503916/bryan-irace">
-                            <img src="http://stackoverflow.com/users/flair/503916.png" width="208" height="58"
-                                 alt="Bryan Irace on Stack Overflow" title="Bryan Irace on Stack Overflow">
-                        </a>
-                    </p>
-                </div>
-            </div>
-        </section>
-
-        <section id="music">
-            <div class="page-header">
-                <h1>Music</h1>
-            </div>
-
-            <div class="row">
-                <div class="span11">
-                    <h2>Creating</h2>
-
-                    <p>I've been interested in creating digital music for most of my life, and am currently focused on
-                        learning to use Ableton Live. Here a recent track:</p>
-
-                    <iframe class="soundcloud-player"
-                            src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F11884676&amp;auto_play=false&amp;show_artwork=false&amp;color=0069D6"></iframe>
-
-                    <p>This song and others are available on SoundCloud.</p>
-                    <p><a class="btn" href="http://soundcloud.com/bryan-irace">Bryan Irace on SoundCloud &raquo;</a></p>
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="span11">
-                    <h2>Currently listening to</h2>
-                    <p>All of the music I listen to is aggregated in real-time by Last.fm.</p>
-                    <p><a class="btn" href="http://last.fm/user/bryanirace">Bryan Irace on Last.fm &raquo;</a></p>
-                </div>
-            </div>
-        </section>
     </div>
-</div>
+</section>
 
-<footer class="footer">
-    <div class="container">
-        <p class="pull-right"><img src="http://www.w3.org/html/logo/downloads/HTML5_Logo_64.png" alt="HTML5-compliant" /></p>
-        <p>Made in NYC. Freely available under the <a href="http://bryan.mit-license.org">MIT License</a>.</p>
+<section id="music">
+    <div class="page-header">
+        <h1>Music</h1>
     </div>
-</footer>
 
-<!-- JSONP -->
-<script src="http://blog.bryanirace.com/api/read/json?num=3&type=text&callback=tumblrAPICallback"></script>
+    <div class="row">
+        <div class="span11">
+            <h2>Creating</h2>
 
-</body>
-</html>
+            <p>I've been interested in creating digital music for most of my life, and am currently focused on
+                learning to use Ableton Live. Here a recent track:</p>
+
+            <iframe class="soundcloud-player"
+                    src="http://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F11884676&amp;auto_play=false&amp;show_artwork=false&amp;color=0069D6"></iframe>
+
+            <p>This song and others are available on SoundCloud.</p>
+            <p><a class="btn" href="http://soundcloud.com/bryan-irace">Bryan Irace on SoundCloud &raquo;</a></p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="span11">
+            <h2>Currently listening to</h2>
+            <p>All of the music I listen to is aggregated in real-time by Last.fm.</p>
+            <p><a class="btn" href="http://last.fm/user/bryanirace">Bryan Irace on Last.fm &raquo;</a></p>
+        </div>
+    </div>
+</section>
