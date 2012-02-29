@@ -1,58 +1,22 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Bryan Irace - NYC-based software developer</title>
+    <title>Bryan Irace</title>
 
-    <link rel="author" type="text/plain" href="http://bryanirace.com/humans.txt"/>
-    <link rel="shortcut icon" href="/images/favicon.png"/>
+    <link rel="author" type="text/plain" href="http://bryanirace.com/humans.txt">
+    <link rel="shortcut icon" href="public/favicon.png">
 
-    <link rel="stylesheet" href="http://twitter.github.com/bootstrap/1.4.0/bootstrap.min.css"/>
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Cabin+Condensed"/>
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Trykker"/>
-    <link rel="stylesheet" href="/styles/styles.css"/>
+    <link rel="stylesheet" href="public/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="public/styles.css">
 
     <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-
-    <script src="http://widgets.twimg.com/j/2/widget.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script src="http://twitter.github.com/bootstrap/1.4.0/bootstrap-scrollspy.js"></script>
-    <script src="http://twitter.github.com/hogan.js/builds/1.0.3/hogan.js"></script>
-    <script src="/scripts/scripts.js"></script>
 </head>
 
 <body>
-<div class="top-container">
 
-    <div class="topbar" data-scrollspy="scrollspy">
-        <div class="topbar-inner">
-            <div class="container">
-                {% include navigation.html %}
-            </div>
-        </div>
-    </div>
-
-    <div class="container-fluid">
-        <div class="sidebar">
-            {% include sidebar.html %}
-        </div>
-    
-        <div class="content">
-            {{ content }}
-        </div>
-    </div>
-
-</div>    
-    
-<footer class="footer">
-    <div class="container">
-        {% include footer.html %}
-    </div>
-</footer>
-
-<!-- JSONP -->
-<script src="http://blog.bryanirace.com/api/read/json?num=5&type=text&callback=tumblrAPICallback"></script>
+{{content}}
 
 </body>
 </html>

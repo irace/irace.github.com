@@ -7,5 +7,5 @@
 /* SITE */
   Language: English
   Standards: HTML5, CSS3
-  Components: Bootstrap, jQuery, Hogan.js
+  Components: Bootstrap, jQuery, Hogan.js, Jekyll
   Software: WebStorm, Pixelmator, Git
