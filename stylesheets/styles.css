@@ -1,0 +1,40 @@
+* {
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace !important;
+}
+
+body {
+	margin-top: 40px;
+	background-color: #151515;
+  color: #EAEAEA !important;
+	font-size: 20px;
+}
+
+li, p {
+  line-height: normal !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+  color: #b5e853;
+}
+
+h1 {
+	font-size: 40px;
+	letter-spacing: -1px;
+}
+
+a:link, a:visited, a:hover, a:active {
+	color: #63c0f5;
+	opacity: 1;
+	transition: opacity .1s ease-in-out;
+	-moz-transition: opacity .1s ease-in-out;
+	-webkit-transition: opacity .1s ease-in-out;
+}
+
+a:hover {
+	opacity: 0.5;
+}
+
+.social-icons {
+	text-align: right;
+}
