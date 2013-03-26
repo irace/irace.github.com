@@ -9,6 +9,10 @@ body {
 	font-size: 20px;
 }
 
+ul {
+	list-style-type: disc;
+}
+
 li, p {
   line-height: normal !important;
 }
