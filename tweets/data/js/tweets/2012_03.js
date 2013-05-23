@@ -280,14 +280,39 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "208789178",
       "id" : 208789178
     } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
+    "media" : [ {
+      "expanded_url" : "http://twitter.com/adamlaiacano/status/185148970874585088/photo/1",
       "indices" : [ 58, 78 ],
       "url" : "http://t.co/cKdVsztZ",
-      "expanded_url" : "http://twitter.com/adamlaiacano/status/185148970874585088/photo/1",
+      "media_url" : "http://pbs.twimg.com/media/ApHIAg_CQAARBBS.jpg",
+      "id_str" : "185148970878779392",
+      "id" : 185148970878779392,
+      "media_url_https" : "https://pbs.twimg.com/media/ApHIAg_CQAARBBS.jpg",
+      "sizes" : [ {
+        "h" : 1024,
+        "resize" : "fit",
+        "w" : 765
+      }, {
+        "h" : 455,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1024,
+        "resize" : "fit",
+        "w" : 765
+      }, {
+        "h" : 803,
+        "resize" : "fit",
+        "w" : 600
+      } ],
       "display_url" : "pic.twitter.com/cKdVsztZ"
-    } ]
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
   },
   "geo" : {
   },
@@ -609,7 +634,7 @@ Grailbird.data.tweets_2012_03 =
   "geo" : {
   },
   "id_str" : "184454591868436480",
-  "text" : "RT @pter: Just realized my name is an anagram for “invited rape.”",
+  "text" : "RT @pter: Just realized my name is an anagram for \u201Cinvited rape.\u201D",
   "retweeted_status" : {
     "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "entities" : {
@@ -621,7 +646,7 @@ Grailbird.data.tweets_2012_03 =
     "geo" : {
     },
     "id_str" : "184395853589528576",
-    "text" : "Just realized my name is an anagram for “invited rape.”",
+    "text" : "Just realized my name is an anagram for \u201Cinvited rape.\u201D",
     "id" : 184395853589528576,
     "created_at" : "Mon Mar 26 21:46:12 +0000 2012",
     "user" : {
@@ -851,7 +876,7 @@ Grailbird.data.tweets_2012_03 =
       "indices" : [ 86, 106 ],
       "url" : "http://t.co/AlnsjcLc",
       "expanded_url" : "http://gizmodo.com/5896017/tumblr-has-the-only-likable-terms-of-service-weve-ever-seen",
-      "display_url" : "gizmodo.com/5896017/tumblr…"
+      "display_url" : "gizmodo.com/5896017/tumblr\u2026"
     } ]
   },
   "geo" : {
@@ -874,7 +899,7 @@ Grailbird.data.tweets_2012_03 =
         "indices" : [ 72, 92 ],
         "url" : "http://t.co/AlnsjcLc",
         "expanded_url" : "http://gizmodo.com/5896017/tumblr-has-the-only-likable-terms-of-service-weve-ever-seen",
-        "display_url" : "gizmodo.com/5896017/tumblr…"
+        "display_url" : "gizmodo.com/5896017/tumblr\u2026"
       } ]
     },
     "geo" : {
@@ -959,7 +984,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "milliemay",
       "protected" : false,
       "id_str" : "25567963",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3204233790/92a5e7623a5df1773d4e768adccc962b_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3619132721/89dc5e5abd6354e8bc40400e5ebdf1eb_normal.jpeg",
       "id" : 25567963,
       "verified" : false
     }
@@ -1051,7 +1076,7 @@ Grailbird.data.tweets_2012_03 =
   "geo" : {
   },
   "id_str" : "183037163439534081",
-  "text" : "The Hunger Games was pretty good but the original Battle Royale author REALLY should be getting royalties… #fb",
+  "text" : "The Hunger Games was pretty good but the original Battle Royale author REALLY should be getting royalties\u2026 #fb",
   "id" : 183037163439534081,
   "created_at" : "Fri Mar 23 03:47:15 +0000 2012",
   "user" : {
@@ -1289,7 +1314,7 @@ Grailbird.data.tweets_2012_03 =
   "geo" : {
   },
   "id_str" : "182311531223064576",
-  "text" : "I love @StackExchange but it's getting too fragmented with Stack Overflow, Comp. Science, Theoretical CS, Programmers, Code Review, etc…",
+  "text" : "I love @StackExchange but it's getting too fragmented with Stack Overflow, Comp. Science, Theoretical CS, Programmers, Code Review, etc\u2026",
   "id" : 182311531223064576,
   "created_at" : "Wed Mar 21 03:43:50 +0000 2012",
   "user" : {
@@ -1348,7 +1373,7 @@ Grailbird.data.tweets_2012_03 =
       "indices" : [ 65, 85 ],
       "url" : "http://t.co/4M48F3h5",
       "expanded_url" : "http://www.quora.com/Peyton-Manning/Did-Peyton-Manning-make-the-right-decision-by-going-to-the-Broncos",
-      "display_url" : "quora.com/Peyton-Manning…"
+      "display_url" : "quora.com/Peyton-Manning\u2026"
     } ]
   },
   "geo" : {
@@ -1466,11 +1491,11 @@ Grailbird.data.tweets_2012_03 =
   "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Time Warner Cable ",
-      "screen_name" : "TWCable_NYC",
+      "name" : "TWC",
+      "screen_name" : "twcable_nyc",
       "indices" : [ 0, 12 ],
-      "id_str" : "121165704",
-      "id" : 121165704
+      "id_str" : "1225944228",
+      "id" : 1225944228
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -1486,7 +1511,7 @@ Grailbird.data.tweets_2012_03 =
   "text" : "@TWCable_NYC Is tonight's #Rangers game being broadcast in HD? Thanks.",
   "id" : 181156034872745985,
   "created_at" : "Sat Mar 17 23:12:19 +0000 2012",
-  "in_reply_to_screen_name" : "TWCable_NYC",
+  "in_reply_to_screen_name" : "TWC_NYNJ",
   "in_reply_to_user_id_str" : "121165704",
   "user" : {
     "name" : "Bryan Irace",
@@ -1513,7 +1538,7 @@ Grailbird.data.tweets_2012_03 =
   "geo" : {
   },
   "id_str" : "181118239617728512",
-  "text" : "\"I’m very afraid that exactly because of its excellence the Retina display will be a severe set-back for...\" http://t.co/BCXQ8yMT",
+  "text" : "\"I\u2019m very afraid that exactly because of its excellence the Retina display will be a severe set-back for...\" http://t.co/BCXQ8yMT",
   "id" : 181118239617728512,
   "created_at" : "Sat Mar 17 20:42:07 +0000 2012",
   "user" : {
@@ -1740,7 +1765,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "jonathanbruck",
       "protected" : false,
       "id_str" : "16327583",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2905311550/49f431372c9958d658748acbf4d3bbf0_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3366434559/61d5b19151a7c330513c8cf96ed8e13d_normal.jpeg",
       "id" : 16327583,
       "verified" : false
     }
@@ -2037,7 +2062,7 @@ Grailbird.data.tweets_2012_03 =
   "geo" : {
   },
   "id_str" : "180497376115556355",
-  "text" : "Apple TV First Thoughts - I wish I could remove icons that I’m never going to use (e.g. NBA League Pass)... http://t.co/NL95MTqs",
+  "text" : "Apple TV First Thoughts - I wish I could remove icons that I\u2019m never going to use (e.g. NBA League Pass)... http://t.co/NL95MTqs",
   "id" : 180497376115556355,
   "created_at" : "Fri Mar 16 03:35:02 +0000 2012",
   "user" : {
@@ -2110,7 +2135,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "keithlaw",
       "protected" : false,
       "id_str" : "15146558",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2801893923/02e32a688ebec9284ef4547494c83bd7_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3465020777/998ff61be662fd0bf8c93b5e14c358bd_normal.jpeg",
       "id" : 15146558,
       "verified" : true
     }
@@ -2142,7 +2167,7 @@ Grailbird.data.tweets_2012_03 =
       "indices" : [ 73, 93 ],
       "url" : "http://t.co/rDJS71HT",
       "expanded_url" : "http://mog.com/m/track/39473603?ci=20000",
-      "display_url" : "mog.com/m/track/394736…"
+      "display_url" : "mog.com/m/track/394736\u2026"
     } ]
   },
   "geo" : {
@@ -2334,7 +2359,7 @@ Grailbird.data.tweets_2012_03 =
         "indices" : [ 117, 137 ],
         "url" : "http://t.co/UF8zbNT8",
         "expanded_url" : "http://log.scifihifi.com/post/19303418888/sxsw-2012-is-drawing-to-a-close-and-im-happy-to",
-        "display_url" : "log.scifihifi.com/post/193034188…"
+        "display_url" : "log.scifihifi.com/post/193034188\u2026"
       } ]
     },
     "geo" : {
@@ -2664,7 +2689,7 @@ Grailbird.data.tweets_2012_03 =
   "geo" : {
   },
   "id_str" : "179661041167380480",
-  "text" : "Just visited Facebook without AdBlock turned on for the first time in years. Holy hell…",
+  "text" : "Just visited Facebook without AdBlock turned on for the first time in years. Holy hell\u2026",
   "id" : 179661041167380480,
   "created_at" : "Tue Mar 13 20:11:44 +0000 2012",
   "user" : {
@@ -3060,7 +3085,7 @@ Grailbird.data.tweets_2012_03 =
       "indices" : [ 62, 82 ],
       "url" : "http://t.co/AsxCusCq",
       "expanded_url" : "http://www.thejetsblog.com/2012/03/08/manning-to-jets-would-be-catastrophe/",
-      "display_url" : "thejetsblog.com/2012/03/08/man…"
+      "display_url" : "thejetsblog.com/2012/03/08/man\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "178159005951205376",
@@ -3375,7 +3400,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "Dispatch",
       "protected" : false,
       "id_str" : "303255846",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2627904872/0cnpo206iksivfxmogtp_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3402046298/a6cf4773b69e71d158e52c40ed2c9f7f_normal.jpeg",
       "id" : 303255846,
       "verified" : false
     }
@@ -3628,7 +3653,7 @@ Grailbird.data.tweets_2012_03 =
   },
   "id_str" : "177579141342838785",
   "in_reply_to_user_id" : 13171062,
-  "text" : "@Devindra @jolieodell Talk about linkbait… \"weird product name\"? What do they call iPods and MacBooks? \"HD\" would have been weird.",
+  "text" : "@Devindra @jolieodell Talk about linkbait\u2026 \"weird product name\"? What do they call iPods and MacBooks? \"HD\" would have been weird.",
   "id" : 177579141342838785,
   "in_reply_to_status_id" : 177569929627832320,
   "created_at" : "Thu Mar 08 02:19:01 +0000 2012",
@@ -3867,7 +3892,7 @@ Grailbird.data.tweets_2012_03 =
       "screen_name" : "flyingwithfish",
       "protected" : false,
       "id_str" : "16536358",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/281731288/Fish_Web_Icon_Blue_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3530435471/1f2ff86b2149e3428d58c303a842cf28_normal.jpeg",
       "id" : 16536358,
       "verified" : false
     }
@@ -4081,12 +4106,12 @@ Grailbird.data.tweets_2012_03 =
       "indices" : [ 69, 89 ],
       "url" : "http://t.co/yspJIVn0",
       "expanded_url" : "http://www.overstock.com/Electronics/Apple-Dock-Connector-to-USB-Charge-Cable/4714156/product.html",
-      "display_url" : "overstock.com/Electronics/Ap…"
+      "display_url" : "overstock.com/Electronics/Ap\u2026"
     }, {
       "indices" : [ 93, 113 ],
       "url" : "http://t.co/x0b1iSpM",
       "expanded_url" : "http://www.monoprice.com/products/product.asp?c_id=108&cp_id=10831&cs_id=1083101&p_id=8738&seq=1&format=2",
-      "display_url" : "monoprice.com/products/produ…"
+      "display_url" : "monoprice.com/products/produ\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "176883285752946688",
@@ -4205,7 +4230,7 @@ Grailbird.data.tweets_2012_03 =
   "geo" : {
   },
   "id_str" : "176493218995765248",
-  "text" : "Tumblr - After four years at GS, I’m joining the product engineering team at Tumblr, starting tomorrow. I’m... http://t.co/zi1SvVOS",
+  "text" : "Tumblr - After four years at GS, I\u2019m joining the product engineering team at Tumblr, starting tomorrow. I\u2019m... http://t.co/zi1SvVOS",
   "id" : 176493218995765248,
   "created_at" : "Mon Mar 05 02:23:57 +0000 2012",
   "user" : {
@@ -4424,7 +4449,7 @@ Grailbird.data.tweets_2012_03 =
       "indices" : [ 53, 73 ],
       "url" : "http://t.co/75p6bYNN",
       "expanded_url" : "http://sfbags.com/products/ipad-cases/smartcase-ipad.php",
-      "display_url" : "sfbags.com/products/ipad-…"
+      "display_url" : "sfbags.com/products/ipad-\u2026"
     } ]
   },
   "geo" : {

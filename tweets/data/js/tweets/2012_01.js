@@ -62,7 +62,7 @@ Grailbird.data.tweets_2012_01 =
       "indices" : [ 12, 32 ],
       "url" : "http://t.co/GnCOKCjJ",
       "expanded_url" : "http://www.youtube.com/watch?v=rKTN5NHfwlQ",
-      "display_url" : "youtube.com/watch?v=rKTN5N…"
+      "display_url" : "youtube.com/watch?v=rKTN5N\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "162418336544718848",
@@ -375,7 +375,7 @@ Grailbird.data.tweets_2012_01 =
       "indices" : [ 15, 35 ],
       "url" : "http://t.co/RRrTAQiD",
       "expanded_url" : "http://sports.espn.go.com/espn/page2/sportSkills",
-      "display_url" : "sports.espn.go.com/espn/page2/spo…"
+      "display_url" : "sports.espn.go.com/espn/page2/spo\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "161115973892575232",
@@ -518,7 +518,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "rauchg",
       "protected" : false,
       "id_str" : "15540222",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1867093513/photo_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3631916180/63b85c1405b17281e40548a919f5f7f7_normal.jpeg",
       "id" : 15540222,
       "verified" : false
     }
@@ -746,7 +746,7 @@ Grailbird.data.tweets_2012_01 =
   "geo" : {
   },
   "id_str" : "157598648459460608",
-  "text" : "RT @slashfilm: ‘Battle Royale’ Trailer: The Original Hunger Games Finally Hits US DVD in March http://t.co/194G1Pte",
+  "text" : "RT @slashfilm: \u2018Battle Royale\u2019 Trailer: The Original Hunger Games Finally Hits US DVD in March http://t.co/194G1Pte",
   "retweeted_status" : {
     "source" : "<a href=\"http://twitterfeed.com\" rel=\"nofollow\">twitterfeed</a>",
     "entities" : {
@@ -763,7 +763,7 @@ Grailbird.data.tweets_2012_01 =
     "geo" : {
     },
     "id_str" : "157583079538561025",
-    "text" : "‘Battle Royale’ Trailer: The Original Hunger Games Finally Hits US DVD in March http://t.co/194G1Pte",
+    "text" : "\u2018Battle Royale\u2019 Trailer: The Original Hunger Games Finally Hits US DVD in March http://t.co/194G1Pte",
     "id" : 157583079538561025,
     "created_at" : "Thu Jan 12 22:01:48 +0000 2012",
     "user" : {
@@ -771,7 +771,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "slashfilm",
       "protected" : false,
       "id_str" : "821193",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/53474571/peterdrawingslashfilm_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3508825918/91dfbddaaf31c47a9b7f551e721c53c2_normal.jpeg",
       "id" : 821193,
       "verified" : true
     }
@@ -948,7 +948,7 @@ Grailbird.data.tweets_2012_01 =
       "indices" : [ 82, 102 ],
       "url" : "http://t.co/6xGujCN1",
       "expanded_url" : "http://espn.go.com/nhl/powerrankings",
-      "display_url" : "espn.go.com/nhl/powerranki…"
+      "display_url" : "espn.go.com/nhl/powerranki\u2026"
     } ]
   },
   "geo" : {
@@ -968,7 +968,7 @@ Grailbird.data.tweets_2012_01 =
         "indices" : [ 66, 86 ],
         "url" : "http://t.co/6xGujCN1",
         "expanded_url" : "http://espn.go.com/nhl/powerrankings",
-        "display_url" : "espn.go.com/nhl/powerranki…"
+        "display_url" : "espn.go.com/nhl/powerranki\u2026"
       } ]
     },
     "geo" : {
@@ -982,7 +982,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "Scott_Source",
       "protected" : false,
       "id_str" : "43650262",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2935690818/3d4faba3d3e60673e4627553d0cc10fd_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3373805663/7c76fa864107c14b5a04cf5643a702f7_normal.jpeg",
       "id" : 43650262,
       "verified" : false
     }
@@ -1203,7 +1203,7 @@ Grailbird.data.tweets_2012_01 =
       "indices" : [ 38, 58 ],
       "url" : "http://t.co/jmxPQg1J",
       "expanded_url" : "http://joehewitt.com/2011/10/03/dropbox-is-my-publish-button",
-      "display_url" : "joehewitt.com/2011/10/03/dro…"
+      "display_url" : "joehewitt.com/2011/10/03/dro\u2026"
     } ]
   },
   "geo" : {
@@ -1492,7 +1492,7 @@ Grailbird.data.tweets_2012_01 =
       "indices" : [ 31, 51 ],
       "url" : "http://t.co/Z0xLvEV0",
       "expanded_url" : "http://blog.bryanirace.com/post/15320067656/animate-images-with-javascript",
-      "display_url" : "blog.bryanirace.com/post/153200676…"
+      "display_url" : "blog.bryanirace.com/post/153200676\u2026"
     } ]
   },
   "geo" : {
@@ -1584,7 +1584,7 @@ Grailbird.data.tweets_2012_01 =
       "indices" : [ 32, 52 ],
       "url" : "http://t.co/r8ewEejs",
       "expanded_url" : "http://parislemon.com/post/15309487938/we-are-the-0-6",
-      "display_url" : "parislemon.com/post/153094879…"
+      "display_url" : "parislemon.com/post/153094879\u2026"
     } ]
   },
   "geo" : {
@@ -1601,7 +1601,7 @@ Grailbird.data.tweets_2012_01 =
         "indices" : [ 16, 36 ],
         "url" : "http://t.co/r8ewEejs",
         "expanded_url" : "http://parislemon.com/post/15309487938/we-are-the-0-6",
-        "display_url" : "parislemon.com/post/153094879…"
+        "display_url" : "parislemon.com/post/153094879\u2026"
       } ]
     },
     "geo" : {
@@ -1615,7 +1615,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "parislemon",
       "protected" : false,
       "id_str" : "652193",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2748300201/ecc4dbe1c912ebac9a7aee2e85b51859_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3336694463/99718483afb19d6d441290afccb72772_normal.jpeg",
       "id" : 652193,
       "verified" : true
     }

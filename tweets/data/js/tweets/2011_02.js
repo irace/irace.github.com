@@ -56,7 +56,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "bowerypresents",
+      "name" : "The Bowery Presents",
       "screen_name" : "bowerypresents",
       "indices" : [ 3, 18 ],
       "id_str" : "20695699",
@@ -85,7 +85,7 @@ Grailbird.data.tweets_2011_02 =
     "id" : 42052952470458368,
     "created_at" : "Mon Feb 28 02:46:19 +0000 2011",
     "user" : {
-      "name" : "bowerypresents",
+      "name" : "The Bowery Presents",
       "screen_name" : "bowerypresents",
       "protected" : false,
       "id_str" : "20695699",
@@ -199,7 +199,7 @@ Grailbird.data.tweets_2011_02 =
       "indices" : [ 47, 66 ],
       "url" : "http://t.co/BWqLSKF",
       "expanded_url" : "http://blog.jamiemurai.com/2011/02/you-win-rim/",
-      "display_url" : "blog.jamiemurai.com/2011/02/you-wi…"
+      "display_url" : "blog.jamiemurai.com/2011/02/you-wi\u2026"
     } ]
   },
   "geo" : {
@@ -297,7 +297,7 @@ Grailbird.data.tweets_2011_02 =
   "geo" : {
   },
   "id_str" : "40977282168258560",
-  "text" : "RT @marcoarment: Android tablets will be better after lots of apps are made for them… but will they ever sell enough to make it worthwhi ...",
+  "text" : "RT @marcoarment: Android tablets will be better after lots of apps are made for them\u2026 but will they ever sell enough to make it worthwhi ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "entities" : {
@@ -309,7 +309,7 @@ Grailbird.data.tweets_2011_02 =
     "geo" : {
     },
     "id_str" : "40913811502276608",
-    "text" : "Android tablets will be better after lots of apps are made for them… but will they ever sell enough to make it worthwhile for devs to do so?",
+    "text" : "Android tablets will be better after lots of apps are made for them\u2026 but will they ever sell enough to make it worthwhile for devs to do so?",
     "id" : 40913811502276608,
     "created_at" : "Thu Feb 24 23:19:47 +0000 2011",
     "user" : {
@@ -366,13 +366,13 @@ Grailbird.data.tweets_2011_02 =
       "indices" : [ 106, 125 ],
       "url" : "http://t.co/jUtodcg",
       "expanded_url" : "http://www.bbc.co.uk/music/reviews/wd4z",
-      "display_url" : "bbc.co.uk/music/reviews/…"
+      "display_url" : "bbc.co.uk/music/reviews/\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "40641636601954304",
-  "text" : "...\"insert your own favourite slow-paced Radiohead numb-er here – it’s a piece of rarefied beauty.\" (2/2) http://t.co/jUtodcg",
+  "text" : "...\"insert your own favourite slow-paced Radiohead numb-er here \u2013 it\u2019s a piece of rarefied beauty.\" (2/2) http://t.co/jUtodcg",
   "id" : 40641636601954304,
   "created_at" : "Thu Feb 24 05:18:15 +0000 2011",
   "user" : {
@@ -418,7 +418,7 @@ Grailbird.data.tweets_2011_02 =
   "geo" : {
   },
   "id_str" : "40640166703923200",
-  "text" : "Favorite quote about the new Radiohead: \"It isn’t that “The King of Limbs’’ pulls its punches, it would just rather surround than attack.\"",
+  "text" : "Favorite quote about the new Radiohead: \"It isn\u2019t that \u201CThe King of Limbs\u2019\u2019 pulls its punches, it would just rather surround than attack.\"",
   "id" : 40640166703923200,
   "created_at" : "Thu Feb 24 05:12:25 +0000 2011",
   "user" : {
@@ -884,7 +884,7 @@ Grailbird.data.tweets_2011_02 =
   "geo" : {
   },
   "id_str" : "35908482603425792",
-  "text" : "RT @slashfilm: The Academy Doesn’t Know What To Do If Banksy Wins an Oscar http://goo.gl/fb/8toCW",
+  "text" : "RT @slashfilm: The Academy Doesn\u2019t Know What To Do If Banksy Wins an Oscar http://goo.gl/fb/8toCW",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>",
     "entities" : {
@@ -896,7 +896,7 @@ Grailbird.data.tweets_2011_02 =
     "geo" : {
     },
     "id_str" : "35730442980306944",
-    "text" : "The Academy Doesn’t Know What To Do If Banksy Wins an Oscar http://goo.gl/fb/8toCW",
+    "text" : "The Academy Doesn\u2019t Know What To Do If Banksy Wins an Oscar http://goo.gl/fb/8toCW",
     "id" : 35730442980306944,
     "created_at" : "Thu Feb 10 16:02:56 +0000 2011",
     "user" : {
@@ -904,7 +904,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "slashfilm",
       "protected" : false,
       "id_str" : "821193",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/53474571/peterdrawingslashfilm_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3508825918/91dfbddaaf31c47a9b7f551e721c53c2_normal.jpeg",
       "id" : 821193,
       "verified" : true
     }
@@ -1099,7 +1099,7 @@ Grailbird.data.tweets_2011_02 =
       "indices" : [ 36, 55 ],
       "url" : "http://t.co/PFQ02LR",
       "expanded_url" : "http://cl.ly/1S1I2o2Q2d140d2V0y0w",
-      "display_url" : "cl.ly/1S1I2o2Q2d140d…"
+      "display_url" : "cl.ly/1S1I2o2Q2d140d\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "35216726731792384",
@@ -1285,7 +1285,7 @@ Grailbird.data.tweets_2011_02 =
       "indices" : [ 90, 109 ],
       "url" : "http://t.co/Qz7Noby",
       "expanded_url" : "http://googleblog.blogspot.com/2011/02/microsofts-bing-uses-google-search.html",
-      "display_url" : "googleblog.blogspot.com/2011/02/micros…"
+      "display_url" : "googleblog.blogspot.com/2011/02/micros\u2026"
     } ]
   },
   "geo" : {

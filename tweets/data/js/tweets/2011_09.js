@@ -174,7 +174,7 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 25, 45 ],
       "url" : "http://t.co/pXFDP7fL",
       "expanded_url" : "http://mog.com/tracks/mn57757725",
-      "display_url" : "mog.com/tracks/mn57757…"
+      "display_url" : "mog.com/tracks/mn57757\u2026"
     } ]
   },
   "geo" : {
@@ -240,7 +240,7 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 81, 101 ],
       "url" : "http://t.co/MxPpITGw",
       "expanded_url" : "http://pitchfork.com/news/44107-listen-to-a-full-track-from-the-lou-reed-and-metallica-collaboration-the-view/",
-      "display_url" : "pitchfork.com/news/44107-lis…"
+      "display_url" : "pitchfork.com/news/44107-lis\u2026"
     } ]
   },
   "geo" : {
@@ -328,7 +328,7 @@ Grailbird.data.tweets_2011_09 =
   "geo" : {
   },
   "id_str" : "116700110309695488",
-  "text" : "Found my favorite album of the year: Neon Indian's \"Era Extraña\" #fb",
+  "text" : "Found my favorite album of the year: Neon Indian's \"Era Extra\u00F1a\" #fb",
   "id" : 116700110309695488,
   "created_at" : "Thu Sep 22 02:27:29 +0000 2011",
   "user" : {
@@ -472,7 +472,7 @@ Grailbird.data.tweets_2011_09 =
       "id" : 14740219
     }, {
       "name" : "WILCO",
-      "screen_name" : "wilco",
+      "screen_name" : "Wilco",
       "indices" : [ 35, 41 ],
       "id_str" : "19656482",
       "id" : 19656482
@@ -498,7 +498,7 @@ Grailbird.data.tweets_2011_09 =
     "entities" : {
       "user_mentions" : [ {
         "name" : "WILCO",
-        "screen_name" : "wilco",
+        "screen_name" : "Wilco",
         "indices" : [ 20, 26 ],
         "id_str" : "19656482",
         "id" : 19656482
@@ -678,7 +678,7 @@ Grailbird.data.tweets_2011_09 =
   "geo" : {
   },
   "id_str" : "112299688618766338",
-  "text" : "RT @jaredpar: \"The best thing about UDP jokes is that I don’t care if you get them or not.\"",
+  "text" : "RT @jaredpar: \"The best thing about UDP jokes is that I don\u2019t care if you get them or not.\"",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
     "entities" : {
@@ -690,7 +690,7 @@ Grailbird.data.tweets_2011_09 =
     "geo" : {
     },
     "id_str" : "112202467743240192",
-    "text" : "\"The best thing about UDP jokes is that I don’t care if you get them or not.\"",
+    "text" : "\"The best thing about UDP jokes is that I don\u2019t care if you get them or not.\"",
     "id" : 112202467743240192,
     "created_at" : "Fri Sep 09 16:35:27 +0000 2011",
     "user" : {
@@ -725,7 +725,7 @@ Grailbird.data.tweets_2011_09 =
       "id" : 14740219
     }, {
       "name" : "WILCO",
-      "screen_name" : "wilco",
+      "screen_name" : "Wilco",
       "indices" : [ 39, 45 ],
       "id_str" : "19656482",
       "id" : 19656482
@@ -748,7 +748,7 @@ Grailbird.data.tweets_2011_09 =
     "entities" : {
       "user_mentions" : [ {
         "name" : "WILCO",
-        "screen_name" : "wilco",
+        "screen_name" : "Wilco",
         "indices" : [ 24, 30 ],
         "id_str" : "19656482",
         "id" : 19656482

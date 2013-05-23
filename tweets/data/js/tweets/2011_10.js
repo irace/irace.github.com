@@ -148,8 +148,8 @@ Grailbird.data.tweets_2011_10 =
       "name" : "PhpStorm/WebStorm",
       "screen_name" : "webide",
       "indices" : [ 0, 7 ],
-      "id_str" : "115180931",
-      "id" : 115180931
+      "id_str" : "115181416",
+      "id" : 115181416
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -162,7 +162,7 @@ Grailbird.data.tweets_2011_10 =
   "text" : "@webide Please please please add syntax highlighting for Jade templates.",
   "id" : 129410789848252416,
   "created_at" : "Thu Oct 27 04:15:11 +0000 2011",
-  "in_reply_to_screen_name" : "webide",
+  "in_reply_to_screen_name" : "phpstorm",
   "in_reply_to_user_id_str" : "115180931",
   "user" : {
     "name" : "Bryan Irace",
@@ -455,7 +455,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "Malte",
       "protected" : false,
       "id_str" : "13344832",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2326762520/picswitch-Malte-4hjyWV_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3620754503/5f14a8a5cf24fb5ede80bc66993c7d72_normal.jpeg",
       "id" : 13344832,
       "verified" : false
     }
@@ -624,7 +624,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "Devindra",
       "protected" : false,
       "id_str" : "13171062",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3177893388/73174c3f6e151b7b93491e5b03fd3e59_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3402507850/be8b757c5a00f741d9553d15b9661471_normal.jpeg",
       "id" : 13171062,
       "verified" : false
     }
@@ -817,7 +817,7 @@ Grailbird.data.tweets_2011_10 =
   "geo" : {
   },
   "id_str" : "124264131187576832",
-  "text" : "Only 6 hours until iOS 5 is finished download… #argh",
+  "text" : "Only 6 hours until iOS 5 is finished download\u2026 #argh",
   "id" : 124264131187576832,
   "created_at" : "Wed Oct 12 23:24:12 +0000 2011",
   "user" : {
@@ -954,7 +954,7 @@ Grailbird.data.tweets_2011_10 =
   },
   "id_str" : "123585553311608832",
   "in_reply_to_user_id" : 11666142,
-  "text" : "@joshuatopolsky Neon Indian - \"Era Extraña\" album",
+  "text" : "@joshuatopolsky Neon Indian - \"Era Extra\u00F1a\" album",
   "id" : 123585553311608832,
   "in_reply_to_status_id" : 123585390987845632,
   "created_at" : "Tue Oct 11 02:27:46 +0000 2011",
@@ -1041,7 +1041,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "Scott_Source",
       "protected" : false,
       "id_str" : "43650262",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2935690818/3d4faba3d3e60673e4627553d0cc10fd_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3373805663/7c76fa864107c14b5a04cf5643a702f7_normal.jpeg",
       "id" : 43650262,
       "verified" : false
     }
@@ -1241,7 +1241,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "slashfilm",
       "protected" : false,
       "id_str" : "821193",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/53474571/peterdrawingslashfilm_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3508825918/91dfbddaaf31c47a9b7f551e721c53c2_normal.jpeg",
       "id" : 821193,
       "verified" : true
     }
@@ -1430,7 +1430,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "keithlaw",
       "protected" : false,
       "id_str" : "15146558",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2801893923/02e32a688ebec9284ef4547494c83bd7_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3465020777/998ff61be662fd0bf8c93b5e14c358bd_normal.jpeg",
       "id" : 15146558,
       "verified" : true
     }
@@ -1460,7 +1460,7 @@ Grailbird.data.tweets_2011_10 =
   "geo" : {
   },
   "id_str" : "121734243977138177",
-  "text" : "“Remembering that I’ll be dead soon is the most important tool I’ve ever encountered to help me make the big choices in life.\" RIP. #fb",
+  "text" : "\u201CRemembering that I\u2019ll be dead soon is the most important tool I\u2019ve ever encountered to help me make the big choices in life.\" RIP. #fb",
   "id" : 121734243977138177,
   "created_at" : "Wed Oct 05 23:51:20 +0000 2011",
   "user" : {
@@ -1568,11 +1568,11 @@ Grailbird.data.tweets_2011_10 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Time Warner Cable ",
-      "screen_name" : "TWCable_NYC",
+      "name" : "TWC",
+      "screen_name" : "twcable_nyc",
       "indices" : [ 14, 26 ],
-      "id_str" : "121165704",
-      "id" : 121165704
+      "id_str" : "1225944228",
+      "id" : 1225944228
     } ],
     "media" : [ ],
     "hashtags" : [ ],

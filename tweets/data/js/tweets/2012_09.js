@@ -10,7 +10,7 @@ Grailbird.data.tweets_2012_09 =
   "geo" : {
   },
   "id_str" : "252542515876622336",
-  "text" : "iMessage really can’t know which device I’m using? Getting three alerts at once kind of ruins the magic of using it from your computer.",
+  "text" : "iMessage really can\u2019t know which device I\u2019m using? Getting three alerts at once kind of ruins the magic of using it from your computer.",
   "id" : 252542515876622336,
   "created_at" : "Sun Sep 30 22:56:42 +0000 2012",
   "user" : {
@@ -103,7 +103,7 @@ Grailbird.data.tweets_2012_09 =
   "geo" : {
   },
   "id_str" : "252192341455163392",
-  "text" : "Can’t wait for @Tweetbot for Mac to be in the Mac App Store. iCloud syncing between phone and iPad is great but missing the trifecta.",
+  "text" : "Can\u2019t wait for @Tweetbot for Mac to be in the Mac App Store. iCloud syncing between phone and iPad is great but missing the trifecta.",
   "id" : 252192341455163392,
   "created_at" : "Sat Sep 29 23:45:14 +0000 2012",
   "user" : {
@@ -134,7 +134,7 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "252078693151805440",
   "in_reply_to_user_id" : 10973202,
-  "text" : "@dtorres I’m happy I have it now on a phone where it doesn’t kill the battery.",
+  "text" : "@dtorres I\u2019m happy I have it now on a phone where it doesn\u2019t kill the battery.",
   "id" : 252078693151805440,
   "in_reply_to_status_id" : 252078535164960768,
   "created_at" : "Sat Sep 29 16:13:38 +0000 2012",
@@ -452,7 +452,7 @@ Grailbird.data.tweets_2012_09 =
   "geo" : {
   },
   "id_str" : "251370831698067456",
-  "text" : "RT @peteburtis: @gruber Guy at work isn't getting a 5 because \"maps are important to me\". He upgraded his 4S to iOS 6 a week ago—hasn't  ...",
+  "text" : "RT @peteburtis: @gruber Guy at work isn't getting a 5 because \"maps are important to me\". He upgraded his 4S to iOS 6 a week ago\u2014hasn't  ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.apple.com/\" rel=\"nofollow\">OS X</a>",
     "entities" : {
@@ -471,7 +471,7 @@ Grailbird.data.tweets_2012_09 =
     },
     "id_str" : "251171946648178688",
     "in_reply_to_user_id" : 33423,
-    "text" : "@gruber Guy at work isn't getting a 5 because \"maps are important to me\". He upgraded his 4S to iOS 6 a week ago—hasn't noticed. Perception…",
+    "text" : "@gruber Guy at work isn't getting a 5 because \"maps are important to me\". He upgraded his 4S to iOS 6 a week ago\u2014hasn't noticed. Perception\u2026",
     "id" : 251171946648178688,
     "created_at" : "Thu Sep 27 04:10:33 +0000 2012",
     "in_reply_to_screen_name" : "gruber",
@@ -516,7 +516,7 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "251151418117996544",
   "in_reply_to_user_id" : 821193,
-  "text" : "@slashfilm I think 16:9 would favor landscape, which I can’t see Apple doing. They put emphasis on iPads being orientation agnostic.",
+  "text" : "@slashfilm I think 16:9 would favor landscape, which I can\u2019t see Apple doing. They put emphasis on iPads being orientation agnostic.",
   "id" : 251151418117996544,
   "in_reply_to_status_id" : 251149242608005121,
   "created_at" : "Thu Sep 27 02:48:58 +0000 2012",
@@ -590,7 +590,7 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "251130279874404352",
   "in_reply_to_user_id" : 18713,
-  "text" : "@al3x Let me know if you’d like to swing by @Tumblr HQ!",
+  "text" : "@al3x Let me know if you\u2019d like to swing by @Tumblr HQ!",
   "id" : 251130279874404352,
   "in_reply_to_status_id" : 251020789913116672,
   "created_at" : "Thu Sep 27 01:24:59 +0000 2012",
@@ -649,7 +649,7 @@ Grailbird.data.tweets_2012_09 =
   "geo" : {
   },
   "id_str" : "250963159974834176",
-  "text" : "JavaScript/native bridge for iOS's UIWebView - A Hacker News commenter, in response to Zach Williams' Tumblr … http://t.co/TJqUaNEJ",
+  "text" : "JavaScript/native bridge for iOS's UIWebView - A Hacker News commenter, in response to Zach Williams' Tumblr \u2026 http://t.co/TJqUaNEJ",
   "id" : 250963159974834176,
   "created_at" : "Wed Sep 26 14:20:54 +0000 2012",
   "user" : {
@@ -680,7 +680,7 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "250577205892087808",
   "in_reply_to_user_id" : 269594600,
-  "text" : "@spuggeddie Well as one of the owners, it’s your fault.",
+  "text" : "@spuggeddie Well as one of the owners, it\u2019s your fault.",
   "id" : 250577205892087808,
   "in_reply_to_status_id" : 250447064079675392,
   "created_at" : "Tue Sep 25 12:47:16 +0000 2012",
@@ -706,7 +706,7 @@ Grailbird.data.tweets_2012_09 =
   "geo" : {
   },
   "id_str" : "250429896529178625",
-  "text" : "My iPhone 5 has a jiggly volume-down button after only three days. Guess I’ll just always listen to everything loud.",
+  "text" : "My iPhone 5 has a jiggly volume-down button after only three days. Guess I\u2019ll just always listen to everything loud.",
   "id" : 250429896529178625,
   "created_at" : "Tue Sep 25 03:01:54 +0000 2012",
   "user" : {
@@ -734,7 +734,7 @@ Grailbird.data.tweets_2012_09 =
   "geo" : {
   },
   "id_str" : "250427830754746368",
-  "text" : "Apple Outsider » Technology vs. Utility - Behold the NFC issue. What can people do with it today? All we hear… http://t.co/42mU1lvk",
+  "text" : "Apple Outsider \u00BB Technology vs. Utility - Behold the NFC issue. What can people do with it today? All we hear\u2026 http://t.co/42mU1lvk",
   "id" : 250427830754746368,
   "created_at" : "Tue Sep 25 02:53:42 +0000 2012",
   "user" : {
@@ -759,7 +759,7 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "250398102706614272",
   "in_reply_to_user_id" : 43650262,
-  "text" : "@thefake_scott That’s not saying much.",
+  "text" : "@thefake_scott That\u2019s not saying much.",
   "id" : 250398102706614272,
   "in_reply_to_status_id" : 250397944577150977,
   "created_at" : "Tue Sep 25 00:55:34 +0000 2012",
@@ -787,7 +787,7 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "250397608634380288",
   "in_reply_to_user_id" : 43650262,
-  "text" : "@thefake_scott That might be the single dumbest thing you’ve ever said.",
+  "text" : "@thefake_scott That might be the single dumbest thing you\u2019ve ever said.",
   "id" : 250397608634380288,
   "in_reply_to_status_id" : 250271323065036800,
   "created_at" : "Tue Sep 25 00:53:36 +0000 2012",
@@ -852,7 +852,7 @@ Grailbird.data.tweets_2012_09 =
   "geo" : {
   },
   "id_str" : "250263186870247424",
-  "text" : "“The day before you begin your juice cleanse: 1) Abstain from drinking coffee, or at least cut down consi…” http://t.co/SiVpoIOK",
+  "text" : "\u201CThe day before you begin your juice cleanse: 1) Abstain from drinking coffee, or at least cut down consi\u2026\u201D http://t.co/SiVpoIOK",
   "id" : 250263186870247424,
   "created_at" : "Mon Sep 24 15:59:28 +0000 2012",
   "user" : {
@@ -880,7 +880,7 @@ Grailbird.data.tweets_2012_09 =
   "geo" : {
   },
   "id_str" : "250224994968297472",
-  "text" : "Daring Fireball: New Twitter for iPad - They threw away Loren Brichter’s groundbreaking UI and replaced it... http://t.co/Qir6mo2a",
+  "text" : "Daring Fireball: New Twitter for iPad - They threw away Loren Brichter\u2019s groundbreaking UI and replaced it... http://t.co/Qir6mo2a",
   "id" : 250224994968297472,
   "created_at" : "Mon Sep 24 13:27:42 +0000 2012",
   "user" : {
@@ -908,7 +908,7 @@ Grailbird.data.tweets_2012_09 =
       "indices" : [ 78, 98 ],
       "url" : "http://t.co/tSXHgeLi",
       "expanded_url" : "http://www.nytimes.com/2012/09/22/business/to-stay-relevant-in-a-career-workers-train-nonstop.html",
-      "display_url" : "nytimes.com/2012/09/22/bus…"
+      "display_url" : "nytimes.com/2012/09/22/bus\u2026"
     } ]
   },
   "geo" : {
@@ -925,7 +925,7 @@ Grailbird.data.tweets_2012_09 =
         "indices" : [ 62, 82 ],
         "url" : "http://t.co/tSXHgeLi",
         "expanded_url" : "http://www.nytimes.com/2012/09/22/business/to-stay-relevant-in-a-career-workers-train-nonstop.html",
-        "display_url" : "nytimes.com/2012/09/22/bus…"
+        "display_url" : "nytimes.com/2012/09/22/bus\u2026"
       } ]
     },
     "geo" : {
@@ -959,11 +959,11 @@ Grailbird.data.tweets_2012_09 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jonas Nordlund",
-      "screen_name" : "furangel",
+      "name" : "AngeL",
+      "screen_name" : "FurAngel",
       "indices" : [ 0, 9 ],
-      "id_str" : "235130987",
-      "id" : 235130987
+      "id_str" : "1433085380",
+      "id" : 1433085380
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -974,11 +974,11 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "249645273868021760",
   "in_reply_to_user_id" : 235130987,
-  "text" : "@furangel Yep, that’s a good one.",
+  "text" : "@furangel Yep, that\u2019s a good one.",
   "id" : 249645273868021760,
   "in_reply_to_status_id" : 249644580310503425,
   "created_at" : "Sat Sep 22 23:04:06 +0000 2012",
-  "in_reply_to_screen_name" : "furangel",
+  "in_reply_to_screen_name" : "anomalisk",
   "in_reply_to_user_id_str" : "235130987",
   "user" : {
     "name" : "Bryan Irace",
@@ -1006,7 +1006,7 @@ Grailbird.data.tweets_2012_09 =
   "geo" : {
   },
   "id_str" : "249637981571383296",
-  "text" : "RT @bmatheny: Tumblr Engineering: What have we been up to? - engineering: For a long time I’ve wanted to put up some kind... http://t.co ...",
+  "text" : "RT @bmatheny: Tumblr Engineering: What have we been up to? - engineering: For a long time I\u2019ve wanted to put up some kind... http://t.co ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.tumblr.com/\" rel=\"nofollow\">Tumblr</a>",
     "entities" : {
@@ -1023,7 +1023,7 @@ Grailbird.data.tweets_2012_09 =
     "geo" : {
     },
     "id_str" : "249637359736455168",
-    "text" : "Tumblr Engineering: What have we been up to? - engineering: For a long time I’ve wanted to put up some kind... http://t.co/jI4aDx40",
+    "text" : "Tumblr Engineering: What have we been up to? - engineering: For a long time I\u2019ve wanted to put up some kind... http://t.co/jI4aDx40",
     "id" : 249637359736455168,
     "created_at" : "Sat Sep 22 22:32:39 +0000 2012",
     "user" : {
@@ -1051,7 +1051,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "｢ Alex McCollister ｣",
+      "name" : "\uFF62 Alex McCollister \uFF63",
       "screen_name" : "alexmccollister",
       "indices" : [ 0, 16 ],
       "id_str" : "302909320",
@@ -1169,7 +1169,7 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "249545563668893696",
   "in_reply_to_user_id" : 15227849,
-  "text" : "@semil Yeah, this could be nice as part of the app’s newly revamped onboarding flow. We’d probably need to add it to the site first though.",
+  "text" : "@semil Yeah, this could be nice as part of the app\u2019s newly revamped onboarding flow. We\u2019d probably need to add it to the site first though.",
   "id" : 249545563668893696,
   "in_reply_to_status_id" : 249537359186640897,
   "created_at" : "Sat Sep 22 16:27:53 +0000 2012",
@@ -1188,8 +1188,8 @@ Grailbird.data.tweets_2012_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sahil Desai",
-      "screen_name" : "Sahil",
+      "name" : "sahil",
+      "screen_name" : "sahil",
       "indices" : [ 0, 6 ],
       "id_str" : "666153",
       "id" : 666153
@@ -1231,7 +1231,7 @@ Grailbird.data.tweets_2012_09 =
   "id" : 249530631988592640,
   "in_reply_to_status_id" : 249042709107601408,
   "created_at" : "Sat Sep 22 15:28:33 +0000 2012",
-  "in_reply_to_screen_name" : "Sahil",
+  "in_reply_to_screen_name" : "sahil",
   "in_reply_to_user_id_str" : "666153",
   "user" : {
     "name" : "Bryan Irace",
@@ -1361,7 +1361,7 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "249313315191410688",
   "in_reply_to_user_id" : 15227849,
-  "text" : "@semil @parislemon @pter Thanks! We’re hard at work on the next version, let us know what you’d like to see.",
+  "text" : "@semil @parislemon @pter Thanks! We\u2019re hard at work on the next version, let us know what you\u2019d like to see.",
   "id" : 249313315191410688,
   "in_reply_to_status_id" : 249002264260395008,
   "created_at" : "Sat Sep 22 01:05:01 +0000 2012",
@@ -1459,7 +1459,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "izs",
       "protected" : false,
       "id_str" : "8038312",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3249722253/8e9eab56978e67bd6bc93f03a33b4573_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3696713350/a38d7698a9f7bbc6576e99288c81bec0_normal.png",
       "id" : 8038312,
       "verified" : false
     }
@@ -1500,7 +1500,7 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "248554007914762240",
   "in_reply_to_user_id" : 636923,
-  "text" : "@siracusa Won’t you also get their bullshit @facebook email addresses?",
+  "text" : "@siracusa Won\u2019t you also get their bullshit @facebook email addresses?",
   "id" : 248554007914762240,
   "in_reply_to_status_id" : 248508362998808576,
   "created_at" : "Wed Sep 19 22:47:48 +0000 2012",
@@ -1531,13 +1531,13 @@ Grailbird.data.tweets_2012_09 =
       "indices" : [ 111, 131 ],
       "url" : "http://t.co/oeZUxbbe",
       "expanded_url" : "http://itunes.apple.com/us/app/tweetbot-for-twitter-ipad/id498801050?mt=8",
-      "display_url" : "itunes.apple.com/us/app/tweetbo…"
+      "display_url" : "itunes.apple.com/us/app/tweetbo\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "248141598960017408",
-  "text" : "This is a steal “@panzer: Not liking the looks of the new Twitter for iPad? Tweetbot iPad is on sale for $0.99 http://t.co/oeZUxbbe”",
+  "text" : "This is a steal \u201C@panzer: Not liking the looks of the new Twitter for iPad? Tweetbot iPad is on sale for $0.99 http://t.co/oeZUxbbe\u201D",
   "id" : 248141598960017408,
   "created_at" : "Tue Sep 18 19:29:02 +0000 2012",
   "user" : {
@@ -1568,7 +1568,7 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "248118558779912192",
   "in_reply_to_user_id" : 14675388,
-  "text" : "@codingjester Yeah I’ve been meaning to for a while too. Learn JS first though if you don’t already know it.",
+  "text" : "@codingjester Yeah I\u2019ve been meaning to for a while too. Learn JS first though if you don\u2019t already know it.",
   "id" : 248118558779912192,
   "in_reply_to_status_id" : 248115523710226433,
   "created_at" : "Tue Sep 18 17:57:28 +0000 2012",
@@ -1738,7 +1738,7 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "247732577845248002",
   "in_reply_to_user_id" : 18713,
-  "text" : "@al3x Let me know if you’d like to come by @Tumblr HQ while you’re in town. One of our engineers is a Hacker School alumnus too.",
+  "text" : "@al3x Let me know if you\u2019d like to come by @Tumblr HQ while you\u2019re in town. One of our engineers is a Hacker School alumnus too.",
   "id" : 247732577845248002,
   "in_reply_to_status_id" : 246364300845916160,
   "created_at" : "Mon Sep 17 16:23:43 +0000 2012",
@@ -1772,7 +1772,7 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "247312809917046784",
   "in_reply_to_user_id" : 5838102,
-  "text" : "@haseman They’re great but do exhibit some quirks. They retain any variables they reference which can lead to retain loops.",
+  "text" : "@haseman They\u2019re great but do exhibit some quirks. They retain any variables they reference which can lead to retain loops.",
   "id" : 247312809917046784,
   "in_reply_to_status_id" : 247301334464856064,
   "created_at" : "Sun Sep 16 12:35:43 +0000 2012",
@@ -1808,7 +1808,7 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "247130302772813824",
   "in_reply_to_user_id" : 5838102,
-  "text" : "@haseman Just wait till you get to block syntax. Though actually you’ll probably just be happy to have functions/closures unlike Java.",
+  "text" : "@haseman Just wait till you get to block syntax. Though actually you\u2019ll probably just be happy to have functions/closures unlike Java.",
   "id" : 247130302772813824,
   "in_reply_to_status_id" : 247045971505205248,
   "created_at" : "Sun Sep 16 00:30:30 +0000 2012",
@@ -1842,7 +1842,7 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "247126560912592896",
   "in_reply_to_user_id" : 5838102,
-  "text" : "@haseman Haha, ironically Eclipse is the only IDE I’ve ever used that I 100% believe is worse.",
+  "text" : "@haseman Haha, ironically Eclipse is the only IDE I\u2019ve ever used that I 100% believe is worse.",
   "id" : 247126560912592896,
   "in_reply_to_status_id" : 247025710403833856,
   "created_at" : "Sun Sep 16 00:15:38 +0000 2012",
@@ -1875,7 +1875,7 @@ Grailbird.data.tweets_2012_09 =
     "coordinates" : [ 41.3835519845, 2.1705955279 ]
   },
   "id_str" : "246512289073745921",
-  "text" : "I'm at Le Méridien (Barcelona, Spain) http://t.co/gvNWRyVx",
+  "text" : "I'm at Le M\u00E9ridien (Barcelona, Spain) http://t.co/gvNWRyVx",
   "id" : 246512289073745921,
   "created_at" : "Fri Sep 14 07:34:44 +0000 2012",
   "user" : {
@@ -1970,7 +1970,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "BMcCarthy32",
       "protected" : false,
       "id_str" : "258666578",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2715762040/19407b5e7c14ce393638bac12b999e9d_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3582615776/d2302a255eb86d0c1ae0d9d1a20a404f_normal.jpeg",
       "id" : 258666578,
       "verified" : true
     }
@@ -2039,7 +2039,7 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "245721351829213184",
   "in_reply_to_user_id" : 208789178,
-  "text" : "@adamlaiacano Awesome. I’ve been a huge fan for a long time now. Only saw them once though, at Webster Hall on their final tour.",
+  "text" : "@adamlaiacano Awesome. I\u2019ve been a huge fan for a long time now. Only saw them once though, at Webster Hall on their final tour.",
   "id" : 245721351829213184,
   "in_reply_to_status_id" : 245721177463603203,
   "created_at" : "Wed Sep 12 03:11:50 +0000 2012",
@@ -2106,7 +2106,7 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "245715661609906176",
   "in_reply_to_user_id" : 14231571,
-  "text" : "@marcoarment You haven’t seen Brazil?!",
+  "text" : "@marcoarment You haven\u2019t seen Brazil?!",
   "id" : 245715661609906176,
   "created_at" : "Wed Sep 12 02:49:13 +0000 2012",
   "in_reply_to_screen_name" : "marcoarment",
@@ -2133,8 +2133,8 @@ Grailbird.data.tweets_2012_09 =
       "name" : "Alex MacCaw",
       "screen_name" : "maccman",
       "indices" : [ 109, 117 ],
-      "id_str" : "2006261",
-      "id" : 2006261
+      "id_str" : "1345494948",
+      "id" : 1345494948
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2172,7 +2172,7 @@ Grailbird.data.tweets_2012_09 =
   "geo" : {
   },
   "id_str" : "245699310845566976",
-  "text" : "Borrowing @CaptPhunkosis’s old SLR and have no idea what I’m doing with it. Not feeling very tech-savvy at the moment.",
+  "text" : "Borrowing @CaptPhunkosis\u2019s old SLR and have no idea what I\u2019m doing with it. Not feeling very tech-savvy at the moment.",
   "id" : 245699310845566976,
   "created_at" : "Wed Sep 12 01:44:15 +0000 2012",
   "user" : {
@@ -2443,7 +2443,7 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "245278281094553600",
   "in_reply_to_user_id" : 8038312,
-  "text" : "@izs Then again I’d certainly be a much better programmer if being a sports fan wasn’t so time consuming.",
+  "text" : "@izs Then again I\u2019d certainly be a much better programmer if being a sports fan wasn\u2019t so time consuming.",
   "id" : 245278281094553600,
   "in_reply_to_status_id" : 245260072010276864,
   "created_at" : "Mon Sep 10 21:51:13 +0000 2012",
@@ -2513,7 +2513,7 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "245174398510829569",
   "in_reply_to_user_id" : 208789178,
-  "text" : "@adamlaiacano You introduced me to the concept of “vintage condiments,” so, yeah.",
+  "text" : "@adamlaiacano You introduced me to the concept of \u201Cvintage condiments,\u201D so, yeah.",
   "id" : 245174398510829569,
   "in_reply_to_status_id" : 245173765242224641,
   "created_at" : "Mon Sep 10 14:58:26 +0000 2012",
@@ -2544,7 +2544,7 @@ Grailbird.data.tweets_2012_09 =
   "geo" : {
   },
   "id_str" : "244997927293050881",
-  "text" : "Simple JavaScript/native bridge for iOS’s UIWebView: https://t.co/mHckXVLW",
+  "text" : "Simple JavaScript/native bridge for iOS\u2019s UIWebView: https://t.co/mHckXVLW",
   "id" : 244997927293050881,
   "created_at" : "Mon Sep 10 03:17:12 +0000 2012",
   "user" : {
@@ -2635,8 +2635,8 @@ Grailbird.data.tweets_2012_09 =
       "name" : "Alex MacCaw",
       "screen_name" : "maccman",
       "indices" : [ 10, 18 ],
-      "id_str" : "2006261",
-      "id" : 2006261
+      "id_str" : "1345494948",
+      "id" : 1345494948
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2715,7 +2715,7 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "244863399178162178",
   "in_reply_to_user_id" : 399177697,
-  "text" : "@kurthumes Switching between Tebow/Sanchez is confusing the Bills’ defense and leaving Holmes wide open, for example.",
+  "text" : "@kurthumes Switching between Tebow/Sanchez is confusing the Bills\u2019 defense and leaving Holmes wide open, for example.",
   "id" : 244863399178162178,
   "in_reply_to_status_id" : 244852940186206209,
   "created_at" : "Sun Sep 09 18:22:38 +0000 2012",
@@ -2749,7 +2749,7 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "244850284151574528",
   "in_reply_to_user_id" : 399177697,
-  "text" : "@kurthumes It’s working.",
+  "text" : "@kurthumes It\u2019s working.",
   "id" : 244850284151574528,
   "in_reply_to_status_id" : 244848313097146368,
   "created_at" : "Sun Sep 09 17:30:31 +0000 2012",
@@ -2862,42 +2862,17 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "52484614",
       "id" : 52484614
     } ],
-    "media" : [ {
-      "expanded_url" : "http://twitter.com/SeeFreshFilms/status/244591444835307520/photo/1",
-      "indices" : [ 116, 136 ],
-      "url" : "http://t.co/i386bjAU",
-      "media_url" : "http://pbs.twimg.com/media/A2T2n4jCEAAGrm4.jpg",
-      "id_str" : "244591444839501824",
-      "id" : 244591444839501824,
-      "media_url_https" : "https://pbs.twimg.com/media/A2T2n4jCEAAGrm4.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 960,
-        "resize" : "fit",
-        "w" : 720
-      }, {
-        "h" : 453,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 960,
-        "resize" : "fit",
-        "w" : 720
-      }, {
-        "h" : 800,
-        "resize" : "fit",
-        "w" : 600
-      } ],
-      "display_url" : "pic.twitter.com/i386bjAU"
-    } ],
+    "media" : [ ],
     "hashtags" : [ {
       "text" : "TechHomies",
       "indices" : [ 104, 115 ]
     } ],
-    "urls" : [ ]
+    "urls" : [ {
+      "indices" : [ 116, 136 ],
+      "url" : "http://t.co/i386bjAU",
+      "expanded_url" : "http://twitter.com/SeeFreshFilms/status/244591444835307520/photo/1",
+      "display_url" : "pic.twitter.com/i386bjAU"
+    } ]
   },
   "geo" : {
   },
@@ -3249,8 +3224,8 @@ Grailbird.data.tweets_2012_09 =
       "name" : "Alex MacCaw",
       "screen_name" : "maccman",
       "indices" : [ 21, 29 ],
-      "id_str" : "2006261",
-      "id" : 2006261
+      "id_str" : "1345494948",
+      "id" : 1345494948
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3264,7 +3239,7 @@ Grailbird.data.tweets_2012_09 =
   "geo" : {
   },
   "id_str" : "243918001504657408",
-  "text" : "Wow, awesome trick. “@maccman: Using &lt;a&gt; elements for parsing URLs in JavaScript is neat: https://t.co/zTEJ4jRr”",
+  "text" : "Wow, awesome trick. \u201C@maccman: Using &lt;a&gt; elements for parsing URLs in JavaScript is neat: https://t.co/zTEJ4jRr\u201D",
   "id" : 243918001504657408,
   "created_at" : "Fri Sep 07 03:45:57 +0000 2012",
   "user" : {
@@ -3283,8 +3258,8 @@ Grailbird.data.tweets_2012_09 =
       "name" : "Alex MacCaw",
       "screen_name" : "maccman",
       "indices" : [ 5, 13 ],
-      "id_str" : "2006261",
-      "id" : 2006261
+      "id_str" : "1345494948",
+      "id" : 1345494948
     }, {
       "name" : "GitHub",
       "screen_name" : "github",
@@ -3299,7 +3274,7 @@ Grailbird.data.tweets_2012_09 =
   "geo" : {
   },
   "id_str" : "243917497580023808",
-  "text" : "YES “@maccman: @github Please make your line-number user-select: none in diffs so they're not copied into my clipboard.”",
+  "text" : "YES \u201C@maccman: @github Please make your line-number user-select: none in diffs so they're not copied into my clipboard.\u201D",
   "id" : 243917497580023808,
   "created_at" : "Fri Sep 07 03:43:57 +0000 2012",
   "user" : {
@@ -3661,7 +3636,7 @@ Grailbird.data.tweets_2012_09 =
   "geo" : {
   },
   "id_str" : "243361802530983936",
-  "text" : "“The gurgling is awesome. How do you program gurgling?” - Justin on Dark Sky's fanastic UI http://t.co/byQGhafY",
+  "text" : "\u201CThe gurgling is awesome. How do you program gurgling?\u201D - Justin on Dark Sky's fanastic UI http://t.co/byQGhafY",
   "id" : 243361802530983936,
   "created_at" : "Wed Sep 05 14:55:49 +0000 2012",
   "user" : {
@@ -3689,7 +3664,7 @@ Grailbird.data.tweets_2012_09 =
   "geo" : {
   },
   "id_str" : "242988691709124609",
-  "text" : "Dear Spotify, Foursquare, etc. - I don't give a shit that one of my Facebook friends has started using your s… http://t.co/DdPfoLor",
+  "text" : "Dear Spotify, Foursquare, etc. - I don't give a shit that one of my Facebook friends has started using your s\u2026 http://t.co/DdPfoLor",
   "id" : 242988691709124609,
   "created_at" : "Tue Sep 04 14:13:13 +0000 2012",
   "user" : {
@@ -3717,7 +3692,7 @@ Grailbird.data.tweets_2012_09 =
       "indices" : [ 82, 103 ],
       "url" : "https://t.co/V78CqeOF",
       "expanded_url" : "https://jira.springsource.org/browse/SPR-8680?page=com.atlassian.jira.plugin.system.issuetabpanels:worklog-tabpanel",
-      "display_url" : "jira.springsource.org/browse/SPR-868…"
+      "display_url" : "jira.springsource.org/browse/SPR-868\u2026"
     } ]
   },
   "geo" : {
@@ -3734,7 +3709,7 @@ Grailbird.data.tweets_2012_09 =
         "indices" : [ 70, 91 ],
         "url" : "https://t.co/V78CqeOF",
         "expanded_url" : "https://jira.springsource.org/browse/SPR-8680?page=com.atlassian.jira.plugin.system.issuetabpanels:worklog-tabpanel",
-        "display_url" : "jira.springsource.org/browse/SPR-868…"
+        "display_url" : "jira.springsource.org/browse/SPR-868\u2026"
       } ]
     },
     "geo" : {
@@ -3748,7 +3723,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "ftrain",
       "protected" : false,
       "id_str" : "6981492",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3011615576/526cb024f6d50ed582f687565cbadd84_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3363818792/c90e33ccf22e3146d5cd871ce561795a_normal.png",
       "id" : 6981492,
       "verified" : false
     }
@@ -3867,7 +3842,7 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "242751581152481280",
   "in_reply_to_user_id" : 208789178,
-  "text" : "@adamlaiacano How did you get ‘make’ back on Mountain Lion?",
+  "text" : "@adamlaiacano How did you get \u2018make\u2019 back on Mountain Lion?",
   "id" : 242751581152481280,
   "created_at" : "Mon Sep 03 22:31:01 +0000 2012",
   "in_reply_to_screen_name" : "adamlaiacano",
@@ -3970,7 +3945,7 @@ Grailbird.data.tweets_2012_09 =
   },
   "id_str" : "242074386700582913",
   "in_reply_to_user_id" : 240997975,
-  "text" : "@KyleWpppd It’s hard (you know better than I do) but there are lots of easy little things they could do that would go a long way.",
+  "text" : "@KyleWpppd It\u2019s hard (you know better than I do) but there are lots of easy little things they could do that would go a long way.",
   "id" : 242074386700582913,
   "in_reply_to_status_id" : 242044977973178368,
   "created_at" : "Sun Sep 02 01:40:05 +0000 2012",
@@ -4030,7 +4005,7 @@ Grailbird.data.tweets_2012_09 =
   "geo" : {
   },
   "id_str" : "241928267475607552",
-  "text" : "My 21” iMac feels mighty cramped for programming on after using a 27” Thunderbolt display at work for the past six months...",
+  "text" : "My 21\u201D iMac feels mighty cramped for programming on after using a 27\u201D Thunderbolt display at work for the past six months...",
   "id" : 241928267475607552,
   "created_at" : "Sat Sep 01 15:59:28 +0000 2012",
   "user" : {

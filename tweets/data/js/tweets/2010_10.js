@@ -3,11 +3,11 @@ Grailbird.data.tweets_2010_10 =
   "source" : "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Time Warner Cable ",
-      "screen_name" : "TWCable_NYC",
+      "name" : "TWC",
+      "screen_name" : "twcable_nyc",
       "indices" : [ 0, 12 ],
-      "id_str" : "121165704",
-      "id" : 121165704
+      "id_str" : "1225944228",
+      "id" : 1225944228
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -23,7 +23,7 @@ Grailbird.data.tweets_2010_10 =
   "text" : "@TWCable_NYC is awful. Internet and cable have been out for over 4 hours #fb",
   "id" : 29328471882,
   "created_at" : "Mon Nov 01 01:06:05 +0000 2010",
-  "in_reply_to_screen_name" : "TWCable_NYC",
+  "in_reply_to_screen_name" : "TWC_NYNJ",
   "in_reply_to_user_id_str" : "121165704",
   "user" : {
     "name" : "Bryan Irace",
@@ -38,11 +38,11 @@ Grailbird.data.tweets_2010_10 =
   "source" : "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Time Warner Cable ",
-      "screen_name" : "TWCable_NYC",
+      "name" : "TWC",
+      "screen_name" : "twcable_nyc",
       "indices" : [ 0, 12 ],
-      "id_str" : "121165704",
-      "id" : 121165704
+      "id_str" : "1225944228",
+      "id" : 1225944228
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -58,7 +58,7 @@ Grailbird.data.tweets_2010_10 =
   "text" : "@TWCable_NYC is terrible. Internet and cable have been out for over 4 hours #fb",
   "id" : 29328051450,
   "created_at" : "Mon Nov 01 01:00:34 +0000 2010",
-  "in_reply_to_screen_name" : "TWCable_NYC",
+  "in_reply_to_screen_name" : "TWC_NYNJ",
   "in_reply_to_user_id_str" : "121165704",
   "user" : {
     "name" : "Bryan Irace",

@@ -552,7 +552,7 @@ Grailbird.data.tweets_2012_02 =
   "geo" : {
   },
   "id_str" : "172169695531773953",
-  "text" : "The Overwhelming Onslaught Of iMessages | PandoDaily - Though I’ve been clamoring for iOS/OS X messaging... http://t.co/6SDclpEP",
+  "text" : "The Overwhelming Onslaught Of iMessages | PandoDaily - Though I\u2019ve been clamoring for iOS/OS X messaging... http://t.co/6SDclpEP",
   "id" : 172169695531773953,
   "created_at" : "Wed Feb 22 04:03:48 +0000 2012",
   "user" : {
@@ -606,7 +606,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "Harpers",
       "protected" : false,
       "id_str" : "14287094",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3091428152/9db1785eb02dd774695dd1db0ac3766e_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3668636172/5069d2d7b281307afacdfc75eade62b6_normal.png",
       "id" : 14287094,
       "verified" : false
     }
@@ -639,7 +639,7 @@ Grailbird.data.tweets_2012_02 =
   "geo" : {
   },
   "id_str" : "172012163928563712",
-  "text" : "“@KenTremendous: My favorite writer would've turned fifty today. RIP, DFW.” Ugh, this just ruined my day.",
+  "text" : "\u201C@KenTremendous: My favorite writer would've turned fifty today. RIP, DFW.\u201D Ugh, this just ruined my day.",
   "id" : 172012163928563712,
   "created_at" : "Tue Feb 21 17:37:50 +0000 2012",
   "user" : {
@@ -686,7 +686,13 @@ Grailbird.data.tweets_2012_02 =
 }, {
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Eduardo Bornstein",
+      "screen_name" : "EBornstein",
+      "indices" : [ 0, 11 ],
+      "id_str" : "1266439448",
+      "id" : 1266439448
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -700,7 +706,7 @@ Grailbird.data.tweets_2012_02 =
   "id" : 171638627502260224,
   "in_reply_to_status_id" : 171638220898058241,
   "created_at" : "Mon Feb 20 16:53:32 +0000 2012",
-  "in_reply_to_screen_name" : "EGeoffB",
+  "in_reply_to_screen_name" : "BornEricG",
   "in_reply_to_user_id_str" : "17944655",
   "user" : {
     "name" : "Bryan Irace",
@@ -804,7 +810,7 @@ Grailbird.data.tweets_2012_02 =
   },
   "id_str" : "169960105545175040",
   "in_reply_to_user_id" : 269594600,
-  "text" : "@spuggeddie I saw one episode, it was soap opera bad. Also Breaking Bad is literally going to go down as one of the best shows of all time…",
+  "text" : "@spuggeddie I saw one episode, it was soap opera bad. Also Breaking Bad is literally going to go down as one of the best shows of all time\u2026",
   "id" : 169960105545175040,
   "in_reply_to_status_id" : 169959367750332416,
   "created_at" : "Thu Feb 16 01:43:41 +0000 2012",
@@ -983,7 +989,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "Scott_Source",
       "protected" : false,
       "id_str" : "43650262",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2935690818/3d4faba3d3e60673e4627553d0cc10fd_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3373805663/7c76fa864107c14b5a04cf5643a702f7_normal.jpeg",
       "id" : 43650262,
       "verified" : false
     }
@@ -1149,7 +1155,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "parislemon",
       "protected" : false,
       "id_str" : "652193",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2748300201/ecc4dbe1c912ebac9a7aee2e85b51859_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3336694463/99718483afb19d6d441290afccb72772_normal.jpeg",
       "id" : 652193,
       "verified" : true
     }
@@ -1202,7 +1208,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "parislemon",
       "protected" : false,
       "id_str" : "652193",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2748300201/ecc4dbe1c912ebac9a7aee2e85b51859_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3336694463/99718483afb19d6d441290afccb72772_normal.jpeg",
       "id" : 652193,
       "verified" : true
     }
@@ -1427,7 +1433,7 @@ Grailbird.data.tweets_2012_02 =
       "indices" : [ 96, 116 ],
       "url" : "http://t.co/dAoKlVWk",
       "expanded_url" : "http://code.google.com/googleapps/domain/email_settings/developers_guide_protocol.html#GA_email_filter_main",
-      "display_url" : "code.google.com/googleapps/dom…"
+      "display_url" : "code.google.com/googleapps/dom\u2026"
     } ]
   },
   "geo" : {
@@ -1565,7 +1571,7 @@ Grailbird.data.tweets_2012_02 =
   "geo" : {
   },
   "id_str" : "165828302731350017",
-  "text" : "Going to be a HUGE Giants fan for the next 36 hours starting… now. #fb",
+  "text" : "Going to be a HUGE Giants fan for the next 36 hours starting\u2026 now. #fb",
   "id" : 165828302731350017,
   "created_at" : "Sat Feb 04 16:05:22 +0000 2012",
   "user" : {
@@ -1717,7 +1723,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "parislemon",
       "protected" : false,
       "id_str" : "652193",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2748300201/ecc4dbe1c912ebac9a7aee2e85b51859_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3336694463/99718483afb19d6d441290afccb72772_normal.jpeg",
       "id" : 652193,
       "verified" : true
     }

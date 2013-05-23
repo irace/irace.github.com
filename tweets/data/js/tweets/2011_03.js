@@ -608,7 +608,7 @@ Grailbird.data.tweets_2011_03 =
   "geo" : {
   },
   "id_str" : "48242309871054848",
-  "text" : "Shebang - Despite developing software for a living, I somehow don’t tend to write very many scripts1. As... http://tumblr.com/xcu1sqr45h",
+  "text" : "Shebang - Despite developing software for a living, I somehow don\u2019t tend to write very many scripts1. As... http://tumblr.com/xcu1sqr45h",
   "id" : 48242309871054848,
   "created_at" : "Thu Mar 17 04:40:37 +0000 2011",
   "user" : {

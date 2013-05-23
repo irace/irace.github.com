@@ -248,7 +248,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 73, 93 ],
       "url" : "http://t.co/fnwEjnnE",
       "expanded_url" : "http://stackoverflow.com/questions/10149811/why-does-nsurlconnection-fail-to-reach-the-backend",
-      "display_url" : "stackoverflow.com/questions/1014…"
+      "display_url" : "stackoverflow.com/questions/1014\u2026"
     } ]
   },
   "geo" : {
@@ -285,13 +285,13 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 90, 110 ],
       "url" : "http://t.co/VzMOBZtQ",
       "expanded_url" : "http://arstechnica.com/apple/2012/07/os-x-10-8/",
-      "display_url" : "arstechnica.com/apple/2012/07/…"
+      "display_url" : "arstechnica.com/apple/2012/07/\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "228120697367572481",
-  "text" : "Really looking forward to reading this. “@siracusa: My review of OS X 10.8 Mountain Lion: http://t.co/VzMOBZtQ”",
+  "text" : "Really looking forward to reading this. \u201C@siracusa: My review of OS X 10.8 Mountain Lion: http://t.co/VzMOBZtQ\u201D",
   "id" : 228120697367572481,
   "created_at" : "Wed Jul 25 13:33:07 +0000 2012",
   "user" : {
@@ -540,7 +540,7 @@ Grailbird.data.tweets_2012_07 =
         "indices" : [ 113, 133 ],
         "url" : "http://t.co/0ezQqfIa",
         "expanded_url" : "http://thepricehike.com/post/27629443696/the-price-hikes-most-excellent-menu-contest",
-        "display_url" : "thepricehike.com/post/276294436…"
+        "display_url" : "thepricehike.com/post/276294436\u2026"
       } ]
     },
     "geo" : {
@@ -616,7 +616,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 13, 33 ],
       "url" : "http://t.co/DsNdwDAk",
       "expanded_url" : "http://dailyjs.com/2012/04/19/semicolons/",
-      "display_url" : "dailyjs.com/2012/04/19/sem…"
+      "display_url" : "dailyjs.com/2012/04/19/sem\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "226050265076338688",
@@ -689,7 +689,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : {
   },
   "id_str" : "225985618998595584",
-  "text" : "\"Semicolons are croutons, difficult to eat with a fork so you brush them aside, but when they’re...\" http://t.co/SNN0UO6w",
+  "text" : "\"Semicolons are croutons, difficult to eat with a fork so you brush them aside, but when they\u2019re...\" http://t.co/SNN0UO6w",
   "id" : 225985618998595584,
   "created_at" : "Thu Jul 19 16:09:04 +0000 2012",
   "user" : {
@@ -821,7 +821,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "POPESLAYER ",
+      "name" : "Elizabeth DeLoria ",
       "screen_name" : "elizabethdanger",
       "indices" : [ 3, 19 ],
       "id_str" : "25274516",
@@ -850,11 +850,11 @@ Grailbird.data.tweets_2012_07 =
     "id" : 215886997074624512,
     "created_at" : "Thu Jun 21 19:20:45 +0000 2012",
     "user" : {
-      "name" : "POPESLAYER ",
+      "name" : "Elizabeth DeLoria ",
       "screen_name" : "elizabethdanger",
       "protected" : false,
       "id_str" : "25274516",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3085788400/636eda8799bcda3baed265687e88820a_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3526023413/25e6f07c2b6c548d0e3f49bbefa1ec47_normal.jpeg",
       "id" : 25274516,
       "verified" : false
     }
@@ -880,7 +880,7 @@ Grailbird.data.tweets_2012_07 =
       "id_str" : "941724637",
       "id" : 941724637
     }, {
-      "name" : "Jay Caspian Kang",
+      "name" : "jay caspian kang",
       "screen_name" : "jaycaspiankang",
       "indices" : [ 29, 44 ],
       "id_str" : "25772065",
@@ -895,10 +895,10 @@ Grailbird.data.tweets_2012_07 =
   "id_str" : "225437852383715330",
   "text" : "RT @sportsguy33: Grantland's @jaycaspiankang wrote a Lin/Knicks/Rockets reaction piece in less than 13 mins (as far as you know). http:/ ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+    "source" : "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00AE</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Jay Caspian Kang",
+        "name" : "jay caspian kang",
         "screen_name" : "jaycaspiankang",
         "indices" : [ 12, 27 ],
         "id_str" : "25772065",
@@ -1059,7 +1059,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : {
   },
   "id_str" : "225075888000217088",
-  "text" : "Facebook’s News Feed Sorely Needs A “Read It Later” Button, And That’s Where Spool Comes In | TechCrunch -... http://t.co/vMdpbh4V",
+  "text" : "Facebook\u2019s News Feed Sorely Needs A \u201CRead It Later\u201D Button, And That\u2019s Where Spool Comes In | TechCrunch -... http://t.co/vMdpbh4V",
   "id" : 225075888000217088,
   "created_at" : "Tue Jul 17 03:54:08 +0000 2012",
   "user" : {
@@ -1174,7 +1174,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "ebaynetflix",
       "protected" : false,
       "id_str" : "61408528",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2403742673/9wxcngl6hp8efnok7gk7_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3434336501/312ce042cc26b8e0ae70afe5eae11db8_normal.jpeg",
       "id" : 61408528,
       "verified" : true
     }
@@ -1280,7 +1280,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 86, 106 ],
       "url" : "http://t.co/KEU9r7dz",
       "expanded_url" : "http://almaer.com/blog/the-product-engineer",
-      "display_url" : "almaer.com/blog/the-produ…"
+      "display_url" : "almaer.com/blog/the-produ\u2026"
     } ]
   },
   "geo" : {
@@ -1303,7 +1303,7 @@ Grailbird.data.tweets_2012_07 =
         "indices" : [ 73, 93 ],
         "url" : "http://t.co/KEU9r7dz",
         "expanded_url" : "http://almaer.com/blog/the-product-engineer",
-        "display_url" : "almaer.com/blog/the-produ…"
+        "display_url" : "almaer.com/blog/the-produ\u2026"
       } ]
     },
     "geo" : {
@@ -1317,7 +1317,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "dalmaer",
       "protected" : false,
       "id_str" : "4216361",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/292949152/dionprofile_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3380865881/f73b3687ff39b795db05fcaf35972270_normal.jpeg",
       "id" : 4216361,
       "verified" : false
     }
@@ -1414,7 +1414,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "224873699864616962",
   "in_reply_to_user_id" : 320539038,
-  "text" : "@paulsanwald Touché - git branch | grep \"*\" then!",
+  "text" : "@paulsanwald Touch\u00E9 - git branch | grep \"*\" then!",
   "id" : 224873699864616962,
   "in_reply_to_status_id" : 224873422025523201,
   "created_at" : "Mon Jul 16 14:30:42 +0000 2012",
@@ -1609,7 +1609,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "BreakingBad_AMC",
       "protected" : false,
       "id_str" : "25399731",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2290518286/zj11cta12rfe2oji9qmu_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3544229928/d119a39bff5dd4b48928072bf2137445_normal.jpeg",
       "id" : 25399731,
       "verified" : true
     }
@@ -1664,7 +1664,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : {
   },
   "id_str" : "223778332725088257",
-  "text" : "Another useful OS X tip I only recently discovered: One of OS X’s biggest flaws, in my opinion, is the lack... http://t.co/tbvLMEvy",
+  "text" : "Another useful OS X tip I only recently discovered: One of OS X\u2019s biggest flaws, in my opinion, is the lack... http://t.co/tbvLMEvy",
   "id" : 223778332725088257,
   "created_at" : "Fri Jul 13 13:58:06 +0000 2012",
   "user" : {
@@ -1692,7 +1692,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : {
   },
   "id_str" : "223776040827355136",
-  "text" : "Did you know that the OS X 'open' command allows you to open Finder windows from Terminal? - Can’t believe I... http://t.co/YO47yRB3",
+  "text" : "Did you know that the OS X 'open' command allows you to open Finder windows from Terminal? - Can\u2019t believe I... http://t.co/YO47yRB3",
   "id" : 223776040827355136,
   "created_at" : "Fri Jul 13 13:49:00 +0000 2012",
   "user" : {
@@ -1788,11 +1788,11 @@ Grailbird.data.tweets_2012_07 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Geordie Guy",
+      "name" : "SpamBroom",
       "screen_name" : "GeordieGuy",
       "indices" : [ 3, 14 ],
-      "id_str" : "16676087",
-      "id" : 16676087
+      "id_str" : "41575940",
+      "id" : 41575940
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1817,11 +1817,11 @@ Grailbird.data.tweets_2012_07 =
     "id" : 222624814412726272,
     "created_at" : "Tue Jul 10 09:34:26 +0000 2012",
     "user" : {
-      "name" : "Geordie Guy",
-      "screen_name" : "GeordieGuy",
+      "name" : "Gordy Shoer",
+      "screen_name" : "GordyPls",
       "protected" : false,
       "id_str" : "16676087",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3242331655/d52fe444fd248f42216ad0f0bdac48c7_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3678316312/ee7a591c568cecf8131f5d97075bf2d8_normal.jpeg",
       "id" : 16676087,
       "verified" : false
     }
@@ -1984,7 +1984,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : {
   },
   "id_str" : "222518080314671106",
-  "text" : "\"Six months ago, we didn’t even yet know it existed.\" http://t.co/n6FPyhcY",
+  "text" : "\"Six months ago, we didn\u2019t even yet know it existed.\" http://t.co/n6FPyhcY",
   "id" : 222518080314671106,
   "created_at" : "Tue Jul 10 02:30:19 +0000 2012",
   "user" : {
@@ -2187,7 +2187,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : {
   },
   "id_str" : "221370792464760832",
-  "text" : "“@davidkarp: Photo: Bryan did nothing... http://t.co/VZJ7SdD4” Thanks guys!",
+  "text" : "\u201C@davidkarp: Photo: Bryan did nothing... http://t.co/VZJ7SdD4\u201D Thanks guys!",
   "id" : 221370792464760832,
   "created_at" : "Fri Jul 06 22:31:24 +0000 2012",
   "user" : {
@@ -2243,7 +2243,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 81, 101 ],
       "url" : "http://t.co/r9iGPEYp",
       "expanded_url" : "http://www.androidcentral.com/porn-producers-eyeing-googles-project-glass-pov-films?style_mobile=0",
-      "display_url" : "androidcentral.com/porn-producers…"
+      "display_url" : "androidcentral.com/porn-producers\u2026"
     } ]
   },
   "geo" : {
@@ -2350,7 +2350,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pete Cashmore",
+      "name" : "Mashable",
       "screen_name" : "mashable",
       "indices" : [ 3, 12 ],
       "id_str" : "972651",
@@ -2374,7 +2374,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : {
   },
   "id_str" : "219614219656634369",
-  "text" : "RT @mashable: Stanford’s Most Popular Major Is Now Computer Science - http://t.co/U0cBpCW8 via @theatlantic",
+  "text" : "RT @mashable: Stanford\u2019s Most Popular Major Is Now Computer Science - http://t.co/U0cBpCW8 via @theatlantic",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
     "entities" : {
@@ -2397,15 +2397,15 @@ Grailbird.data.tweets_2012_07 =
     "geo" : {
     },
     "id_str" : "219590478738366464",
-    "text" : "Stanford’s Most Popular Major Is Now Computer Science - http://t.co/U0cBpCW8 via @theatlantic",
+    "text" : "Stanford\u2019s Most Popular Major Is Now Computer Science - http://t.co/U0cBpCW8 via @theatlantic",
     "id" : 219590478738366464,
     "created_at" : "Mon Jul 02 00:37:04 +0000 2012",
     "user" : {
-      "name" : "Pete Cashmore",
+      "name" : "Mashable",
       "screen_name" : "mashable",
       "protected" : false,
       "id_str" : "972651",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2015016150/petecashmoreavatar_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3690637553/5c348fee8afbcefa1978004a864a51ce_normal.png",
       "id" : 972651,
       "verified" : true
     }

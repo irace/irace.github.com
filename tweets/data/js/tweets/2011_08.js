@@ -104,7 +104,7 @@ Grailbird.data.tweets_2011_08 =
   "geo" : {
   },
   "id_str" : "108742455112904704",
-  "text" : "Keep up the great work! “@billclerico: proud of the @wepay team.  we did more revenue today than we did in the month of july last year”",
+  "text" : "Keep up the great work! \u201C@billclerico: proud of the @wepay team.  we did more revenue today than we did in the month of july last year\u201D",
   "id" : 108742455112904704,
   "created_at" : "Wed Aug 31 03:26:36 +0000 2011",
   "user" : {
@@ -268,7 +268,7 @@ Grailbird.data.tweets_2011_08 =
   },
   "id_str" : "106547143065600000",
   "in_reply_to_user_id" : 14922441,
-  "text" : "@mattbertolini I've heard of it but the standard Terminal has always met my needs. This could be a reason to switch though…",
+  "text" : "@mattbertolini I've heard of it but the standard Terminal has always met my needs. This could be a reason to switch though\u2026",
   "id" : 106547143065600000,
   "in_reply_to_status_id" : 106546513764814848,
   "created_at" : "Thu Aug 25 02:03:13 +0000 2011",

@@ -80,7 +80,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "241388621230399488",
   "in_reply_to_user_id" : 14472428,
-  "text" : "@pter That link’s a 404. Gravy itself is more like a 410 AM I RIGHT?!",
+  "text" : "@pter That link\u2019s a 404. Gravy itself is more like a 410 AM I RIGHT?!",
   "id" : 241388621230399488,
   "created_at" : "Fri Aug 31 04:15:06 +0000 2012",
   "in_reply_to_screen_name" : "pter",
@@ -134,7 +134,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "240974897331974146",
-  "text" : "This is why I don’t have Google+ “@parislemon: I just got alerted that it was someone’s birthday on a completely unrelated search result!?”",
+  "text" : "This is why I don\u2019t have Google+ \u201C@parislemon: I just got alerted that it was someone\u2019s birthday on a completely unrelated search result!?\u201D",
   "id" : 240974897331974146,
   "created_at" : "Thu Aug 30 00:51:07 +0000 2012",
   "user" : {
@@ -174,7 +174,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "240973868657946624",
-  "text" : "“@pter: Tumblr for Android running on a 1.6” MOTOACTV http://t.co/MyZRidoj” Bow before @haseman",
+  "text" : "\u201C@pter: Tumblr for Android running on a 1.6\u201D MOTOACTV http://t.co/MyZRidoj\u201D Bow before @haseman",
   "id" : 240973868657946624,
   "created_at" : "Thu Aug 30 00:47:02 +0000 2012",
   "user" : {
@@ -197,7 +197,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "240918418872737793",
-  "text" : "Subclassin’",
+  "text" : "Subclassin\u2019",
   "id" : 240918418872737793,
   "created_at" : "Wed Aug 29 21:06:41 +0000 2012",
   "user" : {
@@ -228,7 +228,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "240863166488256512",
   "in_reply_to_user_id" : 16538023,
-  "text" : "@billclerico Hopefully already doing my part, one iPhone-optimized cat GIF at a time…",
+  "text" : "@billclerico Hopefully already doing my part, one iPhone-optimized cat GIF at a time\u2026",
   "id" : 240863166488256512,
   "in_reply_to_status_id" : 240862535979503617,
   "created_at" : "Wed Aug 29 17:27:08 +0000 2012",
@@ -271,7 +271,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "240862454542909440",
-  "text" : "“dear world, you're welcome. love, @wepay http://t.co/eIM9YOZq” -My pal @billclerico, killing it",
+  "text" : "\u201Cdear world, you're welcome. love, @wepay http://t.co/eIM9YOZq\u201D -My pal @billclerico, killing it",
   "id" : 240862454542909440,
   "created_at" : "Wed Aug 29 17:24:18 +0000 2012",
   "user" : {
@@ -481,7 +481,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "239804023274889217",
   "in_reply_to_user_id" : 399177697,
-  "text" : "@kurthumes I haven’t had Taco Bell in way too long. Need to get some soon.",
+  "text" : "@kurthumes I haven\u2019t had Taco Bell in way too long. Need to get some soon.",
   "id" : 239804023274889217,
   "in_reply_to_status_id" : 239795665067188224,
   "created_at" : "Sun Aug 26 19:18:29 +0000 2012",
@@ -544,7 +544,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "239456609661759488",
   "in_reply_to_user_id" : 14675388,
-  "text" : "@codingjester Don’t work tomorrow, it’s Sunday.",
+  "text" : "@codingjester Don\u2019t work tomorrow, it\u2019s Sunday.",
   "id" : 239456609661759488,
   "in_reply_to_status_id" : 239433177599471616,
   "created_at" : "Sat Aug 25 20:17:59 +0000 2012",
@@ -631,7 +631,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "239145477713571841",
   "in_reply_to_user_id" : 14675388,
-  "text" : "@codingjester Will have to ask Renee about “Bunting’s dark spell.”",
+  "text" : "@codingjester Will have to ask Renee about \u201CBunting\u2019s dark spell.\u201D",
   "id" : 239145477713571841,
   "in_reply_to_status_id" : 239145079648972800,
   "created_at" : "Fri Aug 24 23:41:39 +0000 2012",
@@ -858,7 +858,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "238861472606846977",
-  "text" : "YES “@queerviolet: “Vertically and horizontally centering a &lt;div&gt; with CSS is the hardest problem in computer science.””",
+  "text" : "YES \u201C@queerviolet: \u201CVertically and horizontally centering a &lt;div&gt; with CSS is the hardest problem in computer science.\u201D\u201D",
   "id" : 238861472606846977,
   "created_at" : "Fri Aug 24 04:53:07 +0000 2012",
   "user" : {
@@ -886,7 +886,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "238699549047283712",
-  "text" : "A Faster Facebook for iOS - Facebook Newsroom - Glad that Facebook is finally looking beyond “betting on the... http://t.co/AfWfWNtb",
+  "text" : "A Faster Facebook for iOS - Facebook Newsroom - Glad that Facebook is finally looking beyond \u201Cbetting on the... http://t.co/AfWfWNtb",
   "id" : 238699549047283712,
   "created_at" : "Thu Aug 23 18:09:41 +0000 2012",
   "user" : {
@@ -919,7 +919,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "238630880778797057",
-  "text" : "http://t.co/vsAzdEzq: Tent - Brent Simmons, on Tent: My first thought: if we didn’t have email, and we asked... http://t.co/yzSwnJYj",
+  "text" : "http://t.co/vsAzdEzq: Tent - Brent Simmons, on Tent: My first thought: if we didn\u2019t have email, and we asked... http://t.co/yzSwnJYj",
   "id" : 238630880778797057,
   "created_at" : "Thu Aug 23 13:36:50 +0000 2012",
   "user" : {
@@ -1056,7 +1056,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "jack",
       "protected" : false,
       "id_str" : "12",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2995372691/e2cd761ab5d4d012b3d48133cb4c0ebd_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3510454173/a30238885f5f3ac67c7b68a796290e4e_normal.jpeg",
       "id" : 12,
       "verified" : true
     }
@@ -1088,7 +1088,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "238430601957486592",
-  "text" : "thisistheverge: Tumblr ‘truly disappointed’ by Twitter’s decision to block friend-finding on the blogging ser… http://t.co/u5LBeW7J",
+  "text" : "thisistheverge: Tumblr \u2018truly disappointed\u2019 by Twitter\u2019s decision to block friend-finding on the blogging ser\u2026 http://t.co/u5LBeW7J",
   "id" : 238430601957486592,
   "created_at" : "Thu Aug 23 00:20:59 +0000 2012",
   "user" : {
@@ -1128,7 +1128,7 @@ Grailbird.data.tweets_2012_08 =
         "indices" : [ 116, 136 ],
         "url" : "http://t.co/B6maYMVW",
         "expanded_url" : "http://www.theverge.com/2012/8/22/3260024/at-t-responds-predictably-to-facetime-controversy-says-claims-of-fcc",
-        "display_url" : "theverge.com/2012/8/22/3260…"
+        "display_url" : "theverge.com/2012/8/22/3260\u2026"
       } ]
     },
     "geo" : {
@@ -1279,7 +1279,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "236895403444940800",
   "in_reply_to_user_id" : 14675388,
-  "text" : "@codingjester You’re going to build iPhone software with me?!",
+  "text" : "@codingjester You\u2019re going to build iPhone software with me?!",
   "id" : 236895403444940800,
   "in_reply_to_status_id" : 236886212487561216,
   "created_at" : "Sat Aug 18 18:40:40 +0000 2012",
@@ -1375,7 +1375,7 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 100, 120 ],
       "url" : "http://t.co/sxvCC75Q",
       "expanded_url" : "http://adamlaiacano.tumblr.com/post/11272953536/tips-for-making-a-technical-blog-on-tumblr",
-      "display_url" : "adamlaiacano.tumblr.com/post/112729535…"
+      "display_url" : "adamlaiacano.tumblr.com/post/112729535\u2026"
     } ]
   },
   "geo" : {
@@ -1404,7 +1404,7 @@ Grailbird.data.tweets_2012_08 =
         "indices" : [ 84, 104 ],
         "url" : "http://t.co/sxvCC75Q",
         "expanded_url" : "http://adamlaiacano.tumblr.com/post/11272953536/tips-for-making-a-technical-blog-on-tumblr",
-        "display_url" : "adamlaiacano.tumblr.com/post/112729535…"
+        "display_url" : "adamlaiacano.tumblr.com/post/112729535\u2026"
       } ]
     },
     "geo" : {
@@ -1497,7 +1497,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "¡ David Holmes !",
+      "name" : "\u00A1 David Holmes !",
       "screen_name" : "holmesdm",
       "indices" : [ 3, 12 ],
       "id_str" : "26757325",
@@ -1567,7 +1567,7 @@ Grailbird.data.tweets_2012_08 =
     "id" : 235058711901634563,
     "created_at" : "Mon Aug 13 17:02:18 +0000 2012",
     "user" : {
-      "name" : "¡ David Holmes !",
+      "name" : "\u00A1 David Holmes !",
       "screen_name" : "holmesdm",
       "protected" : false,
       "id_str" : "26757325",
@@ -1603,7 +1603,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "235191789034811392",
-  "text" : "parislemon: robsheridan: A statement prepared for President Nixon to read in the event that Neil Armstrong an… http://t.co/j3Pttb58",
+  "text" : "parislemon: robsheridan: A statement prepared for President Nixon to read in the event that Neil Armstrong an\u2026 http://t.co/j3Pttb58",
   "id" : 235191789034811392,
   "created_at" : "Tue Aug 14 01:51:06 +0000 2012",
   "user" : {
@@ -1632,7 +1632,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "235147501966086144",
-  "text" : "RT @nzkoz: New game: reverse recruiter spam. Apply for jobs you’re ridiculously unqualified for. E.g ambassador to Botswana, central ban ...",
+  "text" : "RT @nzkoz: New game: reverse recruiter spam. Apply for jobs you\u2019re ridiculously unqualified for. E.g ambassador to Botswana, central ban ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
     "entities" : {
@@ -1644,7 +1644,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "233657879519965184",
-    "text" : "New game: reverse recruiter spam. Apply for jobs you’re ridiculously unqualified for. E.g ambassador to Botswana, central bank governor etc.",
+    "text" : "New game: reverse recruiter spam. Apply for jobs you\u2019re ridiculously unqualified for. E.g ambassador to Botswana, central bank governor etc.",
     "id" : 233657879519965184,
     "created_at" : "Thu Aug 09 20:15:54 +0000 2012",
     "user" : {
@@ -2076,7 +2076,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "233084899572211712",
-  "text" : "RT @marcoarment: I’ve almost forgotten how to write a web form.",
+  "text" : "RT @marcoarment: I\u2019ve almost forgotten how to write a web form.",
   "retweeted_status" : {
     "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
     "entities" : {
@@ -2088,7 +2088,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "232941549309280256",
-    "text" : "I’ve almost forgotten how to write a web form.",
+    "text" : "I\u2019ve almost forgotten how to write a web form.",
     "id" : 232941549309280256,
     "created_at" : "Tue Aug 07 20:49:27 +0000 2012",
     "user" : {
@@ -2372,7 +2372,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "231592635746377728",
-  "text" : "RT @marcoarment: They actually let me say “Fixed bugs from the future.”",
+  "text" : "RT @marcoarment: They actually let me say \u201CFixed bugs from the future.\u201D",
   "retweeted_status" : {
     "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
     "entities" : {
@@ -2384,7 +2384,7 @@ Grailbird.data.tweets_2012_08 =
     "geo" : {
     },
     "id_str" : "231587732454006785",
-    "text" : "They actually let me say “Fixed bugs from the future.”",
+    "text" : "They actually let me say \u201CFixed bugs from the future.\u201D",
     "id" : 231587732454006785,
     "created_at" : "Sat Aug 04 03:09:52 +0000 2012",
     "user" : {
@@ -2452,7 +2452,7 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 73, 93 ],
       "url" : "http://t.co/fnwEjnnE",
       "expanded_url" : "http://stackoverflow.com/questions/10149811/why-does-nsurlconnection-fail-to-reach-the-backend",
-      "display_url" : "stackoverflow.com/questions/1014…"
+      "display_url" : "stackoverflow.com/questions/1014\u2026"
     } ]
   },
   "geo" : {
@@ -2489,7 +2489,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "231016099645362176",
-  "text" : "“That’s why I’m so worried. It’s the thought that Twitter may not be Twitter anymore.” http://t.co/P8rcX0CM",
+  "text" : "\u201CThat\u2019s why I\u2019m so worried. It\u2019s the thought that Twitter may not be Twitter anymore.\u201D http://t.co/P8rcX0CM",
   "id" : 231016099645362176,
   "created_at" : "Thu Aug 02 13:18:24 +0000 2012",
   "user" : {
@@ -2609,7 +2609,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "230761304531562497",
-  "text" : "\"Hi Bryan, How are you? Found your profile on “LinkedIn” and seems you are doing pretty good at Rent The Runway.\" Uh...",
+  "text" : "\"Hi Bryan, How are you? Found your profile on \u201CLinkedIn\u201D and seems you are doing pretty good at Rent The Runway.\" Uh...",
   "id" : 230761304531562497,
   "created_at" : "Wed Aug 01 20:25:56 +0000 2012",
   "user" : {

@@ -334,7 +334,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "jblanton",
       "protected" : false,
       "id_str" : "703873",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1621345559/jb_profile_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3427142671/a3c4343d4d90e4aa306b0fb6b7f003b4_normal.jpeg",
       "id" : 703873,
       "verified" : false
     }
@@ -743,7 +743,7 @@ Grailbird.data.tweets_2011_01 =
   "geo" : {
   },
   "id_str" : "24997393816625152",
-  "text" : "Hard to disagree: \"Sick of Google taking stands for “open” only conveniently when it’s in their best interest to do so\" http://t.co/gJFPXei",
+  "text" : "Hard to disagree: \"Sick of Google taking stands for \u201Copen\u201D only conveniently when it\u2019s in their best interest to do so\" http://t.co/gJFPXei",
   "id" : 24997393816625152,
   "created_at" : "Wed Jan 12 01:13:37 +0000 2011",
   "user" : {
@@ -830,7 +830,7 @@ Grailbird.data.tweets_2011_01 =
   "geo" : {
   },
   "id_str" : "24205773412241408",
-  "text" : "This is amazing: “@robneyer: Super Mario version of Marshawn Lynch's TD run: http://t.co/dM9cdex”",
+  "text" : "This is amazing: \u201C@robneyer: Super Mario version of Marshawn Lynch's TD run: http://t.co/dM9cdex\u201D",
   "id" : 24205773412241408,
   "created_at" : "Sun Jan 09 20:48:00 +0000 2011",
   "user" : {
@@ -905,7 +905,7 @@ Grailbird.data.tweets_2011_01 =
       "indices" : [ 0, 19 ],
       "url" : "http://t.co/DuL2Mub",
       "expanded_url" : "http://ifiboughtyourappalreadycaniupdateitthroughthemacappstore.com/",
-      "display_url" : "…caniupdateitthroughthemacappstore.com"
+      "display_url" : "\u2026caniupdateitthroughthemacappstore.com"
     } ]
   },
   "geo" : {

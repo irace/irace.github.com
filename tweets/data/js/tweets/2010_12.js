@@ -137,7 +137,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "keithlaw",
       "protected" : false,
       "id_str" : "15146558",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2801893923/02e32a688ebec9284ef4547494c83bd7_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3465020777/998ff61be662fd0bf8c93b5e14c358bd_normal.jpeg",
       "id" : 15146558,
       "verified" : true
     }
@@ -397,7 +397,7 @@ Grailbird.data.tweets_2010_12 =
   "geo" : {
   },
   "id_str" : "16317902688886784",
-  "text" : "Buying Programming Books - I don’t have a lot of self control when it comes to buying books; one of my worst... http://tumblr.com/xcu135mty1",
+  "text" : "Buying Programming Books - I don\u2019t have a lot of self control when it comes to buying books; one of my worst... http://tumblr.com/xcu135mty1",
   "id" : 16317902688886784,
   "created_at" : "Sun Dec 19 02:24:25 +0000 2010",
   "user" : {

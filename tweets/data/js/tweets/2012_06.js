@@ -22,7 +22,7 @@ Grailbird.data.tweets_2012_06 =
   "geo" : {
   },
   "id_str" : "218834236826853376",
-  "text" : "RT @steven_dent: Since when has @tumblr improved their web interface for tablets? It’s far nicer now. Makes iPad blogging easier!",
+  "text" : "RT @steven_dent: Since when has @tumblr improved their web interface for tablets? It\u2019s far nicer now. Makes iPad blogging easier!",
   "retweeted_status" : {
     "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
     "entities" : {
@@ -40,7 +40,7 @@ Grailbird.data.tweets_2012_06 =
     "geo" : {
     },
     "id_str" : "218824095230476288",
-    "text" : "Since when has @tumblr improved their web interface for tablets? It’s far nicer now. Makes iPad blogging easier!",
+    "text" : "Since when has @tumblr improved their web interface for tablets? It\u2019s far nicer now. Makes iPad blogging easier!",
     "id" : 218824095230476288,
     "created_at" : "Fri Jun 29 21:51:44 +0000 2012",
     "user" : {
@@ -104,7 +104,7 @@ Grailbird.data.tweets_2012_06 =
         "indices" : [ 115, 135 ],
         "url" : "http://t.co/Pj1gPIHc",
         "expanded_url" : "http://editorial.tumblr.com/post/26098082639/mackenzie-mehan-why-yes-the-tumblr",
-        "display_url" : "editorial.tumblr.com/post/260980826…"
+        "display_url" : "editorial.tumblr.com/post/260980826\u2026"
       } ]
     },
     "geo" : {
@@ -204,7 +204,7 @@ Grailbird.data.tweets_2012_06 =
   },
   "id_str" : "218457566139785216",
   "in_reply_to_user_id" : 72953085,
-  "text" : "@pausantesmasses totally shamed them into this /cc @johnnyoffline  “@tumblr: Our delicious neighbor @Eataly has a @tumblr!”",
+  "text" : "@pausantesmasses totally shamed them into this /cc @johnnyoffline  \u201C@tumblr: Our delicious neighbor @Eataly has a @tumblr!\u201D",
   "id" : 218457566139785216,
   "created_at" : "Thu Jun 28 21:35:17 +0000 2012",
   "in_reply_to_screen_name" : "pausantesmasses",
@@ -246,7 +246,7 @@ Grailbird.data.tweets_2012_06 =
   "geo" : {
   },
   "id_str" : "217359779532779521",
-  "text" : "Hey I was totally cropped out of this photo: “@verge: 5 Minutes on The Verge: Tumblr's Peter Vidani @pter http://t.co/ntfWOWFr”",
+  "text" : "Hey I was totally cropped out of this photo: \u201C@verge: 5 Minutes on The Verge: Tumblr's Peter Vidani @pter http://t.co/ntfWOWFr\u201D",
   "id" : 217359779532779521,
   "created_at" : "Mon Jun 25 20:53:04 +0000 2012",
   "user" : {
@@ -351,7 +351,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "izs",
       "protected" : false,
       "id_str" : "8038312",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3249722253/8e9eab56978e67bd6bc93f03a33b4573_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3696713350/a38d7698a9f7bbc6576e99288c81bec0_normal.png",
       "id" : 8038312,
       "verified" : false
     }
@@ -826,7 +826,7 @@ Grailbird.data.tweets_2012_06 =
   },
   "id_str" : "215663040861962241",
   "in_reply_to_user_id" : 14472428,
-  "text" : "@pter ★★?",
+  "text" : "@pter \u2605\u2605?",
   "id" : 215663040861962241,
   "in_reply_to_status_id" : 215662059008966656,
   "created_at" : "Thu Jun 21 04:30:50 +0000 2012",
@@ -901,7 +901,7 @@ Grailbird.data.tweets_2012_06 =
   "geo" : {
   },
   "id_str" : "215653702931976192",
-  "text" : "RT @derekg: Quite simply ….. fuck yeah. http://t.co/ggsGnoMo",
+  "text" : "RT @derekg: Quite simply \u2026.. fuck yeah. http://t.co/ggsGnoMo",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.tumblr.com/\" rel=\"nofollow\">Tumblr</a>",
     "entities" : {
@@ -918,7 +918,7 @@ Grailbird.data.tweets_2012_06 =
     "geo" : {
     },
     "id_str" : "215653608027463680",
-    "text" : "Quite simply ….. fuck yeah. http://t.co/ggsGnoMo",
+    "text" : "Quite simply \u2026.. fuck yeah. http://t.co/ggsGnoMo",
     "id" : 215653608027463680,
     "created_at" : "Thu Jun 21 03:53:21 +0000 2012",
     "user" : {
@@ -958,7 +958,7 @@ Grailbird.data.tweets_2012_06 =
   "geo" : {
   },
   "id_str" : "215115712237277185",
-  "text" : "No Price, No Date, No Apps, No Problem. No Wait — Problem. by MG Siegler - I was going to write some... http://t.co/wvL7TEB0",
+  "text" : "No Price, No Date, No Apps, No Problem. No Wait \u2014 Problem. by MG Siegler - I was going to write some... http://t.co/wvL7TEB0",
   "id" : 215115712237277185,
   "created_at" : "Tue Jun 19 16:15:57 +0000 2012",
   "user" : {
@@ -1015,7 +1015,7 @@ Grailbird.data.tweets_2012_06 =
   "geo" : {
   },
   "id_str" : "214921502431252481",
-  "text" : "RT @gruber: If Microsoft is willing to make its own ARM tablets and portable PCs, why not their own phones, too? (Checks Nokia stock price…)",
+  "text" : "RT @gruber: If Microsoft is willing to make its own ARM tablets and portable PCs, why not their own phones, too? (Checks Nokia stock price\u2026)",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
     "entities" : {
@@ -1027,7 +1027,7 @@ Grailbird.data.tweets_2012_06 =
     "geo" : {
     },
     "id_str" : "214916855826092033",
-    "text" : "If Microsoft is willing to make its own ARM tablets and portable PCs, why not their own phones, too? (Checks Nokia stock price…)",
+    "text" : "If Microsoft is willing to make its own ARM tablets and portable PCs, why not their own phones, too? (Checks Nokia stock price\u2026)",
     "id" : 214916855826092033,
     "created_at" : "Tue Jun 19 03:05:46 +0000 2012",
     "user" : {
@@ -1208,7 +1208,7 @@ Grailbird.data.tweets_2012_06 =
       "indices" : [ 5, 25 ],
       "url" : "http://t.co/fDadwzEr",
       "expanded_url" : "http://uxmovement.com/buttons/why-ok-buttons-in-dialog-boxes-work-best-on-the-right/",
-      "display_url" : "uxmovement.com/buttons/why-ok…"
+      "display_url" : "uxmovement.com/buttons/why-ok\u2026"
     } ]
   },
   "geo" : {
@@ -1239,7 +1239,7 @@ Grailbird.data.tweets_2012_06 =
       "indices" : [ 69, 90 ],
       "url" : "https://t.co/eDUXk9ib",
       "expanded_url" : "https://foursquare.com/irace/checkin/4fdcbcf5e4b019d606e8ec1c?s=EWXP_ejsGOIj56NlUgPUEGrUPXM&ref=tw",
-      "display_url" : "foursquare.com/irace/checkin/…"
+      "display_url" : "foursquare.com/irace/checkin/\u2026"
     } ]
   },
   "geo" : {
@@ -1491,7 +1491,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "danbenjamin",
       "protected" : false,
       "id_str" : "5905672",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2623528696/iahn1tuacgx31qmlvia3_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3499227529/8d87a58c61de99d7adc3d489d5dc23c6_normal.png",
       "id" : 5905672,
       "verified" : false
     }
@@ -1517,7 +1517,7 @@ Grailbird.data.tweets_2012_06 =
       "indices" : [ 120, 140 ],
       "url" : "http://t.co/G4zOqWGS",
       "expanded_url" : "http://techcrunch.com/2012/06/12/more-ios-6-features-new-privacy-settings-share-widgets-revamped-store-apps-more/",
-      "display_url" : "techcrunch.com/2012/06/12/mor…"
+      "display_url" : "techcrunch.com/2012/06/12/mor\u2026"
     } ]
   },
   "geo" : {
@@ -1707,7 +1707,7 @@ Grailbird.data.tweets_2012_06 =
       "indices" : [ 45, 65 ],
       "url" : "http://t.co/rxxDvIj9",
       "expanded_url" : "http://www.davechen.net/2012/06/but-what-if-it-just-doesnt-make-sense.html",
-      "display_url" : "davechen.net/2012/06/but-wh…"
+      "display_url" : "davechen.net/2012/06/but-wh\u2026"
     } ]
   },
   "geo" : {
@@ -1809,7 +1809,7 @@ Grailbird.data.tweets_2012_06 =
   "geo" : {
   },
   "id_str" : "212387254180642816",
-  "text" : "Facebook’s Camera app gets a new name: Camera•. Yes, “•” - That is so stupid. http://t.co/L0aosB04",
+  "text" : "Facebook\u2019s Camera app gets a new name: Camera\u2022. Yes, \u201C\u2022\u201D - That is so stupid. http://t.co/L0aosB04",
   "id" : 212387254180642816,
   "created_at" : "Tue Jun 12 03:34:02 +0000 2012",
   "user" : {
@@ -2217,7 +2217,7 @@ Grailbird.data.tweets_2012_06 =
       "indices" : [ 48, 69 ],
       "url" : "https://t.co/eAtAu5TO",
       "expanded_url" : "https://github.com/madrobby/zepto/blob/master/src/ajax.js",
-      "display_url" : "github.com/madrobby/zepto…"
+      "display_url" : "github.com/madrobby/zepto\u2026"
     } ]
   },
   "geo" : {
@@ -2311,7 +2311,7 @@ Grailbird.data.tweets_2012_06 =
   "geo" : {
   },
   "id_str" : "211866580039118848",
-  "text" : "\"I’ve argued that node.js is a better platform for modern web applications because those applications...\" http://t.co/qWQtqSlA",
+  "text" : "\"I\u2019ve argued that node.js is a better platform for modern web applications because those applications...\" http://t.co/qWQtqSlA",
   "id" : 211866580039118848,
   "created_at" : "Sun Jun 10 17:05:03 +0000 2012",
   "user" : {
@@ -2585,7 +2585,7 @@ Grailbird.data.tweets_2012_06 =
       "indices" : [ 106, 127 ],
       "url" : "https://t.co/9Sm0Xd7f",
       "expanded_url" : "https://github.com/blog/1104-credential-caching-for-wrist-friendly-git-usage",
-      "display_url" : "github.com/blog/1104-cred…"
+      "display_url" : "github.com/blog/1104-cred\u2026"
     } ]
   },
   "geo" : {
@@ -2608,7 +2608,7 @@ Grailbird.data.tweets_2012_06 =
         "indices" : [ 92, 113 ],
         "url" : "https://t.co/9Sm0Xd7f",
         "expanded_url" : "https://github.com/blog/1104-credential-caching-for-wrist-friendly-git-usage",
-        "display_url" : "github.com/blog/1104-cred…"
+        "display_url" : "github.com/blog/1104-cred\u2026"
       } ]
     },
     "geo" : {
@@ -2622,7 +2622,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "substack",
       "protected" : false,
       "id_str" : "125027291",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2843914272/5a8b739a0a01a1523ee5f150b1ec4acf_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3342514715/3fde89df63ea4dacf9de71369019df22_normal.png",
       "id" : 125027291,
       "verified" : false
     }
@@ -2742,7 +2742,7 @@ Grailbird.data.tweets_2012_06 =
       "indices" : [ 83, 103 ],
       "url" : "http://t.co/sHAUFWrr",
       "expanded_url" : "http://docs.nodejitsu.com/articles/REPL/how-to-create-a-custom-repl",
-      "display_url" : "docs.nodejitsu.com/articles/REPL/…"
+      "display_url" : "docs.nodejitsu.com/articles/REPL/\u2026"
     } ]
   },
   "geo" : {
@@ -2815,7 +2815,7 @@ Grailbird.data.tweets_2012_06 =
         "indices" : [ 102, 122 ],
         "url" : "http://t.co/jLJMH7G8",
         "expanded_url" : "http://engineering.tumblr.com/post/24612921290",
-        "display_url" : "engineering.tumblr.com/post/246129212…"
+        "display_url" : "engineering.tumblr.com/post/246129212\u2026"
       }, {
         "indices" : [ 123, 144 ],
         "url" : "https://t.co/cGy8skAj",
@@ -2926,7 +2926,7 @@ Grailbird.data.tweets_2012_06 =
   "geo" : {
   },
   "id_str" : "210562896328015873",
-  "text" : "Dear Eric Schmidt, It’s Been 6 Months — Where Are Those iOS-Slaying Android Exclusive Apps? | TechCrunch http://t.co/SHDxLHKA",
+  "text" : "Dear Eric Schmidt, It\u2019s Been 6 Months \u2014 Where Are Those iOS-Slaying Android Exclusive Apps? | TechCrunch http://t.co/SHDxLHKA",
   "id" : 210562896328015873,
   "created_at" : "Thu Jun 07 02:44:41 +0000 2012",
   "user" : {
@@ -2961,7 +2961,7 @@ Grailbird.data.tweets_2012_06 =
   "geo" : {
   },
   "id_str" : "210449732772962304",
-  "text" : "START KEEPING TRACK OF MY READ STATE, @twitter. If @tweetbot had a desktop client, I'd switch for this reason alone…",
+  "text" : "START KEEPING TRACK OF MY READ STATE, @twitter. If @tweetbot had a desktop client, I'd switch for this reason alone\u2026",
   "id" : 210449732772962304,
   "created_at" : "Wed Jun 06 19:15:00 +0000 2012",
   "user" : {
@@ -3141,7 +3141,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "dalmaer",
       "protected" : false,
       "id_str" : "4216361",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/292949152/dionprofile_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3380865881/f73b3687ff39b795db05fcaf35972270_normal.jpeg",
       "id" : 4216361,
       "verified" : false
     }
@@ -3191,7 +3191,7 @@ Grailbird.data.tweets_2012_06 =
   },
   "id_str" : "209834737806745601",
   "in_reply_to_user_id" : 240997975,
-  "text" : "@kylewpppd “@hackerschool: The first batch of Hacker School (last year): http://t.co/DGMZuiIG The fourth (today): http://t.co/Eeq2MHTF”",
+  "text" : "@kylewpppd \u201C@hackerschool: The first batch of Hacker School (last year): http://t.co/DGMZuiIG The fourth (today): http://t.co/Eeq2MHTF\u201D",
   "id" : 209834737806745601,
   "created_at" : "Tue Jun 05 02:31:14 +0000 2012",
   "in_reply_to_screen_name" : "KyleWpppd",
@@ -3240,8 +3240,8 @@ Grailbird.data.tweets_2012_06 =
       "name" : "Alex MacCaw",
       "screen_name" : "maccman",
       "indices" : [ 0, 8 ],
-      "id_str" : "2006261",
-      "id" : 2006261
+      "id_str" : "1345494948",
+      "id" : 1345494948
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3256,7 +3256,7 @@ Grailbird.data.tweets_2012_06 =
   "id" : 209688577012023296,
   "in_reply_to_status_id" : 209688422225428482,
   "created_at" : "Mon Jun 04 16:50:27 +0000 2012",
-  "in_reply_to_screen_name" : "maccman",
+  "in_reply_to_screen_name" : "maccaw",
   "in_reply_to_user_id_str" : "2006261",
   "user" : {
     "name" : "Bryan Irace",
@@ -3274,8 +3274,8 @@ Grailbird.data.tweets_2012_06 =
       "name" : "Alex MacCaw",
       "screen_name" : "maccman",
       "indices" : [ 0, 8 ],
-      "id_str" : "2006261",
-      "id" : 2006261
+      "id_str" : "1345494948",
+      "id" : 1345494948
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3288,7 +3288,7 @@ Grailbird.data.tweets_2012_06 =
   "text" : "@maccman Would you recommend either the Kindle or iBooks version of JavaScript Web Applications over the other?",
   "id" : 209688225822932993,
   "created_at" : "Mon Jun 04 16:49:03 +0000 2012",
-  "in_reply_to_screen_name" : "maccman",
+  "in_reply_to_screen_name" : "maccaw",
   "in_reply_to_user_id_str" : "2006261",
   "user" : {
     "name" : "Bryan Irace",
@@ -3504,7 +3504,7 @@ Grailbird.data.tweets_2012_06 =
       "id_str" : "127666940",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/1606758753/AdamPhoto2_normal.jpg",
       "id" : 127666940,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 208743723121647616,
@@ -3555,7 +3555,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "parislemon",
       "protected" : false,
       "id_str" : "652193",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2748300201/ecc4dbe1c912ebac9a7aee2e85b51859_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3336694463/99718483afb19d6d441290afccb72772_normal.jpeg",
       "id" : 652193,
       "verified" : true
     }

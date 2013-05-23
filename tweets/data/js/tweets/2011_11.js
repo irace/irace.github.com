@@ -41,7 +41,7 @@ Grailbird.data.tweets_2011_11 =
       "indices" : [ 75, 95 ],
       "url" : "http://t.co/MiDY0HP4",
       "expanded_url" : "http://mog.com/m/track/60319267",
-      "display_url" : "mog.com/m/track/603192…"
+      "display_url" : "mog.com/m/track/603192\u2026"
     } ]
   },
   "geo" : {
@@ -76,7 +76,7 @@ Grailbird.data.tweets_2011_11 =
   "geo" : {
   },
   "id_str" : "141229888999915520",
-  "text" : "RT @gruber: Super 8\n★★★\n\nLike Lost, condensed to 2 hours. 1st half was great: mystery, intrigue, fun characters. 2nd half: lots of unsat ...",
+  "text" : "RT @gruber: Super 8\n\u2605\u2605\u2605\n\nLike Lost, condensed to 2 hours. 1st half was great: mystery, intrigue, fun characters. 2nd half: lots of unsat ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "entities" : {
@@ -88,7 +88,7 @@ Grailbird.data.tweets_2011_11 =
     "geo" : {
     },
     "id_str" : "141225451782807552",
-    "text" : "Super 8\n★★★\n\nLike Lost, condensed to 2 hours. 1st half was great: mystery, intrigue, fun characters. 2nd half: lots of unsatisfying answers.",
+    "text" : "Super 8\n\u2605\u2605\u2605\n\nLike Lost, condensed to 2 hours. 1st half was great: mystery, intrigue, fun characters. 2nd half: lots of unsatisfying answers.",
     "id" : 141225451782807552,
     "created_at" : "Mon Nov 28 18:42:26 +0000 2011",
     "user" : {
@@ -546,7 +546,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "joehewitt",
       "protected" : false,
       "id_str" : "1260231",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2173717356/5A1AB6D0-F2E1-42A5-87E6-FAEA328795BB_normal",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3435084586/1497737f77ceee98431e8ce5bbf440da_normal.jpeg",
       "id" : 1260231,
       "verified" : true
     }
@@ -634,7 +634,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "Scott_Source",
       "protected" : false,
       "id_str" : "43650262",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2935690818/3d4faba3d3e60673e4627553d0cc10fd_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3373805663/7c76fa864107c14b5a04cf5643a702f7_normal.jpeg",
       "id" : 43650262,
       "verified" : false
     }
@@ -748,7 +748,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "Scott_Source",
       "protected" : false,
       "id_str" : "43650262",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2935690818/3d4faba3d3e60673e4627553d0cc10fd_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3373805663/7c76fa864107c14b5a04cf5643a702f7_normal.jpeg",
       "id" : 43650262,
       "verified" : false
     }
@@ -824,7 +824,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "keithlaw",
       "protected" : false,
       "id_str" : "15146558",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2801893923/02e32a688ebec9284ef4547494c83bd7_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3465020777/998ff61be662fd0bf8c93b5e14c358bd_normal.jpeg",
       "id" : 15146558,
       "verified" : true
     }

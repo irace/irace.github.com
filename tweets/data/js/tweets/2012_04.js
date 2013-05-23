@@ -3,7 +3,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "xnoɹǝʃ uɐıɹq",
+      "name" : "xno\u0279\u01DD\u0283 u\u0250\u0131\u0279q",
       "screen_name" : "brianleroux",
       "indices" : [ 3, 15 ],
       "id_str" : "676363",
@@ -32,7 +32,7 @@ Grailbird.data.tweets_2012_04 =
     "id" : 197034374062026755,
     "created_at" : "Mon Apr 30 18:47:10 +0000 2012",
     "user" : {
-      "name" : "xnoɹǝʃ uɐıɹq",
+      "name" : "xno\u0279\u01DD\u0283 u\u0250\u0131\u0279q",
       "screen_name" : "brianleroux",
       "protected" : false,
       "id_str" : "676363",
@@ -301,7 +301,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "Scott_Source",
       "protected" : false,
       "id_str" : "43650262",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2935690818/3d4faba3d3e60673e4627553d0cc10fd_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3373805663/7c76fa864107c14b5a04cf5643a702f7_normal.jpeg",
       "id" : 43650262,
       "verified" : false
     }
@@ -334,7 +334,7 @@ Grailbird.data.tweets_2012_04 =
   "geo" : {
   },
   "id_str" : "195573182760099841",
-  "text" : "“@danbenjamin: Some mornings, the first cup of coffee is just preparation for the second cup, which is where the action happens.” YES.",
+  "text" : "\u201C@danbenjamin: Some mornings, the first cup of coffee is just preparation for the second cup, which is where the action happens.\u201D YES.",
   "id" : 195573182760099841,
   "created_at" : "Thu Apr 26 18:00:55 +0000 2012",
   "user" : {
@@ -419,13 +419,13 @@ Grailbird.data.tweets_2012_04 =
       "indices" : [ 110, 130 ],
       "url" : "http://t.co/X1sBW7uh",
       "expanded_url" : "http://www.theverge.com/2012/4/25/2973805/apple-wwdc-june-11th",
-      "display_url" : "theverge.com/2012/4/25/2973…"
+      "display_url" : "theverge.com/2012/4/25/2973\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "195214550738538496",
-  "text" : "This is what happens the day after blowout earnings: “@joshuatopolsky: WWDC 2012, now sold out. In two hours. http://t.co/X1sBW7uh”",
+  "text" : "This is what happens the day after blowout earnings: \u201C@joshuatopolsky: WWDC 2012, now sold out. In two hours. http://t.co/X1sBW7uh\u201D",
   "id" : 195214550738538496,
   "created_at" : "Wed Apr 25 18:15:50 +0000 2012",
   "user" : {
@@ -566,7 +566,7 @@ Grailbird.data.tweets_2012_04 =
   "geo" : {
   },
   "id_str" : "194894332111749120",
-  "text" : "RT @gruber: Apple would be doing pretty well if the iPhone 4S weren’t such a disappointment.",
+  "text" : "RT @gruber: Apple would be doing pretty well if the iPhone 4S weren\u2019t such a disappointment.",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
     "entities" : {
@@ -578,7 +578,7 @@ Grailbird.data.tweets_2012_04 =
     "geo" : {
     },
     "id_str" : "194893277139439618",
-    "text" : "Apple would be doing pretty well if the iPhone 4S weren’t such a disappointment.",
+    "text" : "Apple would be doing pretty well if the iPhone 4S weren\u2019t such a disappointment.",
     "id" : 194893277139439618,
     "created_at" : "Tue Apr 24 20:59:12 +0000 2012",
     "user" : {
@@ -639,7 +639,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "parislemon",
       "protected" : false,
       "id_str" : "652193",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2748300201/ecc4dbe1c912ebac9a7aee2e85b51859_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3336694463/99718483afb19d6d441290afccb72772_normal.jpeg",
       "id" : 652193,
       "verified" : true
     }
@@ -672,7 +672,7 @@ Grailbird.data.tweets_2012_04 =
   "geo" : {
   },
   "id_str" : "194891681592639489",
-  "text" : "RT @Lessien: Another blowout… This is getting predictable… $AAPL",
+  "text" : "RT @Lessien: Another blowout\u2026 This is getting predictable\u2026 $AAPL",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -684,7 +684,7 @@ Grailbird.data.tweets_2012_04 =
     "geo" : {
     },
     "id_str" : "194886536595120128",
-    "text" : "Another blowout… This is getting predictable… $AAPL",
+    "text" : "Another blowout\u2026 This is getting predictable\u2026 $AAPL",
     "id" : 194886536595120128,
     "created_at" : "Tue Apr 24 20:32:25 +0000 2012",
     "user" : {
@@ -1000,7 +1000,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "Scott_Source",
       "protected" : false,
       "id_str" : "43650262",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2935690818/3d4faba3d3e60673e4627553d0cc10fd_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3373805663/7c76fa864107c14b5a04cf5643a702f7_normal.jpeg",
       "id" : 43650262,
       "verified" : false
     }
@@ -1154,7 +1154,7 @@ Grailbird.data.tweets_2012_04 =
   "geo" : {
   },
   "id_str" : "193431377587343362",
-  "text" : "This is what I do; want to do this as well? “@tumblr: Tumblr Job of the Day: Front-End Product Engineer http://t.co/t0CiPpoP”",
+  "text" : "This is what I do; want to do this as well? \u201C@tumblr: Tumblr Job of the Day: Front-End Product Engineer http://t.co/t0CiPpoP\u201D",
   "id" : 193431377587343362,
   "created_at" : "Fri Apr 20 20:10:08 +0000 2012",
   "user" : {
@@ -1248,13 +1248,13 @@ Grailbird.data.tweets_2012_04 =
       "indices" : [ 73, 93 ],
       "url" : "http://t.co/6BrJrdDX",
       "expanded_url" : "http://open.spotify.com/track/4ldAHJkji64Ke0WlxL9fj9",
-      "display_url" : "open.spotify.com/track/4ldAHJkj…"
+      "display_url" : "open.spotify.com/track/4ldAHJkj\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "193015448277745664",
-  "text" : "#NowPlaying James Blake and Bon Iver – Fall Creek Boys Choir on #Spotify\nhttp://t.co/6BrJrdDX",
+  "text" : "#NowPlaying James Blake and Bon Iver \u2013 Fall Creek Boys Choir on #Spotify\nhttp://t.co/6BrJrdDX",
   "id" : 193015448277745664,
   "created_at" : "Thu Apr 19 16:37:23 +0000 2012",
   "user" : {
@@ -1687,7 +1687,7 @@ Grailbird.data.tweets_2012_04 =
       "indices" : [ 114, 134 ],
       "url" : "http://t.co/SCa8Irtl",
       "expanded_url" : "http://stackoverflow.com/questions/10195118/how-to-use-webkit-mask-box-image-with-a-retina-quality-image/10195458#10195458",
-      "display_url" : "stackoverflow.com/questions/1019…"
+      "display_url" : "stackoverflow.com/questions/1019\u2026"
     } ]
   },
   "geo" : {
@@ -1755,8 +1755,8 @@ Grailbird.data.tweets_2012_04 =
       "name" : "Alex MacCaw",
       "screen_name" : "maccman",
       "indices" : [ 0, 8 ],
-      "id_str" : "2006261",
-      "id" : 2006261
+      "id_str" : "1345494948",
+      "id" : 1345494948
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1769,7 +1769,7 @@ Grailbird.data.tweets_2012_04 =
   "text" : "@maccman Shame that the DRM-free version of JavaScript Web Applications is twice as expensive as the one from Amazon, right?",
   "id" : 191745301441290240,
   "created_at" : "Mon Apr 16 04:30:16 +0000 2012",
-  "in_reply_to_screen_name" : "maccman",
+  "in_reply_to_screen_name" : "maccaw",
   "in_reply_to_user_id_str" : "2006261",
   "user" : {
     "name" : "Bryan Irace",
@@ -1857,7 +1857,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "keithlaw",
       "protected" : false,
       "id_str" : "15146558",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2801893923/02e32a688ebec9284ef4547494c83bd7_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3465020777/998ff61be662fd0bf8c93b5e14c358bd_normal.jpeg",
       "id" : 15146558,
       "verified" : true
     }
@@ -2056,7 +2056,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "Scott_Source",
       "protected" : false,
       "id_str" : "43650262",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2935690818/3d4faba3d3e60673e4627553d0cc10fd_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3373805663/7c76fa864107c14b5a04cf5643a702f7_normal.jpeg",
       "id" : 43650262,
       "verified" : false
     }
@@ -2211,7 +2211,7 @@ Grailbird.data.tweets_2012_04 =
       "indices" : [ 58, 78 ],
       "url" : "http://t.co/wvdEv0Bw",
       "expanded_url" : "http://mashable.com/2012/04/13/best-jobs/",
-      "display_url" : "mashable.com/2012/04/13/bes…"
+      "display_url" : "mashable.com/2012/04/13/bes\u2026"
     } ]
   },
   "geo" : {
@@ -2234,7 +2234,7 @@ Grailbird.data.tweets_2012_04 =
         "indices" : [ 42, 62 ],
         "url" : "http://t.co/wvdEv0Bw",
         "expanded_url" : "http://mashable.com/2012/04/13/best-jobs/",
-        "display_url" : "mashable.com/2012/04/13/bes…"
+        "display_url" : "mashable.com/2012/04/13/bes\u2026"
       } ]
     },
     "geo" : {
@@ -2297,13 +2297,13 @@ Grailbird.data.tweets_2012_04 =
       "indices" : [ 107, 127 ],
       "url" : "http://t.co/jLKV8jHM",
       "expanded_url" : "http://www.wired.com/wiredenterprise/2012/04/yahoo-open-sources-mojito/",
-      "display_url" : "wired.com/wiredenterpris…"
+      "display_url" : "wired.com/wiredenterpris\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "190624342038683648",
-  "text" : "Jesus, one of the most link-baity headlines I've ever seen: “Yahoo Open Sources Its Apple App Store Killer http://t.co/jLKV8jHM”",
+  "text" : "Jesus, one of the most link-baity headlines I've ever seen: \u201CYahoo Open Sources Its Apple App Store Killer http://t.co/jLKV8jHM\u201D",
   "id" : 190624342038683648,
   "created_at" : "Fri Apr 13 02:15:59 +0000 2012",
   "user" : {
@@ -2612,7 +2612,7 @@ Grailbird.data.tweets_2012_04 =
   "geo" : {
   },
   "id_str" : "189730629158580224",
-  "text" : "Woohoo @haseman: “@tumblr: Check out the radically updated Tumblr app for Android! http://t.co/kM9cwL3w”",
+  "text" : "Woohoo @haseman: \u201C@tumblr: Check out the radically updated Tumblr app for Android! http://t.co/kM9cwL3w\u201D",
   "id" : 189730629158580224,
   "created_at" : "Tue Apr 10 15:04:41 +0000 2012",
   "user" : {
@@ -3050,7 +3050,7 @@ Grailbird.data.tweets_2012_04 =
       "indices" : [ 14, 34 ],
       "url" : "http://t.co/LZWOl1ss",
       "expanded_url" : "http://www.youtube.com/watch?v=P_i1xk07o4g&ob=av2n",
-      "display_url" : "youtube.com/watch?v=P_i1xk…"
+      "display_url" : "youtube.com/watch?v=P_i1xk\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "188683746701086721",
@@ -3335,7 +3335,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "slashfilm",
       "protected" : false,
       "id_str" : "821193",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/53474571/peterdrawingslashfilm_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3508825918/91dfbddaaf31c47a9b7f551e721c53c2_normal.jpeg",
       "id" : 821193,
       "verified" : true
     }
@@ -3390,7 +3390,7 @@ Grailbird.data.tweets_2012_04 =
       "indices" : [ 70, 90 ],
       "url" : "http://t.co/RJHdldX2",
       "expanded_url" : "http://mog.com/m/track/5118351?ci=20000",
-      "display_url" : "mog.com/m/track/511835…"
+      "display_url" : "mog.com/m/track/511835\u2026"
     } ]
   },
   "geo" : {
@@ -3475,7 +3475,7 @@ Grailbird.data.tweets_2012_04 =
       "indices" : [ 96, 116 ],
       "url" : "http://t.co/D9k5NQzM",
       "expanded_url" : "http://mog.com/m/album/34595307?ci=20000",
-      "display_url" : "mog.com/m/album/345953…"
+      "display_url" : "mog.com/m/album/345953\u2026"
     } ]
   },
   "geo" : {
@@ -3621,7 +3621,7 @@ Grailbird.data.tweets_2012_04 =
   "geo" : {
   },
   "id_str" : "186996576491810816",
-  "text" : "RT @mtwstudios: Tumblr’s New Facebook Timeline Sharing Will Nab More Traffic For Publishers - wilkinsky: http://t.co/J1FFbUm0",
+  "text" : "RT @mtwstudios: Tumblr\u2019s New Facebook Timeline Sharing Will Nab More Traffic For Publishers - wilkinsky: http://t.co/J1FFbUm0",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.tumblr.com/\" rel=\"nofollow\">Tumblr</a>",
     "entities" : {
@@ -3638,7 +3638,7 @@ Grailbird.data.tweets_2012_04 =
     "geo" : {
     },
     "id_str" : "186921348684193794",
-    "text" : "Tumblr’s New Facebook Timeline Sharing Will Nab More Traffic For Publishers - wilkinsky: http://t.co/J1FFbUm0",
+    "text" : "Tumblr\u2019s New Facebook Timeline Sharing Will Nab More Traffic For Publishers - wilkinsky: http://t.co/J1FFbUm0",
     "id" : 186921348684193794,
     "created_at" : "Mon Apr 02 21:01:37 +0000 2012",
     "user" : {
@@ -3731,7 +3731,7 @@ Grailbird.data.tweets_2012_04 =
       "indices" : [ 65, 85 ],
       "url" : "http://t.co/h6U0hEYO",
       "expanded_url" : "http://tumblr.theresumator.com/apply/34qREQ/API-Lead.html?source=Tumblr+Jobs+Page",
-      "display_url" : "tumblr.theresumator.com/apply/34qREQ/A…"
+      "display_url" : "tumblr.theresumator.com/apply/34qREQ/A\u2026"
     } ]
   },
   "geo" : {
@@ -3748,7 +3748,7 @@ Grailbird.data.tweets_2012_04 =
         "indices" : [ 53, 73 ],
         "url" : "http://t.co/h6U0hEYO",
         "expanded_url" : "http://tumblr.theresumator.com/apply/34qREQ/API-Lead.html?source=Tumblr+Jobs+Page",
-        "display_url" : "tumblr.theresumator.com/apply/34qREQ/A…"
+        "display_url" : "tumblr.theresumator.com/apply/34qREQ/A\u2026"
       } ]
     },
     "geo" : {

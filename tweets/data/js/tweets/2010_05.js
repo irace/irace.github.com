@@ -175,7 +175,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "MarkMacyk",
       "protected" : false,
       "id_str" : "78510065",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3080576905/faea14139467e99f7d99c0e9225a4ad4_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3281080938/a902204c6faaa0660b4e37e154f06dce_normal.jpeg",
       "id" : 78510065,
       "verified" : false
     }

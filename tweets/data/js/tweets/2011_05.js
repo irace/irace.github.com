@@ -220,7 +220,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "pitchforkmedia",
       "protected" : false,
       "id_str" : "14089195",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2913453468/c12d17fe1521c405e19d479d80c76907_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3447350752/51ae00039ec9d88b79319a9cf1434893_normal.png",
       "id" : 14089195,
       "verified" : true
     }
@@ -253,7 +253,7 @@ Grailbird.data.tweets_2011_05 =
   "geo" : {
   },
   "id_str" : "73198256515055616",
-  "text" : "YES “@mattbertolini: Every programming language should have an \"Effective Java\" equivalent book.”",
+  "text" : "YES \u201C@mattbertolini: Every programming language should have an \"Effective Java\" equivalent book.\u201D",
   "id" : 73198256515055616,
   "created_at" : "Wed May 25 01:26:38 +0000 2011",
   "user" : {
@@ -518,7 +518,7 @@ Grailbird.data.tweets_2011_05 =
   "geo" : {
   },
   "id_str" : "67797971944747008",
-  "text" : "“@TechCrunch: Without The Labels, Google's Music Locker Will Look Like Apple's Ugly Sibling. Again. http://t.co/go9OL81” #fb",
+  "text" : "\u201C@TechCrunch: Without The Labels, Google's Music Locker Will Look Like Apple's Ugly Sibling. Again. http://t.co/go9OL81\u201D #fb",
   "id" : 67797971944747008,
   "created_at" : "Tue May 10 03:47:50 +0000 2011",
   "user" : {
@@ -611,7 +611,7 @@ Grailbird.data.tweets_2011_05 =
   "geo" : {
   },
   "id_str" : "65961557120663552",
-  "text" : "RT @parislemon: iPhone Location Update: All Users In 1 Week; Android 2.3 Update: 4% Of Users In 5 Months http://t.co/uf683mp",
+  "text" : "RT @parislemon: iPhone Location Update: All Users In 1 Week; Android 2.3 Update: 4% Of Users In 5\u00A0Months http://t.co/uf683mp",
   "retweeted_status" : {
     "source" : "<a href=\"http://twitter.com/tweetbutton\" rel=\"nofollow\">Tweet Button</a>",
     "entities" : {
@@ -628,7 +628,7 @@ Grailbird.data.tweets_2011_05 =
     "geo" : {
     },
     "id_str" : "65899127736774656",
-    "text" : "iPhone Location Update: All Users In 1 Week; Android 2.3 Update: 4% Of Users In 5 Months http://t.co/uf683mp",
+    "text" : "iPhone Location Update: All Users In 1 Week; Android 2.3 Update: 4% Of Users In 5\u00A0Months http://t.co/uf683mp",
     "id" : 65899127736774656,
     "created_at" : "Wed May 04 22:02:31 +0000 2011",
     "user" : {
@@ -636,7 +636,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "parislemon",
       "protected" : false,
       "id_str" : "652193",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2748300201/ecc4dbe1c912ebac9a7aee2e85b51859_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3336694463/99718483afb19d6d441290afccb72772_normal.jpeg",
       "id" : 652193,
       "verified" : true
     }

@@ -208,7 +208,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "joehewitt",
       "protected" : false,
       "id_str" : "1260231",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2173717356/5A1AB6D0-F2E1-42A5-87E6-FAEA328795BB_normal",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3435084586/1497737f77ceee98431e8ce5bbf440da_normal.jpeg",
       "id" : 1260231,
       "verified" : true
     }
@@ -263,7 +263,7 @@ Grailbird.data.tweets_2011_07 =
   "geo" : {
   },
   "id_str" : "95200832135495681",
-  "text" : "#soundtracking \"Fur Lined\" by How to Destroy Angels ♫ http://sdtk.fm/pqHg2o",
+  "text" : "#soundtracking \"Fur Lined\" by How to Destroy Angels \u266B http://sdtk.fm/pqHg2o",
   "id" : 95200832135495681,
   "created_at" : "Sun Jul 24 18:37:01 +0000 2011",
   "user" : {
@@ -348,7 +348,7 @@ Grailbird.data.tweets_2011_07 =
   "geo" : {
   },
   "id_str" : "94060177141137408",
-  "text" : "#soundtracking \"Walt Whitman's Niece\" by Wilco & Billy Bragg ♫ http://sdtk.fm/qOh3zm",
+  "text" : "#soundtracking \"Walt Whitman's Niece\" by Wilco & Billy Bragg \u266B http://sdtk.fm/qOh3zm",
   "id" : 94060177141137408,
   "created_at" : "Thu Jul 21 15:04:28 +0000 2011",
   "user" : {
@@ -408,7 +408,7 @@ Grailbird.data.tweets_2011_07 =
   "geo" : {
   },
   "id_str" : "93871859241721856",
-  "text" : "Truth, though I definitely glossed over a bit. “@mattbertolini: There really isn't a better review than this. http://t.co/szMjmit #lion”",
+  "text" : "Truth, though I definitely glossed over a bit. \u201C@mattbertolini: There really isn't a better review than this. http://t.co/szMjmit #lion\u201D",
   "id" : 93871859241721856,
   "created_at" : "Thu Jul 21 02:36:09 +0000 2011",
   "user" : {
@@ -491,7 +491,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "nzben",
       "protected" : false,
       "id_str" : "6136",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2967520509/06b60d6a7e3082465206b92188173238_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3557000247/f9d9b33ef2a142ca6d9edba5bad31997_normal.png",
       "id" : 6136,
       "verified" : false
     }
@@ -517,7 +517,7 @@ Grailbird.data.tweets_2011_07 =
       "indices" : [ 74, 93 ],
       "url" : "http://t.co/ebeqqfn",
       "expanded_url" : "http://www.amazon.com/Disintegration-Remastered/dp/B003LXXEFG/ref=br_lf_m_1000371251_1_11_ttl",
-      "display_url" : "amazon.com/Disintegration…"
+      "display_url" : "amazon.com/Disintegration\u2026"
     } ]
   },
   "geo" : {
@@ -545,7 +545,7 @@ Grailbird.data.tweets_2011_07 =
       "indices" : [ 24, 43 ],
       "url" : "http://t.co/9m0QLbZ",
       "expanded_url" : "http://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF",
-      "display_url" : "open.spotify.com/artist/0uCCBpm…"
+      "display_url" : "open.spotify.com/artist/0uCCBpm\u2026"
     } ]
   },
   "geo" : {
@@ -836,7 +836,7 @@ Grailbird.data.tweets_2011_07 =
       "indices" : [ 48, 67 ],
       "url" : "http://t.co/uC0Pn4e",
       "expanded_url" : "http://espn.go.com/new-york/mlb/story/_/id/6764381/new-york-mets-trade-closer-francisco-rodriguez-milwaukee-brewers",
-      "display_url" : "espn.go.com/new-york/mlb/s…"
+      "display_url" : "espn.go.com/new-york/mlb/s\u2026"
     } ]
   },
   "geo" : {
@@ -870,7 +870,7 @@ Grailbird.data.tweets_2011_07 =
       "indices" : [ 120, 139 ],
       "url" : "http://t.co/uC0Pn4e",
       "expanded_url" : "http://espn.go.com/new-york/mlb/story/_/id/6764381/new-york-mets-trade-closer-francisco-rodriguez-milwaukee-brewers",
-      "display_url" : "espn.go.com/new-york/mlb/s…"
+      "display_url" : "espn.go.com/new-york/mlb/s\u2026"
     } ]
   },
   "geo" : {
@@ -933,7 +933,7 @@ Grailbird.data.tweets_2011_07 =
   "geo" : {
   },
   "id_str" : "90599576456798208",
-  "text" : "Mind = blown. “@slashfilm: Spike Lee Confirmed to Direct ‘Oldboy’ http://t.co/mOfzNmo”",
+  "text" : "Mind = blown. \u201C@slashfilm: Spike Lee Confirmed to Direct \u2018Oldboy\u2019 http://t.co/mOfzNmo\u201D",
   "id" : 90599576456798208,
   "created_at" : "Tue Jul 12 01:53:16 +0000 2011",
   "user" : {
@@ -1063,7 +1063,7 @@ Grailbird.data.tweets_2011_07 =
   "geo" : {
   },
   "id_str" : "87243444661129216",
-  "text" : "#soundtracking \"Tommy the Cat\" by Primus ♫ http://sdtk.fm/mjI9Gj",
+  "text" : "#soundtracking \"Tommy the Cat\" by Primus \u266B http://sdtk.fm/mjI9Gj",
   "id" : 87243444661129216,
   "created_at" : "Sat Jul 02 19:37:12 +0000 2011",
   "user" : {
@@ -1125,7 +1125,7 @@ Grailbird.data.tweets_2011_07 =
       "indices" : [ 55, 74 ],
       "url" : "http://t.co/pCf0al5",
       "expanded_url" : "http://quatermain.tumblr.com/post/1686415314/an-nsnotification-blocks-gotcha",
-      "display_url" : "quatermain.tumblr.com/post/168641531…"
+      "display_url" : "quatermain.tumblr.com/post/168641531\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "86991232831717377",

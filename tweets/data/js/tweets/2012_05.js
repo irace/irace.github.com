@@ -68,7 +68,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "12241752",
       "id" : 12241752
     }, {
-      "name" : "xnoɹǝʃ uɐıɹq",
+      "name" : "xno\u0279\u01DD\u0283 u\u0250\u0131\u0279q",
       "screen_name" : "brianleroux",
       "indices" : [ 16, 28 ],
       "id_str" : "676363",
@@ -145,7 +145,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "joeypfeifer",
       "protected" : false,
       "id_str" : "787487",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2684496580/34cfe8b9f0d795d8c44c83041abbc630_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3609564520/1cc476052220694c9d6a0ca2a2e7edae_normal.jpeg",
       "id" : 787487,
       "verified" : false
     }
@@ -168,8 +168,8 @@ Grailbird.data.tweets_2012_05 =
       "name" : "Alex MacCaw",
       "screen_name" : "maccman",
       "indices" : [ 0, 8 ],
-      "id_str" : "2006261",
-      "id" : 2006261
+      "id_str" : "1345494948",
+      "id" : 1345494948
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -182,7 +182,7 @@ Grailbird.data.tweets_2012_05 =
   "text" : "@maccman Would you recommend either the Kindle or iBooks version of JavaScript Web Applications over the other?",
   "id" : 207896234738982912,
   "created_at" : "Wed May 30 18:08:19 +0000 2012",
-  "in_reply_to_screen_name" : "maccman",
+  "in_reply_to_screen_name" : "maccaw",
   "in_reply_to_user_id_str" : "2006261",
   "user" : {
     "name" : "Bryan Irace",
@@ -277,7 +277,7 @@ Grailbird.data.tweets_2012_05 =
         "indices" : [ 99, 119 ],
         "url" : "http://t.co/pujTaXLl",
         "expanded_url" : "http://espn.go.com/blog/new-york/mets/post/_/id/46831/farm-report-high-praise-for-wheeler",
-        "display_url" : "espn.go.com/blog/new-york/…"
+        "display_url" : "espn.go.com/blog/new-york/\u2026"
       } ]
     },
     "geo" : {
@@ -293,7 +293,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "127666940",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/1606758753/AdamPhoto2_normal.jpg",
       "id" : 127666940,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 207836360407650304,
@@ -357,7 +357,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "12241752",
       "id" : 12241752
     }, {
-      "name" : "xnoɹǝʃ uɐıɹq",
+      "name" : "xno\u0279\u01DD\u0283 u\u0250\u0131\u0279q",
       "screen_name" : "brianleroux",
       "indices" : [ 16, 28 ],
       "id_str" : "676363",
@@ -738,7 +738,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "kneath",
       "protected" : false,
       "id_str" : "638323",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1563794900/avatar_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3573968967/34e436c89cc06c295f09c25fb8391984_normal.jpeg",
       "id" : 638323,
       "verified" : false
     }
@@ -1070,7 +1070,7 @@ Grailbird.data.tweets_2012_05 =
       "indices" : [ 15, 35 ],
       "url" : "http://t.co/ACcNRyzG",
       "expanded_url" : "http://en.wikipedia.org/wiki/Brief_Interviews_with_Hideous_Men",
-      "display_url" : "en.wikipedia.org/wiki/Brief_Int…"
+      "display_url" : "en.wikipedia.org/wiki/Brief_Int\u2026"
     } ]
   },
   "geo" : {
@@ -1105,7 +1105,7 @@ Grailbird.data.tweets_2012_05 =
   "geo" : {
   },
   "id_str" : "204703092292333568",
-  "text" : "“@marcoarment: Looks like FB's IPO day turned out to be a great time to buy AAPL.” This is something that I did.",
+  "text" : "\u201C@marcoarment: Looks like FB's IPO day turned out to be a great time to buy AAPL.\u201D This is something that I did.",
   "id" : 204703092292333568,
   "created_at" : "Mon May 21 22:39:55 +0000 2012",
   "user" : {
@@ -1162,7 +1162,7 @@ Grailbird.data.tweets_2012_05 =
       "indices" : [ 79, 99 ],
       "url" : "http://t.co/rQAi0Wrv",
       "expanded_url" : "http://venturebeat.com/2012/05/21/tumblr-crunchfund/#.T7p18Y0Z0nA.twitter",
-      "display_url" : "venturebeat.com/2012/05/21/tum…"
+      "display_url" : "venturebeat.com/2012/05/21/tum\u2026"
     } ]
   },
   "geo" : {
@@ -1179,7 +1179,7 @@ Grailbird.data.tweets_2012_05 =
         "indices" : [ 64, 84 ],
         "url" : "http://t.co/rQAi0Wrv",
         "expanded_url" : "http://venturebeat.com/2012/05/21/tumblr-crunchfund/#.T7p18Y0Z0nA.twitter",
-        "display_url" : "venturebeat.com/2012/05/21/tum…"
+        "display_url" : "venturebeat.com/2012/05/21/tum\u2026"
       } ]
     },
     "geo" : {
@@ -1193,7 +1193,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "arrington",
       "protected" : false,
       "id_str" : "37570179",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2627517802/7qn56y8h9o38nfvqmh74_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3439210570/43ecb9359319ef753f0b4157104d8d14_normal.png",
       "id" : 37570179,
       "verified" : true
     }
@@ -2256,7 +2256,7 @@ Grailbird.data.tweets_2012_05 =
   "geo" : {
   },
   "id_str" : "201028592166109184",
-  "text" : "\"I enjoy being a “Product Engineer”. Someone who doesn’t sit in the corner hacking up some code, but...\" http://t.co/SlPldPpY",
+  "text" : "\"I enjoy being a \u201CProduct Engineer\u201D. Someone who doesn\u2019t sit in the corner hacking up some code, but...\" http://t.co/SlPldPpY",
   "id" : 201028592166109184,
   "created_at" : "Fri May 11 19:18:45 +0000 2012",
   "user" : {
@@ -2284,7 +2284,7 @@ Grailbird.data.tweets_2012_05 =
   "geo" : {
   },
   "id_str" : "201019141094772736",
-  "text" : "Audio: The Spotify metadata is actually incorrect; the title of the song is really “Thee Oh So Protective... http://t.co/i7vwRBTw",
+  "text" : "Audio: The Spotify metadata is actually incorrect; the title of the song is really \u201CThee Oh So Protective... http://t.co/i7vwRBTw",
   "id" : 201019141094772736,
   "created_at" : "Fri May 11 18:41:12 +0000 2012",
   "user" : {
@@ -2500,7 +2500,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "MikeBloomberg",
       "protected" : false,
       "id_str" : "16581604",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2991392002/ff7c0c3292426a63af4cf614f6e28551_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3374841513/ccdffb7ce6910ac43568ae2f7c68fe2b_normal.jpeg",
       "id" : 16581604,
       "verified" : true
     }
@@ -2761,7 +2761,7 @@ Grailbird.data.tweets_2012_05 =
   "geo" : {
   },
   "id_str" : "200061432799301633",
-  "text" : "Oh Yay, More Google Crap In My Life « Uncrunched - Hooray for IMAP indeed. I use Gmail for both personal and... http://t.co/t6QGSOts",
+  "text" : "Oh Yay, More Google Crap In My Life \u00AB Uncrunched - Hooray for IMAP indeed. I use Gmail for both personal and... http://t.co/t6QGSOts",
   "id" : 200061432799301633,
   "created_at" : "Wed May 09 03:15:37 +0000 2012",
   "user" : {
@@ -3000,7 +3000,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "7BOOMERESIASON",
       "protected" : false,
       "id_str" : "360185259",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2760295811/ba02a86bc0af93929827f8f9edd067a4_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3650411651/fdbedad88f32317a24160e5a53584a96_normal.jpeg",
       "id" : 360185259,
       "verified" : true
     }
@@ -3128,7 +3128,7 @@ Grailbird.data.tweets_2012_05 =
   "geo" : {
   },
   "id_str" : "198180085654757376",
-  "text" : "“@BetaKit: WePay Lands $10M Round to Help it Take On PayPal http://t.co/09pbpWp2 by @drizzled” #fuckyeahbillclerico",
+  "text" : "\u201C@BetaKit: WePay Lands $10M Round to Help it Take On PayPal http://t.co/09pbpWp2 by @drizzled\u201D #fuckyeahbillclerico",
   "id" : 198180085654757376,
   "created_at" : "Thu May 03 22:39:49 +0000 2012",
   "user" : {
@@ -3259,7 +3259,7 @@ Grailbird.data.tweets_2012_05 =
   "id_str" : "197904842902085632",
   "text" : "RT @7BOOMERESIASON: One of the greatest hockey games I've ever witnessed. #NYR and #Caps show why hockey playoffs are the absolute best.",
   "retweeted_status" : {
-    "source" : "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+    "source" : "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00AE</a>",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3283,7 +3283,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "7BOOMERESIASON",
       "protected" : false,
       "id_str" : "360185259",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2760295811/ba02a86bc0af93929827f8f9edd067a4_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3650411651/fdbedad88f32317a24160e5a53584a96_normal.jpeg",
       "id" : 360185259,
       "verified" : true
     }

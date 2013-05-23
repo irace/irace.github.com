@@ -34,7 +34,7 @@ Grailbird.data.tweets_2011_04 =
       "indices" : [ 0, 19 ],
       "url" : "http://t.co/WOHNpfS",
       "expanded_url" : "http://www.readwriteweb.com/cloud/2011/04/poll-how-did-amazon-web-servic.php",
-      "display_url" : "readwriteweb.com/cloud/2011/04/…"
+      "display_url" : "readwriteweb.com/cloud/2011/04/\u2026"
     } ]
   },
   "geo" : {
@@ -197,7 +197,7 @@ Grailbird.data.tweets_2011_04 =
   "geo" : {
   },
   "id_str" : "60540514419744769",
-  "text" : "NSNotification and Blocks - If you’re writing an iOS application where you observe NSNotifications, and like... http://tumblr.com/xcu26tzm7b",
+  "text" : "NSNotification and Blocks - If you\u2019re writing an iOS application where you observe NSNotifications, and like... http://tumblr.com/xcu26tzm7b",
   "id" : 60540514419744769,
   "created_at" : "Wed Apr 20 03:09:18 +0000 2011",
   "user" : {

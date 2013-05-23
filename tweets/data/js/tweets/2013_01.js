@@ -151,7 +151,7 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "296739013350526977",
-  "text" : "Xcode 4.6 is near unusable for me. Keeps thinking the Simulator is already running when it isn’t.",
+  "text" : "Xcode 4.6 is near unusable for me. Keeps thinking the Simulator is already running when it isn\u2019t.",
   "id" : 296739013350526977,
   "created_at" : "Wed Jan 30 21:57:48 +0000 2013",
   "user" : {
@@ -211,7 +211,7 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "296684929046159360",
-  "text" : "Embarrassment-driven development - I tend to start a lot of projects that I don't finish. Most end up in a ha… http://t.co/TZb1Jui0",
+  "text" : "Embarrassment-driven development - I tend to start a lot of projects that I don't finish. Most end up in a ha\u2026 http://t.co/TZb1Jui0",
   "id" : 296684929046159360,
   "created_at" : "Wed Jan 30 18:22:53 +0000 2013",
   "user" : {
@@ -305,7 +305,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "heyitsbeau",
       "protected" : false,
       "id_str" : "142687395",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3240349953/68d60e497e3cffdbfb8123c03a1ddc5a_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3461886529/df7070388c6c81fe58e1a5e98606d29c_normal.jpeg",
       "id" : 142687395,
       "verified" : false
     }
@@ -606,7 +606,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "295974624527777792",
   "in_reply_to_user_id" : 749863,
-  "text" : "@hotdogsladies @danielpunkass Understood, I still think we’d like to hear what you have to say though!",
+  "text" : "@hotdogsladies @danielpunkass Understood, I still think we\u2019d like to hear what you have to say though!",
   "id" : 295974624527777792,
   "in_reply_to_status_id" : 295974267735117825,
   "created_at" : "Mon Jan 28 19:20:24 +0000 2013",
@@ -640,7 +640,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "295973602644344832",
   "in_reply_to_user_id" : 15146558,
-  "text" : "@keithlaw I haven’t read GR but from reading your review, I don’t think you will hate Infinite Jest.",
+  "text" : "@keithlaw I haven\u2019t read GR but from reading your review, I don\u2019t think you will hate Infinite Jest.",
   "id" : 295973602644344832,
   "in_reply_to_status_id" : 295962267340656640,
   "created_at" : "Mon Jan 28 19:16:20 +0000 2013",
@@ -680,7 +680,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "295972453811900417",
   "in_reply_to_user_id" : 666043,
-  "text" : "@danielpunkass @hotdogsladies We care what you guys think, please give feedback on what you don’t like.",
+  "text" : "@danielpunkass @hotdogsladies We care what you guys think, please give feedback on what you don\u2019t like.",
   "id" : 295972453811900417,
   "in_reply_to_status_id" : 295963417901154305,
   "created_at" : "Mon Jan 28 19:11:46 +0000 2013",
@@ -720,7 +720,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "295972182834688000",
   "in_reply_to_user_id" : 749863,
-  "text" : "@hotdogsladies @danielpunkass I flagged the “&gt;“ bug to our web engineers yesterday, it’s being worked on. We’re listening/trying to help.",
+  "text" : "@hotdogsladies @danielpunkass I flagged the \u201C&gt;\u201C bug to our web engineers yesterday, it\u2019s being worked on. We\u2019re listening/trying to help.",
   "id" : 295972182834688000,
   "in_reply_to_status_id" : 295962129574526976,
   "created_at" : "Mon Jan 28 19:10:41 +0000 2013",
@@ -754,7 +754,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "295760803498426370",
   "in_reply_to_user_id" : 652193,
-  "text" : "@parislemon I’m picking the Ravens in a close one. SF is the better team but looked lackluster against Atlanta and BAL has crazy momentum.",
+  "text" : "@parislemon I\u2019m picking the Ravens in a close one. SF is the better team but looked lackluster against Atlanta and BAL has crazy momentum.",
   "id" : 295760803498426370,
   "in_reply_to_status_id" : 295729559515590657,
   "created_at" : "Mon Jan 28 05:10:45 +0000 2013",
@@ -797,7 +797,7 @@ Grailbird.data.tweets_2013_01 =
       "indices" : [ 33, 53 ],
       "url" : "http://t.co/Mx53fzEJ",
       "expanded_url" : "http://jstn.cc/post/16352791483",
-      "display_url" : "jstn.cc/post/163527914…"
+      "display_url" : "jstn.cc/post/163527914\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "295754639511543809",
@@ -851,7 +851,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "295754484745900032",
   "in_reply_to_user_id" : 134667844,
-  "text" : "@reviewinhaiku @parislemon You may know this already but Tumblr’s own @jstn did all of the UI design for Robot and Frank.",
+  "text" : "@reviewinhaiku @parislemon You may know this already but Tumblr\u2019s own @jstn did all of the UI design for Robot and Frank.",
   "id" : 295754484745900032,
   "in_reply_to_status_id" : 295750760489172993,
   "created_at" : "Mon Jan 28 04:45:38 +0000 2013",
@@ -981,7 +981,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "295656468647120898",
   "in_reply_to_user_id" : 15567438,
-  "text" : "@jstoff It is a bug, they’re on it. Thanks!",
+  "text" : "@jstoff It is a bug, they\u2019re on it. Thanks!",
   "id" : 295656468647120898,
   "in_reply_to_status_id" : 295649338103844864,
   "created_at" : "Sun Jan 27 22:16:09 +0000 2013",
@@ -1049,7 +1049,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "295645412268834816",
   "in_reply_to_user_id" : 14208457,
-  "text" : "@dbreunig Thanks, I’ve passed this along to our web engineers.",
+  "text" : "@dbreunig Thanks, I\u2019ve passed this along to our web engineers.",
   "id" : 295645412268834816,
   "in_reply_to_status_id" : 295642060994777088,
   "created_at" : "Sun Jan 27 21:32:13 +0000 2013",
@@ -1083,7 +1083,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "295639170079137792",
   "in_reply_to_user_id" : 749863,
-  "text" : "@hotdogsladies If you can be specific about any issues you’re having, there’s a good chance we can help.",
+  "text" : "@hotdogsladies If you can be specific about any issues you\u2019re having, there\u2019s a good chance we can help.",
   "id" : 295639170079137792,
   "in_reply_to_status_id" : 295633765479370753,
   "created_at" : "Sun Jan 27 21:07:25 +0000 2013",
@@ -1117,7 +1117,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "295637749615190016",
   "in_reply_to_user_id" : 749863,
-  "text" : "@hotdogsladies What isn’t working? Please let us know, we’re listening.",
+  "text" : "@hotdogsladies What isn\u2019t working? Please let us know, we\u2019re listening.",
   "id" : 295637749615190016,
   "in_reply_to_status_id" : 295610534043213826,
   "created_at" : "Sun Jan 27 21:01:46 +0000 2013",
@@ -1184,7 +1184,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "295615281244549121",
   "in_reply_to_user_id" : 18137723,
-  "text" : "@raganwald I’m working on a new theme for my blog and have a really hard time not completely copying your oscin.es website, haha.",
+  "text" : "@raganwald I\u2019m working on a new theme for my blog and have a really hard time not completely copying your oscin.es website, haha.",
   "id" : 295615281244549121,
   "created_at" : "Sun Jan 27 19:32:29 +0000 2013",
   "in_reply_to_screen_name" : "raganwald",
@@ -1283,7 +1283,7 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "295212666404888576",
-  "text" : "“@maxvoltar: Moved the phone app to my second screen. The times they are a changing.” I have it in a folder on my first screen. Close enough",
+  "text" : "\u201C@maxvoltar: Moved the phone app to my second screen. The times they are a changing.\u201D I have it in a folder on my first screen. Close enough",
   "id" : 295212666404888576,
   "created_at" : "Sat Jan 26 16:52:39 +0000 2013",
   "user" : {
@@ -1314,7 +1314,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "295210245897207808",
   "in_reply_to_user_id" : 42559115,
-  "text" : "@joshm You’ll come around",
+  "text" : "@joshm You\u2019ll come around",
   "id" : 295210245897207808,
   "in_reply_to_status_id" : 294980574429458432,
   "created_at" : "Sat Jan 26 16:43:02 +0000 2013",
@@ -1382,7 +1382,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "295005042883325952",
   "in_reply_to_user_id" : 130914103,
-  "text" : "@hamburger One of the best things about Tumblr is it’s really fucking hard to replicate.",
+  "text" : "@hamburger One of the best things about Tumblr is it\u2019s really fucking hard to replicate.",
   "id" : 295005042883325952,
   "in_reply_to_status_id" : 294908429829566464,
   "created_at" : "Sat Jan 26 03:07:37 +0000 2013",
@@ -1608,7 +1608,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "294872171283636225",
   "in_reply_to_user_id" : 320539038,
-  "text" : "@paulsanwald It’s a tall task but I highly recommend Infinite Jest.",
+  "text" : "@paulsanwald It\u2019s a tall task but I highly recommend Infinite Jest.",
   "id" : 294872171283636225,
   "in_reply_to_status_id" : 294785954143678466,
   "created_at" : "Fri Jan 25 18:19:38 +0000 2013",
@@ -1642,7 +1642,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "294871477436694528",
   "in_reply_to_user_id" : 652193,
-  "text" : "@parislemon If I’m at home I always go for the big one. The screen is addicting.",
+  "text" : "@parislemon If I\u2019m at home I always go for the big one. The screen is addicting.",
   "id" : 294871477436694528,
   "in_reply_to_status_id" : 294740843150077952,
   "created_at" : "Fri Jan 25 18:16:53 +0000 2013",
@@ -1676,7 +1676,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "294867795433377792",
   "in_reply_to_user_id" : 7344012,
-  "text" : "@TJLuoma Thanks, Colloquy seems to have a lot of fans despite being hideous. I may check out Palaver as it’s somewhat decent looking.",
+  "text" : "@TJLuoma Thanks, Colloquy seems to have a lot of fans despite being hideous. I may check out Palaver as it\u2019s somewhat decent looking.",
   "id" : 294867795433377792,
   "in_reply_to_status_id" : 294862004475293696,
   "created_at" : "Fri Jan 25 18:02:15 +0000 2013",
@@ -1829,7 +1829,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "294569475011932160",
   "in_reply_to_user_id" : 15146558,
-  "text" : "@keithlaw Worth reading though? (Gravity’s Rainbow)",
+  "text" : "@keithlaw Worth reading though? (Gravity\u2019s Rainbow)",
   "id" : 294569475011932160,
   "in_reply_to_status_id" : 294563198789623808,
   "created_at" : "Thu Jan 24 22:16:50 +0000 2013",
@@ -1863,7 +1863,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "294538533543239680",
   "in_reply_to_user_id" : 130914103,
-  "text" : "@hamburger Then Shake Shack is too far as well? You’re limiting yourself my friend.",
+  "text" : "@hamburger Then Shake Shack is too far as well? You\u2019re limiting yourself my friend.",
   "id" : 294538533543239680,
   "in_reply_to_status_id" : 294538188909842434,
   "created_at" : "Thu Jan 24 20:13:53 +0000 2013",
@@ -1897,7 +1897,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "294538118953070593",
   "in_reply_to_user_id" : 130914103,
-  "text" : "@hamburger Schnipper’s",
+  "text" : "@hamburger Schnipper\u2019s",
   "id" : 294538118953070593,
   "in_reply_to_status_id" : 294538041098375168,
   "created_at" : "Thu Jan 24 20:12:14 +0000 2013",
@@ -1965,7 +1965,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "294537323876610049",
   "in_reply_to_user_id" : 130914103,
-  "text" : "@hamburger I had a hamburger for lunch. Didn’t think of you at the time but am now doing so retroactively.",
+  "text" : "@hamburger I had a hamburger for lunch. Didn\u2019t think of you at the time but am now doing so retroactively.",
   "id" : 294537323876610049,
   "in_reply_to_status_id" : 294536955046293504,
   "created_at" : "Thu Jan 24 20:09:04 +0000 2013",
@@ -2131,7 +2131,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "294210209113587712",
   "in_reply_to_user_id" : 70596949,
-  "text" : "@creationix Not sure exactly. Just seems like you’re learning a ton and making good process, and that many would want to learn from you.",
+  "text" : "@creationix Not sure exactly. Just seems like you\u2019re learning a ton and making good process, and that many would want to learn from you.",
   "id" : 294210209113587712,
   "in_reply_to_status_id" : 294209569683558401,
   "created_at" : "Wed Jan 23 22:29:14 +0000 2013",
@@ -2393,7 +2393,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "294149591241220096",
   "in_reply_to_user_id" : 21393,
-  "text" : "@RachelFersh Stealing your thunder on one social network was enough, I’ll refrain here and on Facebook.",
+  "text" : "@RachelFersh Stealing your thunder on one social network was enough, I\u2019ll refrain here and on Facebook.",
   "id" : 294149591241220096,
   "in_reply_to_status_id" : 294123224671858688,
   "created_at" : "Wed Jan 23 18:28:05 +0000 2013",
@@ -2427,7 +2427,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "294148294555361280",
   "in_reply_to_user_id" : 6776822,
-  "text" : "@bmatheny I’ve had that before! It’s pretty good.",
+  "text" : "@bmatheny I\u2019ve had that before! It\u2019s pretty good.",
   "id" : 294148294555361280,
   "in_reply_to_status_id" : 294095050785316864,
   "created_at" : "Wed Jan 23 18:23:13 +0000 2013",
@@ -2458,7 +2458,7 @@ Grailbird.data.tweets_2013_01 =
       "indices" : [ 7, 27 ],
       "url" : "http://t.co/dgHdJQZr",
       "expanded_url" : "http://www.bigeffingtext.com/photo?text=Don't%20forget%20Tumblr",
-      "display_url" : "bigeffingtext.com/photo?text=Don…"
+      "display_url" : "bigeffingtext.com/photo?text=Don\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "294081926703239168",
@@ -2506,7 +2506,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "294146479633858561",
   "in_reply_to_user_id" : 5413,
-  "text" : "@dustin @billyterr I can see that. It’s at least actively maintained though.",
+  "text" : "@dustin @billyterr I can see that. It\u2019s at least actively maintained though.",
   "id" : 294146479633858561,
   "in_reply_to_status_id" : 294146295025766400,
   "created_at" : "Wed Jan 23 18:16:00 +0000 2013",
@@ -2640,7 +2640,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "293948188224790529",
   "in_reply_to_user_id" : 16027206,
-  "text" : "@JasBanwait @raganwald Well they’re there :)",
+  "text" : "@JasBanwait @raganwald Well they\u2019re there :)",
   "id" : 293948188224790529,
   "in_reply_to_status_id" : 293947782228746240,
   "created_at" : "Wed Jan 23 05:08:04 +0000 2013",
@@ -2680,7 +2680,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "293947362311798785",
   "in_reply_to_user_id" : 16027206,
-  "text" : "@JasBanwait @raganwald Pretty big community…",
+  "text" : "@JasBanwait @raganwald Pretty big community\u2026",
   "id" : 293947362311798785,
   "in_reply_to_status_id" : 293946996065189888,
   "created_at" : "Wed Jan 23 05:04:47 +0000 2013",
@@ -2720,7 +2720,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "293946570817286144",
   "in_reply_to_user_id" : 16027206,
-  "text" : "@JasBanwait @raganwald Interesting. I don’t see how WordPress or Blogger are better for blogging at all. Follows/reblogs add visibility.",
+  "text" : "@JasBanwait @raganwald Interesting. I don\u2019t see how WordPress or Blogger are better for blogging at all. Follows/reblogs add visibility.",
   "id" : 293946570817286144,
   "in_reply_to_status_id" : 293945945454960641,
   "created_at" : "Wed Jan 23 05:01:38 +0000 2013",
@@ -2862,7 +2862,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "293817659483631616",
   "in_reply_to_user_id" : 18137723,
-  "text" : "@raganwald You can use it to blog the same way you’re using Posterous, but people can follow, like, reblog, etc. I work on their iOS apps.",
+  "text" : "@raganwald You can use it to blog the same way you\u2019re using Posterous, but people can follow, like, reblog, etc. I work on their iOS apps.",
   "id" : 293817659483631616,
   "in_reply_to_status_id" : 293817026647052290,
   "created_at" : "Tue Jan 22 20:29:23 +0000 2013",
@@ -3034,7 +3034,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "293435986338254848",
   "in_reply_to_user_id" : 21107053,
-  "text" : "@elleluna I guess technically you guys still have eleven-plus months to ship…",
+  "text" : "@elleluna I guess technically you guys still have eleven-plus months to ship\u2026",
   "id" : 293435986338254848,
   "in_reply_to_status_id" : 293421569395544064,
   "created_at" : "Mon Jan 21 19:12:45 +0000 2013",
@@ -3142,7 +3142,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "293132717124644865",
   "in_reply_to_user_id" : 208789178,
-  "text" : "@adamlaiacano Can’t believe Atlanta blew that.",
+  "text" : "@adamlaiacano Can\u2019t believe Atlanta blew that.",
   "id" : 293132717124644865,
   "in_reply_to_status_id" : 293099848486506497,
   "created_at" : "Sun Jan 20 23:07:40 +0000 2013",
@@ -3161,11 +3161,11 @@ Grailbird.data.tweets_2013_01 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Time Warner Cable ",
-      "screen_name" : "TWCable_NYC",
+      "name" : "TWC",
+      "screen_name" : "twcable_nyc",
       "indices" : [ 7, 19 ],
-      "id_str" : "121165704",
-      "id" : 121165704
+      "id_str" : "1225944228",
+      "id" : 1225944228
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3193,8 +3193,8 @@ Grailbird.data.tweets_2013_01 =
       "name" : "Time Warner Cable ",
       "screen_name" : "TWCableHelp",
       "indices" : [ 0, 12 ],
-      "id_str" : "110782268",
-      "id" : 110782268
+      "id_str" : "1344878244",
+      "id" : 1344878244
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3205,11 +3205,11 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "292755060537032704",
   "in_reply_to_user_id" : 110782268,
-  "text" : "@TWCableHelp Sent it over…",
+  "text" : "@TWCableHelp Sent it over\u2026",
   "id" : 292755060537032704,
   "in_reply_to_status_id" : 292754085290078208,
   "created_at" : "Sat Jan 19 22:07:00 +0000 2013",
-  "in_reply_to_screen_name" : "TWCableHelp",
+  "in_reply_to_screen_name" : "TWC_Help",
   "in_reply_to_user_id_str" : "110782268",
   "user" : {
     "name" : "Bryan Irace",
@@ -3227,8 +3227,8 @@ Grailbird.data.tweets_2013_01 =
       "name" : "Time Warner Cable ",
       "screen_name" : "TWCableHelp",
       "indices" : [ 0, 12 ],
-      "id_str" : "110782268",
-      "id" : 110782268
+      "id_str" : "1344878244",
+      "id" : 1344878244
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3239,11 +3239,11 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "292750955643011073",
   "in_reply_to_user_id" : 110782268,
-  "text" : "@TWCableHelp Yes we are. Haven’t had any cable or Internet all day.",
+  "text" : "@TWCableHelp Yes we are. Haven\u2019t had any cable or Internet all day.",
   "id" : 292750955643011073,
   "in_reply_to_status_id" : 292737743300214784,
   "created_at" : "Sat Jan 19 21:50:41 +0000 2013",
-  "in_reply_to_screen_name" : "TWCableHelp",
+  "in_reply_to_screen_name" : "TWC_Help",
   "in_reply_to_user_id_str" : "110782268",
   "user" : {
     "name" : "Bryan Irace",
@@ -3273,7 +3273,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "292715653792669696",
   "in_reply_to_user_id" : 18713,
-  "text" : "@al3x Aw man. Well best of luck with whatever you’re doing next!",
+  "text" : "@al3x Aw man. Well best of luck with whatever you\u2019re doing next!",
   "id" : 292715653792669696,
   "in_reply_to_status_id" : 292715452021501952,
   "created_at" : "Sat Jan 19 19:30:24 +0000 2013",
@@ -3307,7 +3307,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "292707450426114049",
   "in_reply_to_user_id" : 18713,
-  "text" : "@al3x You didn’t end up staying in NYC?",
+  "text" : "@al3x You didn\u2019t end up staying in NYC?",
   "id" : 292707450426114049,
   "in_reply_to_status_id" : 292699630871920640,
   "created_at" : "Sat Jan 19 18:57:49 +0000 2013",
@@ -3360,11 +3360,11 @@ Grailbird.data.tweets_2013_01 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Time Warner Cable ",
-      "screen_name" : "TWCable_NYC",
+      "name" : "TWC",
+      "screen_name" : "twcable_nyc",
       "indices" : [ 0, 12 ],
-      "id_str" : "121165704",
-      "id" : 121165704
+      "id_str" : "1225944228",
+      "id" : 1225944228
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3377,7 +3377,7 @@ Grailbird.data.tweets_2013_01 =
   "text" : "@TWCable_NYC No response? No cable or Internet in Murray Hill.",
   "id" : 292705565979840512,
   "created_at" : "Sat Jan 19 18:50:19 +0000 2013",
-  "in_reply_to_screen_name" : "TWCable_NYC",
+  "in_reply_to_screen_name" : "TWC_NYNJ",
   "in_reply_to_user_id_str" : "121165704",
   "user" : {
     "name" : "Bryan Irace",
@@ -3392,11 +3392,11 @@ Grailbird.data.tweets_2013_01 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Time Warner Cable ",
-      "screen_name" : "TWCable_NYC",
+      "name" : "TWC",
+      "screen_name" : "twcable_nyc",
       "indices" : [ 0, 12 ],
-      "id_str" : "121165704",
-      "id" : 121165704
+      "id_str" : "1225944228",
+      "id" : 1225944228
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3409,7 +3409,7 @@ Grailbird.data.tweets_2013_01 =
   "text" : "@TWCable_NYC Is there an outage in Manhattan, 31st St. and Lexington?",
   "id" : 292675478697938945,
   "created_at" : "Sat Jan 19 16:50:46 +0000 2013",
-  "in_reply_to_screen_name" : "TWCable_NYC",
+  "in_reply_to_screen_name" : "TWC_NYNJ",
   "in_reply_to_user_id_str" : "121165704",
   "user" : {
     "name" : "Bryan Irace",
@@ -3603,7 +3603,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "292408104841273345",
   "in_reply_to_user_id" : 320539038,
-  "text" : "@paulsanwald @stevesalevan I told Steve that if you guys actually set up this crazy collab. system he was telling me about that I’ll try it.",
+  "text" : "@paulsanwald @stevesalevan I told Steve that if you guys actually set up this crazy collab. system he was telling me about that I\u2019ll try it.",
   "id" : 292408104841273345,
   "in_reply_to_status_id" : 292407957101092865,
   "created_at" : "Fri Jan 18 23:08:19 +0000 2013",
@@ -3671,7 +3671,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "292404343385239555",
   "in_reply_to_user_id" : 21711662,
-  "text" : "@DaveBrace I’m not surprised given your target audience!",
+  "text" : "@DaveBrace I\u2019m not surprised given your target audience!",
   "id" : 292404343385239555,
   "in_reply_to_status_id" : 292404185817821186,
   "created_at" : "Fri Jan 18 22:53:22 +0000 2013",
@@ -3703,7 +3703,7 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "292404226368339968",
-  "text" : "Don’t tell @devindoty about said KVO usage.",
+  "text" : "Don\u2019t tell @devindoty about said KVO usage.",
   "id" : 292404226368339968,
   "created_at" : "Fri Jan 18 22:52:54 +0000 2013",
   "user" : {
@@ -3763,7 +3763,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "292403020078133249",
   "in_reply_to_user_id" : 21711662,
-  "text" : "@DaveBrace Pro-tip: change your product to attract users that don’t use IE. Tumblr’s data tells us exactly how much we need to care about it",
+  "text" : "@DaveBrace Pro-tip: change your product to attract users that don\u2019t use IE. Tumblr\u2019s data tells us exactly how much we need to care about it",
   "id" : 292403020078133249,
   "in_reply_to_status_id" : 292322785143947264,
   "created_at" : "Fri Jan 18 22:48:07 +0000 2013",
@@ -3797,7 +3797,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "292401870423601152",
   "in_reply_to_user_id" : 14675388,
-  "text" : "@codingjester You’re fired. Sorry just wanted to up the number.",
+  "text" : "@codingjester You\u2019re fired. Sorry just wanted to up the number.",
   "id" : 292401870423601152,
   "in_reply_to_status_id" : 292401611026857984,
   "created_at" : "Fri Jan 18 22:43:33 +0000 2013",
@@ -3822,7 +3822,7 @@ Grailbird.data.tweets_2013_01 =
       "indices" : [ 85, 105 ],
       "url" : "http://t.co/jaGAHSSs",
       "expanded_url" : "http://www.businessinsider.com/chart-of-the-day-visitors-per-employee-2013-1",
-      "display_url" : "businessinsider.com/chart-of-the-d…"
+      "display_url" : "businessinsider.com/chart-of-the-d\u2026"
     }, {
       "indices" : [ 113, 133 ],
       "url" : "http://t.co/NfjRgyuW",
@@ -3870,7 +3870,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "292396577358745601",
   "in_reply_to_user_id" : 320539038,
-  "text" : "@paulsanwald What don’t you code in nowadays? @stevesalevan pitched me on Clojure yesterday but think I’d go Ruby if I learned a new lang.",
+  "text" : "@paulsanwald What don\u2019t you code in nowadays? @stevesalevan pitched me on Clojure yesterday but think I\u2019d go Ruby if I learned a new lang.",
   "id" : 292396577358745601,
   "in_reply_to_status_id" : 292316860316278785,
   "created_at" : "Fri Jan 18 22:22:31 +0000 2013",
@@ -3904,7 +3904,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "292038943703195648",
   "in_reply_to_user_id" : 44787298,
-  "text" : "@bdkjones Pretty broad generalization. There’s a middle ground, I think most Obj-C developers (myself included) don’t depend on enough.",
+  "text" : "@bdkjones Pretty broad generalization. There\u2019s a middle ground, I think most Obj-C developers (myself included) don\u2019t depend on enough.",
   "id" : 292038943703195648,
   "in_reply_to_status_id" : 292037514485719040,
   "created_at" : "Thu Jan 17 22:41:24 +0000 2013",
@@ -3951,7 +3951,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eloy Durán",
+      "name" : "Eloy Dur\u00E1n",
       "screen_name" : "alloy",
       "indices" : [ 0, 6 ],
       "id_str" : "12459132",
@@ -3985,7 +3985,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eloy Durán",
+      "name" : "Eloy Dur\u00E1n",
       "screen_name" : "alloy",
       "indices" : [ 0, 6 ],
       "id_str" : "12459132",
@@ -4099,7 +4099,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "291953441620783104",
   "in_reply_to_user_id" : 6798382,
-  "text" : "@mzarra Do you know if it’s possible to store an array of binary data in Core Data the same way you can store a single data object?",
+  "text" : "@mzarra Do you know if it\u2019s possible to store an array of binary data in Core Data the same way you can store a single data object?",
   "id" : 291953441620783104,
   "created_at" : "Thu Jan 17 17:01:39 +0000 2013",
   "in_reply_to_screen_name" : "mzarra",
@@ -4198,7 +4198,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "291558082486628352",
   "in_reply_to_user_id" : 42559115,
-  "text" : "@joshm Friend of a Farmer is great. Where’s your new office?",
+  "text" : "@joshm Friend of a Farmer is great. Where\u2019s your new office?",
   "id" : 291558082486628352,
   "in_reply_to_status_id" : 291556703449784322,
   "created_at" : "Wed Jan 16 14:50:38 +0000 2013",
@@ -4238,59 +4238,6 @@ Grailbird.data.tweets_2013_01 =
   "created_at" : "Wed Jan 16 05:52:40 +0000 2013",
   "in_reply_to_screen_name" : "adamlaiacano",
   "in_reply_to_user_id_str" : "208789178",
-  "user" : {
-    "name" : "Bryan Irace",
-    "screen_name" : "irace",
-    "protected" : false,
-    "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
-    "id" : 21626062,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Josh Miller",
-      "screen_name" : "joshm",
-      "indices" : [ 3, 9 ],
-      "id_str" : "42559115",
-      "id" : 42559115
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "291420993967230976",
-  "text" : "RT @joshm: Do we hold writers accountable when they say, \"It's definitely going to be a mobile announcement! Maybe even a phone!\" and th ...",
-  "retweeted_status" : {
-    "source" : "web",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : {
-    },
-    "id_str" : "291420483218456577",
-    "text" : "Do we hold writers accountable when they say, \"It's definitely going to be a mobile announcement! Maybe even a phone!\" and then, web search?",
-    "id" : 291420483218456577,
-    "created_at" : "Wed Jan 16 05:43:52 +0000 2013",
-    "user" : {
-      "name" : "Josh Miller",
-      "screen_name" : "joshm",
-      "protected" : false,
-      "id_str" : "42559115",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3241941290/825ef1586ef592f0ed5efc8ef8a18246_normal.png",
-      "id" : 42559115,
-      "verified" : false
-    }
-  },
-  "id" : 291420993967230976,
-  "created_at" : "Wed Jan 16 05:45:53 +0000 2013",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
@@ -4387,7 +4334,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "291375954033528832",
   "in_reply_to_user_id" : 7344012,
-  "text" : "@TJLuoma No problem, keep ‘em coming.",
+  "text" : "@TJLuoma No problem, keep \u2018em coming.",
   "id" : 291375954033528832,
   "in_reply_to_status_id" : 291372173279506432,
   "created_at" : "Wed Jan 16 02:46:55 +0000 2013",
@@ -4455,7 +4402,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "291369384356741122",
   "in_reply_to_user_id" : 7344012,
-  "text" : "@TJLuoma I’ll let the web engineers know, we definitely want it to be usable even though its not a fully-tailored experience anymore.",
+  "text" : "@TJLuoma I\u2019ll let the web engineers know, we definitely want it to be usable even though its not a fully-tailored experience anymore.",
   "id" : 291369384356741122,
   "in_reply_to_status_id" : 291368559366504448,
   "created_at" : "Wed Jan 16 02:20:49 +0000 2013",
@@ -4523,7 +4470,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "291333887542575104",
   "in_reply_to_user_id" : 14231571,
-  "text" : "@marcoarment JSDOM is nice, Cheerio is faster though if you don’t need a full DOM.",
+  "text" : "@marcoarment JSDOM is nice, Cheerio is faster though if you don\u2019t need a full DOM.",
   "id" : 291333887542575104,
   "in_reply_to_status_id" : 291318884294877184,
   "created_at" : "Tue Jan 15 23:59:46 +0000 2013",
@@ -4563,59 +4510,6 @@ Grailbird.data.tweets_2013_01 =
   "created_at" : "Tue Jan 15 20:34:03 +0000 2013",
   "in_reply_to_screen_name" : "patr1ck",
   "in_reply_to_user_id_str" : "14178728",
-  "user" : {
-    "name" : "Bryan Irace",
-    "screen_name" : "irace",
-    "protected" : false,
-    "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
-    "id" : 21626062,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Josh Miller",
-      "screen_name" : "joshm",
-      "indices" : [ 3, 9 ],
-      "id_str" : "42559115",
-      "id" : 42559115
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "291239623760416769",
-  "text" : "RT @joshm: I hope Facebook announces that they're gonna stop letting my \"Friends\" spam me with Event invitations.",
-  "retweeted_status" : {
-    "source" : "web",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : {
-    },
-    "id_str" : "291215703321759745",
-    "text" : "I hope Facebook announces that they're gonna stop letting my \"Friends\" spam me with Event invitations.",
-    "id" : 291215703321759745,
-    "created_at" : "Tue Jan 15 16:10:08 +0000 2013",
-    "user" : {
-      "name" : "Josh Miller",
-      "screen_name" : "joshm",
-      "protected" : false,
-      "id_str" : "42559115",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3241941290/825ef1586ef592f0ed5efc8ef8a18246_normal.png",
-      "id" : 42559115,
-      "verified" : false
-    }
-  },
-  "id" : 291239623760416769,
-  "created_at" : "Tue Jan 15 17:45:11 +0000 2013",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
@@ -4683,7 +4577,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "291057051319275521",
   "in_reply_to_user_id" : 130914103,
-  "text" : "@hamburger I’m being a little hard on Byword but nvALT’s speed makes it so much more enjoyable to use.",
+  "text" : "@hamburger I\u2019m being a little hard on Byword but nvALT\u2019s speed makes it so much more enjoyable to use.",
   "id" : 291057051319275521,
   "created_at" : "Tue Jan 15 05:39:43 +0000 2013",
   "in_reply_to_screen_name" : "hamburger",
@@ -4715,7 +4609,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "291055022186315776",
   "in_reply_to_user_id" : 130914103,
-  "text" : "@hamburger I love Byword on iOS because it has a fast, simple file browser and good enough search. Why doesn’t it on OS X?",
+  "text" : "@hamburger I love Byword on iOS because it has a fast, simple file browser and good enough search. Why doesn\u2019t it on OS X?",
   "id" : 291055022186315776,
   "created_at" : "Tue Jan 15 05:31:39 +0000 2013",
   "in_reply_to_screen_name" : "hamburger",
@@ -4748,7 +4642,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "291054770762944512",
   "in_reply_to_user_id" : 130914103,
-  "text" : "@hamburger I like using nvALT for lists, note taking, things that aren’t really “writing,” but find Byword to be slow and hard to navigate.",
+  "text" : "@hamburger I like using nvALT for lists, note taking, things that aren\u2019t really \u201Cwriting,\u201D but find Byword to be slow and hard to navigate.",
   "id" : 291054770762944512,
   "in_reply_to_status_id" : 291054025221230592,
   "created_at" : "Tue Jan 15 05:30:39 +0000 2013",
@@ -4786,7 +4680,7 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "291053171785216000",
-  "text" : "A combination of @bywordapp’s writing environment/Markdown highlighting plus @nvALTApp’s speed and file browser/search UI would be perfect.",
+  "text" : "A combination of @bywordapp\u2019s writing environment/Markdown highlighting plus @nvALTApp\u2019s speed and file browser/search UI would be perfect.",
   "id" : 291053171785216000,
   "created_at" : "Tue Jan 15 05:24:18 +0000 2013",
   "user" : {
@@ -4883,7 +4777,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "291036429818155008",
   "in_reply_to_user_id" : 24880016,
-  "text" : "@adamreeve Nice, let me know if I can help with anything. I’ve been doing it full time since March, really enjoying it.",
+  "text" : "@adamreeve Nice, let me know if I can help with anything. I\u2019ve been doing it full time since March, really enjoying it.",
   "id" : 291036429818155008,
   "in_reply_to_status_id" : 291036160732573696,
   "created_at" : "Tue Jan 15 04:17:46 +0000 2013",
@@ -5087,7 +4981,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "290997706703400960",
   "in_reply_to_user_id" : 130914103,
-  "text" : "@hamburger Don’t get me wrong, it still provides value. I just don’t think my current level of engagement with it is what they have in mind.",
+  "text" : "@hamburger Don\u2019t get me wrong, it still provides value. I just don\u2019t think my current level of engagement with it is what they have in mind.",
   "id" : 290997706703400960,
   "in_reply_to_status_id" : 290995266675412992,
   "created_at" : "Tue Jan 15 01:43:54 +0000 2013",
@@ -5121,7 +5015,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "290997619226992640",
   "in_reply_to_user_id" : 130914103,
-  "text" : "@hamburger I don’t want anything from it, really. It’s on them to convince me otherwise at this point.",
+  "text" : "@hamburger I don\u2019t want anything from it, really. It\u2019s on them to convince me otherwise at this point.",
   "id" : 290997619226992640,
   "in_reply_to_status_id" : 290995266675412992,
   "created_at" : "Tue Jan 15 01:43:33 +0000 2013",
@@ -5158,7 +5052,7 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "290994961346883585",
-  "text" : "Holy shit “@pitchforkmedia: Black Sabbath announce first studio LP with Ozzy Osbourne since 1978 http://t.co/AjOHfY9A”",
+  "text" : "Holy shit \u201C@pitchforkmedia: Black Sabbath announce first studio LP with Ozzy Osbourne since 1978 http://t.co/AjOHfY9A\u201D",
   "id" : 290994961346883585,
   "created_at" : "Tue Jan 15 01:32:59 +0000 2013",
   "user" : {
@@ -5308,7 +5202,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "290978785665372160",
   "in_reply_to_user_id" : 24880016,
-  "text" : "@adamreeve @paulsanwald Paul beat me? Son of a…",
+  "text" : "@adamreeve @paulsanwald Paul beat me? Son of a\u2026",
   "id" : 290978785665372160,
   "in_reply_to_status_id" : 290936928558264320,
   "created_at" : "Tue Jan 15 00:28:43 +0000 2013",
@@ -5551,7 +5445,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "290969230227173376",
   "in_reply_to_user_id" : 130914103,
-  "text" : "@hamburger Good article, what’s your prediction though?!",
+  "text" : "@hamburger Good article, what\u2019s your prediction though?!",
   "id" : 290969230227173376,
   "created_at" : "Mon Jan 14 23:50:45 +0000 2013",
   "in_reply_to_screen_name" : "hamburger",
@@ -5569,11 +5463,11 @@ Grailbird.data.tweets_2013_01 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Artur Adib",
+      "name" : "\u0430\u0440\u0442\u0443\u0440 \u0435\u0432\u0433\u0435\u043D\u044C\u0435\u0432\u0438\u0447",
       "screen_name" : "ar2r",
       "indices" : [ 0, 5 ],
-      "id_str" : "125061482",
-      "id" : 125061482
+      "id_str" : "1412670794",
+      "id" : 1412670794
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5581,7 +5475,7 @@ Grailbird.data.tweets_2013_01 =
       "indices" : [ 6, 26 ],
       "url" : "http://t.co/vVDQHVZr",
       "expanded_url" : "http://www.slashfilm.com/crazy-stupid-love-helmers-to-tell-the-crazy-story-of-john-mcafee/",
-      "display_url" : "slashfilm.com/crazy-stupid-l…"
+      "display_url" : "slashfilm.com/crazy-stupid-l\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "290893037331152897",
@@ -5593,7 +5487,7 @@ Grailbird.data.tweets_2013_01 =
   "id" : 290948749356847104,
   "in_reply_to_status_id" : 290893037331152897,
   "created_at" : "Mon Jan 14 22:29:22 +0000 2013",
-  "in_reply_to_screen_name" : "ar2r",
+  "in_reply_to_screen_name" : "r2r",
   "in_reply_to_user_id_str" : "125061482",
   "user" : {
     "name" : "Bryan Irace",
@@ -5782,7 +5676,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "290863159118540801",
   "in_reply_to_user_id" : 624947324,
-  "text" : "@mailbox Hey it’s the New Year guys :)",
+  "text" : "@mailbox Hey it\u2019s the New Year guys :)",
   "id" : 290863159118540801,
   "created_at" : "Mon Jan 14 16:49:15 +0000 2013",
   "in_reply_to_screen_name" : "mailbox",
@@ -5870,7 +5764,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "290651769216851968",
   "in_reply_to_user_id" : 15146558,
-  "text" : "@keithlaw Have you watched Breaking Bad yet? Love Homeland but don’t think it’s in the same league. Also prefer BB over The Wire due to S5",
+  "text" : "@keithlaw Have you watched Breaking Bad yet? Love Homeland but don\u2019t think it\u2019s in the same league. Also prefer BB over The Wire due to S5",
   "id" : 290651769216851968,
   "in_reply_to_status_id" : 290650608237694976,
   "created_at" : "Mon Jan 14 02:49:16 +0000 2013",
@@ -5932,7 +5826,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "290639528006397953",
   "in_reply_to_user_id" : 5413,
-  "text" : "@dustin Maybe it’s just due to the way I use Twitter (not only following tech folk) where http://t.co/1ujfHPJj is pretty much all tech.",
+  "text" : "@dustin Maybe it\u2019s just due to the way I use Twitter (not only following tech folk) where http://t.co/1ujfHPJj is pretty much all tech.",
   "id" : 290639528006397953,
   "in_reply_to_status_id" : 290634537145352192,
   "created_at" : "Mon Jan 14 02:00:37 +0000 2013",
@@ -5966,7 +5860,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "290635344959913985",
   "in_reply_to_user_id" : 5413,
-  "text" : "@dustin I follow people I otherwise wouldn’t have found due to the lower volume. Also people seem more likely to respond for the same reason",
+  "text" : "@dustin I follow people I otherwise wouldn\u2019t have found due to the lower volume. Also people seem more likely to respond for the same reason",
   "id" : 290635344959913985,
   "in_reply_to_status_id" : 290634537145352192,
   "created_at" : "Mon Jan 14 01:44:00 +0000 2013",
@@ -6072,7 +5966,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "290562253399396352",
   "in_reply_to_user_id" : 24880016,
-  "text" : "@adamreeve @paulsanwald Perhaps not but it’s a good refresher. Also I wasn’t nearly as interested in low-level computing at the time.",
+  "text" : "@adamreeve @paulsanwald Perhaps not but it\u2019s a good refresher. Also I wasn\u2019t nearly as interested in low-level computing at the time.",
   "id" : 290562253399396352,
   "in_reply_to_status_id" : 290560081521700864,
   "created_at" : "Sun Jan 13 20:53:34 +0000 2013",
@@ -6172,7 +6066,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "290492016612225024",
   "in_reply_to_user_id" : 320539038,
-  "text" : "@paulsanwald You’re crazy, I’ve been reading the Kindle edition.",
+  "text" : "@paulsanwald You\u2019re crazy, I\u2019ve been reading the Kindle edition.",
   "id" : 290492016612225024,
   "in_reply_to_status_id" : 290475044990251009,
   "created_at" : "Sun Jan 13 16:14:28 +0000 2013",
@@ -6234,7 +6128,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "290274765309104129",
   "in_reply_to_user_id" : 233807199,
-  "text" : "@calladan999 Flacco may be streaky but he’s eons better than Sanchez.",
+  "text" : "@calladan999 Flacco may be streaky but he\u2019s eons better than Sanchez.",
   "id" : 290274765309104129,
   "in_reply_to_status_id" : 290214208187035648,
   "created_at" : "Sun Jan 13 01:51:11 +0000 2013",
@@ -6355,7 +6249,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "290254374503067648",
   "in_reply_to_user_id" : 666043,
-  "text" : "@danielpunkass Not sure, I’ve just found Trello to be incredibly versatile. I use it for everything from projects at Tumblr to personal life",
+  "text" : "@danielpunkass Not sure, I\u2019ve just found Trello to be incredibly versatile. I use it for everything from projects at Tumblr to personal life",
   "id" : 290254374503067648,
   "in_reply_to_status_id" : 290254053437501440,
   "created_at" : "Sun Jan 13 00:30:10 +0000 2013",
@@ -6463,7 +6357,7 @@ Grailbird.data.tweets_2013_01 =
       "screen_name" : "MikeIsaac",
       "protected" : false,
       "id_str" : "19040598",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3093413057/bb4705ba09fd1ea79ce13fb99840a99c_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3674701384/b2a44219f91a9b5305293b83d5373b46_normal.jpeg",
       "id" : 19040598,
       "verified" : false
     }
@@ -6499,7 +6393,7 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "290217842715004929",
-  "text" : "“@codingjester: OK. NodeJS is awesome. So much fun. #hacking” Slowly getting this to spread throughout Tumblr engineering.",
+  "text" : "\u201C@codingjester: OK. NodeJS is awesome. So much fun. #hacking\u201D Slowly getting this to spread throughout Tumblr engineering.",
   "id" : 290217842715004929,
   "created_at" : "Sat Jan 12 22:05:00 +0000 2013",
   "user" : {
@@ -6569,7 +6463,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "290198435901091840",
   "in_reply_to_user_id" : 50256733,
-  "text" : "@PenfieldUSA Hi, any chance the Kasson parka will be available in a men’s small anytime soon? Can’t seem to find it anywhere, thanks.",
+  "text" : "@PenfieldUSA Hi, any chance the Kasson parka will be available in a men\u2019s small anytime soon? Can\u2019t seem to find it anywhere, thanks.",
   "id" : 290198435901091840,
   "created_at" : "Sat Jan 12 20:47:53 +0000 2013",
   "in_reply_to_screen_name" : "PenfieldUSA",
@@ -6648,7 +6542,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "290142690614587393",
   "in_reply_to_user_id" : 104245499,
-  "text" : "@littlecalculist @creationix More generally I’ve been programming for years but never studied languages themselves. Wondering where to start",
+  "text" : "@littlecalculist @creationix More generally I\u2019ve been programming for years but never studied languages themselves. Wondering where to start",
   "id" : 290142690614587393,
   "in_reply_to_status_id" : 290142189919551490,
   "created_at" : "Sat Jan 12 17:06:22 +0000 2013",
@@ -6714,7 +6608,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "290123515112325120",
   "in_reply_to_user_id" : 70596949,
-  "text" : "@creationix For those of us who don’t know what that means do you recommend any books/sites for overviews of various language properties?",
+  "text" : "@creationix For those of us who don\u2019t know what that means do you recommend any books/sites for overviews of various language properties?",
   "id" : 290123515112325120,
   "in_reply_to_status_id" : 289992172097388546,
   "created_at" : "Sat Jan 12 15:50:10 +0000 2013",
@@ -6745,7 +6639,7 @@ Grailbird.data.tweets_2013_01 =
       "indices" : [ 75, 95 ],
       "url" : "http://t.co/J7QOKFXn",
       "expanded_url" : "http://www.amazon.com/gp/aw/d/0735611319",
-      "display_url" : "amazon.com/gp/aw/d/073561…"
+      "display_url" : "amazon.com/gp/aw/d/073561\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "289882389390434304",
@@ -6753,7 +6647,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "289953160343207936",
   "in_reply_to_user_id" : 320539038,
-  "text" : "@paulsanwald I’m reading this book right now, think you might also dig it: http://t.co/J7QOKFXn",
+  "text" : "@paulsanwald I\u2019m reading this book right now, think you might also dig it: http://t.co/J7QOKFXn",
   "id" : 289953160343207936,
   "in_reply_to_status_id" : 289882389390434304,
   "created_at" : "Sat Jan 12 04:33:15 +0000 2013",
@@ -7032,7 +6926,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "289588057919852544",
   "in_reply_to_user_id" : 70596949,
-  "text" : "@creationix Thanks. Is Jison what you’re using?",
+  "text" : "@creationix Thanks. Is Jison what you\u2019re using?",
   "id" : 289588057919852544,
   "in_reply_to_status_id" : 289587455814950913,
   "created_at" : "Fri Jan 11 04:22:27 +0000 2013",
@@ -7100,7 +6994,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "289582910833561600",
   "in_reply_to_user_id" : 70596949,
-  "text" : "@creationix You should blog about this process. I’d love to try my hand at a language but wouldn’t know where to get started.",
+  "text" : "@creationix You should blog about this process. I\u2019d love to try my hand at a language but wouldn\u2019t know where to get started.",
   "id" : 289582910833561600,
   "in_reply_to_status_id" : 289566748729028609,
   "created_at" : "Fri Jan 11 04:02:00 +0000 2013",
@@ -7436,7 +7330,7 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "289426123903868929",
-  "text" : "“@rossrubin: Hmmm, so when will Amazon offer AutoRip for printed books?” OMG yes please.",
+  "text" : "\u201C@rossrubin: Hmmm, so when will Amazon offer AutoRip for printed books?\u201D OMG yes please.",
   "id" : 289426123903868929,
   "created_at" : "Thu Jan 10 17:38:59 +0000 2013",
   "user" : {
@@ -7467,7 +7361,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "289368521845137408",
   "in_reply_to_user_id" : 6776822,
-  "text" : "@bmatheny I don’t think it has been updated in quite a while. I am digging it so far though.",
+  "text" : "@bmatheny I don\u2019t think it has been updated in quite a while. I am digging it so far though.",
   "id" : 289368521845137408,
   "in_reply_to_status_id" : 289365661002633217,
   "created_at" : "Thu Jan 10 13:50:06 +0000 2013",
@@ -7535,7 +7429,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "289251699087007744",
   "in_reply_to_user_id" : 652193,
-  "text" : "@parislemon Cool, good to know. I don’t think that was intentional, maybe just proportional to screen size? Will have a look.",
+  "text" : "@parislemon Cool, good to know. I don\u2019t think that was intentional, maybe just proportional to screen size? Will have a look.",
   "id" : 289251699087007744,
   "in_reply_to_status_id" : 289251479078969344,
   "created_at" : "Thu Jan 10 06:05:53 +0000 2013",
@@ -7568,7 +7462,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "289251172479533056",
   "in_reply_to_user_id" : 652193,
-  "text" : "@parislemon Wasn’t 100% sure what your Tumblr post meant, you prefer the Android app’s post control touch targets over the iOS app’s?",
+  "text" : "@parislemon Wasn\u2019t 100% sure what your Tumblr post meant, you prefer the Android app\u2019s post control touch targets over the iOS app\u2019s?",
   "id" : 289251172479533056,
   "created_at" : "Thu Jan 10 06:03:48 +0000 2013",
   "in_reply_to_screen_name" : "parislemon",
@@ -7735,7 +7629,7 @@ Grailbird.data.tweets_2013_01 =
       "indices" : [ 10, 30 ],
       "url" : "http://t.co/J7QOKFXn",
       "expanded_url" : "http://www.amazon.com/gp/aw/d/0735611319",
-      "display_url" : "amazon.com/gp/aw/d/073561…"
+      "display_url" : "amazon.com/gp/aw/d/073561\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "289228591839985666",
@@ -7769,7 +7663,7 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "289227494668783616",
-  "text" : "“And now you might ask, is this *really* the way that computers add numbers together? Basically, yes.”",
+  "text" : "\u201CAnd now you might ask, is this *really* the way that computers add numbers together? Basically, yes.\u201D",
   "id" : 289227494668783616,
   "created_at" : "Thu Jan 10 04:29:42 +0000 2013",
   "user" : {
@@ -7842,11 +7736,11 @@ Grailbird.data.tweets_2013_01 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Artur Adib",
+      "name" : "\u0430\u0440\u0442\u0443\u0440 \u0435\u0432\u0433\u0435\u043D\u044C\u0435\u0432\u0438\u0447",
       "screen_name" : "ar2r",
       "indices" : [ 0, 5 ],
-      "id_str" : "125061482",
-      "id" : 125061482
+      "id_str" : "1412670794",
+      "id" : 1412670794
     }, {
       "name" : "DHH",
       "screen_name" : "dhh",
@@ -7867,7 +7761,7 @@ Grailbird.data.tweets_2013_01 =
   "id" : 289201572129406976,
   "in_reply_to_status_id" : 289045273450274817,
   "created_at" : "Thu Jan 10 02:46:42 +0000 2013",
-  "in_reply_to_screen_name" : "ar2r",
+  "in_reply_to_screen_name" : "r2r",
   "in_reply_to_user_id_str" : "125061482",
   "user" : {
     "name" : "Bryan Irace",
@@ -7897,7 +7791,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "289118396925239296",
   "in_reply_to_user_id" : 18137723,
-  "text" : "@raganwald Dude, move over to Tumblr! C’mon!",
+  "text" : "@raganwald Dude, move over to Tumblr! C\u2019mon!",
   "id" : 289118396925239296,
   "in_reply_to_status_id" : 289030112412848128,
   "created_at" : "Wed Jan 09 21:16:12 +0000 2013",
@@ -8149,7 +8043,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "288833593713778688",
   "in_reply_to_user_id" : 320539038,
-  "text" : "@paulsanwald It’s extremely entertaining, very violent even for his standards. Not too serious but a lot of fun.",
+  "text" : "@paulsanwald It\u2019s extremely entertaining, very violent even for his standards. Not too serious but a lot of fun.",
   "id" : 288833593713778688,
   "in_reply_to_status_id" : 288749254162395137,
   "created_at" : "Wed Jan 09 02:24:29 +0000 2013",
@@ -8183,7 +8077,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "288831881724698625",
   "in_reply_to_user_id" : 14765585,
-  "text" : "@robneyer Have you seen “The King of Kong”?",
+  "text" : "@robneyer Have you seen \u201CThe King of Kong\u201D?",
   "id" : 288831881724698625,
   "in_reply_to_status_id" : 288742456055455744,
   "created_at" : "Wed Jan 09 02:17:41 +0000 2013",
@@ -8270,7 +8164,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "288483372077043712",
   "in_reply_to_user_id" : 15225114,
-  "text" : "@Behrens Nice, I don’t use them.",
+  "text" : "@Behrens Nice, I don\u2019t use them.",
   "id" : 288483372077043712,
   "in_reply_to_status_id" : 288448060588183554,
   "created_at" : "Tue Jan 08 03:12:50 +0000 2013",
@@ -8360,7 +8254,7 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "288439432581902337",
-  "text" : "“This will be primarily useful for new employees or gluttons for punishment” - @bmatheny meeting invite http://t.co/PKd5MT4n",
+  "text" : "\u201CThis will be primarily useful for new employees or gluttons for punishment\u201D - @bmatheny meeting invite http://t.co/PKd5MT4n",
   "id" : 288439432581902337,
   "created_at" : "Tue Jan 08 00:18:14 +0000 2013",
   "user" : {
@@ -8794,7 +8688,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "287658384507957251",
   "in_reply_to_user_id" : 9764422,
-  "text" : "@mattlehrer Is iTunes Match not basically Lala? Or did Lala let you stream music you didn’t own as well?",
+  "text" : "@mattlehrer Is iTunes Match not basically Lala? Or did Lala let you stream music you didn\u2019t own as well?",
   "id" : 287658384507957251,
   "in_reply_to_status_id" : 287623010943389696,
   "created_at" : "Sat Jan 05 20:34:37 +0000 2013",
@@ -8828,7 +8722,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "287656492524523520",
   "in_reply_to_user_id" : 6927562,
-  "text" : "@thomasfuchs Have you found a good OS X AirPrint proxy app? Would like to print from iPad to wireless printer that doesn’t support AirPrint.",
+  "text" : "@thomasfuchs Have you found a good OS X AirPrint proxy app? Would like to print from iPad to wireless printer that doesn\u2019t support AirPrint.",
   "id" : 287656492524523520,
   "in_reply_to_status_id" : 287526934508892161,
   "created_at" : "Sat Jan 05 20:27:06 +0000 2013",
@@ -8943,7 +8837,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "287377765743861760",
   "in_reply_to_user_id" : 658643,
-  "text" : "@SteveStreza Great, not sure when I’ll get to it but hopefully soon. BTW if Tumblr had an iOS SDK would you add sharing from the Pocket app?",
+  "text" : "@SteveStreza Great, not sure when I\u2019ll get to it but hopefully soon. BTW if Tumblr had an iOS SDK would you add sharing from the Pocket app?",
   "id" : 287377765743861760,
   "in_reply_to_status_id" : 287374318667722752,
   "created_at" : "Sat Jan 05 01:59:33 +0000 2013",
@@ -9052,13 +8946,13 @@ Grailbird.data.tweets_2013_01 =
       "indices" : [ 100, 120 ],
       "url" : "http://t.co/IONS2RpG",
       "expanded_url" : "http://branch.com/b/what-would-you-like-to-see-in-tumblr-for-ios",
-      "display_url" : "branch.com/b/what-would-y…"
+      "display_url" : "branch.com/b/what-would-y\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "287227049360379904",
-  "text" : "Talking about “What would you like to see in Tumblr for iOS?” on @branch. Who has something to add? http://t.co/IONS2RpG",
+  "text" : "Talking about \u201CWhat would you like to see in Tumblr for iOS?\u201D on @branch. Who has something to add? http://t.co/IONS2RpG",
   "id" : 287227049360379904,
   "created_at" : "Fri Jan 04 16:00:39 +0000 2013",
   "user" : {
@@ -9230,12 +9124,12 @@ Grailbird.data.tweets_2013_01 =
       "indices" : [ 79, 99 ],
       "url" : "http://t.co/TR6ilDZK",
       "expanded_url" : "http://branch.com/b/the-ipad-mini-pricing",
-      "display_url" : "branch.com/b/the-ipad-min…"
+      "display_url" : "branch.com/b/the-ipad-min\u2026"
     }, {
       "indices" : [ 101, 121 ],
       "url" : "http://t.co/TU4pDF7o",
       "expanded_url" : "http://branch.com/b/if-you-were-leading-tumblr",
-      "display_url" : "branch.com/b/if-you-were-…"
+      "display_url" : "branch.com/b/if-you-were-\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "287222771581321217",
@@ -9357,7 +9251,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "287060008552787969",
   "in_reply_to_user_id" : 130914103,
-  "text" : "@hamburger Haha, I’ve actually been there. Used to live two blocks away.",
+  "text" : "@hamburger Haha, I\u2019ve actually been there. Used to live two blocks away.",
   "id" : 287060008552787969,
   "in_reply_to_status_id" : 287005537453895680,
   "created_at" : "Fri Jan 04 04:56:54 +0000 2013",
@@ -9970,76 +9864,6 @@ Grailbird.data.tweets_2013_01 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Josh Miller",
-      "screen_name" : "joshm",
-      "indices" : [ 3, 9 ],
-      "id_str" : "42559115",
-      "id" : 42559115
-    }, {
-      "name" : "Patrick Moberg",
-      "screen_name" : "patrickmoberg",
-      "indices" : [ 19, 33 ],
-      "id_str" : "4102571",
-      "id" : 4102571
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : {
-  },
-  "id_str" : "286685445314715648",
-  "text" : "RT @joshm: I think @patrickmoberg nailed it: \"Teens used to cover their walls with magazine clippings, now they do it on Tumblr.\" http:/ ...",
-  "retweeted_status" : {
-    "source" : "web",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Patrick Moberg",
-        "screen_name" : "patrickmoberg",
-        "indices" : [ 8, 22 ],
-        "id_str" : "4102571",
-        "id" : 4102571
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 119, 139 ],
-        "url" : "http://t.co/SomaSH8K",
-        "expanded_url" : "http://branch.com/b/if-you-were-leading-tumblr#SXMFvrFJxww",
-        "display_url" : "branch.com/b/if-you-were-…"
-      } ]
-    },
-    "geo" : {
-    },
-    "id_str" : "286626952561975297",
-    "text" : "I think @patrickmoberg nailed it: \"Teens used to cover their walls with magazine clippings, now they do it on Tumblr.\" http://t.co/SomaSH8K",
-    "id" : 286626952561975297,
-    "created_at" : "Thu Jan 03 00:16:05 +0000 2013",
-    "user" : {
-      "name" : "Josh Miller",
-      "screen_name" : "joshm",
-      "protected" : false,
-      "id_str" : "42559115",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3241941290/825ef1586ef592f0ed5efc8ef8a18246_normal.png",
-      "id" : 42559115,
-      "verified" : false
-    }
-  },
-  "id" : 286685445314715648,
-  "created_at" : "Thu Jan 03 04:08:31 +0000 2013",
-  "user" : {
-    "name" : "Bryan Irace",
-    "screen_name" : "irace",
-    "protected" : false,
-    "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
-    "id" : 21626062,
-    "verified" : false
-  }
-}, {
-  "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Adam Laiacano",
       "screen_name" : "adamlaiacano",
       "indices" : [ 0, 13 ],
@@ -10126,7 +9950,7 @@ Grailbird.data.tweets_2013_01 =
   "geo" : {
   },
   "id_str" : "286487673500205058",
-  "text" : "Overloading C Functions with Clang - Robert Böhnke - While languages like Java and C++ allow you to define... http://t.co/qeZMOwzM",
+  "text" : "Overloading C Functions with Clang - Robert B\u00F6hnke - While languages like Java and C++ allow you to define... http://t.co/qeZMOwzM",
   "id" : 286487673500205058,
   "created_at" : "Wed Jan 02 15:02:38 +0000 2013",
   "user" : {
@@ -10157,7 +9981,7 @@ Grailbird.data.tweets_2013_01 =
   },
   "id_str" : "286337309006233600",
   "in_reply_to_user_id" : 6776822,
-  "text" : "@bmatheny There’s always next year…",
+  "text" : "@bmatheny There\u2019s always next year\u2026",
   "id" : 286337309006233600,
   "in_reply_to_status_id" : 286337025303527425,
   "created_at" : "Wed Jan 02 05:05:09 +0000 2013",
@@ -10176,7 +10000,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "｢ Alex McCollister ｣",
+      "name" : "\uFF62 Alex McCollister \uFF63",
       "screen_name" : "alexmccollister",
       "indices" : [ 0, 16 ],
       "id_str" : "302909320",
@@ -10210,7 +10034,7 @@ Grailbird.data.tweets_2013_01 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "｢ Alex McCollister ｣",
+      "name" : "\uFF62 Alex McCollister \uFF63",
       "screen_name" : "alexmccollister",
       "indices" : [ 0, 16 ],
       "id_str" : "302909320",

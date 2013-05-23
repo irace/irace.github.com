@@ -45,7 +45,7 @@ Grailbird.data.tweets_2011_12 =
       "indices" : [ 5, 25 ],
       "url" : "http://t.co/WJHMBUUW",
       "expanded_url" : "http://www.youtube.com/watch?v=iQdDRrcAOjA",
-      "display_url" : "youtube.com/watch?v=iQdDRr…"
+      "display_url" : "youtube.com/watch?v=iQdDRr\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "153148427625168896",
@@ -146,7 +146,7 @@ Grailbird.data.tweets_2011_12 =
       "indices" : [ 22, 42 ],
       "url" : "http://t.co/WCwe93gs",
       "expanded_url" : "http://bryanirace.com/mail-link-bookmarklet/",
-      "display_url" : "bryanirace.com/mail-link-book…"
+      "display_url" : "bryanirace.com/mail-link-book\u2026"
     } ]
   },
   "geo" : {
@@ -456,7 +456,7 @@ Grailbird.data.tweets_2011_12 =
       "indices" : [ 100, 120 ],
       "url" : "http://t.co/JI9mtWJA",
       "expanded_url" : "http://thenextweb.com/insider/2011/12/24/go-daddy-lost-21054-domains-yesterday-in-wake-of-sopa-pr-disaster/",
-      "display_url" : "thenextweb.com/insider/2011/1…"
+      "display_url" : "thenextweb.com/insider/2011/1\u2026"
     } ]
   },
   "geo" : {
@@ -473,7 +473,7 @@ Grailbird.data.tweets_2011_12 =
         "indices" : [ 83, 103 ],
         "url" : "http://t.co/JI9mtWJA",
         "expanded_url" : "http://thenextweb.com/insider/2011/12/24/go-daddy-lost-21054-domains-yesterday-in-wake-of-sopa-pr-disaster/",
-        "display_url" : "thenextweb.com/insider/2011/1…"
+        "display_url" : "thenextweb.com/insider/2011/1\u2026"
       } ]
     },
     "geo" : {
@@ -633,7 +633,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "Scott_Source",
       "protected" : false,
       "id_str" : "43650262",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2935690818/3d4faba3d3e60673e4627553d0cc10fd_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3373805663/7c76fa864107c14b5a04cf5643a702f7_normal.jpeg",
       "id" : 43650262,
       "verified" : false
     }
@@ -681,7 +681,13 @@ Grailbird.data.tweets_2011_12 =
 }, {
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Eduardo Bornstein",
+      "screen_name" : "EBornstein",
+      "indices" : [ 0, 11 ],
+      "id_str" : "1266439448",
+      "id" : 1266439448
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -695,7 +701,7 @@ Grailbird.data.tweets_2011_12 =
   "id" : 150355100286717952,
   "in_reply_to_status_id" : 150353544455794689,
   "created_at" : "Fri Dec 23 23:20:24 +0000 2011",
-  "in_reply_to_screen_name" : "EGeoffB",
+  "in_reply_to_screen_name" : "BornEricG",
   "in_reply_to_user_id_str" : "17944655",
   "user" : {
     "name" : "Bryan Irace",
@@ -920,7 +926,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "ebaynetflix",
       "protected" : false,
       "id_str" : "61408528",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2403742673/9wxcngl6hp8efnok7gk7_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3434336501/312ce042cc26b8e0ae70afe5eae11db8_normal.jpeg",
       "id" : 61408528,
       "verified" : true
     }
@@ -947,7 +953,7 @@ Grailbird.data.tweets_2011_12 =
   "geo" : {
   },
   "id_str" : "149689911644143616",
-  "text" : "Two of my favorite albums from 2011, Neon Indian's \"Era Extraña\" and Girls' \"Father, Son, Holy Ghost,\" are both $5 at Amazon right now.",
+  "text" : "Two of my favorite albums from 2011, Neon Indian's \"Era Extra\u00F1a\" and Girls' \"Father, Son, Holy Ghost,\" are both $5 at Amazon right now.",
   "id" : 149689911644143616,
   "created_at" : "Thu Dec 22 03:17:10 +0000 2011",
   "user" : {
@@ -981,7 +987,7 @@ Grailbird.data.tweets_2011_12 =
   "geo" : {
   },
   "id_str" : "149689350978945024",
-  "text" : "My favorite this year, I think. Only saw a few though. “@robneyer: Just saw this and holy hell it's good: http://t.co/uIKIuBoQ”",
+  "text" : "My favorite this year, I think. Only saw a few though. \u201C@robneyer: Just saw this and holy hell it's good: http://t.co/uIKIuBoQ\u201D",
   "id" : 149689350978945024,
   "created_at" : "Thu Dec 22 03:14:57 +0000 2011",
   "user" : {
@@ -1068,7 +1074,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "slashfilm",
       "protected" : false,
       "id_str" : "821193",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/53474571/peterdrawingslashfilm_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3508825918/91dfbddaaf31c47a9b7f551e721c53c2_normal.jpeg",
       "id" : 821193,
       "verified" : true
     }
@@ -1128,7 +1134,7 @@ Grailbird.data.tweets_2011_12 =
       "indices" : [ 27, 47 ],
       "url" : "http://t.co/twLykbR4",
       "expanded_url" : "http://daringfireball.net/linked/2011/12/19/galaxy-nexus-lte",
-      "display_url" : "daringfireball.net/linked/2011/12…"
+      "display_url" : "daringfireball.net/linked/2011/12\u2026"
     } ]
   },
   "geo" : {
@@ -1206,12 +1212,6 @@ Grailbird.data.tweets_2011_12 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Santonio Holmes",
-      "screen_name" : "santonio10",
-      "indices" : [ 57, 68 ],
-      "id_str" : "62373285",
-      "id" : 62373285
-    }, {
       "name" : "Braylon Edwards",
       "screen_name" : "OfficialBraylon",
       "indices" : [ 74, 90 ],
@@ -1471,7 +1471,7 @@ Grailbird.data.tweets_2011_12 =
       "id_str" : "127666940",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/1606758753/AdamPhoto2_normal.jpg",
       "id" : 127666940,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 143534743785455616,
@@ -1619,7 +1619,7 @@ Grailbird.data.tweets_2011_12 =
   "geo" : {
   },
   "id_str" : "142425136677666816",
-  "text" : "RT @schroest: “@santacon: Santa's sack is getting full. Who wants a present?” @DaveBrace @irace @dhtaupin @JarydFreedman @warner121",
+  "text" : "RT @schroest: \u201C@santacon: Santa's sack is getting full. Who wants a present?\u201D @DaveBrace @irace @dhtaupin @JarydFreedman @warner121",
   "retweeted_status" : {
     "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "entities" : {
@@ -1667,7 +1667,7 @@ Grailbird.data.tweets_2011_12 =
     "geo" : {
     },
     "id_str" : "142419251712630784",
-    "text" : "“@santacon: Santa's sack is getting full. Who wants a present?” @DaveBrace @irace @dhtaupin @JarydFreedman @warner121",
+    "text" : "\u201C@santacon: Santa's sack is getting full. Who wants a present?\u201D @DaveBrace @irace @dhtaupin @JarydFreedman @warner121",
     "id" : 142419251712630784,
     "created_at" : "Fri Dec 02 01:46:10 +0000 2011",
     "user" : {

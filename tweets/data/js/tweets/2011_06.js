@@ -103,7 +103,7 @@ Grailbird.data.tweets_2011_06 =
   "geo" : {
   },
   "id_str" : "86280843676487680",
-  "text" : "Love the @readability Chrome extension but ⌘+` switches between app. windows on OS X. It shouldn't be triggered by ` if ⌘ is also held down.",
+  "text" : "Love the @readability Chrome extension but \u2318+` switches between app. windows on OS X. It shouldn't be triggered by ` if \u2318 is also held down.",
   "id" : 86280843676487680,
   "created_at" : "Thu Jun 30 03:52:10 +0000 2011",
   "user" : {
@@ -192,7 +192,7 @@ Grailbird.data.tweets_2011_06 =
   "geo" : {
   },
   "id_str" : "85520660553670656",
-  "text" : "#soundtracking \"Girl / Boy (L 18 Snore Rush Mix)\" by Aphex Twin ♫ http://sdtk.fm/iAf9Kr",
+  "text" : "#soundtracking \"Girl / Boy (L 18 Snore Rush Mix)\" by Aphex Twin \u266B http://sdtk.fm/iAf9Kr",
   "id" : 85520660553670656,
   "created_at" : "Tue Jun 28 01:31:29 +0000 2011",
   "user" : {
@@ -282,7 +282,7 @@ Grailbird.data.tweets_2011_06 =
   "geo" : {
   },
   "id_str" : "84513255443279872",
-  "text" : "#soundtracking \"Paranoid Android\" by Radiohead ♫ http://sdtk.fm/mzrfPJ",
+  "text" : "#soundtracking \"Paranoid Android\" by Radiohead \u266B http://sdtk.fm/mzrfPJ",
   "id" : 84513255443279872,
   "created_at" : "Sat Jun 25 06:48:24 +0000 2011",
   "user" : {
@@ -341,7 +341,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "pitchforkmedia",
       "protected" : false,
       "id_str" : "14089195",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2913453468/c12d17fe1521c405e19d479d80c76907_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3447350752/51ae00039ec9d88b79319a9cf1434893_normal.png",
       "id" : 14089195,
       "verified" : true
     }
@@ -565,7 +565,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 67, 86 ],
       "url" : "http://t.co/Tm9pvpj",
       "expanded_url" : "http://thisismynext.com/2011/06/13/icloud-apple-strategy-flaw/",
-      "display_url" : "thisismynext.com/2011/06/13/icl…"
+      "display_url" : "thisismynext.com/2011/06/13/icl\u2026"
     } ]
   },
   "geo" : {
@@ -582,7 +582,7 @@ Grailbird.data.tweets_2011_06 =
         "indices" : [ 47, 66 ],
         "url" : "http://t.co/Tm9pvpj",
         "expanded_url" : "http://thisismynext.com/2011/06/13/icloud-apple-strategy-flaw/",
-        "display_url" : "thisismynext.com/2011/06/13/icl…"
+        "display_url" : "thisismynext.com/2011/06/13/icl\u2026"
       } ]
     },
     "geo" : {
@@ -683,7 +683,7 @@ Grailbird.data.tweets_2011_06 =
   "geo" : {
   },
   "id_str" : "79665119612772352",
-  "text" : "Definitely my favorite iPhone app: “@rsarver: finally bought @reederapp for iPhone and loving it. really well crafted”",
+  "text" : "Definitely my favorite iPhone app: \u201C@rsarver: finally bought @reederapp for iPhone and loving it. really well crafted\u201D",
   "id" : 79665119612772352,
   "created_at" : "Sat Jun 11 21:43:39 +0000 2011",
   "user" : {
@@ -709,7 +709,7 @@ Grailbird.data.tweets_2011_06 =
   "geo" : {
   },
   "id_str" : "79664431461699584",
-  "text" : "#soundtracking \"Last Known Surroundings\" by Explosions In the Sky ♫ http://sdtk.fm/mSW3MJ",
+  "text" : "#soundtracking \"Last Known Surroundings\" by Explosions In the Sky \u266B http://sdtk.fm/mSW3MJ",
   "id" : 79664431461699584,
   "created_at" : "Sat Jun 11 21:40:55 +0000 2011",
   "user" : {
@@ -735,7 +735,7 @@ Grailbird.data.tweets_2011_06 =
   "geo" : {
   },
   "id_str" : "79662020256989184",
-  "text" : "#soundtracking \"Double Lives In Single Beds\" by Cold Cave ♫ http://sdtk.fm/mjIsz4",
+  "text" : "#soundtracking \"Double Lives In Single Beds\" by Cold Cave \u266B http://sdtk.fm/mjIsz4",
   "id" : 79662020256989184,
   "created_at" : "Sat Jun 11 21:31:20 +0000 2011",
   "user" : {
@@ -876,7 +876,7 @@ Grailbird.data.tweets_2011_06 =
   "geo" : {
   },
   "id_str" : "78488893128851456",
-  "text" : "RT @mxcl: Shame Apple didn't do cross-device Notification sync too. Once I’ve seen a notification on iPhone, please dismiss it on my iPa ...",
+  "text" : "RT @mxcl: Shame Apple didn't do cross-device Notification sync too. Once I\u2019ve seen a notification on iPhone, please dismiss it on my iPa ...",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -888,7 +888,7 @@ Grailbird.data.tweets_2011_06 =
     "geo" : {
     },
     "id_str" : "78471361059758080",
-    "text" : "Shame Apple didn't do cross-device Notification sync too. Once I’ve seen a notification on iPhone, please dismiss it on my iPad. Thanks.",
+    "text" : "Shame Apple didn't do cross-device Notification sync too. Once I\u2019ve seen a notification on iPhone, please dismiss it on my iPad. Thanks.",
     "id" : 78471361059758080,
     "created_at" : "Wed Jun 08 14:40:05 +0000 2011",
     "user" : {
@@ -968,7 +968,7 @@ Grailbird.data.tweets_2011_06 =
   "geo" : {
   },
   "id_str" : "78317944928608256",
-  "text" : "Couldn't agree with this more: “@johnaugust: Two App Stores is one too many :: http://t.co/fe2Ui52”",
+  "text" : "Couldn't agree with this more: \u201C@johnaugust: Two App Stores is one too many :: http://t.co/fe2Ui52\u201D",
   "id" : 78317944928608256,
   "created_at" : "Wed Jun 08 04:30:27 +0000 2011",
   "user" : {
@@ -1105,7 +1105,7 @@ Grailbird.data.tweets_2011_06 =
   "geo" : {
   },
   "id_str" : "77954285526200320",
-  "text" : "Thoughts on Today's WWDC Keynote - A few rapid-fire initial thoughts. OS X Lion Not much we didn’t already... http://tumblr.com/xcu2vs28hu",
+  "text" : "Thoughts on Today's WWDC Keynote - A few rapid-fire initial thoughts. OS X Lion Not much we didn\u2019t already... http://tumblr.com/xcu2vs28hu",
   "id" : 77954285526200320,
   "created_at" : "Tue Jun 07 04:25:24 +0000 2011",
   "user" : {
@@ -1412,7 +1412,7 @@ Grailbird.data.tweets_2011_06 =
   "geo" : {
   },
   "id_str" : "76117101403836416",
-  "text" : "Death by a thousand cuts to my wallet: “@amazonmp3: Today only, get the new album by Explosions in the Sky for $2.99: http://t.co/tqjTJbU”",
+  "text" : "Death by a thousand cuts to my wallet: \u201C@amazonmp3: Today only, get the new album by Explosions in the Sky for $2.99: http://t.co/tqjTJbU\u201D",
   "id" : 76117101403836416,
   "created_at" : "Thu Jun 02 02:45:05 +0000 2011",
   "user" : {

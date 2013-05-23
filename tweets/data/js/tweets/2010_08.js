@@ -428,7 +428,7 @@ Grailbird.data.tweets_2010_08 =
   "id_str" : "20483961372",
   "text" : "RT @Playtonic: Is it weird to say that @MSGnyc may not be big enough for @arcadefire? They are killlllling it",
   "retweeted_status" : {
-    "source" : "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+    "source" : "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00AE</a>",
     "entities" : {
       "user_mentions" : [ {
         "name" : "MSG",

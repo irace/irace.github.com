@@ -608,8 +608,8 @@ Grailbird.data.tweets_2010_11 =
       "name" : "Time Warner Cable ",
       "screen_name" : "TWCableHelp",
       "indices" : [ 0, 12 ],
-      "id_str" : "110782268",
-      "id" : 110782268
+      "id_str" : "1344878244",
+      "id" : 1344878244
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -624,7 +624,7 @@ Grailbird.data.tweets_2010_11 =
   "id" : 29385860747,
   "in_reply_to_status_id" : 29383364231,
   "created_at" : "Mon Nov 01 16:13:36 +0000 2010",
-  "in_reply_to_screen_name" : "TWCableHelp",
+  "in_reply_to_screen_name" : "TWC_Help",
   "in_reply_to_user_id_str" : "110782268",
   "user" : {
     "name" : "Bryan Irace",
@@ -639,11 +639,11 @@ Grailbird.data.tweets_2010_11 =
   "source" : "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Time Warner Cable ",
-      "screen_name" : "TWCable_NYC",
+      "name" : "TWC",
+      "screen_name" : "twcable_nyc",
       "indices" : [ 47, 59 ],
-      "id_str" : "121165704",
-      "id" : 121165704
+      "id_str" : "1225944228",
+      "id" : 1225944228
     } ],
     "media" : [ ],
     "hashtags" : [ {
