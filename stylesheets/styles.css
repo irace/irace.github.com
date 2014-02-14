@@ -1,10 +1,10 @@
 * {
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace !important;
+  font-family: "Helvetica Neue", sans-serif;
 }
 
 body {
 	margin-top: 40px;
-	background-color: #151515;
+	background-color: #3889ca;
   color: #EAEAEA !important;
 	font-size: 20px;
 }
@@ -18,8 +18,8 @@ li, p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-weight: normal;
-  color: #b5e853;
+  font-family: "Menlo", Courier, monospace;
+  color: white;
 }
 
 h1 {

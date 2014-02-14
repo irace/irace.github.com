@@ -14,4 +14,4 @@ In the `data` folder, your Twitter archive is present in two formats: JSON and C
 * The JSON export is also used to power the archive browser interface (index.html).
 * To consume the export in a generic JSON parser in any language, strip the first and last lines of each file.
 
-To provide feedback, ask questions, or share ideas with other Twitter developers, join the discussion forums on https://dev.twitter.com.itter.com.
+To provide feedback, ask questions, or share ideas with other Twitter developers, join the discussion forums on https://dev.twitter.com.

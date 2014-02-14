@@ -1428,7 +1428,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Not Kevin Irace",
+      "name" : "iRace 5S",
       "screen_name" : "kevin_irace",
       "indices" : [ 0, 12 ],
       "id_str" : "279709182",
@@ -3342,7 +3342,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "_DavidSmith",
+      "name" : "David Smith",
       "screen_name" : "_DavidSmith",
       "indices" : [ 0, 12 ],
       "id_str" : "46800814",
@@ -4163,7 +4163,7 @@ Grailbird.data.tweets_2013_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "tolarnet",
+      "name" : "robert tolar haining",
       "screen_name" : "tolar",
       "indices" : [ 0, 6 ],
       "id_str" : "3369501",
@@ -4664,7 +4664,7 @@ Grailbird.data.tweets_2013_08 =
       "screen_name" : "jakelodwick",
       "protected" : false,
       "id_str" : "237262300",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000664699612\/70316faa2061cec59fbecd58e2365552_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/426067199569047552\/vOo9o84C_normal.png",
       "id" : 237262300,
       "verified" : false
     }

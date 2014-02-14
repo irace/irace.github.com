@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2011_02 = 
  [ {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Trent Reznor",
@@ -13,47 +13,45 @@ Grailbird.data.tweets_2011_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "42067173086212096",
   "text" : "RT @trent_reznor: HOLY SHIT doesn't seem enough...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "42059448168095744",
     "text" : "HOLY SHIT doesn't seem enough...",
     "id" : 42059448168095744,
-    "created_at" : "Mon Feb 28 03:12:08 +0000 2011",
+    "created_at" : "2011-02-28 03:12:08 +0000",
     "user" : {
       "name" : "Trent Reznor",
       "screen_name" : "trent_reznor",
       "protected" : false,
       "id_str" : "15901190",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/58499973/robo1_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/58499973\/robo1_normal.jpg",
       "id" : 15901190,
       "verified" : true
     }
   },
   "id" : 42067173086212096,
-  "created_at" : "Mon Feb 28 03:42:50 +0000 2011",
+  "created_at" : "2011-02-28 03:42:50 +0000",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "The Bowery Presents",
@@ -66,8 +64,7 @@ Grailbird.data.tweets_2011_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "42054137990492160",
   "text" : "RT @bowerypresents: Wow. Trent Reznor has as many Oscars as Martin Scorsese.",
   "retweeted_status" : {
@@ -78,35 +75,34 @@ Grailbird.data.tweets_2011_02 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "42052952470458368",
     "text" : "Wow. Trent Reznor has as many Oscars as Martin Scorsese.",
     "id" : 42052952470458368,
-    "created_at" : "Mon Feb 28 02:46:19 +0000 2011",
+    "created_at" : "2011-02-28 02:46:19 +0000",
     "user" : {
       "name" : "The Bowery Presents",
       "screen_name" : "bowerypresents",
       "protected" : false,
       "id_str" : "20695699",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/77653231/The-Bowery-Presents-logo_normal.gif",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000126140618\/f56fec18f87e5f560b08d50ec1c30a0d_normal.png",
       "id" : 20695699,
       "verified" : false
     }
   },
   "id" : 42054137990492160,
-  "created_at" : "Mon Feb 28 02:51:02 +0000 2011",
+  "created_at" : "2011-02-28 02:51:02 +0000",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -116,23 +112,22 @@ Grailbird.data.tweets_2011_02 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "42052728377180160",
   "text" : "I was really hoping he would start singing Head Like a Hole. #fb",
   "id" : 42052728377180160,
-  "created_at" : "Mon Feb 28 02:45:26 +0000 2011",
+  "created_at" : "2011-02-28 02:45:26 +0000",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Trent Reznor",
@@ -148,46 +143,44 @@ Grailbird.data.tweets_2011_02 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "41960385925877760",
   "text" : "Pulling for @trent_reznor and Exit Through the Gift Shop tonight. #fb",
   "id" : 41960385925877760,
-  "created_at" : "Sun Feb 27 20:38:30 +0000 2011",
+  "created_at" : "2011-02-27 20:38:30 +0000",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://foursquare.com\" rel=\"nofollow\">foursquare</a>",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "41570260666683392",
-  "text" : "I'm at Stratton Mountain Ski Resort (5 Village Lodge Rd, Stratton Mountain) w/ 17 others http://4sq.com/hqMjck",
+  "text" : "I'm at Stratton Mountain Ski Resort (5 Village Lodge Rd, Stratton Mountain) w\/ 17 others http:\/\/4sq.com\/hqMjck",
   "id" : 41570260666683392,
-  "created_at" : "Sat Feb 26 18:48:17 +0000 2011",
+  "created_at" : "2011-02-26 18:48:17 +0000",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -197,28 +190,27 @@ Grailbird.data.tweets_2011_02 =
     } ],
     "urls" : [ {
       "indices" : [ 47, 66 ],
-      "url" : "http://t.co/BWqLSKF",
-      "expanded_url" : "http://blog.jamiemurai.com/2011/02/you-win-rim/",
-      "display_url" : "blog.jamiemurai.com/2011/02/you-wi\u2026"
+      "url" : "http:\/\/t.co\/BWqLSKF",
+      "expanded_url" : "http:\/\/blog.jamiemurai.com\/2011\/02\/you-win-rim\/",
+      "display_url" : "blog.jamiemurai.com\/2011\/02\/you-wi\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "41349648283205632",
-  "text" : "This is why the BlackBerry Playbook will fail: http://t.co/BWqLSKF #fb",
+  "text" : "This is why the BlackBerry Playbook will fail: http:\/\/t.co\/BWqLSKF #fb",
   "id" : 41349648283205632,
-  "created_at" : "Sat Feb 26 04:11:39 +0000 2011",
+  "created_at" : "2011-02-26 04:11:39 +0000",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Sparrow Mail",
@@ -231,13 +223,12 @@ Grailbird.data.tweets_2011_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "41344009683218432",
   "in_reply_to_user_id" : 163449492,
   "text" : "@sparrowmailapp has a nice UI but unfortunately isn't very performant. Wish I saw the screenshots of OS X Lion's Mail app before purchasing.",
   "id" : 41344009683218432,
-  "created_at" : "Sat Feb 26 03:49:14 +0000 2011",
+  "created_at" : "2011-02-26 03:49:14 +0000",
   "in_reply_to_screen_name" : "sparrow",
   "in_reply_to_user_id_str" : "163449492",
   "user" : {
@@ -245,12 +236,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -260,23 +251,22 @@ Grailbird.data.tweets_2011_02 =
     } ],
     "urls" : [ {
       "indices" : [ 67, 86 ],
-      "url" : "http://t.co/oBynKN0",
-      "expanded_url" : "http://awe.sm/5Gjd9",
-      "display_url" : "awe.sm/5Gjd9"
+      "url" : "http:\/\/t.co\/oBynKN0",
+      "expanded_url" : "http:\/\/awe.sm\/5Gjd9",
+      "display_url" : "awe.sm\/5Gjd9"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "40986099052453889",
-  "text" : "This is amazing: \"How Watson Could Have Been Defeated On Jeopardy\" http://t.co/oBynKN0 #fb",
+  "text" : "This is amazing: \"How Watson Could Have Been Defeated On Jeopardy\" http:\/\/t.co\/oBynKN0 #fb",
   "id" : 40986099052453889,
-  "created_at" : "Fri Feb 25 04:07:02 +0000 2011",
+  "created_at" : "2011-02-25 04:07:02 +0000",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
@@ -294,42 +284,40 @@ Grailbird.data.tweets_2011_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "40977282168258560",
   "text" : "RT @marcoarment: Android tablets will be better after lots of apps are made for them\u2026 but will they ever sell enough to make it worthwhi ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "40913811502276608",
     "text" : "Android tablets will be better after lots of apps are made for them\u2026 but will they ever sell enough to make it worthwhile for devs to do so?",
     "id" : 40913811502276608,
-    "created_at" : "Thu Feb 24 23:19:47 +0000 2011",
+    "created_at" : "2011-02-24 23:19:47 +0000",
     "user" : {
       "name" : "Marco Arment",
       "screen_name" : "marcoarment",
       "protected" : false,
       "id_str" : "14231571",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1282173124/untitled-158-2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1282173124\/untitled-158-2_normal.jpg",
       "id" : 14231571,
       "verified" : false
     }
   },
   "id" : 40977282168258560,
-  "created_at" : "Fri Feb 25 03:32:00 +0000 2011",
+  "created_at" : "2011-02-25 03:32:00 +0000",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
@@ -341,97 +329,93 @@ Grailbird.data.tweets_2011_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "40970882394361856",
-  "text" : "More Godspeed You! Black Emperor tickets available (first NYC shows in 8 years)/Church of St. Paul The Apostle 03/17/11 http://bit.ly/eIZEtE",
+  "text" : "More Godspeed You! Black Emperor tickets available (first NYC shows in 8 years)\/Church of St. Paul The Apostle 03\/17\/11 http:\/\/bit.ly\/eIZEtE",
   "id" : 40970882394361856,
-  "created_at" : "Fri Feb 25 03:06:34 +0000 2011",
+  "created_at" : "2011-02-25 03:06:34 +0000",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 106, 125 ],
-      "url" : "http://t.co/jUtodcg",
-      "expanded_url" : "http://www.bbc.co.uk/music/reviews/wd4z",
-      "display_url" : "bbc.co.uk/music/reviews/\u2026"
+      "url" : "http:\/\/t.co\/jUtodcg",
+      "expanded_url" : "http:\/\/www.bbc.co.uk\/music\/reviews\/wd4z",
+      "display_url" : "bbc.co.uk\/music\/reviews\/\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "40641636601954304",
-  "text" : "...\"insert your own favourite slow-paced Radiohead numb-er here \u2013 it\u2019s a piece of rarefied beauty.\" (2/2) http://t.co/jUtodcg",
+  "text" : "...\"insert your own favourite slow-paced Radiohead numb-er here \u2013 it\u2019s a piece of rarefied beauty.\" (2\/2) http:\/\/t.co\/jUtodcg",
   "id" : 40641636601954304,
-  "created_at" : "Thu Feb 24 05:18:15 +0000 2011",
+  "created_at" : "2011-02-24 05:18:15 +0000",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "40641363296911360",
-  "text" : "\"Like Motion Picture Soundtrack, Street Spirit, Sail to the Moon, Nude\"... (1/2)",
+  "text" : "\"Like Motion Picture Soundtrack, Street Spirit, Sail to the Moon, Nude\"... (1\/2)",
   "id" : 40641363296911360,
-  "created_at" : "Thu Feb 24 05:17:10 +0000 2011",
+  "created_at" : "2011-02-24 05:17:10 +0000",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "40640166703923200",
   "text" : "Favorite quote about the new Radiohead: \"It isn\u2019t that \u201CThe King of Limbs\u2019\u2019 pulls its punches, it would just rather surround than attack.\"",
   "id" : 40640166703923200,
-  "created_at" : "Thu Feb 24 05:12:25 +0000 2011",
+  "created_at" : "2011-02-24 05:12:25 +0000",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Amazon MP3",
@@ -450,12 +434,11 @@ Grailbird.data.tweets_2011_02 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "40517507588554752",
-  "text" : "RT @amazonmp3: Today only, get Before Today by Ariel Pink's Haunted Graffiti for $3.99: http://amzn.to/gDHOKa #dailydeal #editorpick",
+  "text" : "RT @amazonmp3: Today only, get Before Today by Ariel Pink's Haunted Graffiti for $3.99: http:\/\/amzn.to\/gDHOKa #dailydeal #editorpick",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.socialflow.com\" rel=\"nofollow\"\u003ESocialFlow\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -468,35 +451,34 @@ Grailbird.data.tweets_2011_02 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "40481357771702272",
-    "text" : "Today only, get Before Today by Ariel Pink's Haunted Graffiti for $3.99: http://amzn.to/gDHOKa #dailydeal #editorpick",
+    "text" : "Today only, get Before Today by Ariel Pink's Haunted Graffiti for $3.99: http:\/\/amzn.to\/gDHOKa #dailydeal #editorpick",
     "id" : 40481357771702272,
-    "created_at" : "Wed Feb 23 18:41:22 +0000 2011",
+    "created_at" : "2011-02-23 18:41:22 +0000",
     "user" : {
       "name" : "Amazon MP3",
       "screen_name" : "amazonmp3",
       "protected" : false,
       "id_str" : "14740219",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/340137940/twitteravatar_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/340137940\/twitteravatar_normal.jpeg",
       "id" : 14740219,
       "verified" : true
     }
   },
   "id" : 40517507588554752,
-  "created_at" : "Wed Feb 23 21:05:01 +0000 2011",
+  "created_at" : "2011-02-23 21:05:01 +0000",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Reeder",
@@ -509,13 +491,12 @@ Grailbird.data.tweets_2011_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "40253624936443904",
   "in_reply_to_user_id" : 79033767,
   "text" : "@reederapp for iPhone makes me want to buy an iPad. Apple's subscription pricing policy does not.",
   "id" : 40253624936443904,
-  "created_at" : "Wed Feb 23 03:36:26 +0000 2011",
+  "created_at" : "2011-02-23 03:36:26 +0000",
   "in_reply_to_screen_name" : "reederapp",
   "in_reply_to_user_id_str" : "79033767",
   "user" : {
@@ -523,12 +504,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "David Chen",
@@ -547,12 +528,11 @@ Grailbird.data.tweets_2011_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "40077765424193536",
-  "text" : "RT @davechensky: As usual, @marcoarment has the best analysis/conclusions about Apple's new app subscription policies http://bit.ly/g6uNdB",
+  "text" : "RT @davechensky: As usual, @marcoarment has the best analysis\/conclusions about Apple's new app subscription policies http:\/\/bit.ly\/g6uNdB",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Marco Arment",
@@ -565,35 +545,34 @@ Grailbird.data.tweets_2011_02 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "39934839046012928",
-    "text" : "As usual, @marcoarment has the best analysis/conclusions about Apple's new app subscription policies http://bit.ly/g6uNdB",
+    "text" : "As usual, @marcoarment has the best analysis\/conclusions about Apple's new app subscription policies http:\/\/bit.ly\/g6uNdB",
     "id" : 39934839046012928,
-    "created_at" : "Tue Feb 22 06:29:42 +0000 2011",
+    "created_at" : "2011-02-22 06:29:42 +0000",
     "user" : {
       "name" : "David Chen",
       "screen_name" : "davechensky",
       "protected" : false,
       "id_str" : "14290222",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2598248366/n197s053huh1xldiffug_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000527873626\/40758b890e7ba312436b99c1380d816e_normal.png",
       "id" : 14290222,
       "verified" : false
     }
   },
   "id" : 40077765424193536,
-  "created_at" : "Tue Feb 22 15:57:38 +0000 2011",
+  "created_at" : "2011-02-22 15:57:38 +0000",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marco Arment",
@@ -606,80 +585,77 @@ Grailbird.data.tweets_2011_02 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 57, 76 ],
-      "url" : "http://t.co/mBzFnuP",
-      "expanded_url" : "http://www.marco.org/3437484678",
-      "display_url" : "marco.org/3437484678"
+      "url" : "http:\/\/t.co\/mBzFnuP",
+      "expanded_url" : "http:\/\/www.marco.org\/3437484678",
+      "display_url" : "marco.org\/3437484678"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "39906136052211712",
-  "text" : "RT @marcoarment: Jumping into the IAP/subscription fire. http://t.co/mBzFnuP (I hope I don't regret this.)",
+  "text" : "RT @marcoarment: Jumping into the IAP\/subscription fire. http:\/\/t.co\/mBzFnuP (I hope I don't regret this.)",
   "retweeted_status" : {
-    "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 40, 59 ],
-        "url" : "http://t.co/mBzFnuP",
-        "expanded_url" : "http://www.marco.org/3437484678",
-        "display_url" : "marco.org/3437484678"
+        "url" : "http:\/\/t.co\/mBzFnuP",
+        "expanded_url" : "http:\/\/www.marco.org\/3437484678",
+        "display_url" : "marco.org\/3437484678"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "39888349011517440",
-    "text" : "Jumping into the IAP/subscription fire. http://t.co/mBzFnuP (I hope I don't regret this.)",
+    "text" : "Jumping into the IAP\/subscription fire. http:\/\/t.co\/mBzFnuP (I hope I don't regret this.)",
     "id" : 39888349011517440,
-    "created_at" : "Tue Feb 22 03:24:58 +0000 2011",
+    "created_at" : "2011-02-22 03:24:58 +0000",
     "user" : {
       "name" : "Marco Arment",
       "screen_name" : "marcoarment",
       "protected" : false,
       "id_str" : "14231571",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1282173124/untitled-158-2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1282173124\/untitled-158-2_normal.jpg",
       "id" : 14231571,
       "verified" : false
     }
   },
   "id" : 39906136052211712,
-  "created_at" : "Tue Feb 22 04:35:38 +0000 2011",
+  "created_at" : "2011-02-22 04:35:38 +0000",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://reederapp.com\" rel=\"nofollow\">Reeder</a>",
+  "source" : "\u003Ca href=\"http:\/\/reederapp.com\" rel=\"nofollow\"\u003EReeder\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "39741111090167808",
-  "text" : "Apple's subscription pricing policy is really making them look quite bad. http://j.mp/h8TY8u",
+  "text" : "Apple's subscription pricing policy is really making them look quite bad. http:\/\/j.mp\/h8TY8u",
   "id" : 39741111090167808,
-  "created_at" : "Mon Feb 21 17:39:53 +0000 2011",
+  "created_at" : "2011-02-21 17:39:53 +0000",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://foursquare.com\" rel=\"nofollow\">foursquare</a>",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -691,20 +667,20 @@ Grailbird.data.tweets_2011_02 =
     "coordinates" : [ 40.7365253, -73.9868239 ]
   },
   "id_str" : "39132272854704128",
-  "text" : "I'm at Pete's Tavern (129 E 18th St, at Irving Pl, New York) http://4sq.com/hodmMl",
+  "text" : "I'm at Pete's Tavern (129 E 18th St, at Irving Pl, New York) http:\/\/4sq.com\/hodmMl",
   "id" : 39132272854704128,
-  "created_at" : "Sun Feb 20 01:20:35 +0000 2011",
+  "created_at" : "2011-02-20 01:20:35 +0000",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -714,23 +690,22 @@ Grailbird.data.tweets_2011_02 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "39056816520298496",
   "text" : "Even at 20% off, Borders is far more expensive than Amazon. #fb",
   "id" : 39056816520298496,
-  "created_at" : "Sat Feb 19 20:20:45 +0000 2011",
+  "created_at" : "2011-02-19 20:20:45 +0000",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Radiohead",
@@ -746,10 +721,9 @@ Grailbird.data.tweets_2011_02 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "37189245458194432",
-  "text" : "RT @radiohead: Thank you for waiting... http://rhd.cc/jd19 #thekingoflimbs",
+  "text" : "RT @radiohead: Thank you for waiting... http:\/\/rhd.cc\/jd19 #thekingoflimbs",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -761,35 +735,34 @@ Grailbird.data.tweets_2011_02 =
       } ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "37081279295918080",
-    "text" : "Thank you for waiting... http://rhd.cc/jd19 #thekingoflimbs",
+    "text" : "Thank you for waiting... http:\/\/rhd.cc\/jd19 #thekingoflimbs",
     "id" : 37081279295918080,
-    "created_at" : "Mon Feb 14 09:30:40 +0000 2011",
+    "created_at" : "2011-02-14 09:30:40 +0000",
     "user" : {
       "name" : "Radiohead",
       "screen_name" : "radiohead",
       "protected" : false,
       "id_str" : "108382988",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3207200326/0077e4a8c2728bb336a543f04f590592_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/433272245708812288\/cv-UfmOg_normal.png",
       "id" : 108382988,
       "verified" : true
     }
   },
   "id" : 37189245458194432,
-  "created_at" : "Mon Feb 14 16:39:41 +0000 2011",
+  "created_at" : "2011-02-14 16:39:41 +0000",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Rich Cimini",
@@ -802,8 +775,7 @@ Grailbird.data.tweets_2011_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "36993734449045505",
   "text" : "RT @RichCimini: Anyone really think Justin Bieber will be around in 50 years, pulling a Jagger? Didn't think so.",
   "retweeted_status" : {
@@ -814,35 +786,34 @@ Grailbird.data.tweets_2011_02 =
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "36993182168260608",
     "text" : "Anyone really think Justin Bieber will be around in 50 years, pulling a Jagger? Didn't think so.",
     "id" : 36993182168260608,
-    "created_at" : "Mon Feb 14 03:40:36 +0000 2011",
+    "created_at" : "2011-02-14 03:40:36 +0000",
     "user" : {
       "name" : "Rich Cimini",
       "screen_name" : "RichCimini",
       "protected" : false,
       "id_str" : "136026074",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/843753162/cimini_rich_55_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/843753162\/cimini_rich_55_normal.jpg",
       "id" : 136026074,
       "verified" : false
     }
   },
   "id" : 36993734449045505,
-  "created_at" : "Mon Feb 14 03:42:48 +0000 2011",
+  "created_at" : "2011-02-14 03:42:48 +0000",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -852,23 +823,22 @@ Grailbird.data.tweets_2011_02 =
     } ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "36977399774052352",
   "text" : "Blatant webOS product placement. #grammys",
   "id" : 36977399774052352,
-  "created_at" : "Mon Feb 14 02:37:53 +0000 2011",
+  "created_at" : "2011-02-14 02:37:53 +0000",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Peter Sciretta",
@@ -881,47 +851,45 @@ Grailbird.data.tweets_2011_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "35908482603425792",
-  "text" : "RT @slashfilm: The Academy Doesn\u2019t Know What To Do If Banksy Wins an Oscar http://goo.gl/fb/8toCW",
+  "text" : "RT @slashfilm: The Academy Doesn\u2019t Know What To Do If Banksy Wins an Oscar http:\/\/goo.gl\/fb\/8toCW",
   "retweeted_status" : {
-    "source" : "<a href=\"http://www.google.com/\" rel=\"nofollow\">Google</a>",
+    "source" : "\u003Ca href=\"http:\/\/www.google.com\/\" rel=\"nofollow\"\u003EGoogle\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "35730442980306944",
-    "text" : "The Academy Doesn\u2019t Know What To Do If Banksy Wins an Oscar http://goo.gl/fb/8toCW",
+    "text" : "The Academy Doesn\u2019t Know What To Do If Banksy Wins an Oscar http:\/\/goo.gl\/fb\/8toCW",
     "id" : 35730442980306944,
-    "created_at" : "Thu Feb 10 16:02:56 +0000 2011",
+    "created_at" : "2011-02-10 16:02:56 +0000",
     "user" : {
       "name" : "Peter Sciretta",
       "screen_name" : "slashfilm",
       "protected" : false,
       "id_str" : "821193",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3508825918/91dfbddaaf31c47a9b7f551e721c53c2_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3508825918\/91dfbddaaf31c47a9b7f551e721c53c2_normal.jpeg",
       "id" : 821193,
       "verified" : true
     }
   },
   "id" : 35908482603425792,
-  "created_at" : "Fri Feb 11 03:50:24 +0000 2011",
+  "created_at" : "2011-02-11 03:50:24 +0000",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Matthew Cerrone",
@@ -935,14 +903,13 @@ Grailbird.data.tweets_2011_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "35674099657216000",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "35687556674756608",
   "in_reply_to_user_id" : 15025802,
   "text" : "@matthewcerrone Not a Chrome user? I think you're missing out.",
   "id" : 35687556674756608,
   "in_reply_to_status_id" : 35674099657216000,
-  "created_at" : "Thu Feb 10 13:12:31 +0000 2011",
+  "created_at" : "2011-02-10 13:12:31 +0000",
   "in_reply_to_screen_name" : "matthewcerrone",
   "in_reply_to_user_id_str" : "15025802",
   "user" : {
@@ -950,12 +917,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Sparrow Mail",
@@ -968,23 +935,22 @@ Grailbird.data.tweets_2011_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "35592212808998912",
   "text" : "Picked up @sparrowmailapp. Looks very promising so far, though some areas could use a little polish.",
   "id" : 35592212808998912,
-  "created_at" : "Thu Feb 10 06:53:39 +0000 2011",
+  "created_at" : "2011-02-10 06:53:39 +0000",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Reeder",
@@ -997,13 +963,12 @@ Grailbird.data.tweets_2011_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "35584600038326272",
   "in_reply_to_user_id" : 79033767,
   "text" : "@reederapp Any rough estimate on when Reeder for Mac will be available?",
   "id" : 35584600038326272,
-  "created_at" : "Thu Feb 10 06:23:24 +0000 2011",
+  "created_at" : "2011-02-10 06:23:24 +0000",
   "in_reply_to_screen_name" : "reederapp",
   "in_reply_to_user_id_str" : "79033767",
   "user" : {
@@ -1011,12 +976,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "David Chen",
@@ -1030,14 +995,13 @@ Grailbird.data.tweets_2011_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "35335799566381056",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "35344591104249857",
   "in_reply_to_user_id" : 14290222,
-  "text" : "@davechensky Happy to help out where I can man. Huge /Filmcast fan.",
+  "text" : "@davechensky Happy to help out where I can man. Huge \/Filmcast fan.",
   "id" : 35344591104249857,
   "in_reply_to_status_id" : 35335799566381056,
-  "created_at" : "Wed Feb 09 14:29:41 +0000 2011",
+  "created_at" : "2011-02-09 14:29:41 +0000",
   "in_reply_to_screen_name" : "davechensky",
   "in_reply_to_user_id_str" : "14290222",
   "user" : {
@@ -1045,12 +1009,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "David Chen",
@@ -1064,14 +1028,13 @@ Grailbird.data.tweets_2011_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "35335281431281664",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "35335567231303680",
   "in_reply_to_user_id" : 14290222,
   "text" : "@davechensky Open Terminal on your Mac and type \"curl URL &gt; FILENAME\"",
   "id" : 35335567231303680,
   "in_reply_to_status_id" : 35335281431281664,
-  "created_at" : "Wed Feb 09 13:53:50 +0000 2011",
+  "created_at" : "2011-02-09 13:53:50 +0000",
   "in_reply_to_screen_name" : "davechensky",
   "in_reply_to_user_id_str" : "14290222",
   "user" : {
@@ -1079,12 +1042,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "David Chen",
@@ -1097,20 +1060,19 @@ Grailbird.data.tweets_2011_02 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 36, 55 ],
-      "url" : "http://t.co/PFQ02LR",
-      "expanded_url" : "http://cl.ly/1S1I2o2Q2d140d2V0y0w",
-      "display_url" : "cl.ly/1S1I2o2Q2d140d\u2026"
+      "url" : "http:\/\/t.co\/PFQ02LR",
+      "expanded_url" : "http:\/\/cl.ly\/1S1I2o2Q2d140d2V0y0w",
+      "display_url" : "cl.ly\/1S1I2o2Q2d140d\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "35216726731792384",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "35220205596581889",
   "in_reply_to_user_id" : 14290222,
-  "text" : "@davechensky Is this what you want? http://t.co/PFQ02LR",
+  "text" : "@davechensky Is this what you want? http:\/\/t.co\/PFQ02LR",
   "id" : 35220205596581889,
   "in_reply_to_status_id" : 35216726731792384,
-  "created_at" : "Wed Feb 09 06:15:26 +0000 2011",
+  "created_at" : "2011-02-09 06:15:26 +0000",
   "in_reply_to_screen_name" : "davechensky",
   "in_reply_to_user_id_str" : "14290222",
   "user" : {
@@ -1118,12 +1080,12 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://foursquare.com\" rel=\"nofollow\">foursquare</a>",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1135,20 +1097,20 @@ Grailbird.data.tweets_2011_02 =
     "coordinates" : [ 40.7613658922, -73.9775562286 ]
   },
   "id_str" : "33991118437752833",
-  "text" : "I'm at MoMA - Museum of Modern Art (11 W 53rd St, btw 5th & 6th, New York) w/ 45 others http://4sq.com/h8ymmi",
+  "text" : "I'm at MoMA - Museum of Modern Art (11 W 53rd St, btw 5th & 6th, New York) w\/ 45 others http:\/\/4sq.com\/h8ymmi",
   "id" : 33991118437752833,
-  "created_at" : "Sat Feb 05 20:51:28 +0000 2011",
+  "created_at" : "2011-02-05 20:51:28 +0000",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://foursquare.com\" rel=\"nofollow\">foursquare</a>",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1160,20 +1122,20 @@ Grailbird.data.tweets_2011_02 =
     "coordinates" : [ 40.780779, -73.976576 ]
   },
   "id_str" : "33974706868584448",
-  "text" : "I'm at Shake Shack (366 Columbus Ave, at W. 77th St, New York) w/ 7 others http://4sq.com/gacWPn",
+  "text" : "I'm at Shake Shack (366 Columbus Ave, at W. 77th St, New York) w\/ 7 others http:\/\/4sq.com\/gacWPn",
   "id" : 33974706868584448,
-  "created_at" : "Sat Feb 05 19:46:15 +0000 2011",
+  "created_at" : "2011-02-05 19:46:15 +0000",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marco Arment",
@@ -1186,57 +1148,55 @@ Grailbird.data.tweets_2011_02 =
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 45, 64 ],
-      "url" : "http://t.co/T99pIo8",
-      "expanded_url" : "http://www.marco.org/3100131471",
-      "display_url" : "marco.org/3100131471"
+      "url" : "http:\/\/t.co\/T99pIo8",
+      "expanded_url" : "http:\/\/www.marco.org\/3100131471",
+      "display_url" : "marco.org\/3100131471"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "33399270879010816",
-  "text" : "RT @marcoarment: Ode to the App Review team: http://t.co/T99pIo8 (I bet 2008-me would never have believed that 2011-me would write this  ...",
+  "text" : "RT @marcoarment: Ode to the App Review team: http:\/\/t.co\/T99pIo8 (I bet 2008-me would never have believed that 2011-me would write this  ...",
   "retweeted_status" : {
-    "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
       "hashtags" : [ ],
       "urls" : [ {
         "indices" : [ 28, 47 ],
-        "url" : "http://t.co/T99pIo8",
-        "expanded_url" : "http://www.marco.org/3100131471",
-        "display_url" : "marco.org/3100131471"
+        "url" : "http:\/\/t.co\/T99pIo8",
+        "expanded_url" : "http:\/\/www.marco.org\/3100131471",
+        "display_url" : "marco.org\/3100131471"
       } ]
     },
-    "geo" : {
-    },
+    "geo" : { },
     "id_str" : "33389815151988737",
-    "text" : "Ode to the App Review team: http://t.co/T99pIo8 (I bet 2008-me would never have believed that 2011-me would write this post.)",
+    "text" : "Ode to the App Review team: http:\/\/t.co\/T99pIo8 (I bet 2008-me would never have believed that 2011-me would write this post.)",
     "id" : 33389815151988737,
-    "created_at" : "Fri Feb 04 05:02:06 +0000 2011",
+    "created_at" : "2011-02-04 05:02:06 +0000",
     "user" : {
       "name" : "Marco Arment",
       "screen_name" : "marcoarment",
       "protected" : false,
       "id_str" : "14231571",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1282173124/untitled-158-2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1282173124\/untitled-158-2_normal.jpg",
       "id" : 14231571,
       "verified" : false
     }
   },
   "id" : 33399270879010816,
-  "created_at" : "Fri Feb 04 05:39:41 +0000 2011",
+  "created_at" : "2011-02-04 05:39:41 +0000",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Marco Arment",
@@ -1256,14 +1216,13 @@ Grailbird.data.tweets_2011_02 =
     "urls" : [ ]
   },
   "in_reply_to_status_id_str" : "32644534844268544",
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "32644701869838337",
   "in_reply_to_user_id" : 14231571,
   "text" : "@marcoarment Not sure what you're looking for exactly, but check out @wepay",
   "id" : 32644701869838337,
   "in_reply_to_status_id" : 32644534844268544,
-  "created_at" : "Wed Feb 02 03:41:18 +0000 2011",
+  "created_at" : "2011-02-02 03:41:18 +0000",
   "in_reply_to_screen_name" : "marcoarment",
   "in_reply_to_user_id_str" : "14231571",
   "user" : {
@@ -1271,35 +1230,34 @@ Grailbird.data.tweets_2011_02 =
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 90, 109 ],
-      "url" : "http://t.co/Qz7Noby",
-      "expanded_url" : "http://googleblog.blogspot.com/2011/02/microsofts-bing-uses-google-search.html",
-      "display_url" : "googleblog.blogspot.com/2011/02/micros\u2026"
+      "url" : "http:\/\/t.co\/Qz7Noby",
+      "expanded_url" : "http:\/\/googleblog.blogspot.com\/2011\/02\/microsofts-bing-uses-google-search.html",
+      "display_url" : "googleblog.blogspot.com\/2011\/02\/micros\u2026"
     } ]
   },
-  "geo" : {
-  },
+  "geo" : { },
   "id_str" : "32630806220374017",
-  "text" : "This is amazing - Google catches Microsoft stealing search results, absolutely owns them: http://t.co/Qz7Noby",
+  "text" : "This is amazing - Google catches Microsoft stealing search results, absolutely owns them: http:\/\/t.co\/Qz7Noby",
   "id" : 32630806220374017,
-  "created_at" : "Wed Feb 02 02:46:05 +0000 2011",
+  "created_at" : "2011-02-02 02:46:05 +0000",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
     "protected" : false,
     "id_str" : "21626062",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2733054557/2e2cd9843e3a78bf8cb260f43ff9ef5a_normal.png",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
     "id" : 21626062,
     "verified" : false
   }
