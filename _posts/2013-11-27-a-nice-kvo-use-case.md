@@ -1,0 +1,111 @@
+---
+layout: post
+title: A nice KVO use case
+permalink: kvo
+date: 2013-11-27
+---
+
+[Key-Value-Observing](https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/KeyValueObserving/KeyValueObserving.html) is a divisive API, [to say the least](http://nshipster.com/key-value-observing). Despite it’s (well-documented) flaws, I personally tend to favor it when wanting to know if a property’s value changes, but most developers I talk to (including [both](http://devindoty.tumblr.com) [of](http://mttb.me) my fellow iOS developers here at Tumblr) tend to prefer overriding setters. Here’s a case where I think KVO works slightly better than overwriting setters does.
+
+Say you have a custom view controller subclass with a property, and changes to that property’s value will result in some modifications being made to the view controller’s view or subviews. An example from the Tumblr codebase does exactly this:
+
+{% highlight objectivec %}
+- (void)setContainerScrollable:(BOOL)containerScrollable {
+    if (_containerScrollable != containerScrollable) {
+        _containerScrollable = containerScrollable;
+
+        self.container.scrollEnabled = containerScrollable;
+        self.tableView.scrollEnabled = !containerScrollable;
+    }
+}
+{% endhighlight %}
+
+Looks simple enough, right? Now you can simply do the following:
+
+{% highlight objectivec %}
+TMContainerViewController *controller = [[TMContainerViewController alloc] init];
+controller.containerScrollable = YES;
+{% endhighlight %}
+
+Of course, there’s a problem with this. Since we’re calling the custom setter before the controller’s view has necessarily loaded, it won’t have the desired effect. At best, the subviews we operate on inside the overridden setter will be `nil` and our custom behavior won’t be applied. At worst, we’ll refer to `self.view` in our implementation, the view will be loaded prematurely, and something unexpected could occur.
+
+So how can we fix this? One way is to make sure our setter is called again after the view is loaded, and prevent against the custom logic being executed beforehand:
+
+{% highlight objectivec %}
+- (void)setContainerScrollable:(BOOL)containerScrollable {
+    if (_containerScrollable != containerScrollable) {
+        _containerScrollable = containerScrollable;
+
+        if ([self isViewLoaded]) {
+            self.container.scrollEnabled = containerScrollable;
+            self.tableView.scrollEnabled = !containerScrollable;
+        }
+    }
+}
+
+- (void)viewDidLoad {
+    // View set-up
+
+    self.containerScrollable = self.isContainerScrollable;
+}
+{% endhighlight %}
+
+This should work, but calling a getter and passing it’s return value to the same property’s setter doesn’t strike me as being particularly elegant. What if we factor out our custom logic into a separate private instance method?
+
+{% highlight objectivec %}
+- (void)updateViewsForContainerScrollability {
+    self.container.scrollEnabled = self.isContainerScrollable;
+    self.tableView.scrollEnabled = !self.isContainerScrollable ;
+}
+
+- (void)setContainerScrollable:(BOOL)containerScrollable {
+    if (_containerScrollable != containerScrollable) {
+        _containerScrollable = containerScrollable;
+
+        if ([self isViewLoaded]) {
+            [self updateViewsForContainerScrollability];
+        }
+    }
+}
+
+- (void)viewDidLoad {
+    // View set-up
+
+    [self updateViewsForContainerScrollability];
+}
+{% endhighlight %}
+
+This is a fine solution, and will work as expected. That being said, let’s look at another approach to the same problem using KVO.
+
+Here’s what our observation code looks like:
+
+{% highlight objectivec %}
+- (void)observeValueForKeyPath:(NSString *)keyPath ofObject:(id)object change:(NSDictionary *)change 
+                       context:(void *)context {
+    if (context == TMContainerViewControllerKVOContext) {
+         if (object == self && [keyPath isEqualToString:@"containerScrollable"]) {
+            self.container.scrollEnabled = self.isContainerScrollable;
+            self.tableView.scrollEnabled = !self.isContainerScrollable;
+        }
+    }
+    else {
+        [super observeValueForKeyPath:keyPath ofObject:object change:change context:context];
+    }
+}
+{% endhighlight %}
+
+Now, we’re still faced with the same issue of needing to ensure that this code runs both A) as soon as the view is loaded and B) any time the property’s value is changed going forward. Thankfully, `NSKeyValueObservingOptionInitial` provides this exact behavior.
+
+{% highlight objectivec %}
+- (void)viewDidLoad {
+    // View set-up
+
+  [self addObserver:self forKeyPath:@"containerScrollable"
+            options:NSKeyValueObservingOptionInitial
+            context:TMContainerViewControllerKVOContext];
+}
+{% endhighlight %}
+
+Since we’re no longer overriding the setter, the property’s value can be changed completely independently of the view being initialized. When our view is set-up, we add an observer that is called immediately with the initial property value, and called again whenever the property is changed in the future.
+
+KVO code can be messy, can result in problems if used incorrectly, and certainly isn’t the best tool to use in all situations. But if you ask me, this is a pretty good example of when it does come in handy.

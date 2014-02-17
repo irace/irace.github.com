@@ -2,7 +2,7 @@
 layout: post
 title: Objective-C libraries and Unix philosophy
 permalink: objc-library-philosophy
-date: 2014-01-27 11:35:00
+date: 2014-01-27
 ---
 
 [Caleb Davenport](https://twitter.com/calebd) recently asked the following question on Twitter:
