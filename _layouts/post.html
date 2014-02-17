@@ -8,31 +8,27 @@
   <title>{{page.title}} | Bryan Irace</title>
   <meta name="author" content="Bryan Irace">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
   <link rel="stylesheet" href="/stylesheets/github-syntax-highlighting.css">
-  <style> 
-    body {
-      font-family: "Avenir Next","Avenir","Helvetica Neue","Helvetica",sans-serif;
-      text-shadow: 0 1px 1px #eee;
-      color: #222220 !important;
-    }
+  <link rel="stylesheet" href="/stylesheets/posts.css">
+</head>
 
-    p {
-      font-size: 20px;
-    }
-
-    .container {
-      width: 950px;
-      margin: 0 auto;
-    }
-  </style>
-
+<body>
   <div class="container">
-    <h1>{{page.title}}</h1>
+    <header>
+      <p><a href="http://irace.me">&laquo; irace.me</a></p>
+      <h1>{{ page.title }}</h1>
+      <date><em>{{ page.date | date: '%B %d, %Y' }}</em></date>
+    </header>
+
     {{ content }}
   </div>
 
   <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
-</head>
-<body>
+
+  {% include analytics.html %}
+</body>
+
+</html>

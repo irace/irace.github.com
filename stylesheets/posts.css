@@ -1,0 +1,30 @@
+body {
+  font-family: "Avenir Next","Avenir","Helvetica Neue","Helvetica",sans-serif;
+  text-shadow: 0 1px 1px #eee;
+  color: #222220 !important;
+}
+
+body {
+  font-size: 20px;
+}
+
+h1 {
+  -webkit-margin-after: 0;
+}
+
+.container {
+  width: 950px;
+  margin: 0 auto;
+}
+
+a:link, a:visited, a:hover, a:active {
+  color: #63c0f5;
+  opacity: 1;
+  transition: opacity .1s ease-in-out;
+  -moz-transition: opacity .1s ease-in-out;
+  -webkit-transition: opacity .1s ease-in-out;
+}
+
+a:hover {
+  opacity: 0.5;
+}

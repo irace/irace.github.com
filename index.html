@@ -16,6 +16,7 @@
   <link rel="stylesheet" href="stylesheets/base.css">
   <link rel="stylesheet" href="stylesheets/skeleton.css">
   <link rel="stylesheet" href="stylesheets/layout.css">
+  
   <link rel="stylesheet" href="stylesheets/styles.css">
 
   <!--[if lt IE 9]>
@@ -25,55 +26,46 @@
 <body>
   <div class="container">
 
-    <div class="sixteen columns">
-      <div class="twelve columns alpha">
-        <h1>Hi, I'm Bryan Irace</h1>
-      </div>
+    <header class="sixteen columns">
+      <h1>Hi, I'm Bryan Irace</h1>
+    </header>
 
-<!--       <div class="four columns omega">
-        <p>
-          <a href="http://bryan.io"><img src="images/tumblr.png"></a>
-          <a href="http://github.com/irace"><img src="images/github.png"></a>
-          <a href="http://twitter.com/irace"><img src="images/twitter.png"></a>
-        </p>
-      </div> -->
-    </div>
+    <section class="sixteen columns">
+      <p>I'm a software developer in NYC currently working on building <a href="https://itunes.apple.com/us/app/tumblr/id305343404?mt=8">Tumblr for iOS</a>. The best ways to keep up with what I'm working on are to follow me on <a href="http://bryan.io">Tumblr</a> and on <a href="http://twitter.com/irace">Twitter</a>.</p>
+    </section>
 
-    <div class="sixteen columns">
-      <p>I'm a software developer currently working in NYC building <a href="https://itunes.apple.com/us/app/tumblr/id305343404?mt=8">Tumblr for iOS</a>. The best ways to keep up with what I'm working on are to follow me on  and <a href="http://twitter.com/irace">Twitter</a>.</p>
-    </div>
-
-    <div class="sixteen columns">
+    <section class="sixteen columns">
       <h3>Open source</h3>
+      <p>I have lots of various code up on <a href="https://github.com/irace?tab=repositories">GitHub</a> but here are few of my more complete projects.</p>
        <ul>
-        <li><a href="https://github.com/tumblr/TMTumblrSDK">TMTumblrSDK</a>: The official Tumblr iOS SDK</li>
+        <li><a href="https://github.com/tumblr/TMTumblrSDK">TMTumblrSDK</a></li>
+        <li><a href="https://github.com/irace/BRYSerialAnimationQueue">BRYSerialAnimationQueue</a></li>
+        <li><a href="https://github.com/irace/BRYSoundEffectPlayer">BRYSoundEffectPlayer</a></li>
       </ul>
-    </div>
+    </section>
 
-    <div class="sixteen columns">
+    <section class="sixteen columns">
       <h3>Writing</h3>
+      <p>I write most frequently on Tumblr (<a href="http://bryan.io">bryan.io</a> and <a href="http://cocoa.tumblr.com">cocoa.tumblr.com</a>) but will list longer and less timely pieces here as well.
       <ul>
         {% for post in site.posts %}
           <li>
-            <a href="{{ post.url }}">{{ post.title }}</a>
+            <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%-m/%-d/%Y" }})
           </li>
         {% endfor %}
       </ul>
-    </div>
+    </section>
+
+    <section class="sixteen columns">
+      <h3>Speaking</h3>
+      <ul>
+        <li><a href="https://speakerdeck.com/irace/building-apps-that-play-nicely-with-other-apps">Building apps that play nicely with other apps</a></li>
+      </ul>
+    </section>
 
   </div>
 
-  <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-22036475-2']);
-    _gaq.push(['_trackPageview']);
-
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
+{% include analytics.html %}
   
 </body>
 </html>
