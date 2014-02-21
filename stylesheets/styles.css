@@ -9,6 +9,16 @@ body {
 	font-size: 20px;
 }
 
+header .image-container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+header img {
+  width: 99px;
+  height: 99px;
+}
+
 section {
   margin-top: 20px;
 }
