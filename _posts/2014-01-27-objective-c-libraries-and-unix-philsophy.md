@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Objective-C libraries and Unix philosophy
-permalink: objc-library-philosophy
+permalink: objc-libraries
 date: 2014-01-27
 ---
 

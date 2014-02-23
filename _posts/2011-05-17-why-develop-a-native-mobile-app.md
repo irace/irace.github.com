@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why develop a native mobile application?
-permalink: native-mobile-apps
+permalink: native
 date: 2011-05-17
 ---
 
