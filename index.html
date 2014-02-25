@@ -70,6 +70,11 @@ layout: none
         <li><a href="https://speakerdeck.com/irace/building-apps-that-play-nicely-with-other-apps">Building apps that play nicely with other apps</a> (11/20/2013)</li>
       </ul>
     </section>
+
+    <section class="sixteen columns" id="now_playing">
+      <h3>Now playing</h3>
+      <p><span class="artist"></span> - <span class="track"></span></p>
+    </section>
     </div>
   </div>
 
@@ -77,5 +82,23 @@ layout: none
 
 {% include analytics.html %}
   
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script src="scripts/lastfm.js"></script>
+
+  <script>
+    $(function() {
+      last_fm_client.latest_track(function (now_playing, artist, track) {
+        if (now_playing) {
+          $('#now_playing').show();
+          $('#now_playing .artist').text(artist);
+          $('#now_playing .track').text(track);
+        }
+        else {
+          $('#now_playing').hide();
+        }
+      });
+    });
+  </script>
+
 </body>
 </html>

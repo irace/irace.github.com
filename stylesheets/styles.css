@@ -71,3 +71,7 @@ a:link, a:visited, a:hover, a:active {
 a:hover {
 	opacity: 0.5;
 }
+
+#now_playing {
+  display: none;
+}
