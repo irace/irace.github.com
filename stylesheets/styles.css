@@ -75,3 +75,8 @@ a:hover {
 #now_playing {
   display: none;
 }
+
+#now_playing .artwork {
+  vertical-align: middle;
+  margin-right: 15px;
+}

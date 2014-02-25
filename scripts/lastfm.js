@@ -12,7 +12,13 @@ var last_fm_client = {
       var track = data.recenttracks.track[0];
 
       if (track.hasOwnProperty('@attr') && track['@attr'].nowplaying == 'true') {
-        callback(true, track.artist['#text'], track.name);
+        var image = _.find(track.image, function (image) {
+          return image.size == 'medium';
+        });
+
+        var image_url = image ? image['#text'] : null;
+
+        callback(true, track.artist['#text'], track.name, image_url);
       }
       else {
         callback(false);
