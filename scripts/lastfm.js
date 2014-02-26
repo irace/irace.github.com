@@ -9,9 +9,13 @@ var last_fm_client = {
     };
 
     $.get('http://ws.audioscrobbler.com/2.0/', params).done(function (data) {
-      var track = data.recenttracks.track[0];
+      var track = data.recenttracks.track;
 
-      if (track.hasOwnProperty('@attr') && track['@attr'].nowplaying == 'true') {
+      if (_.isArray(track)) {
+        track = track[0];
+      }
+
+      if (!_.isUndefined(track) && track.hasOwnProperty('@attr') && track['@attr'].nowplaying == 'true') {
         var image = _.find(track.image, function (image) {
           return image.size == 'medium';
         });
