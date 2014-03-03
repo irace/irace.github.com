@@ -2,7 +2,7 @@
 layout: post
 title: CocoaPods, or How I Learned to Stop Worrying and Love Objective-C Dependency Management
 permalink: cocoapods
-date: 2013-03-03
+date: 2014-03-03
 ---
 
 "[Not invented here](http://en.wikipedia.org/wiki/Not_invented_here) syndrome" is a well known software development mentality, where programmers favor building from scratch over using code made available by a third-party. Sometimes this pays off, as you're able ensure that what you're working on is of the upmost quality and continues to evolve in a way that doesn't diverge from your needs. This mindset also has its drawbacks. In some cases, your need is complex and an attempt to build it yourself might not produce as good of a result as a battle-tested, third-party component already being run in production by some of the most popular apps in the App Store. In other cases, it may simply not be worth it to "reinvent the wheel," or spend time solving a solved problem.
