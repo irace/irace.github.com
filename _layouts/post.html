@@ -5,26 +5,37 @@
 <!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
 <head>
   <meta charset="utf-8">
+
   <title>{{page.title}} | Bryan Irace</title>
+
   <meta name="author" content="Bryan Irace">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
   <link rel="stylesheet" href="/stylesheets/github-syntax-highlighting.css">
+  <link rel="stylesheet" href="/stylesheets/skeleton.css">
   <link rel="stylesheet" href="/stylesheets/posts.css">
 
   <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
   <link rel="icon" type="image/png" href="/images/favicon.png">
+
+  <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
 </head>
 
 <body>
   <div class="container">
-    <header>
+
+    <header class="sixteen columns">
       <p><a href="http://irace.me">&laquo; irace.me</a></p>
       <h1>{{ page.title }}</h1>
       <date><em>{{ page.date | date: '%B %d, %Y' }}</em></date>
     </header>
 
-    {{ content }}
+    <div class="sixteen columns">
+      {{ content }}
+    </div>
+
   </div>
 
   <!--[if lt IE 9]>

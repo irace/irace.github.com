@@ -12,11 +12,6 @@ h1 {
   -webkit-margin-after: 0;
 }
 
-.container {
-  width: 950px;
-  margin: 0 auto;
-}
-
 a:link, a:visited, a:hover, a:active {
   color: #63c0f5;
   opacity: 1;
