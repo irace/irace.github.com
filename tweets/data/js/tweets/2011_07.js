@@ -475,7 +475,7 @@ Grailbird.data.tweets_2011_07 =
       "screen_name" : "nzben",
       "protected" : false,
       "id_str" : "6136",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/426470849504235520\/O7ZBZKjh_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/446392454984384512\/8dJFv9CI_normal.jpeg",
       "id" : 6136,
       "verified" : false
     }

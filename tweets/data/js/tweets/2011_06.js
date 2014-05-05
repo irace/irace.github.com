@@ -324,7 +324,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "pitchforkmedia",
       "protected" : false,
       "id_str" : "14089195",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3447350752\/51ae00039ec9d88b79319a9cf1434893_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/460905192754397184\/foVYUDGD_normal.jpeg",
       "id" : 14089195,
       "verified" : true
     }

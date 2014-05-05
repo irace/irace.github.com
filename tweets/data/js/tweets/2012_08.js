@@ -748,64 +748,13 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "thomasfuchs",
       "protected" : false,
       "id_str" : "6927562",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/430609010689994752\/mKX1bMUW_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458288227724824576\/dOfVRWXW_normal.jpeg",
       "id" : 6927562,
       "verified" : false
     }
   },
   "id" : 239138023382601728,
   "created_at" : "2012-08-24 23:12:02 +0000",
-  "user" : {
-    "name" : "Bryan Irace",
-    "screen_name" : "irace",
-    "protected" : false,
-    "id_str" : "21626062",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/413833842110500864\/pfAyP1bs_normal.jpeg",
-    "id" : 21626062,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "James Dennis",
-      "screen_name" : "j2labs",
-      "indices" : [ 3, 10 ],
-      "id_str" : "40284980",
-      "id" : 40284980
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "238863062952734720",
-  "text" : "RT @j2labs: Facebook native is really slick and snappy. Can we agree the web can't compete with native for apps yet?",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "238714600567226368",
-    "text" : "Facebook native is really slick and snappy. Can we agree the web can't compete with native for apps yet?",
-    "id" : 238714600567226368,
-    "created_at" : "2012-08-23 19:09:30 +0000",
-    "user" : {
-      "name" : "James Dennis",
-      "screen_name" : "j2labs",
-      "protected" : false,
-      "id_str" : "40284980",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2347158905\/pa5pn71our4a6wsy1uwg_normal.jpeg",
-      "id" : 40284980,
-      "verified" : false
-    }
-  },
-  "id" : 238863062952734720,
-  "created_at" : "2012-08-24 04:59:26 +0000",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
@@ -1022,7 +971,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "jack",
       "protected" : false,
       "id_str" : "12",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000536885082\/289a65981cd43798a42cfba9f60ca979_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/448483168580947968\/pL4ejHy4_normal.jpeg",
       "id" : 12,
       "verified" : true
     }
@@ -1428,7 +1377,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "NPM",
+      "name" : "NASDAQ PrivateMarket",
       "screen_name" : "npm",
       "indices" : [ 79, 83 ],
       "id_str" : "227757257",
@@ -1533,7 +1482,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "holmesdm",
       "protected" : false,
       "id_str" : "26757325",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/417726698298146817\/Dk27JOqt_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/445639685813989377\/OOUSwNxX_normal.png",
       "id" : 26757325,
       "verified" : false
     }

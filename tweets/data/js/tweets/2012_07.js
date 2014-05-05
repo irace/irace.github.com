@@ -833,7 +833,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "elizabethdanger",
       "protected" : false,
       "id_str" : "25274516",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/415434379024793600\/UmSS2V-L_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458167461120991232\/BxF5HRz6_normal.jpeg",
       "id" : 25274516,
       "verified" : false
     }
@@ -853,7 +853,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jay caspian kang",
+      "name" : "kang",
       "screen_name" : "jaycaspiankang",
       "indices" : [ 29, 44 ],
       "id_str" : "25772065",
@@ -875,7 +875,7 @@ Grailbird.data.tweets_2012_07 =
     "source" : "\u003Ca href=\"http:\/\/blackberry.com\/twitter\" rel=\"nofollow\"\u003ETwitter for BlackBerry\u00AE\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "jay caspian kang",
+        "name" : "kang",
         "screen_name" : "jaycaspiankang",
         "indices" : [ 12, 27 ],
         "id_str" : "25772065",
@@ -1784,11 +1784,11 @@ Grailbird.data.tweets_2012_07 =
     "id" : 222624814412726272,
     "created_at" : "2012-07-10 09:34:26 +0000",
     "user" : {
-      "name" : "Gordy Pls",
+      "name" : "sudo \/usr\/sbin\/gordy",
       "screen_name" : "GordyPls",
       "protected" : false,
       "id_str" : "16676087",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/432638591622053888\/HI25gcku_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/462758705595834368\/KguOxdTP_normal.jpeg",
       "id" : 16676087,
       "verified" : false
     }

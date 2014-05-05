@@ -797,7 +797,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "mb",
       "protected" : false,
       "id_str" : "5107",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1829409008\/Avatar_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458700815738236928\/AtHOzI3__normal.jpeg",
       "id" : 5107,
       "verified" : false
     }
@@ -844,7 +844,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jeremy",
+      "name" : "Jeremy Petticrew",
       "screen_name" : "jpetticrew",
       "indices" : [ 0, 11 ],
       "id_str" : "14151400",
@@ -1079,7 +1079,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ellis Hamburger",
+      "name" : "Esteban Hamburguesa",
       "screen_name" : "hamburger",
       "indices" : [ 0, 10 ],
       "id_str" : "130914103",
@@ -1143,7 +1143,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "orta",
+      "name" : "\u2661rta",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",
@@ -1176,7 +1176,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "orta",
+      "name" : "\u2661rta",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",
@@ -1407,7 +1407,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "orta",
+      "name" : "\u2661rta",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",
@@ -1813,7 +1813,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "73963286",
       "id" : 73963286
     }, {
-      "name" : "Ellis Hamburger",
+      "name" : "Esteban Hamburguesa",
       "screen_name" : "hamburger",
       "indices" : [ 8, 18 ],
       "id_str" : "130914103",
@@ -1846,7 +1846,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ellis Hamburger",
+      "name" : "Esteban Hamburguesa",
       "screen_name" : "hamburger",
       "indices" : [ 0, 10 ],
       "id_str" : "130914103",
@@ -2041,7 +2041,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ellis Hamburger",
+      "name" : "Esteban Hamburguesa",
       "screen_name" : "hamburger",
       "indices" : [ 0, 10 ],
       "id_str" : "130914103",
@@ -2240,7 +2240,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Realmac Software",
+      "name" : "Realmac",
       "screen_name" : "realmacsoftware",
       "indices" : [ 0, 16 ],
       "id_str" : "23575194",
@@ -2344,7 +2344,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Realmac Software",
+      "name" : "Realmac",
       "screen_name" : "realmacsoftware",
       "indices" : [ 0, 16 ],
       "id_str" : "23575194",
@@ -2706,7 +2706,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ellis Hamburger",
+      "name" : "Esteban Hamburguesa",
       "screen_name" : "hamburger",
       "indices" : [ 0, 10 ],
       "id_str" : "130914103",
@@ -2838,7 +2838,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Realmac Software",
+      "name" : "Realmac",
       "screen_name" : "realmacsoftware",
       "indices" : [ 0, 16 ],
       "id_str" : "23575194",
@@ -2875,7 +2875,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Realmac Software",
+      "name" : "Realmac",
       "screen_name" : "realmacsoftware",
       "indices" : [ 12, 28 ],
       "id_str" : "23575194",
@@ -3262,7 +3262,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "187793",
       "id" : 187793
     }, {
-      "name" : "Ellis Hamburger",
+      "name" : "Esteban Hamburguesa",
       "screen_name" : "hamburger",
       "indices" : [ 7, 17 ],
       "id_str" : "130914103",
@@ -3295,7 +3295,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ellis Hamburger",
+      "name" : "Esteban Hamburguesa",
       "screen_name" : "hamburger",
       "indices" : [ 0, 10 ],
       "id_str" : "130914103",
@@ -3785,7 +3785,13 @@ Grailbird.data.tweets_2013_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Jenna Elyse Taylor",
+      "screen_name" : "JTWrites",
+      "indices" : [ 0, 9 ],
+      "id_str" : "2379177714",
+      "id" : 2379177714
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4086,7 +4092,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ellis Hamburger",
+      "name" : "Esteban Hamburguesa",
       "screen_name" : "hamburger",
       "indices" : [ 0, 10 ],
       "id_str" : "130914103",
@@ -4956,7 +4962,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scott",
+      "name" : "Scott I",
       "screen_name" : "Scott_Source",
       "indices" : [ 0, 13 ],
       "id_str" : "43650262",
@@ -5634,7 +5640,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "colin",
+      "name" : "Colin Barrett",
       "screen_name" : "cbarrett",
       "indices" : [ 0, 9 ],
       "id_str" : "3562421",
@@ -5830,7 +5836,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scott",
+      "name" : "Scott I",
       "screen_name" : "Scott_Source",
       "indices" : [ 0, 13 ],
       "id_str" : "43650262",
@@ -6111,7 +6117,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ellis Hamburger",
+      "name" : "Esteban Hamburguesa",
       "screen_name" : "hamburger",
       "indices" : [ 0, 10 ],
       "id_str" : "130914103",
@@ -6229,7 +6235,7 @@ Grailbird.data.tweets_2013_09 =
       "id_str" : "12459132",
       "id" : 12459132
     }, {
-      "name" : "orta",
+      "name" : "\u2661rta",
       "screen_name" : "orta",
       "indices" : [ 56, 61 ],
       "id_str" : "2569881",
@@ -7134,7 +7140,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scott",
+      "name" : "Scott I",
       "screen_name" : "Scott_Source",
       "indices" : [ 0, 13 ],
       "id_str" : "43650262",
@@ -7717,7 +7723,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scott",
+      "name" : "Scott I",
       "screen_name" : "Scott_Source",
       "indices" : [ 0, 13 ],
       "id_str" : "43650262",
@@ -7917,7 +7923,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "orta",
+      "name" : "\u2661rta",
       "screen_name" : "orta",
       "indices" : [ 0, 5 ],
       "id_str" : "2569881",
@@ -8976,7 +8982,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ellis Hamburger",
+      "name" : "Esteban Hamburguesa",
       "screen_name" : "hamburger",
       "indices" : [ 0, 10 ],
       "id_str" : "130914103",
@@ -9590,7 +9596,7 @@ Grailbird.data.tweets_2013_09 =
       "screen_name" : "mergesort",
       "protected" : false,
       "id_str" : "26178841",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/415962192111218689\/i1H5Wsyh_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/455913784721571840\/qChDTt77_normal.jpeg",
       "id" : 26178841,
       "verified" : false
     }
@@ -9982,7 +9988,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pixie aka \u007Bgrimez\u007D ",
+      "name" : "grimes of tarth",
       "screen_name" : "Grimezsz",
       "indices" : [ 0, 9 ],
       "id_str" : "276540738",
@@ -10627,7 +10633,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scott",
+      "name" : "Scott I",
       "screen_name" : "Scott_Source",
       "indices" : [ 0, 13 ],
       "id_str" : "43650262",
@@ -10660,7 +10666,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scott",
+      "name" : "Scott I",
       "screen_name" : "Scott_Source",
       "indices" : [ 0, 13 ],
       "id_str" : "43650262",
@@ -10951,7 +10957,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ellis Hamburger",
+      "name" : "Esteban Hamburguesa",
       "screen_name" : "hamburger",
       "indices" : [ 0, 10 ],
       "id_str" : "130914103",
@@ -11205,7 +11211,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zac Hall",
+      "name" : "Zac Hall \u00AF\\_(\u30C4)_\/\u00AF",
       "screen_name" : "apollozac",
       "indices" : [ 0, 10 ],
       "id_str" : "20966075",
@@ -11341,7 +11347,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ellis Hamburger",
+      "name" : "Esteban Hamburguesa",
       "screen_name" : "hamburger",
       "indices" : [ 0, 10 ],
       "id_str" : "130914103",
@@ -11550,7 +11556,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pixie aka \u007Bgrimez\u007D ",
+      "name" : "grimes of tarth",
       "screen_name" : "Grimezsz",
       "indices" : [ 0, 9 ],
       "id_str" : "276540738",
@@ -12811,7 +12817,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Boom. Game changed.",
+      "name" : "Tom Dale",
       "screen_name" : "tomdale",
       "indices" : [ 0, 8 ],
       "id_str" : "668863",
@@ -12844,7 +12850,7 @@ Grailbird.data.tweets_2013_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scott",
+      "name" : "Scott I",
       "screen_name" : "Scott_Source",
       "indices" : [ 0, 13 ],
       "id_str" : "43650262",

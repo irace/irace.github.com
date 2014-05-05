@@ -46,7 +46,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "steven_dent",
       "protected" : false,
       "id_str" : "128686836",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2624240185\/potimrwfeuzyph6nxogf_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/441504449773969408\/G--WBduZ_normal.jpeg",
       "id" : 128686836,
       "verified" : false
     }
@@ -315,7 +315,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "isaacsbot",
+      "name" : "not all isaacs",
       "screen_name" : "izs",
       "indices" : [ 3, 7 ],
       "id_str" : "8038312",
@@ -342,11 +342,11 @@ Grailbird.data.tweets_2012_06 =
     "id" : 216954021926285313,
     "created_at" : "2012-06-24 18:00:44 +0000",
     "user" : {
-      "name" : "isaacsbot",
+      "name" : "not all isaacs",
       "screen_name" : "izs",
       "protected" : false,
       "id_str" : "8038312",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429334527018672128\/WbXbeeHb_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/460558674927185920\/D8ccNCw7_normal.jpeg",
       "id" : 8038312,
       "verified" : false
     }
@@ -665,7 +665,7 @@ Grailbird.data.tweets_2012_06 =
       "id_str" : "794329",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/65838117\/davidnomnom2ms6_normal.png",
       "id" : 794329,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 215678770059804673,
@@ -910,7 +910,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "derekg",
       "protected" : false,
       "id_str" : "747083",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/219999794\/me_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/446831378064101376\/aVJGyLOA_normal.png",
       "id" : 747083,
       "verified" : false
     }
@@ -1062,7 +1062,7 @@ Grailbird.data.tweets_2012_06 =
       "id_str" : "37006875",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000819894350\/e05c61675a3903d2e6f52e9b4d9d4644_normal.jpeg",
       "id" : 37006875,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 214890296205520896,
@@ -1927,7 +1927,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "max ogden",
+      "name" : "maxwell ogden",
       "screen_name" : "maxogden",
       "indices" : [ 3, 12 ],
       "id_str" : "12241752",
@@ -1954,11 +1954,11 @@ Grailbird.data.tweets_2012_06 =
     "id" : 212246720866820098,
     "created_at" : "2012-06-11 18:15:36 +0000",
     "user" : {
-      "name" : "max ogden",
+      "name" : "maxwell ogden",
       "screen_name" : "maxogden",
       "protected" : false,
       "id_str" : "12241752",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000166730199\/a06a5ec4010305911b936ad86d2a04fa_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/446012410466291713\/QvhxS7Hz_normal.jpeg",
       "id" : 12241752,
       "verified" : false
     }
@@ -1978,7 +1978,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Boom. Game changed.",
+      "name" : "Tom Dale",
       "screen_name" : "tomdale",
       "indices" : [ 3, 11 ],
       "id_str" : "668863",
@@ -2005,7 +2005,7 @@ Grailbird.data.tweets_2012_06 =
     "id" : 212203417177833473,
     "created_at" : "2012-06-11 15:23:31 +0000",
     "user" : {
-      "name" : "Boom. Game changed.",
+      "name" : "Tom Dale",
       "screen_name" : "tomdale",
       "protected" : false,
       "id_str" : "668863",

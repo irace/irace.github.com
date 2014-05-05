@@ -60,7 +60,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "16281277",
       "id" : 16281277
     }, {
-      "name" : "max ogden",
+      "name" : "maxwell ogden",
       "screen_name" : "maxogden",
       "indices" : [ 6, 15 ],
       "id_str" : "12241752",
@@ -140,7 +140,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "joeypfeifer",
       "protected" : false,
       "id_str" : "787487",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/426473769696518144\/ta7zyBQN_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/461253648828207104\/NIBM2NH-_normal.jpeg",
       "id" : 787487,
       "verified" : false
     }
@@ -349,7 +349,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "16281277",
       "id" : 16281277
     }, {
-      "name" : "max ogden",
+      "name" : "maxwell ogden",
       "screen_name" : "maxogden",
       "indices" : [ 6, 15 ],
       "id_str" : "12241752",
@@ -428,7 +428,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "668423",
       "id" : 668423
     }, {
-      "name" : "max ogden",
+      "name" : "maxwell ogden",
       "screen_name" : "maxogden",
       "indices" : [ 8, 17 ],
       "id_str" : "12241752",
@@ -467,7 +467,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "max ogden",
+      "name" : "maxwell ogden",
       "screen_name" : "maxogden",
       "indices" : [ 0, 9 ],
       "id_str" : "12241752",
@@ -524,7 +524,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "125027291",
       "id" : 125027291
     }, {
-      "name" : "max ogden",
+      "name" : "maxwell ogden",
       "screen_name" : "maxogden",
       "indices" : [ 18, 27 ],
       "id_str" : "12241752",
@@ -569,7 +569,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "125027291",
       "id" : 125027291
     }, {
-      "name" : "max ogden",
+      "name" : "maxwell ogden",
       "screen_name" : "maxogden",
       "indices" : [ 83, 92 ],
       "id_str" : "12241752",
@@ -614,7 +614,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "125027291",
       "id" : 125027291
     }, {
-      "name" : "max ogden",
+      "name" : "maxwell ogden",
       "screen_name" : "maxogden",
       "indices" : [ 112, 121 ],
       "id_str" : "12241752",
@@ -1040,7 +1040,13 @@ Grailbird.data.tweets_2012_05 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Amanda Caldari",
+      "screen_name" : "amandacaldari",
+      "indices" : [ 0, 14 ],
+      "id_str" : "2332151202",
+      "id" : 2332151202
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -2441,7 +2447,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "MikeBloomberg",
       "protected" : false,
       "id_str" : "16581604",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000078193225\/29b2f6095b0cd221514e683a9c7357fe_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/457160027589980160\/Dhn7vybh_normal.jpeg",
       "id" : 16581604,
       "verified" : true
     }

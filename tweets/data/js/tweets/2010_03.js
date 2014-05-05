@@ -110,7 +110,13 @@ Grailbird.data.tweets_2010_03 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Amanda Caldari",
+      "screen_name" : "amandacaldari",
+      "indices" : [ 42, 56 ],
+      "id_str" : "2332151202",
+      "id" : 2332151202
+    } ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "fb",

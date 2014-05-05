@@ -595,7 +595,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "daremoshiranai",
       "protected" : false,
       "id_str" : "7337392",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/434102928945582080\/XSbzdYs4_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/435818993866113025\/Z4htfxTl_normal.jpeg",
       "id" : 7337392,
       "verified" : false
     }

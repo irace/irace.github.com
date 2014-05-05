@@ -605,11 +605,11 @@ Grailbird.data.tweets_2011_12 =
     "id" : 150395092669181952,
     "created_at" : "2011-12-24 01:59:18 +0000",
     "user" : {
-      "name" : "Scott",
+      "name" : "Scott I",
       "screen_name" : "Scott_Source",
       "protected" : false,
       "id_str" : "43650262",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000770541843\/35c46fd5f0cbe86963ac8d953f0f7fb0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/457729148136722432\/-xlYFQsJ_normal.jpeg",
       "id" : 43650262,
       "verified" : false
     }
@@ -762,7 +762,13 @@ Grailbird.data.tweets_2011_12 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Amanda Caldari",
+      "screen_name" : "amandacaldari",
+      "indices" : [ 0, 14 ],
+      "id_str" : "2332151202",
+      "id" : 2332151202
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1034,7 +1040,7 @@ Grailbird.data.tweets_2011_12 =
       "screen_name" : "slashfilm",
       "protected" : false,
       "id_str" : "821193",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3508825918\/91dfbddaaf31c47a9b7f551e721c53c2_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458698710088572928\/RoI2QMIh_normal.jpeg",
       "id" : 821193,
       "verified" : true
     }

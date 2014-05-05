@@ -114,7 +114,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Boom. Game changed.",
+      "name" : "Tom Dale",
       "screen_name" : "tomdale",
       "indices" : [ 0, 8 ],
       "id_str" : "668863",
@@ -147,7 +147,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Boom. Game changed.",
+      "name" : "Tom Dale",
       "screen_name" : "tomdale",
       "indices" : [ 0, 8 ],
       "id_str" : "668863",
@@ -593,7 +593,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "Harpers",
       "protected" : false,
       "id_str" : "14287094",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/434098509411667968\/U6JmmJAZ_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/454343406576091136\/ZKb5kwNL_normal.png",
       "id" : 14287094,
       "verified" : false
     }
@@ -952,11 +952,11 @@ Grailbird.data.tweets_2012_02 =
     "id" : 169543173956313088,
     "created_at" : "2012-02-14 22:06:57 +0000",
     "user" : {
-      "name" : "Scott",
+      "name" : "Scott I",
       "screen_name" : "Scott_Source",
       "protected" : false,
       "id_str" : "43650262",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000770541843\/35c46fd5f0cbe86963ac8d953f0f7fb0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/457729148136722432\/-xlYFQsJ_normal.jpeg",
       "id" : 43650262,
       "verified" : false
     }
@@ -1274,7 +1274,7 @@ Grailbird.data.tweets_2012_02 =
       "screen_name" : "davepell",
       "protected" : false,
       "id_str" : "224",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1131225374\/twTitle-1_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458818845373784064\/Ugb_RTHJ_normal.png",
       "id" : 224,
       "verified" : false
     }
@@ -1532,7 +1532,13 @@ Grailbird.data.tweets_2012_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Amanda Caldari",
+      "screen_name" : "amandacaldari",
+      "indices" : [ 0, 14 ],
+      "id_str" : "2332151202",
+      "id" : 2332151202
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

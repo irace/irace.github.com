@@ -1155,7 +1155,7 @@ Grailbird.data.tweets_2011_03 =
       "screen_name" : "Microsoft",
       "protected" : false,
       "id_str" : "74286565",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2535822544\/secztwqh31xo8xydi4kq_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/453557798576476160\/75K_F9Ck_normal.png",
       "id" : 74286565,
       "verified" : true
     }

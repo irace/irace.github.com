@@ -2,7 +2,13 @@ Grailbird.data.tweets_2012_01 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Amanda Caldari",
+      "screen_name" : "amandacaldari",
+      "indices" : [ 0, 14 ],
+      "id_str" : "2332151202",
+      "id" : 2332151202
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -501,7 +507,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "rauchg",
       "protected" : false,
       "id_str" : "15540222",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/424606094237790208\/ii_CxjK1_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/461331477653774336\/GLjoIq3x_normal.png",
       "id" : 15540222,
       "verified" : false
     }
@@ -749,7 +755,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "slashfilm",
       "protected" : false,
       "id_str" : "821193",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3508825918\/91dfbddaaf31c47a9b7f551e721c53c2_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458698710088572928\/RoI2QMIh_normal.jpeg",
       "id" : 821193,
       "verified" : true
     }
@@ -949,11 +955,11 @@ Grailbird.data.tweets_2012_01 =
     "id" : 156461647039434752,
     "created_at" : "2012-01-09 19:45:38 +0000",
     "user" : {
-      "name" : "Scott",
+      "name" : "Scott I",
       "screen_name" : "Scott_Source",
       "protected" : false,
       "id_str" : "43650262",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000770541843\/35c46fd5f0cbe86963ac8d953f0f7fb0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/457729148136722432\/-xlYFQsJ_normal.jpeg",
       "id" : 43650262,
       "verified" : false
     }
@@ -1796,7 +1802,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "Codecademy",
       "protected" : false,
       "id_str" : "354847710",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2287988108\/8ad2u7frhc88facfny2p_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458993231405932545\/JTn1VKUM_normal.png",
       "id" : 354847710,
       "verified" : false
     }
