@@ -5,7 +5,7 @@ permalink: nsnotificationcenter-blocks
 date: 2013-11-20
 ---
 
-Drew Crawford published a post entitled [NSNotificationCenter with blocks considered harmful](http://sealedabstract.com/code/nsnotificationcenter-with-blocks-considered-harmful/) yesterday. Upon reading, one might get the impression that using the `NSNotificationCenter` block API is different in some way then using blocks, well, anywhere else. It isnt.
+Drew Crawford published a post entitled [NSNotificationCenter with blocks considered harmful](http://sealedabstract.com/code/nsnotificationcenter-with-blocks-considered-harmful/) yesterday. Upon reading, one might get the impression that using the `NSNotificationCenter` block API is different in some way then using blocks, well, anywhere else. It isn’t.
 
 `NSNotificationCenter` retains the blocks that you pass to it, and as such, referencing `self` inside the block will introduce in a nasty retain cycle. This is unfortunate but far from a new revelation; Jim Dovey [wrote about this](http://tumblr.alanquatermain.me/post/1686415314/an-nsnotification-blocks-gotcha) almost exactly two years ago and [I got bit](http://bryan.io/post/4766732327/nsnotifications-and-blocks) pretty hard myself during my earlier days as an iOS developer.
 
