@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CocoaPods, or How I Learned to Stop Worrying and Love Objective-C Dependency Management
+title: CocoaPods, or how I learned to stop worrying and love Objective-C dependency management
 permalink: cocoapods
 date: 2014-03-03
 ---
