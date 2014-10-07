@@ -1,0 +1,66 @@
+{
+  "basics": {
+    "name": "Bryan Irace",
+    "picture": "",
+    "email": "bryan@irace.me",
+    "phone": "(631) 495-9276",
+    "website": "http://irace.me",
+    "summary": "",
+    "location": {
+      "city": "New York",
+      "countryCode": "US"
+    },
+    "profiles": [{
+      "network": "twitter",
+      "username": "irace",
+      "url": "https://twitter.com/irace"
+    },
+    {
+      "network": "github",
+      "username": "irace",
+      "url": "https://github.com/irace"
+    },
+    {
+      "network": "tumblr",
+      "username": "bryan",
+      "url": "https://bryan.tumblr.com"
+    }]
+  },
+  "work": [{
+    "company": "Tumblr",
+    "position": "Senior engineer",
+    "website": "http://tumblr.com",
+    "startDate": "2014-10-03",
+    "summary": "",
+    "highlights": [
+        ""
+    ]
+  }],
+  "education": [{
+    "institution": "Boston College",
+    "area": "Computer Science",
+    "studyType": "Bachelor of Science",
+    "startDate": "",
+    "endDate": "",
+  }],
+  "publications": [{
+    "name": "",
+    "publisher": "",
+    "releaseDate": "",
+    "website": "",
+    "summary": ""
+  }],
+  "skills": [{
+    "name": "",
+    "level": "",
+    "keywords": [
+      ""
+    ]
+  }],
+  "interests": [{
+    "name": "",
+    "keywords": [
+      ""
+    ]
+  }],
+}
