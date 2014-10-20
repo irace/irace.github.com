@@ -107,7 +107,7 @@ Grailbird.data.tweets_2011_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -137,7 +137,7 @@ Grailbird.data.tweets_2011_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -197,11 +197,11 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MOG",
+      "name" : "mogdotcom",
       "screen_name" : "mogdotcom",
       "indices" : [ 0, 10 ],
-      "id_str" : "15289800",
-      "id" : 15289800
+      "id_str" : "2649781045",
+      "id" : 2649781045
     }, {
       "name" : "turntable",
       "screen_name" : "turntablefm",
@@ -280,7 +280,7 @@ Grailbird.data.tweets_2011_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -382,12 +382,6 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Amazon MP3",
-      "screen_name" : "amazonmp3",
-      "indices" : [ 3, 13 ],
-      "id_str" : "14740219",
-      "id" : 14740219
-    }, {
       "name" : "Radiohead",
       "screen_name" : "radiohead",
       "indices" : [ 39, 49 ],
@@ -431,11 +425,11 @@ Grailbird.data.tweets_2011_09 =
     "id" : 115867821161971712,
     "created_at" : "2011-09-19 19:20:15 +0000",
     "user" : {
-      "name" : "Amazon MP3",
-      "screen_name" : "amazonmp3",
+      "name" : "Amazon Music",
+      "screen_name" : "amazonmusic",
       "protected" : false,
       "id_str" : "14740219",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/340137940\/twitteravatar_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477112938486972416\/Kmk5eaGf_normal.png",
       "id" : 14740219,
       "verified" : true
     }
@@ -455,12 +449,6 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Amazon MP3",
-      "screen_name" : "amazonmp3",
-      "indices" : [ 3, 13 ],
-      "id_str" : "14740219",
-      "id" : 14740219
-    }, {
       "name" : "WILCO",
       "screen_name" : "Wilco",
       "indices" : [ 35, 41 ],
@@ -510,11 +498,11 @@ Grailbird.data.tweets_2011_09 =
     "id" : 115412293512208384,
     "created_at" : "2011-09-18 13:10:09 +0000",
     "user" : {
-      "name" : "Amazon MP3",
-      "screen_name" : "amazonmp3",
+      "name" : "Amazon Music",
+      "screen_name" : "amazonmusic",
       "protected" : false,
       "id_str" : "14740219",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/340137940\/twitteravatar_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477112938486972416\/Kmk5eaGf_normal.png",
       "id" : 14740219,
       "verified" : true
     }
@@ -617,7 +605,7 @@ Grailbird.data.tweets_2011_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -701,12 +689,6 @@ Grailbird.data.tweets_2011_09 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Amazon MP3",
-      "screen_name" : "amazonmp3",
-      "indices" : [ 3, 13 ],
-      "id_str" : "14740219",
-      "id" : 14740219
-    }, {
       "name" : "WILCO",
       "screen_name" : "Wilco",
       "indices" : [ 39, 45 ],
@@ -750,11 +732,11 @@ Grailbird.data.tweets_2011_09 =
     "id" : 111608470364631040,
     "created_at" : "2011-09-08 01:15:07 +0000",
     "user" : {
-      "name" : "Amazon MP3",
-      "screen_name" : "amazonmp3",
+      "name" : "Amazon Music",
+      "screen_name" : "amazonmusic",
       "protected" : false,
       "id_str" : "14740219",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/340137940\/twitteravatar_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477112938486972416\/Kmk5eaGf_normal.png",
       "id" : 14740219,
       "verified" : true
     }
@@ -771,7 +753,7 @@ Grailbird.data.tweets_2011_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Robert Muldoon",
@@ -807,7 +789,7 @@ Grailbird.data.tweets_2011_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],

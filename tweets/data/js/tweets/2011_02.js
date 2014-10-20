@@ -158,7 +158,7 @@ Grailbird.data.tweets_2011_02 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -417,13 +417,7 @@ Grailbird.data.tweets_2011_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Amazon MP3",
-      "screen_name" : "amazonmp3",
-      "indices" : [ 3, 13 ],
-      "id_str" : "14740219",
-      "id" : 14740219
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "dailydeal",
@@ -457,11 +451,11 @@ Grailbird.data.tweets_2011_02 =
     "id" : 40481357771702272,
     "created_at" : "2011-02-23 18:41:22 +0000",
     "user" : {
-      "name" : "Amazon MP3",
-      "screen_name" : "amazonmp3",
+      "name" : "Amazon Music",
+      "screen_name" : "amazonmusic",
       "protected" : false,
       "id_str" : "14740219",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/340137940\/twitteravatar_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477112938486972416\/Kmk5eaGf_normal.png",
       "id" : 14740219,
       "verified" : true
     }
@@ -555,7 +549,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "davechensky",
       "protected" : false,
       "id_str" : "14290222",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000527873626\/40758b890e7ba312436b99c1380d816e_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/505200124012683264\/c-VxNINH_normal.jpeg",
       "id" : 14290222,
       "verified" : false
     }
@@ -655,7 +649,7 @@ Grailbird.data.tweets_2011_02 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -745,7 +739,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "radiohead",
       "protected" : false,
       "id_str" : "108382988",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/433272245708812288\/cv-UfmOg_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/506819193270845440\/G-LhQFlP_normal.png",
       "id" : 108382988,
       "verified" : true
     }
@@ -796,7 +790,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "RichCimini",
       "protected" : false,
       "id_str" : "136026074",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/843753162\/cimini_rich_55_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/501131821958963200\/lW31qU_D_normal.jpeg",
       "id" : 136026074,
       "verified" : false
     }
@@ -1085,7 +1079,7 @@ Grailbird.data.tweets_2011_02 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1110,7 +1104,7 @@ Grailbird.data.tweets_2011_02 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],

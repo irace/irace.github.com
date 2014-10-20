@@ -98,11 +98,11 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Amazon MP3",
+      "name" : "Amazon Music",
       "screen_name" : "amazonmp3",
       "indices" : [ 67, 77 ],
-      "id_str" : "14740219",
-      "id" : 14740219
+      "id_str" : "26426173",
+      "id" : 26426173
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -476,11 +476,11 @@ Grailbird.data.tweets_2010_04 =
   "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Amazon MP3",
+      "name" : "Amazon Music",
       "screen_name" : "amazonmp3",
       "indices" : [ 23, 33 ],
-      "id_str" : "14740219",
-      "id" : 14740219
+      "id_str" : "26426173",
+      "id" : 26426173
     } ],
     "media" : [ ],
     "hashtags" : [ ],

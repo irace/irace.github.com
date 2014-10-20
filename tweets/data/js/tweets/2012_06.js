@@ -184,7 +184,7 @@ Grailbird.data.tweets_2012_06 =
       "id_str" : "52484614",
       "id" : 52484614
     }, {
-      "name" : "Eataly ",
+      "name" : "Eataly NYC",
       "screen_name" : "Eataly",
       "indices" : [ 100, 107 ],
       "id_str" : "55892939",
@@ -315,7 +315,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "the one true izs",
+      "name" : "Isaac Zimmitti Schlu",
       "screen_name" : "izs",
       "indices" : [ 3, 7 ],
       "id_str" : "8038312",
@@ -342,11 +342,11 @@ Grailbird.data.tweets_2012_06 =
     "id" : 216954021926285313,
     "created_at" : "2012-06-24 18:00:44 +0000",
     "user" : {
-      "name" : "the one true izs",
+      "name" : "Isaac Zimmitti Schlu",
       "screen_name" : "izs",
       "protected" : false,
       "id_str" : "8038312",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/460558674927185920\/D8ccNCw7_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/522132606364553218\/XJK2DuuZ_normal.jpeg",
       "id" : 8038312,
       "verified" : false
     }
@@ -571,7 +571,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stephen Abbott",
+      "name" : "Stephen Abbott Pugh",
       "screen_name" : "stephen_abbott",
       "indices" : [ 0, 15 ],
       "id_str" : "21927673",
@@ -910,7 +910,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "derekg",
       "protected" : false,
       "id_str" : "747083",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/446831378064101376\/aVJGyLOA_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/517775366715219968\/g_QPv0WU_normal.jpeg",
       "id" : 747083,
       "verified" : false
     }
@@ -1060,7 +1060,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "kevinburkhardt",
       "protected" : false,
       "id_str" : "37006875",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/475878933900955648\/VDkFRR41_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/506499569036062720\/5ZtHwYRc_normal.jpeg",
       "id" : 37006875,
       "verified" : true
     }
@@ -1198,7 +1198,7 @@ Grailbird.data.tweets_2012_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1420,7 +1420,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan Benjamin",
+      "name" : "Dan BRAAAAINSjamin",
       "screen_name" : "danbenjamin",
       "indices" : [ 3, 15 ],
       "id_str" : "5905672",
@@ -1447,11 +1447,11 @@ Grailbird.data.tweets_2012_06 =
     "id" : 212715029227778049,
     "created_at" : "2012-06-13 01:16:29 +0000",
     "user" : {
-      "name" : "Dan Benjamin",
+      "name" : "Dan BRAAAAINSjamin",
       "screen_name" : "danbenjamin",
       "protected" : false,
       "id_str" : "5905672",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000534895797\/4935e27af59f7666b02d2a2d83792459_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/523154665928945664\/Uejhinn5_normal.jpeg",
       "id" : 5905672,
       "verified" : false
     }
@@ -1958,7 +1958,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "maxogden",
       "protected" : false,
       "id_str" : "12241752",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/446012410466291713\/QvhxS7Hz_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/522616708922499072\/phDVjQSo_normal.jpeg",
       "id" : 12241752,
       "verified" : false
     }
@@ -2081,7 +2081,7 @@ Grailbird.data.tweets_2012_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2111,7 +2111,7 @@ Grailbird.data.tweets_2012_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2495,7 +2495,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James Halliday",
+      "name" : "substack",
       "screen_name" : "substack",
       "indices" : [ 3, 12 ],
       "id_str" : "125027291",
@@ -2544,7 +2544,7 @@ Grailbird.data.tweets_2012_06 =
     "id" : 210949350950567936,
     "created_at" : "2012-06-08 04:20:19 +0000",
     "user" : {
-      "name" : "James Halliday",
+      "name" : "substack",
       "screen_name" : "substack",
       "protected" : false,
       "id_str" : "125027291",
@@ -2764,7 +2764,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "adamlaiacano",
       "protected" : false,
       "id_str" : "208789178",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1777987500\/71581_101300159939736_100001792566134_8396_2633819_n_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/502994161125961729\/vodk3xK2_normal.png",
       "id" : 208789178,
       "verified" : false
     }
@@ -3246,7 +3246,7 @@ Grailbird.data.tweets_2012_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3463,7 +3463,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "parislemon",
       "protected" : false,
       "id_str" : "652193",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/475450216175263744\/KhPqb7vQ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/521342931760734209\/7Jo_7YC4_normal.jpeg",
       "id" : 652193,
       "verified" : true
     }
@@ -3480,7 +3480,7 @@ Grailbird.data.tweets_2012_06 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Robert Muldoon",

@@ -144,11 +144,11 @@ Grailbird.data.tweets_2010_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Amazon MP3",
+      "name" : "Amazon Music",
       "screen_name" : "amazonmp3",
       "indices" : [ 3, 13 ],
-      "id_str" : "14740219",
-      "id" : 14740219
+      "id_str" : "26426173",
+      "id" : 26426173
     } ],
     "media" : [ ],
     "hashtags" : [ ],

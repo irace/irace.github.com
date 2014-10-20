@@ -180,7 +180,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "nelson",
       "protected" : false,
       "id_str" : "10051",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/35240332\/2929920_normal.gif",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/506883834822926336\/MxrZ0ufJ_normal.jpeg",
       "id" : 10051,
       "verified" : false
     }
@@ -419,7 +419,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "monteiro",
       "protected" : false,
       "id_str" : "2426",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416099492648075264\/1Dv6Y8W4_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/480334642566803457\/2HgLwJHi_normal.jpeg",
       "id" : 2426,
       "verified" : false
     }
@@ -436,7 +436,7 @@ Grailbird.data.tweets_2011_01 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -595,7 +595,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "daremoshiranai",
       "protected" : false,
       "id_str" : "7337392",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/435818993866113025\/Z4htfxTl_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/500331875575947264\/swuuR_ZA_normal.jpeg",
       "id" : 7337392,
       "verified" : false
     }

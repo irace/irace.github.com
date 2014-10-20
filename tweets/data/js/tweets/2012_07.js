@@ -504,7 +504,7 @@ Grailbird.data.tweets_2012_07 =
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
-      "indices" : [ 139, 140 ],
+      "indices" : [ 123, 140 ],
       "url" : "http:\/\/t.co\/0ezQqfIa",
       "expanded_url" : "http:\/\/thepricehike.com\/post\/27629443696\/the-price-hikes-most-excellent-menu-contest",
       "display_url" : "thepricehike.com\/post\/276294436\u2026"
@@ -833,7 +833,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "elizabethdanger",
       "protected" : false,
       "id_str" : "25274516",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/469312074670018561\/Q08_kYE0_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/509241164944261121\/KBSlG4Ad_normal.jpeg",
       "id" : 25274516,
       "verified" : false
     }
@@ -961,7 +961,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "adamlaiacano",
       "protected" : false,
       "id_str" : "208789178",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1777987500\/71581_101300159939736_100001792566134_8396_2633819_n_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/502994161125961729\/vodk3xK2_normal.png",
       "id" : 208789178,
       "verified" : false
     }
@@ -1512,21 +1512,21 @@ Grailbird.data.tweets_2012_07 =
         "resize" : "fit",
         "w" : 580
       }, {
+        "h" : 865,
+        "resize" : "fit",
+        "w" : 580
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
+        "h" : 865,
+        "resize" : "fit",
+        "w" : 580
+      }, {
         "h" : 507,
         "resize" : "fit",
         "w" : 340
-      }, {
-        "h" : 865,
-        "resize" : "fit",
-        "w" : 580
-      }, {
-        "h" : 865,
-        "resize" : "fit",
-        "w" : 580
       } ],
       "display_url" : "pic.twitter.com\/8ktAumYM"
     } ],
@@ -1556,21 +1556,21 @@ Grailbird.data.tweets_2012_07 =
           "resize" : "fit",
           "w" : 580
         }, {
+          "h" : 865,
+          "resize" : "fit",
+          "w" : 580
+        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
         }, {
+          "h" : 865,
+          "resize" : "fit",
+          "w" : 580
+        }, {
           "h" : 507,
           "resize" : "fit",
           "w" : 340
-        }, {
-          "h" : 865,
-          "resize" : "fit",
-          "w" : 580
-        }, {
-          "h" : 865,
-          "resize" : "fit",
-          "w" : 580
         } ],
         "display_url" : "pic.twitter.com\/8ktAumYM"
       } ],
@@ -1784,11 +1784,11 @@ Grailbird.data.tweets_2012_07 =
     "id" : 222624814412726272,
     "created_at" : "2012-07-10 09:34:26 +0000",
     "user" : {
-      "name" : "Gordy m8",
+      "name" : "Gordy.TXT",
       "screen_name" : "GordyPls",
       "protected" : false,
       "id_str" : "16676087",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/468166582674264064\/5yYA3bpC_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/524144355863310338\/gCinEaSh_normal.jpeg",
       "id" : 16676087,
       "verified" : false
     }
@@ -2006,6 +2006,10 @@ Grailbird.data.tweets_2012_07 =
         "resize" : "fit",
         "w" : 340
       }, {
+        "h" : 803,
+        "resize" : "fit",
+        "w" : 600
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -2013,10 +2017,6 @@ Grailbird.data.tweets_2012_07 =
         "h" : 1024,
         "resize" : "fit",
         "w" : 765
-      }, {
-        "h" : 803,
-        "resize" : "fit",
-        "w" : 600
       } ],
       "display_url" : "pic.twitter.com\/qG2vXjtH"
     } ],
@@ -2094,7 +2094,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],

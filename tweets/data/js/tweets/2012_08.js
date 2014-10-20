@@ -278,7 +278,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "damien katz",
+      "name" : "damien qatz",
       "screen_name" : "damienkatz",
       "indices" : [ 3, 14 ],
       "id_str" : "77827772",
@@ -305,11 +305,11 @@ Grailbird.data.tweets_2012_08 =
     "id" : 240640719704965121,
     "created_at" : "2012-08-29 02:43:13 +0000",
     "user" : {
-      "name" : "damien katz",
+      "name" : "damien qatz",
       "screen_name" : "damienkatz",
       "protected" : false,
       "id_str" : "77827772",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/415101371994476544\/3x-IYQ3f_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/520279219369021440\/N8HEUpfT_normal.jpeg",
       "id" : 77827772,
       "verified" : false
     }
@@ -748,7 +748,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "thomasfuchs",
       "protected" : false,
       "id_str" : "6927562",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/468536966905352192\/OKpPdg72_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/519500804785324033\/a2IUH12T_normal.png",
       "id" : 6927562,
       "verified" : false
     }
@@ -928,7 +928,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jack Dorsey",
+      "name" : "Jack",
       "screen_name" : "jack",
       "indices" : [ 3, 8 ],
       "id_str" : "12",
@@ -967,11 +967,11 @@ Grailbird.data.tweets_2012_08 =
     "id" : 4749221193,
     "created_at" : "2009-10-10 00:35:51 +0000",
     "user" : {
-      "name" : "Jack Dorsey",
+      "name" : "Jack",
       "screen_name" : "jack",
       "protected" : false,
       "id_str" : "12",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/474248210152579072\/4MGLSf26_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/509904801665007616\/l8a_yuBO_normal.jpeg",
       "id" : 12,
       "verified" : true
     }
@@ -1242,9 +1242,9 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "jsnell",
       "protected" : false,
       "id_str" : "784912",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/416080002807910400\/Vg16aQkq_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489563542136180738\/fdgx0t03_normal.png",
       "id" : 784912,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 236307941068783616,
@@ -1344,7 +1344,7 @@ Grailbird.data.tweets_2012_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1610,7 +1610,7 @@ Grailbird.data.tweets_2012_08 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2232,7 +2232,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "annie_werner",
       "protected" : false,
       "id_str" : "24599929",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/472495508792307712\/xN-5sp_n_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/488890191931654144\/g8K1VJrt_normal.png",
       "id" : 24599929,
       "verified" : false
     }
@@ -2434,7 +2434,7 @@ Grailbird.data.tweets_2012_08 =
       "screen_name" : "JavaScriptDaily",
       "protected" : false,
       "id_str" : "459275531",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2239299097\/jsdailylogo_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/505048043377262592\/VMUR5EzE_normal.png",
       "id" : 459275531,
       "verified" : false
     }

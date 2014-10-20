@@ -1,5 +1,9774 @@
 Grailbird.data.tweets_2014_06 = 
-[ {
+ [ {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/irace\/status\/483606229345120256\/photo\/1",
+      "indices" : [ 9, 31 ],
+      "url" : "http:\/\/t.co\/XrfNotiizZ",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/BrYdTSQCMAAD2Fi.png",
+      "id_str" : "483606227142717440",
+      "id" : 483606227142717440,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BrYdTSQCMAAD2Fi.png",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1136,
+        "resize" : "fit",
+        "w" : 640
+      }, {
+        "h" : 1136,
+        "resize" : "fit",
+        "w" : 640
+      }, {
+        "h" : 1065,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 603,
+        "resize" : "fit",
+        "w" : 340
+      } ],
+      "display_url" : "pic.twitter.com\/XrfNotiizZ"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "483606229345120256",
+  "text" : "Vacation http:\/\/t.co\/XrfNotiizZ",
+  "id" : 483606229345120256,
+  "created_at" : "2014-06-30 13:41:24 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Michael Simmons",
+      "screen_name" : "macguitar",
+      "indices" : [ 0, 10 ],
+      "id_str" : "9370542",
+      "id" : 9370542
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "483391695628029952",
+  "geo" : { },
+  "id_str" : "483395561111158784",
+  "in_reply_to_user_id" : 21626062,
+  "text" : "@macguitar *how I'm going to be. Will work great in Safari but not apps \uD83D\uDE15",
+  "id" : 483395561111158784,
+  "in_reply_to_status_id" : 483391695628029952,
+  "created_at" : "2014-06-29 23:44:17 +0000",
+  "in_reply_to_screen_name" : "irace",
+  "in_reply_to_user_id_str" : "21626062",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Brian Papa",
+      "screen_name" : "bpapa",
+      "indices" : [ 0, 6 ],
+      "id_str" : "7460652",
+      "id" : 7460652
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "483394792106106880",
+  "geo" : { },
+  "id_str" : "483394845273489408",
+  "in_reply_to_user_id" : 7460652,
+  "text" : "@bpapa Same",
+  "id" : 483394845273489408,
+  "in_reply_to_status_id" : 483394792106106880,
+  "created_at" : "2014-06-29 23:41:26 +0000",
+  "in_reply_to_screen_name" : "bpapa",
+  "in_reply_to_user_id_str" : "7460652",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Brian Papa",
+      "screen_name" : "bpapa",
+      "indices" : [ 0, 6 ],
+      "id_str" : "7460652",
+      "id" : 7460652
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "483394598778064896",
+  "geo" : { },
+  "id_str" : "483394704571375616",
+  "in_reply_to_user_id" : 7460652,
+  "text" : "@bpapa Credit card?",
+  "id" : 483394704571375616,
+  "in_reply_to_status_id" : 483394598778064896,
+  "created_at" : "2014-06-29 23:40:53 +0000",
+  "in_reply_to_screen_name" : "bpapa",
+  "in_reply_to_user_id_str" : "7460652",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Mattt Thompson",
+      "screen_name" : "mattt",
+      "indices" : [ 0, 6 ],
+      "id_str" : "35803",
+      "id" : 35803
+    }, {
+      "name" : "Paul Young",
+      "screen_name" : "py",
+      "indices" : [ 10, 13 ],
+      "id_str" : "15878238",
+      "id" : 15878238
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "483369070192910336",
+  "geo" : { },
+  "id_str" : "483393879555977217",
+  "in_reply_to_user_id" : 35803,
+  "text" : "@mattt +1 @py",
+  "id" : 483393879555977217,
+  "in_reply_to_status_id" : 483369070192910336,
+  "created_at" : "2014-06-29 23:37:36 +0000",
+  "in_reply_to_screen_name" : "mattt",
+  "in_reply_to_user_id_str" : "35803",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Brian Papa",
+      "screen_name" : "bpapa",
+      "indices" : [ 0, 6 ],
+      "id_str" : "7460652",
+      "id" : 7460652
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "483349158334857216",
+  "geo" : { },
+  "id_str" : "483392160763740161",
+  "in_reply_to_user_id" : 7460652,
+  "text" : "@bpapa I challenge you to a duel",
+  "id" : 483392160763740161,
+  "in_reply_to_status_id" : 483349158334857216,
+  "created_at" : "2014-06-29 23:30:46 +0000",
+  "in_reply_to_screen_name" : "bpapa",
+  "in_reply_to_user_id_str" : "7460652",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Michael Simmons",
+      "screen_name" : "macguitar",
+      "indices" : [ 0, 10 ],
+      "id_str" : "9370542",
+      "id" : 9370542
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "483339513284923392",
+  "geo" : { },
+  "id_str" : "483391695628029952",
+  "in_reply_to_user_id" : 9370542,
+  "text" : "@macguitar Exciting. Understanding how extensions work technically, I'm hard-pressed to imagine how in going to be content with it though.",
+  "id" : 483391695628029952,
+  "in_reply_to_status_id" : 483339513284923392,
+  "created_at" : "2014-06-29 23:28:55 +0000",
+  "in_reply_to_screen_name" : "macguitar",
+  "in_reply_to_user_id_str" : "9370542",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jared Sin lair",
+      "screen_name" : "jaredsinclair",
+      "indices" : [ 0, 14 ],
+      "id_str" : "15004156",
+      "id" : 15004156
+    }, {
+      "name" : "devin",
+      "screen_name" : "devindoty",
+      "indices" : [ 57, 67 ],
+      "id_str" : "14353540",
+      "id" : 14353540
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "483259835476361216",
+  "geo" : { },
+  "id_str" : "483284374721675265",
+  "in_reply_to_user_id" : 15004156,
+  "text" : "@jaredsinclair Tumblr.app had this pre-TextKit (built by @devindoty). Used Apple's assets though.",
+  "id" : 483284374721675265,
+  "in_reply_to_status_id" : 483259835476361216,
+  "created_at" : "2014-06-29 16:22:28 +0000",
+  "in_reply_to_screen_name" : "jaredsinclair",
+  "in_reply_to_user_id_str" : "15004156",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "David Chartier",
+      "screen_name" : "chartier",
+      "indices" : [ 3, 12 ],
+      "id_str" : "35383",
+      "id" : 35383
+    }, {
+      "name" : "Day One Journal",
+      "screen_name" : "dayoneapp",
+      "indices" : [ 41, 51 ],
+      "id_str" : "246011382",
+      "id" : 246011382
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "482633106835243008",
+  "text" : "RT @chartier: I'd just like to reiterate @dayoneapp is one of my all-time favorite iPhone, iPad, and Mac apps. It is simply spectacular.",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Day One Journal",
+        "screen_name" : "dayoneapp",
+        "indices" : [ 27, 37 ],
+        "id_str" : "246011382",
+        "id" : 246011382
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "in_reply_to_status_id_str" : "482572116404215809",
+    "geo" : { },
+    "id_str" : "482572642524725248",
+    "in_reply_to_user_id" : 35383,
+    "text" : "I'd just like to reiterate @dayoneapp is one of my all-time favorite iPhone, iPad, and Mac apps. It is simply spectacular.",
+    "id" : 482572642524725248,
+    "in_reply_to_status_id" : 482572116404215809,
+    "created_at" : "2014-06-27 17:14:18 +0000",
+    "in_reply_to_screen_name" : "chartier",
+    "in_reply_to_user_id_str" : "35383",
+    "user" : {
+      "name" : "David Chartier",
+      "screen_name" : "chartier",
+      "protected" : false,
+      "id_str" : "35383",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/510074739449032705\/CbeMup_a_normal.jpeg",
+      "id" : 35383,
+      "verified" : false
+    }
+  },
+  "id" : 482633106835243008,
+  "created_at" : "2014-06-27 21:14:34 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.apple.com\" rel=\"nofollow\"\u003EiOS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Kickstarter",
+      "screen_name" : "kickstarter",
+      "indices" : [ 44, 56 ],
+      "id_str" : "16186995",
+      "id" : 16186995
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 57, 80 ],
+      "url" : "https:\/\/t.co\/RIrprVOJLW",
+      "expanded_url" : "https:\/\/www.kickstarter.com\/projects\/2103885170\/very-goods-the-new-svpply",
+      "display_url" : "kickstarter.com\/projects\/21038\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "482618439006044160",
+  "text" : "I just backed Very Goods, the new Svpply on @Kickstarter https:\/\/t.co\/RIrprVOJLW",
+  "id" : 482618439006044160,
+  "created_at" : "2014-06-27 20:16:17 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u2661rta",
+      "screen_name" : "orta",
+      "indices" : [ 0, 5 ],
+      "id_str" : "2569881",
+      "id" : 2569881
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "482608364996661249",
+  "geo" : { },
+  "id_str" : "482608628864536576",
+  "in_reply_to_user_id" : 2569881,
+  "text" : "@orta I'm only there for one night (the following Friday) with my fianc\u00E9e",
+  "id" : 482608628864536576,
+  "in_reply_to_status_id" : 482608364996661249,
+  "created_at" : "2014-06-27 19:37:18 +0000",
+  "in_reply_to_screen_name" : "orta",
+  "in_reply_to_user_id_str" : "2569881",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "482608058950897665",
+  "text" : "Paris, Prague, tiny bit of Munich, Pylos, Zakynthos, and lastly a little Stockholm. Back in two weeks!",
+  "id" : 482608058950897665,
+  "created_at" : "2014-06-27 19:35:02 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Shaun Harrison",
+      "screen_name" : "shnhrrsn",
+      "indices" : [ 0, 9 ],
+      "id_str" : "20336293",
+      "id" : 20336293
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "482541060460392448",
+  "geo" : { },
+  "id_str" : "482553984004403200",
+  "in_reply_to_user_id" : 20336293,
+  "text" : "@shnhrrsn I don't *want* that to happen!",
+  "id" : 482553984004403200,
+  "in_reply_to_status_id" : 482541060460392448,
+  "created_at" : "2014-06-27 16:00:09 +0000",
+  "in_reply_to_screen_name" : "shnhrrsn",
+  "in_reply_to_user_id_str" : "20336293",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Justin Booooober",
+      "screen_name" : "justin",
+      "indices" : [ 0, 7 ],
+      "id_str" : "929",
+      "id" : 929
+    }, {
+      "name" : "John Gruber",
+      "screen_name" : "gruber",
+      "indices" : [ 8, 15 ],
+      "id_str" : "33423",
+      "id" : 33423
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "482540286283771904",
+  "geo" : { },
+  "id_str" : "482553927544864768",
+  "in_reply_to_user_id" : 929,
+  "text" : "@justin @gruber Oh I couldn't be more interested. Just concerned about how brain injuries will affect the sport in the long run.",
+  "id" : 482553927544864768,
+  "in_reply_to_status_id" : 482540286283771904,
+  "created_at" : "2014-06-27 15:59:56 +0000",
+  "in_reply_to_screen_name" : "justin",
+  "in_reply_to_user_id_str" : "929",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "John Gruber",
+      "screen_name" : "gruber",
+      "indices" : [ 0, 7 ],
+      "id_str" : "33423",
+      "id" : 33423
+    }, {
+      "name" : "Justin Booooober",
+      "screen_name" : "justin",
+      "indices" : [ 8, 15 ],
+      "id_str" : "929",
+      "id" : 929
+    }, {
+      "name" : "Guy English",
+      "screen_name" : "gte",
+      "indices" : [ 16, 20 ],
+      "id_str" : "7125712",
+      "id" : 7125712
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "482395449073364995",
+  "geo" : { },
+  "id_str" : "482539630676672512",
+  "in_reply_to_user_id" : 33423,
+  "text" : "@gruber @justin @gte Dreading a future that could very well include phrases like \u201Cwhen the NFL mattered\u201D",
+  "id" : 482539630676672512,
+  "in_reply_to_status_id" : 482395449073364995,
+  "created_at" : "2014-06-27 15:03:07 +0000",
+  "in_reply_to_screen_name" : "gruber",
+  "in_reply_to_user_id_str" : "33423",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Kurt Humes",
+      "screen_name" : "kurthumes",
+      "indices" : [ 0, 10 ],
+      "id_str" : "399177697",
+      "id" : 399177697
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "482395252557242369",
+  "geo" : { },
+  "id_str" : "482539485046255616",
+  "in_reply_to_user_id" : 399177697,
+  "text" : "@kurthumes That little guy? I wouldn\u2019t worry about that little guy.",
+  "id" : 482539485046255616,
+  "in_reply_to_status_id" : 482395252557242369,
+  "created_at" : "2014-06-27 15:02:33 +0000",
+  "in_reply_to_screen_name" : "kurthumes",
+  "in_reply_to_user_id_str" : "399177697",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "482526900536217600",
+  "text" : "Entire Tumblr iOS team is narrowing down the reproduction case here. Tapping directly *on* the status bar and pulling down works as expected",
+  "id" : 482526900536217600,
+  "created_at" : "2014-06-27 14:12:32 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 117, 139 ],
+      "url" : "http:\/\/t.co\/7mIqy54pQk",
+      "expanded_url" : "http:\/\/openradar.appspot.com\/radar?id=6446461503930368",
+      "display_url" : "openradar.appspot.com\/radar?id=64464\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "482525256712978432",
+  "text" : "Please dupe this if you\u2019re sick of losing your place in Tweetbot\/Tumblr\/etc. whenever you access Notification Center http:\/\/t.co\/7mIqy54pQk",
+  "id" : 482525256712978432,
+  "created_at" : "2014-06-27 14:06:00 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Kento Ito",
+      "screen_name" : "alchemistmuffin",
+      "indices" : [ 0, 16 ],
+      "id_str" : "14460220",
+      "id" : 14460220
+    }, {
+      "name" : "Eytan Schulman",
+      "screen_name" : "zorcan1",
+      "indices" : [ 17, 25 ],
+      "id_str" : "2865818706",
+      "id" : 2865818706
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "482365921072517120",
+  "geo" : { },
+  "id_str" : "482366058905337857",
+  "in_reply_to_user_id" : 14460220,
+  "text" : "@alchemistmuffin @zorcan1 You must be joking.",
+  "id" : 482366058905337857,
+  "in_reply_to_status_id" : 482365921072517120,
+  "created_at" : "2014-06-27 03:33:25 +0000",
+  "in_reply_to_screen_name" : "alchemistmuffin",
+  "in_reply_to_user_id_str" : "14460220",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "John Sheehan",
+      "screen_name" : "johnsheehan",
+      "indices" : [ 0, 12 ],
+      "id_str" : "11381522",
+      "id" : 11381522
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "482342744677830656",
+  "geo" : { },
+  "id_str" : "482360119385006080",
+  "in_reply_to_user_id" : 11381522,
+  "text" : "@johnsheehan iOS 8 exposes the \"Reduce Motion\" setting to developers, so they could theoretically *not* animate for those users.",
+  "id" : 482360119385006080,
+  "in_reply_to_status_id" : 482342744677830656,
+  "created_at" : "2014-06-27 03:09:48 +0000",
+  "in_reply_to_screen_name" : "johnsheehan",
+  "in_reply_to_user_id_str" : "11381522",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "482358358997884928",
+  "text" : "Guess no one who works at Apple uses Notification Center. Weird.",
+  "id" : 482358358997884928,
+  "created_at" : "2014-06-27 03:02:49 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "482357514462175234",
+  "text" : "Does iOS 8 fix the bug where pulling down Notification Center scrolls to the top of the app that you're using's scroll view? Worst bug ever.",
+  "id" : 482357514462175234,
+  "created_at" : "2014-06-27 02:59:27 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Rene Ritchie",
+      "screen_name" : "reneritchie",
+      "indices" : [ 0, 12 ],
+      "id_str" : "10194392",
+      "id" : 10194392
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "482306604579446785",
+  "geo" : { },
+  "id_str" : "482354657042247680",
+  "in_reply_to_user_id" : 10194392,
+  "text" : "@reneritchie They should really ask for an expedited review.",
+  "id" : 482354657042247680,
+  "in_reply_to_status_id" : 482306604579446785,
+  "created_at" : "2014-06-27 02:48:06 +0000",
+  "in_reply_to_screen_name" : "reneritchie",
+  "in_reply_to_user_id_str" : "10194392",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Leandro Favarin",
+      "screen_name" : "leandrofavarin",
+      "indices" : [ 0, 15 ],
+      "id_str" : "205576109",
+      "id" : 205576109
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "482328314401783809",
+  "geo" : { },
+  "id_str" : "482328710096252929",
+  "in_reply_to_user_id" : 205576109,
+  "text" : "@leandrofavarin Generally yes but I know there are some restrictions. Send me an email with your info (bryan@tumblr).",
+  "id" : 482328710096252929,
+  "in_reply_to_status_id" : 482328314401783809,
+  "created_at" : "2014-06-27 01:05:00 +0000",
+  "in_reply_to_screen_name" : "leandrofavarin",
+  "in_reply_to_user_id_str" : "205576109",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Airplane Mode",
+      "screen_name" : "airplanemode",
+      "indices" : [ 0, 13 ],
+      "id_str" : "15065792",
+      "id" : 15065792
+    }, {
+      "name" : "Matthew Bischoff",
+      "screen_name" : "mb",
+      "indices" : [ 14, 17 ],
+      "id_str" : "5107",
+      "id" : 5107
+    }, {
+      "name" : "Nick Arnott",
+      "screen_name" : "noir",
+      "indices" : [ 18, 23 ],
+      "id_str" : "11677062",
+      "id" : 11677062
+    }, {
+      "name" : "Klaas Pieter Annema",
+      "screen_name" : "klaaspieter",
+      "indices" : [ 24, 36 ],
+      "id_str" : "14197707",
+      "id" : 14197707
+    }, {
+      "name" : "Bradlyn Doma",
+      "screen_name" : "BDoma",
+      "indices" : [ 37, 43 ],
+      "id_str" : "544991826",
+      "id" : 544991826
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "482326447055331328",
+  "geo" : { },
+  "id_str" : "482326554626641920",
+  "in_reply_to_user_id" : 2897431,
+  "text" : "@airplanemode @mb @noir @klaaspieter @BDoma I think we all agree on that \uD83D\uDC4D",
+  "id" : 482326554626641920,
+  "in_reply_to_status_id" : 482326447055331328,
+  "created_at" : "2014-06-27 00:56:26 +0000",
+  "in_reply_to_screen_name" : "dwiskus",
+  "in_reply_to_user_id_str" : "2897431",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Airplane Mode",
+      "screen_name" : "airplanemode",
+      "indices" : [ 0, 13 ],
+      "id_str" : "15065792",
+      "id" : 15065792
+    }, {
+      "name" : "Matthew Bischoff",
+      "screen_name" : "mb",
+      "indices" : [ 14, 17 ],
+      "id_str" : "5107",
+      "id" : 5107
+    }, {
+      "name" : "Nick Arnott",
+      "screen_name" : "noir",
+      "indices" : [ 18, 23 ],
+      "id_str" : "11677062",
+      "id" : 11677062
+    }, {
+      "name" : "Klaas Pieter Annema",
+      "screen_name" : "klaaspieter",
+      "indices" : [ 24, 36 ],
+      "id_str" : "14197707",
+      "id" : 14197707
+    }, {
+      "name" : "Bradlyn Doma",
+      "screen_name" : "BDoma",
+      "indices" : [ 37, 43 ],
+      "id_str" : "544991826",
+      "id" : 544991826
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "482325521368244224",
+  "geo" : { },
+  "id_str" : "482325870032347136",
+  "in_reply_to_user_id" : 2897431,
+  "text" : "@airplanemode @mb @noir @klaaspieter @BDoma Generally agree but more friction to an OS than an app update. Many don\u2019t even have the HD space",
+  "id" : 482325870032347136,
+  "in_reply_to_status_id" : 482325521368244224,
+  "created_at" : "2014-06-27 00:53:43 +0000",
+  "in_reply_to_screen_name" : "dwiskus",
+  "in_reply_to_user_id_str" : "2897431",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Matthew Bischoff",
+      "screen_name" : "mb",
+      "indices" : [ 0, 3 ],
+      "id_str" : "5107",
+      "id" : 5107
+    }, {
+      "name" : "Nick Arnott",
+      "screen_name" : "noir",
+      "indices" : [ 4, 9 ],
+      "id_str" : "11677062",
+      "id" : 11677062
+    }, {
+      "name" : "Klaas Pieter Annema",
+      "screen_name" : "klaaspieter",
+      "indices" : [ 10, 22 ],
+      "id_str" : "14197707",
+      "id" : 14197707
+    }, {
+      "name" : "Dave Wiskus",
+      "screen_name" : "dwiskus",
+      "indices" : [ 23, 31 ],
+      "id_str" : "2897431",
+      "id" : 2897431
+    }, {
+      "name" : "Bradlyn Doma",
+      "screen_name" : "BDoma",
+      "indices" : [ 32, 38 ],
+      "id_str" : "544991826",
+      "id" : 544991826
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 63, 85 ],
+      "url" : "http:\/\/t.co\/avByGvO7xH",
+      "expanded_url" : "http:\/\/bryan.io\/post\/69627325056\/everyone-was-wrong-about-app-store-last-compatible",
+      "display_url" : "bryan.io\/post\/696273250\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "482295355762311168",
+  "geo" : { },
+  "id_str" : "482323575966138368",
+  "in_reply_to_user_id" : 5107,
+  "text" : "@mb @noir @klaaspieter @dwiskus @BDoma Yep, we were all wrong: http:\/\/t.co\/avByGvO7xH",
+  "id" : 482323575966138368,
+  "in_reply_to_status_id" : 482295355762311168,
+  "created_at" : "2014-06-27 00:44:36 +0000",
+  "in_reply_to_screen_name" : "mb",
+  "in_reply_to_user_id_str" : "5107",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Dave Wiskus",
+      "screen_name" : "dwiskus",
+      "indices" : [ 0, 8 ],
+      "id_str" : "2897431",
+      "id" : 2897431
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "482280828182204416",
+  "geo" : { },
+  "id_str" : "482293471223357440",
+  "in_reply_to_user_id" : 2897431,
+  "text" : "@dwiskus Just kidding pal",
+  "id" : 482293471223357440,
+  "in_reply_to_status_id" : 482280828182204416,
+  "created_at" : "2014-06-26 22:44:58 +0000",
+  "in_reply_to_screen_name" : "dwiskus",
+  "in_reply_to_user_id_str" : "2897431",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Dave Wiskus",
+      "screen_name" : "dwiskus",
+      "indices" : [ 0, 8 ],
+      "id_str" : "2897431",
+      "id" : 2897431
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "482259066954469376",
+  "geo" : { },
+  "id_str" : "482274313811558400",
+  "in_reply_to_user_id" : 2897431,
+  "text" : "@dwiskus Yeah, I keep telling them the \u201Chumility\u201D requirement is going to cost us!",
+  "id" : 482274313811558400,
+  "in_reply_to_status_id" : 482259066954469376,
+  "created_at" : "2014-06-26 21:28:51 +0000",
+  "in_reply_to_screen_name" : "dwiskus",
+  "in_reply_to_user_id_str" : "2897431",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Matthew Bischoff",
+      "screen_name" : "mb",
+      "indices" : [ 0, 3 ],
+      "id_str" : "5107",
+      "id" : 5107
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "482230111996248064",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 40.7394716895, -73.9879610864 ]
+  },
+  "id_str" : "482268359573401600",
+  "in_reply_to_user_id" : 5107,
+  "text" : "@mb I\u2019m not sure. Are we?",
+  "id" : 482268359573401600,
+  "in_reply_to_status_id" : 482230111996248064,
+  "created_at" : "2014-06-26 21:05:11 +0000",
+  "in_reply_to_screen_name" : "mb",
+  "in_reply_to_user_id_str" : "5107",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 49, 71 ],
+      "url" : "http:\/\/t.co\/rQEBxaSVy6",
+      "expanded_url" : "http:\/\/www.jobscore.com\/jobs2\/tumblr\/product-designer\/alBBmg1sWr44NIiGakhP3Q?ref=rss&sid=68",
+      "display_url" : "jobscore.com\/jobs2\/tumblr\/p\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "482253714158534656",
+  "text" : "iOS designer? Come work with us at Tumblr in NYC http:\/\/t.co\/rQEBxaSVy6",
+  "id" : 482253714158534656,
+  "created_at" : "2014-06-26 20:06:59 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "David Chartier",
+      "screen_name" : "chartier",
+      "indices" : [ 0, 9 ],
+      "id_str" : "35383",
+      "id" : 35383
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "482213612652490753",
+  "geo" : { },
+  "id_str" : "482213892480069632",
+  "in_reply_to_user_id" : 35383,
+  "text" : "@chartier Not in the case I just described. I want my windows to take up 50% of the screen regardless of if the inspector is open or not.",
+  "id" : 482213892480069632,
+  "in_reply_to_status_id" : 482213612652490753,
+  "created_at" : "2014-06-26 17:28:45 +0000",
+  "in_reply_to_screen_name" : "chartier",
+  "in_reply_to_user_id_str" : "35383",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "David Chartier",
+      "screen_name" : "chartier",
+      "indices" : [ 0, 9 ],
+      "id_str" : "35383",
+      "id" : 35383
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "482212974112030720",
+  "geo" : { },
+  "id_str" : "482213395064954882",
+  "in_reply_to_user_id" : 35383,
+  "text" : "@chartier While working I almost always have two windows each taking up half my screen.",
+  "id" : 482213395064954882,
+  "in_reply_to_status_id" : 482212974112030720,
+  "created_at" : "2014-06-26 17:26:47 +0000",
+  "in_reply_to_screen_name" : "chartier",
+  "in_reply_to_user_id_str" : "35383",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "David Chartier",
+      "screen_name" : "chartier",
+      "indices" : [ 0, 9 ],
+      "id_str" : "35383",
+      "id" : 35383
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "482185669771403264",
+  "geo" : { },
+  "id_str" : "482212762056392704",
+  "in_reply_to_user_id" : 35383,
+  "text" : "@chartier Hm, this would definitely not be ideal in plenty of cases",
+  "id" : 482212762056392704,
+  "in_reply_to_status_id" : 482185669771403264,
+  "created_at" : "2014-06-26 17:24:16 +0000",
+  "in_reply_to_screen_name" : "chartier",
+  "in_reply_to_user_id_str" : "35383",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "John Bunting",
+      "screen_name" : "codingjester",
+      "indices" : [ 0, 13 ],
+      "id_str" : "14675388",
+      "id" : 14675388
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "482177616653586432",
+  "geo" : { },
+  "id_str" : "482210493537718272",
+  "in_reply_to_user_id" : 14675388,
+  "text" : "@codingjester If it \"doesn't never\" does that mean it always works?",
+  "id" : 482210493537718272,
+  "in_reply_to_status_id" : 482177616653586432,
+  "created_at" : "2014-06-26 17:15:15 +0000",
+  "in_reply_to_screen_name" : "codingjester",
+  "in_reply_to_user_id_str" : "14675388",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jared Sin lair",
+      "screen_name" : "jaredsinclair",
+      "indices" : [ 42, 56 ],
+      "id_str" : "15004156",
+      "id" : 15004156
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 72, 94 ],
+      "url" : "http:\/\/t.co\/3o4G4GWT3C",
+      "expanded_url" : "http:\/\/blog.jaredsinclair.com\/post\/89972235305\/preferred-orientation",
+      "display_url" : "blog.jaredsinclair.com\/post\/899722353\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "482207560699625472",
+  "text" : "Oops. Last tweet was meant to be directed @jaredsinclair in response to http:\/\/t.co\/3o4G4GWT3C",
+  "id" : 482207560699625472,
+  "created_at" : "2014-06-26 17:03:36 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "482201961790722048",
+  "text" : "Re: preferred orientation, I think Tumblr.app is quite neutral. I guess portrait since landscape doesn\u2019t buy you much yet requires two hands",
+  "id" : 482201961790722048,
+  "created_at" : "2014-06-26 16:41:21 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "race condition",
+      "screen_name" : "swizzlr",
+      "indices" : [ 0, 8 ],
+      "id_str" : "1468574148",
+      "id" : 1468574148
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "482161838847586305",
+  "geo" : { },
+  "id_str" : "482175231021555712",
+  "in_reply_to_user_id" : 1468574148,
+  "text" : "@swizzlr APPEASE THE WHITESPACE GODS",
+  "id" : 482175231021555712,
+  "in_reply_to_status_id" : 482161838847586305,
+  "created_at" : "2014-06-26 14:55:08 +0000",
+  "in_reply_to_screen_name" : "swizzlr",
+  "in_reply_to_user_id_str" : "1468574148",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "482173219764723712",
+  "text" : "I saw the best minds of my generation destroyed by madness, starving hysterical naked, fixing Xcode project file merge conflicts.",
+  "id" : 482173219764723712,
+  "created_at" : "2014-06-26 14:47:08 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Ellis Hamburger",
+      "screen_name" : "hamburger",
+      "indices" : [ 0, 10 ],
+      "id_str" : "130914103",
+      "id" : 130914103
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "482146689046695937",
+  "geo" : { },
+  "id_str" : "482166873484951552",
+  "in_reply_to_user_id" : 130914103,
+  "text" : "@hamburger Need the website to get some of the same love",
+  "id" : 482166873484951552,
+  "in_reply_to_status_id" : 482146689046695937,
+  "created_at" : "2014-06-26 14:21:55 +0000",
+  "in_reply_to_screen_name" : "hamburger",
+  "in_reply_to_user_id_str" : "130914103",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jon Russell",
+      "screen_name" : "jonrussell",
+      "indices" : [ 0, 11 ],
+      "id_str" : "6132422",
+      "id" : 6132422
+    }, {
+      "name" : "Ben Thompson",
+      "screen_name" : "monkbent",
+      "indices" : [ 12, 21 ],
+      "id_str" : "40273",
+      "id" : 40273
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481685435597324289",
+  "geo" : { },
+  "id_str" : "482027547895410688",
+  "in_reply_to_user_id" : 6132422,
+  "text" : "@jonrussell @monkbent Tumblr too?",
+  "id" : 482027547895410688,
+  "in_reply_to_status_id" : 481685435597324289,
+  "created_at" : "2014-06-26 05:08:17 +0000",
+  "in_reply_to_screen_name" : "jonrussell",
+  "in_reply_to_user_id_str" : "6132422",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Tim Wu",
+      "screen_name" : "superwuster",
+      "indices" : [ 3, 15 ],
+      "id_str" : "14636374",
+      "id" : 14636374
+    }, {
+      "name" : "Tumblr",
+      "screen_name" : "tumblr",
+      "indices" : [ 26, 33 ],
+      "id_str" : "52484614",
+      "id" : 52484614
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "481998675359449088",
+  "text" : "RT @superwuster: Spoke at @tumblr today where, among other things, I was asked roughly whether state law needs to deal with robots taking o\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Tumblr",
+        "screen_name" : "tumblr",
+        "indices" : [ 9, 16 ],
+        "id_str" : "52484614",
+        "id" : 52484614
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "481993344693051392",
+    "text" : "Spoke at @tumblr today where, among other things, I was asked roughly whether state law needs to deal with robots taking over the world",
+    "id" : 481993344693051392,
+    "created_at" : "2014-06-26 02:52:23 +0000",
+    "user" : {
+      "name" : "Tim Wu",
+      "screen_name" : "superwuster",
+      "protected" : false,
+      "id_str" : "14636374",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/509963432854953984\/NNbGKNcb_normal.jpeg",
+      "id" : 14636374,
+      "verified" : false
+    }
+  },
+  "id" : 481998675359449088,
+  "created_at" : "2014-06-26 03:13:33 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Tim Wu",
+      "screen_name" : "superwuster",
+      "indices" : [ 21, 33 ],
+      "id_str" : "14636374",
+      "id" : 14636374
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "481955110512107520",
+  "text" : "After seeing Tim Wu (@superwuster) speak today it's pretty obvious that you want him to win the Lt. Governorship if you live in NY state.",
+  "id" : 481955110512107520,
+  "created_at" : "2014-06-26 00:20:27 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "petermdenton",
+      "screen_name" : "petermdenton",
+      "indices" : [ 0, 13 ],
+      "id_str" : "9676172",
+      "id" : 9676172
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481924518437343232",
+  "geo" : { },
+  "id_str" : "481924688801980417",
+  "in_reply_to_user_id" : 9676172,
+  "text" : "@petermdenton Naw, whatever approach we take will be dumb. If (contentIsntSupportedOnDashboard) \u007B \/\/ Show link to post in browser \u007D",
+  "id" : 481924688801980417,
+  "in_reply_to_status_id" : 481924518437343232,
+  "created_at" : "2014-06-25 22:19:34 +0000",
+  "in_reply_to_screen_name" : "petermdenton",
+  "in_reply_to_user_id_str" : "9676172",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "petermdenton",
+      "screen_name" : "petermdenton",
+      "indices" : [ 0, 13 ],
+      "id_str" : "9676172",
+      "id" : 9676172
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481921521602920449",
+  "geo" : { },
+  "id_str" : "481921902316113924",
+  "in_reply_to_user_id" : 9676172,
+  "text" : "@petermdenton Nope, it\u2019s not a web view. We should show some kind of placeholder that lets you open the brewer though.",
+  "id" : 481921902316113924,
+  "in_reply_to_status_id" : 481921521602920449,
+  "created_at" : "2014-06-25 22:08:29 +0000",
+  "in_reply_to_screen_name" : "petermdenton",
+  "in_reply_to_user_id_str" : "9676172",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Amir Efrati",
+      "screen_name" : "amir",
+      "indices" : [ 0, 5 ],
+      "id_str" : "114602310",
+      "id" : 114602310
+    }, {
+      "name" : "Jessica Lessin",
+      "screen_name" : "Jessicalessin",
+      "indices" : [ 6, 20 ],
+      "id_str" : "8962882",
+      "id" : 8962882
+    }, {
+      "name" : "Peter Kafka",
+      "screen_name" : "pkafka",
+      "indices" : [ 21, 28 ],
+      "id_str" : "202003",
+      "id" : 202003
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481880653714046976",
+  "geo" : { },
+  "id_str" : "481917756305338370",
+  "in_reply_to_user_id" : 114602310,
+  "text" : "@amir @jessicalessin @pkafka Will it get an HTTP API though? Seems critical.",
+  "id" : 481917756305338370,
+  "in_reply_to_status_id" : 481880653714046976,
+  "created_at" : "2014-06-25 21:52:01 +0000",
+  "in_reply_to_screen_name" : "amir",
+  "in_reply_to_user_id_str" : "114602310",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "David Chartier",
+      "screen_name" : "chartier",
+      "indices" : [ 0, 9 ],
+      "id_str" : "35383",
+      "id" : 35383
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481916027798704128",
+  "geo" : { },
+  "id_str" : "481916185383284736",
+  "in_reply_to_user_id" : 35383,
+  "text" : "@chartier I ruin everything",
+  "id" : 481916185383284736,
+  "in_reply_to_status_id" : 481916027798704128,
+  "created_at" : "2014-06-25 21:45:46 +0000",
+  "in_reply_to_screen_name" : "chartier",
+  "in_reply_to_user_id_str" : "35383",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Ellis Hamburger",
+      "screen_name" : "hamburger",
+      "indices" : [ 0, 10 ],
+      "id_str" : "130914103",
+      "id" : 130914103
+    }, {
+      "name" : "Matthew Bischoff",
+      "screen_name" : "mb",
+      "indices" : [ 11, 14 ],
+      "id_str" : "5107",
+      "id" : 5107
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481914922218299393",
+  "geo" : { },
+  "id_str" : "481916152193748993",
+  "in_reply_to_user_id" : 130914103,
+  "text" : "@hamburger @mb IMAP is a standard, how Mail.app can support Gmail\/iCloud\/whatever else. Can\u2019t switch if only Gmail has non-standard HTTP API",
+  "id" : 481916152193748993,
+  "in_reply_to_status_id" : 481914922218299393,
+  "created_at" : "2014-06-25 21:45:38 +0000",
+  "in_reply_to_screen_name" : "hamburger",
+  "in_reply_to_user_id_str" : "130914103",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Ellis Hamburger",
+      "screen_name" : "hamburger",
+      "indices" : [ 0, 10 ],
+      "id_str" : "130914103",
+      "id" : 130914103
+    }, {
+      "name" : "Matthew Bischoff",
+      "screen_name" : "mb",
+      "indices" : [ 11, 14 ],
+      "id_str" : "5107",
+      "id" : 5107
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481914633847328768",
+  "geo" : { },
+  "id_str" : "481914782304714752",
+  "in_reply_to_user_id" : 130914103,
+  "text" : "@hamburger @mb Should be a lot more developer friendly. We all know how to talk HTTP. IMAP (email specific), not so much.",
+  "id" : 481914782304714752,
+  "in_reply_to_status_id" : 481914633847328768,
+  "created_at" : "2014-06-25 21:40:12 +0000",
+  "in_reply_to_screen_name" : "hamburger",
+  "in_reply_to_user_id_str" : "130914103",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Ellis Hamburger",
+      "screen_name" : "hamburger",
+      "indices" : [ 0, 10 ],
+      "id_str" : "130914103",
+      "id" : 130914103
+    }, {
+      "name" : "Matthew Bischoff",
+      "screen_name" : "mb",
+      "indices" : [ 11, 14 ],
+      "id_str" : "5107",
+      "id" : 5107
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481914506596331521",
+  "geo" : { },
+  "id_str" : "481914580646768641",
+  "in_reply_to_user_id" : 130914103,
+  "text" : "@hamburger @mb HTTP instead of IMAP",
+  "id" : 481914580646768641,
+  "in_reply_to_status_id" : 481914506596331521,
+  "created_at" : "2014-06-25 21:39:24 +0000",
+  "in_reply_to_screen_name" : "hamburger",
+  "in_reply_to_user_id_str" : "130914103",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Spooky Streza",
+      "screen_name" : "SteveStreza",
+      "indices" : [ 0, 12 ],
+      "id_str" : "658643",
+      "id" : 658643
+    }, {
+      "name" : "Greg Pierce",
+      "screen_name" : "agiletortoise",
+      "indices" : [ 13, 27 ],
+      "id_str" : "6152112",
+      "id" : 6152112
+    }, {
+      "name" : "Matthew Bischoff",
+      "screen_name" : "mb",
+      "indices" : [ 28, 31 ],
+      "id_str" : "5107",
+      "id" : 5107
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481914448790040576",
+  "geo" : { },
+  "id_str" : "481914492998410240",
+  "in_reply_to_user_id" : 658643,
+  "text" : "@SteveStreza @agiletortoise @mb GUYS DO YOU KNOW ANY OTHER PROTOCOLS",
+  "id" : 481914492998410240,
+  "in_reply_to_status_id" : 481914448790040576,
+  "created_at" : "2014-06-25 21:39:03 +0000",
+  "in_reply_to_screen_name" : "SteveStreza",
+  "in_reply_to_user_id_str" : "658643",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Matthew Bischoff",
+      "screen_name" : "mb",
+      "indices" : [ 0, 3 ],
+      "id_str" : "5107",
+      "id" : 5107
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481913854948311041",
+  "geo" : { },
+  "id_str" : "481913998829690880",
+  "in_reply_to_user_id" : 5107,
+  "text" : "@mb I haven\u2019t looked at them in enough detail to evaluate their RESTfulness, but I\u2019d assume so \uD83D\uDE0A",
+  "id" : 481913998829690880,
+  "in_reply_to_status_id" : 481913854948311041,
+  "created_at" : "2014-06-25 21:37:05 +0000",
+  "in_reply_to_screen_name" : "mb",
+  "in_reply_to_user_id_str" : "5107",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Matthew Bischoff",
+      "screen_name" : "mb",
+      "indices" : [ 0, 3 ],
+      "id_str" : "5107",
+      "id" : 5107
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481913591432749057",
+  "geo" : { },
+  "id_str" : "481913652522782720",
+  "in_reply_to_user_id" : 5107,
+  "text" : "@mb HTTP",
+  "id" : 481913652522782720,
+  "in_reply_to_status_id" : 481913591432749057,
+  "created_at" : "2014-06-25 21:35:42 +0000",
+  "in_reply_to_screen_name" : "mb",
+  "in_reply_to_user_id_str" : "5107",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "481913246405115906",
+  "text" : "Really, really wish that HealthKit, HomeKit, and CloudKit had APIs like all of Google\u2019s analogs do \uD83D\uDE22",
+  "id" : 481913246405115906,
+  "created_at" : "2014-06-25 21:34:06 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Klaas Pieter Annema",
+      "screen_name" : "klaaspieter",
+      "indices" : [ 0, 12 ],
+      "id_str" : "14197707",
+      "id" : 14197707
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481873908354658305",
+  "geo" : { },
+  "id_str" : "481908594842300416",
+  "in_reply_to_user_id" : 14197707,
+  "text" : "@klaaspieter Feel like Dart is more likely",
+  "id" : 481908594842300416,
+  "in_reply_to_status_id" : 481873908354658305,
+  "created_at" : "2014-06-25 21:15:37 +0000",
+  "in_reply_to_screen_name" : "klaaspieter",
+  "in_reply_to_user_id_str" : "14197707",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "David Chartier",
+      "screen_name" : "chartier",
+      "indices" : [ 0, 9 ],
+      "id_str" : "35383",
+      "id" : 35383
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481907352187047936",
+  "geo" : { },
+  "id_str" : "481907530055303168",
+  "in_reply_to_user_id" : 35383,
+  "text" : "@chartier Yeah, the beauty of GitHub though is that the audit log and merging of changes is more or less automatic and no extra work.",
+  "id" : 481907530055303168,
+  "in_reply_to_status_id" : 481907352187047936,
+  "created_at" : "2014-06-25 21:11:23 +0000",
+  "in_reply_to_screen_name" : "chartier",
+  "in_reply_to_user_id_str" : "35383",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "David Chartier",
+      "screen_name" : "chartier",
+      "indices" : [ 0, 9 ],
+      "id_str" : "35383",
+      "id" : 35383
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481906868789342208",
+  "geo" : { },
+  "id_str" : "481907088919388160",
+  "in_reply_to_user_id" : 35383,
+  "text" : "@chartier Yes but no way for someone who copied to propose their changes get merged back upstream. Also no way to view diffs over time.",
+  "id" : 481907088919388160,
+  "in_reply_to_status_id" : 481906868789342208,
+  "created_at" : "2014-06-25 21:09:38 +0000",
+  "in_reply_to_screen_name" : "chartier",
+  "in_reply_to_user_id_str" : "35383",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "David Chartier",
+      "screen_name" : "chartier",
+      "indices" : [ 0, 9 ],
+      "id_str" : "35383",
+      "id" : 35383
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481771645929943041",
+  "geo" : { },
+  "id_str" : "481896972925009920",
+  "in_reply_to_user_id" : 35383,
+  "text" : "@chartier wut",
+  "id" : 481896972925009920,
+  "in_reply_to_status_id" : 481771645929943041,
+  "created_at" : "2014-06-25 20:29:26 +0000",
+  "in_reply_to_screen_name" : "chartier",
+  "in_reply_to_user_id_str" : "35383",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Christscreama Warren",
+      "screen_name" : "film_girl",
+      "indices" : [ 0, 10 ],
+      "id_str" : "9866582",
+      "id" : 9866582
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481738723663425536",
+  "geo" : { },
+  "id_str" : "481883977113169921",
+  "in_reply_to_user_id" : 9866582,
+  "text" : "@film_girl Using it for wedding planning right now. Unbelievably useful.",
+  "id" : 481883977113169921,
+  "in_reply_to_status_id" : 481738723663425536,
+  "created_at" : "2014-06-25 19:37:47 +0000",
+  "in_reply_to_screen_name" : "film_girl",
+  "in_reply_to_user_id_str" : "9866582",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 40.7395430613, -73.9879127087 ]
+  },
+  "id_str" : "481825415284416514",
+  "text" : "Comixology has amazingly bad App Store reviews since removing IAP, yet apparently still the unanimous choice for where to start a collection",
+  "id" : 481825415284416514,
+  "created_at" : "2014-06-25 15:45:05 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Paul Young",
+      "screen_name" : "py",
+      "indices" : [ 0, 3 ],
+      "id_str" : "15878238",
+      "id" : 15878238
+    }, {
+      "name" : "Matthew Bischoff",
+      "screen_name" : "mb",
+      "indices" : [ 4, 7 ],
+      "id_str" : "5107",
+      "id" : 5107
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481819982771154944",
+  "geo" : { },
+  "id_str" : "481821028721913857",
+  "in_reply_to_user_id" : 15878238,
+  "text" : "@py @mb I haven\u2019t, but it looks cool!",
+  "id" : 481821028721913857,
+  "in_reply_to_status_id" : 481819982771154944,
+  "created_at" : "2014-06-25 15:27:39 +0000",
+  "in_reply_to_screen_name" : "py",
+  "in_reply_to_user_id_str" : "15878238",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "David Barnard",
+      "screen_name" : "drbarnard",
+      "indices" : [ 0, 10 ],
+      "id_str" : "7826502",
+      "id" : 7826502
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481541331819307009",
+  "geo" : { },
+  "id_str" : "481564086791331841",
+  "in_reply_to_user_id" : 7826502,
+  "text" : "@drbarnard Sounds familiar\u2026",
+  "id" : 481564086791331841,
+  "in_reply_to_status_id" : 481541331819307009,
+  "created_at" : "2014-06-24 22:26:39 +0000",
+  "in_reply_to_screen_name" : "drbarnard",
+  "in_reply_to_user_id_str" : "7826502",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 17, 39 ],
+      "url" : "http:\/\/t.co\/5BSdjRJ39y",
+      "expanded_url" : "http:\/\/tmblr.co\/Z32aPy1JeRKVH",
+      "display_url" : "tmblr.co\/Z32aPy1JeRKVH"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "481563396199170049",
+  "text" : "Sounds familiar: http:\/\/t.co\/5BSdjRJ39y",
+  "id" : 481563396199170049,
+  "created_at" : "2014-06-24 22:23:55 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Justin Booooober",
+      "screen_name" : "justin",
+      "indices" : [ 0, 7 ],
+      "id_str" : "929",
+      "id" : 929
+    }, {
+      "name" : "Phillip Bowden",
+      "screen_name" : "pbowden",
+      "indices" : [ 8, 16 ],
+      "id_str" : "2134761",
+      "id" : 2134761
+    }, {
+      "name" : "Justin Ouellette",
+      "screen_name" : "jstn",
+      "indices" : [ 17, 22 ],
+      "id_str" : "14220621",
+      "id" : 14220621
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481543817124773888",
+  "geo" : { },
+  "id_str" : "481544039226146816",
+  "in_reply_to_user_id" : 929,
+  "text" : "@justin @pbowden @jstn Justin Ouelliams",
+  "id" : 481544039226146816,
+  "in_reply_to_status_id" : 481543817124773888,
+  "created_at" : "2014-06-24 21:07:00 +0000",
+  "in_reply_to_screen_name" : "justin",
+  "in_reply_to_user_id_str" : "929",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Phillip Bowden",
+      "screen_name" : "pbowden",
+      "indices" : [ 0, 8 ],
+      "id_str" : "2134761",
+      "id" : 2134761
+    }, {
+      "name" : "Justin Ouellette",
+      "screen_name" : "jstn",
+      "indices" : [ 36, 41 ],
+      "id_str" : "14220621",
+      "id" : 14220621
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481532402251358208",
+  "geo" : { },
+  "id_str" : "481537376070955010",
+  "in_reply_to_user_id" : 14220621,
+  "text" : "@pbowden Sat in a meeting once with @jstn and a sales rep for an analytics company and it was AWESOME",
+  "id" : 481537376070955010,
+  "in_reply_to_status_id" : 481532402251358208,
+  "created_at" : "2014-06-24 20:40:31 +0000",
+  "in_reply_to_screen_name" : "jstn",
+  "in_reply_to_user_id_str" : "14220621",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jim Dalrymple",
+      "screen_name" : "jdalrymple",
+      "indices" : [ 0, 11 ],
+      "id_str" : "12131132",
+      "id" : 12131132
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "481527657331712000",
+  "in_reply_to_user_id" : 12131132,
+  "text" : "@jdalrymple Big question is whether or not the 4\u201D is staying. My fianc\u00E9e for example was horrified when I told her the next would be larger.",
+  "id" : 481527657331712000,
+  "created_at" : "2014-06-24 20:01:54 +0000",
+  "in_reply_to_screen_name" : "jdalrymple",
+  "in_reply_to_user_id_str" : "12131132",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Paul Young",
+      "screen_name" : "py",
+      "indices" : [ 0, 3 ],
+      "id_str" : "15878238",
+      "id" : 15878238
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481516461123727360",
+  "geo" : { },
+  "id_str" : "481521422142283776",
+  "in_reply_to_user_id" : 15878238,
+  "text" : "@py 0%",
+  "id" : 481521422142283776,
+  "in_reply_to_status_id" : 481516461123727360,
+  "created_at" : "2014-06-24 19:37:07 +0000",
+  "in_reply_to_screen_name" : "py",
+  "in_reply_to_user_id_str" : "15878238",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Svpply",
+      "screen_name" : "Svpply",
+      "indices" : [ 4, 11 ],
+      "id_str" : "57771781",
+      "id" : 57771781
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "481512767514771456",
+  "text" : "RIP @Svpply \uD83D\uDE22",
+  "id" : 481512767514771456,
+  "created_at" : "2014-06-24 19:02:44 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "David Barnard",
+      "screen_name" : "drbarnard",
+      "indices" : [ 0, 10 ],
+      "id_str" : "7826502",
+      "id" : 7826502
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481509581739159553",
+  "geo" : { },
+  "id_str" : "481509802284421120",
+  "in_reply_to_user_id" : 7826502,
+  "text" : "@drbarnard Yeah I\u2019ve run into that before, I forget if I was given a reason. Thanks for reporting.",
+  "id" : 481509802284421120,
+  "in_reply_to_status_id" : 481509581739159553,
+  "created_at" : "2014-06-24 18:50:57 +0000",
+  "in_reply_to_screen_name" : "drbarnard",
+  "in_reply_to_user_id_str" : "7826502",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "David Barnard",
+      "screen_name" : "drbarnard",
+      "indices" : [ 0, 10 ],
+      "id_str" : "7826502",
+      "id" : 7826502
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481509099629051904",
+  "geo" : { },
+  "id_str" : "481509356098572288",
+  "in_reply_to_user_id" : 7826502,
+  "text" : "@drbarnard Naw, I\u2019ll inquire.",
+  "id" : 481509356098572288,
+  "in_reply_to_status_id" : 481509099629051904,
+  "created_at" : "2014-06-24 18:49:11 +0000",
+  "in_reply_to_screen_name" : "drbarnard",
+  "in_reply_to_user_id_str" : "7826502",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "David Barnard",
+      "screen_name" : "drbarnard",
+      "indices" : [ 0, 10 ],
+      "id_str" : "7826502",
+      "id" : 7826502
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481504277945270272",
+  "geo" : { },
+  "id_str" : "481508840807342080",
+  "in_reply_to_user_id" : 7826502,
+  "text" : "@drbarnard Sure, just throw the embed code int here.",
+  "id" : 481508840807342080,
+  "in_reply_to_status_id" : 481504277945270272,
+  "created_at" : "2014-06-24 18:47:08 +0000",
+  "in_reply_to_screen_name" : "drbarnard",
+  "in_reply_to_user_id_str" : "7826502",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Kyle Baxter",
+      "screen_name" : "kbaxter",
+      "indices" : [ 0, 8 ],
+      "id_str" : "14149882",
+      "id" : 14149882
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481498718928007170",
+  "geo" : { },
+  "id_str" : "481498771248148481",
+  "in_reply_to_user_id" : 14149882,
+  "text" : "@kbaxter Oh, sure thing. Glad you\u2019re enjoying it.",
+  "id" : 481498771248148481,
+  "in_reply_to_status_id" : 481498718928007170,
+  "created_at" : "2014-06-24 18:07:07 +0000",
+  "in_reply_to_screen_name" : "kbaxter",
+  "in_reply_to_user_id_str" : "14149882",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Kyle Baxter",
+      "screen_name" : "kbaxter",
+      "indices" : [ 0, 8 ],
+      "id_str" : "14149882",
+      "id" : 14149882
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481477429932728320",
+  "geo" : { },
+  "id_str" : "481497816515477505",
+  "in_reply_to_user_id" : 14149882,
+  "text" : "@kbaxter I am!",
+  "id" : 481497816515477505,
+  "in_reply_to_status_id" : 481477429932728320,
+  "created_at" : "2014-06-24 18:03:19 +0000",
+  "in_reply_to_screen_name" : "kbaxter",
+  "in_reply_to_user_id_str" : "14149882",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Matthew Bischoff",
+      "screen_name" : "mb",
+      "indices" : [ 84, 87 ],
+      "id_str" : "5107",
+      "id" : 5107
+    }, {
+      "name" : "Jared Sin lair",
+      "screen_name" : "jaredsinclair",
+      "indices" : [ 88, 102 ],
+      "id_str" : "15004156",
+      "id" : 15004156
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 60, 83 ],
+      "url" : "https:\/\/t.co\/xCfPIlfynP",
+      "expanded_url" : "https:\/\/twitter.com\/danseely\/status\/481478324355874817",
+      "display_url" : "twitter.com\/danseely\/statu\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "481482028408664064",
+  "text" : "I\u2019m correct, but it only worked if you swiped right-to-left https:\/\/t.co\/xCfPIlfynP @mb @jaredsinclair",
+  "id" : 481482028408664064,
+  "created_at" : "2014-06-24 17:00:35 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jared Sin lair",
+      "screen_name" : "jaredsinclair",
+      "indices" : [ 0, 14 ],
+      "id_str" : "15004156",
+      "id" : 15004156
+    }, {
+      "name" : "Matthew Bischoff",
+      "screen_name" : "mb",
+      "indices" : [ 15, 18 ],
+      "id_str" : "5107",
+      "id" : 5107
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 43, 66 ],
+      "url" : "https:\/\/t.co\/xCfPIlfynP",
+      "expanded_url" : "https:\/\/twitter.com\/danseely\/status\/481478324355874817",
+      "display_url" : "twitter.com\/danseely\/statu\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "481472545099886592",
+  "geo" : { },
+  "id_str" : "481478407910600704",
+  "in_reply_to_user_id" : 15004156,
+  "text" : "@jaredsinclair @mb Was right-to-left only: https:\/\/t.co\/xCfPIlfynP",
+  "id" : 481478407910600704,
+  "in_reply_to_status_id" : 481472545099886592,
+  "created_at" : "2014-06-24 16:46:12 +0000",
+  "in_reply_to_screen_name" : "jaredsinclair",
+  "in_reply_to_user_id_str" : "15004156",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "TJ Luoma",
+      "screen_name" : "tjluoma",
+      "indices" : [ 0, 8 ],
+      "id_str" : "13022392",
+      "id" : 13022392
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481474683896733696",
+  "geo" : { },
+  "id_str" : "481474866630377473",
+  "in_reply_to_user_id" : 7344012,
+  "text" : "@tjluoma Yeah, I don\u2019t really care about cross-platform TBH. Would rather read in a Mac app than web browser.",
+  "id" : 481474866630377473,
+  "in_reply_to_status_id" : 481474683896733696,
+  "created_at" : "2014-06-24 16:32:08 +0000",
+  "in_reply_to_screen_name" : "FunSizeBytes",
+  "in_reply_to_user_id_str" : "7344012",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "TJ Luoma",
+      "screen_name" : "tjluoma",
+      "indices" : [ 0, 8 ],
+      "id_str" : "13022392",
+      "id" : 13022392
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481474327280230400",
+  "geo" : { },
+  "id_str" : "481474432117276672",
+  "in_reply_to_user_id" : 7344012,
+  "text" : "@tjluoma Seems to be consensus but kinda sucks. Would rather own stuff via iBooks.",
+  "id" : 481474432117276672,
+  "in_reply_to_status_id" : 481474327280230400,
+  "created_at" : "2014-06-24 16:30:24 +0000",
+  "in_reply_to_screen_name" : "FunSizeBytes",
+  "in_reply_to_user_id_str" : "7344012",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jared Sin lair",
+      "screen_name" : "jaredsinclair",
+      "indices" : [ 118, 132 ],
+      "id_str" : "15004156",
+      "id" : 15004156
+    }, {
+      "name" : "Matthew Bischoff",
+      "screen_name" : "mb",
+      "indices" : [ 133, 136 ],
+      "id_str" : "5107",
+      "id" : 5107
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "481472141834338305",
+  "text" : "I\u2019m 99.9% sure that you could dismiss push notifications by swiping horizontally prior to iOS 7. Who can corroborate? @jaredsinclair @mb",
+  "id" : 481472141834338305,
+  "created_at" : "2014-06-24 16:21:18 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Dominic Butchello",
+      "screen_name" : "dombutchello",
+      "indices" : [ 0, 13 ],
+      "id_str" : "8660162",
+      "id" : 8660162
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481470035416719361",
+  "geo" : { },
+  "id_str" : "481470150408142848",
+  "in_reply_to_user_id" : 8660162,
+  "text" : "@dombutchello Awesome, congrats",
+  "id" : 481470150408142848,
+  "in_reply_to_status_id" : 481470035416719361,
+  "created_at" : "2014-06-24 16:13:23 +0000",
+  "in_reply_to_screen_name" : "dombutchello",
+  "in_reply_to_user_id_str" : "8660162",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Dominic Butchello",
+      "screen_name" : "dombutchello",
+      "indices" : [ 0, 13 ],
+      "id_str" : "8660162",
+      "id" : 8660162
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481465033482727424",
+  "geo" : { },
+  "id_str" : "481469691475804160",
+  "in_reply_to_user_id" : 8660162,
+  "text" : "@dombutchello Where at?",
+  "id" : 481469691475804160,
+  "in_reply_to_status_id" : 481465033482727424,
+  "created_at" : "2014-06-24 16:11:34 +0000",
+  "in_reply_to_screen_name" : "dombutchello",
+  "in_reply_to_user_id_str" : "8660162",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Paul Mayne",
+      "screen_name" : "paulmayne",
+      "indices" : [ 0, 10 ],
+      "id_str" : "51373",
+      "id" : 51373
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481463456835862528",
+  "geo" : { },
+  "id_str" : "481469613822443520",
+  "in_reply_to_user_id" : 51373,
+  "text" : "@paulmayne Woohoo!",
+  "id" : 481469613822443520,
+  "in_reply_to_status_id" : 481463456835862528,
+  "created_at" : "2014-06-24 16:11:15 +0000",
+  "in_reply_to_screen_name" : "paulmayne",
+  "in_reply_to_user_id_str" : "51373",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Day One Journal",
+      "screen_name" : "dayoneapp",
+      "indices" : [ 3, 13 ],
+      "id_str" : "246011382",
+      "id" : 246011382
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 54, 77 ],
+      "url" : "https:\/\/t.co\/PhuSmS4yBJ",
+      "expanded_url" : "https:\/\/dayone.me\/htgzTe",
+      "display_url" : "dayone.me\/htgzTe"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "481469528581632000",
+  "text" : "RT @dayoneapp: Day One iOS Update with Tumblr Support\nhttps:\/\/t.co\/PhuSmS4yBJ",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/dayoneapp.com\/\" rel=\"nofollow\"\u003EDay One\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 39, 62 ],
+        "url" : "https:\/\/t.co\/PhuSmS4yBJ",
+        "expanded_url" : "https:\/\/dayone.me\/htgzTe",
+        "display_url" : "dayone.me\/htgzTe"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "481462576388513792",
+    "text" : "Day One iOS Update with Tumblr Support\nhttps:\/\/t.co\/PhuSmS4yBJ",
+    "id" : 481462576388513792,
+    "created_at" : "2014-06-24 15:43:18 +0000",
+    "user" : {
+      "name" : "Day One Journal",
+      "screen_name" : "dayoneapp",
+      "protected" : false,
+      "id_str" : "246011382",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000635956284\/3273c3e4672ac628704bda9396236f39_normal.png",
+      "id" : 246011382,
+      "verified" : false
+    }
+  },
+  "id" : 481469528581632000,
+  "created_at" : "2014-06-24 16:10:55 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jared Sin lair",
+      "screen_name" : "jaredsinclair",
+      "indices" : [ 0, 14 ],
+      "id_str" : "15004156",
+      "id" : 15004156
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481430708502953984",
+  "geo" : { },
+  "id_str" : "481449843785990145",
+  "in_reply_to_user_id" : 15004156,
+  "text" : "@jaredsinclair It used to work this way, pre-iOS 7, you know",
+  "id" : 481449843785990145,
+  "in_reply_to_status_id" : 481430708502953984,
+  "created_at" : "2014-06-24 14:52:42 +0000",
+  "in_reply_to_screen_name" : "jaredsinclair",
+  "in_reply_to_user_id_str" : "15004156",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Tim Broder",
+      "screen_name" : "timothybroder",
+      "indices" : [ 0, 14 ],
+      "id_str" : "10786622",
+      "id" : 10786622
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481425370550632449",
+  "geo" : { },
+  "id_str" : "481430558778855424",
+  "in_reply_to_user_id" : 10786622,
+  "text" : "@timothybroder Good question. I\u2019ll say both.",
+  "id" : 481430558778855424,
+  "in_reply_to_status_id" : 481425370550632449,
+  "created_at" : "2014-06-24 13:36:04 +0000",
+  "in_reply_to_screen_name" : "timothybroder",
+  "in_reply_to_user_id_str" : "10786622",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Clear",
+      "screen_name" : "UseClear",
+      "indices" : [ 0, 9 ],
+      "id_str" : "461175278",
+      "id" : 461175278
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "481287811660673024",
+  "in_reply_to_user_id" : 461175278,
+  "text" : "@UseClear Cursor is invisible if using blue theme \uD83D\uDE2D",
+  "id" : 481287811660673024,
+  "created_at" : "2014-06-24 04:08:50 +0000",
+  "in_reply_to_screen_name" : "UseClear",
+  "in_reply_to_user_id_str" : "461175278",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Justin Booooober",
+      "screen_name" : "justin",
+      "indices" : [ 0, 7 ],
+      "id_str" : "929",
+      "id" : 929
+    }, {
+      "name" : "Foursquare",
+      "screen_name" : "foursquare",
+      "indices" : [ 28, 39 ],
+      "id_str" : "14120151",
+      "id" : 14120151
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481258399493939200",
+  "geo" : { },
+  "id_str" : "481285952191479808",
+  "in_reply_to_user_id" : 929,
+  "text" : "@justin Such a shame. Loved @Foursquare previously.",
+  "id" : 481285952191479808,
+  "in_reply_to_status_id" : 481258399493939200,
+  "created_at" : "2014-06-24 04:01:27 +0000",
+  "in_reply_to_screen_name" : "justin",
+  "in_reply_to_user_id_str" : "929",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Brian Papa",
+      "screen_name" : "bpapa",
+      "indices" : [ 0, 6 ],
+      "id_str" : "7460652",
+      "id" : 7460652
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481285153860227072",
+  "geo" : { },
+  "id_str" : "481285341211394049",
+  "in_reply_to_user_id" : 7460652,
+  "text" : "@bpapa Disappointing. I\u2019d prefer to buy on iBooks since it has a Mac app, etc.",
+  "id" : 481285341211394049,
+  "in_reply_to_status_id" : 481285153860227072,
+  "created_at" : "2014-06-24 03:59:01 +0000",
+  "in_reply_to_screen_name" : "bpapa",
+  "in_reply_to_user_id_str" : "7460652",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "481283703465734145",
+  "text" : "Follow up: better to read comics via iBooks or Kindle? Or Comixology despite removing IAP?",
+  "id" : 481283703465734145,
+  "created_at" : "2014-06-24 03:52:31 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Brian Papa",
+      "screen_name" : "bpapa",
+      "indices" : [ 0, 6 ],
+      "id_str" : "7460652",
+      "id" : 7460652
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481281534188470273",
+  "geo" : { },
+  "id_str" : "481281857770631168",
+  "in_reply_to_user_id" : 7460652,
+  "text" : "@bpapa I\u2019ve read Year One, and yeah, \uD83D\uDC4D",
+  "id" : 481281857770631168,
+  "in_reply_to_status_id" : 481281534188470273,
+  "created_at" : "2014-06-24 03:45:11 +0000",
+  "in_reply_to_screen_name" : "bpapa",
+  "in_reply_to_user_id_str" : "7460652",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Brian Papa",
+      "screen_name" : "bpapa",
+      "indices" : [ 0, 6 ],
+      "id_str" : "7460652",
+      "id" : 7460652
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481281456606441472",
+  "geo" : { },
+  "id_str" : "481281737750609920",
+  "in_reply_to_user_id" : 7460652,
+  "text" : "@bpapa Cool, thanks. I didn\u2019t specifically mean them, just as examples. If one already likes certain characters, how to find their best.",
+  "id" : 481281737750609920,
+  "in_reply_to_status_id" : 481281456606441472,
+  "created_at" : "2014-06-24 03:44:42 +0000",
+  "in_reply_to_screen_name" : "bpapa",
+  "in_reply_to_user_id_str" : "7460652",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Brian Papa",
+      "screen_name" : "bpapa",
+      "indices" : [ 0, 6 ],
+      "id_str" : "7460652",
+      "id" : 7460652
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481278885024129024",
+  "geo" : { },
+  "id_str" : "481281302230867969",
+  "in_reply_to_user_id" : 7460652,
+  "text" : "@bpapa Awesome. Are there any sites that list which are considered the \u201Cbest\u201D for a specific characters, e.g. X-Men or Superman?",
+  "id" : 481281302230867969,
+  "in_reply_to_status_id" : 481278885024129024,
+  "created_at" : "2014-06-24 03:42:58 +0000",
+  "in_reply_to_screen_name" : "bpapa",
+  "in_reply_to_user_id_str" : "7460652",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "481278160214835200",
+  "text" : "What are widely considered to be the best comic book runs\/issues of all time? Not a comic reader, but if I wanted to be, what are the best?",
+  "id" : 481278160214835200,
+  "created_at" : "2014-06-24 03:30:29 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Matt Lehrer",
+      "screen_name" : "mattlehrer",
+      "indices" : [ 0, 11 ],
+      "id_str" : "9764422",
+      "id" : 9764422
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481263114764038145",
+  "geo" : { },
+  "id_str" : "481263369719005184",
+  "in_reply_to_user_id" : 9764422,
+  "text" : "@mattlehrer Oops, yeah OK that should\u2019ve been obvious. Thanks.",
+  "id" : 481263369719005184,
+  "in_reply_to_status_id" : 481263114764038145,
+  "created_at" : "2014-06-24 02:31:43 +0000",
+  "in_reply_to_screen_name" : "mattlehrer",
+  "in_reply_to_user_id_str" : "9764422",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Matt Lehrer",
+      "screen_name" : "mattlehrer",
+      "indices" : [ 0, 11 ],
+      "id_str" : "9764422",
+      "id" : 9764422
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481260160800022528",
+  "geo" : { },
+  "id_str" : "481262112476385280",
+  "in_reply_to_user_id" : 9764422,
+  "text" : "@mattlehrer There a big difference between RAW and RAW+JPEG?",
+  "id" : 481262112476385280,
+  "in_reply_to_status_id" : 481260160800022528,
+  "created_at" : "2014-06-24 02:26:43 +0000",
+  "in_reply_to_screen_name" : "mattlehrer",
+  "in_reply_to_user_id_str" : "9764422",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Benny Wong",
+      "screen_name" : "bdotdub",
+      "indices" : [ 0, 8 ],
+      "id_str" : "3032241",
+      "id" : 3032241
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481251373992787969",
+  "geo" : { },
+  "id_str" : "481251723978088449",
+  "in_reply_to_user_id" : 3032241,
+  "text" : "@bdotdub Going to Europe for two weeks this Friday",
+  "id" : 481251723978088449,
+  "in_reply_to_status_id" : 481251373992787969,
+  "created_at" : "2014-06-24 01:45:26 +0000",
+  "in_reply_to_screen_name" : "bdotdub",
+  "in_reply_to_user_id_str" : "3032241",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Moshe Berman",
+      "screen_name" : "bermaniastudios",
+      "indices" : [ 0, 16 ],
+      "id_str" : "50231045",
+      "id" : 50231045
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 17, 39 ],
+      "url" : "http:\/\/t.co\/zwcQGjgcHJ",
+      "expanded_url" : "http:\/\/www.amazon.com\/Sony-Compact-Interchangeable-Digital-Camera\/dp\/B0096W1OCG",
+      "display_url" : "amazon.com\/Sony-Compact-I\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "481249584380133376",
+  "geo" : { },
+  "id_str" : "481250272543387648",
+  "in_reply_to_user_id" : 50231045,
+  "text" : "@bermaniastudios http:\/\/t.co\/zwcQGjgcHJ",
+  "id" : 481250272543387648,
+  "in_reply_to_status_id" : 481249584380133376,
+  "created_at" : "2014-06-24 01:39:40 +0000",
+  "in_reply_to_screen_name" : "bermaniastudios",
+  "in_reply_to_user_id_str" : "50231045",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Anoop Ranganath",
+      "screen_name" : "anoopr",
+      "indices" : [ 0, 7 ],
+      "id_str" : "254073",
+      "id" : 254073
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481237903368941569",
+  "geo" : { },
+  "id_str" : "481249093058957314",
+  "in_reply_to_user_id" : 254073,
+  "text" : "@anoopr Good to hear!",
+  "id" : 481249093058957314,
+  "in_reply_to_status_id" : 481237903368941569,
+  "created_at" : "2014-06-24 01:34:59 +0000",
+  "in_reply_to_screen_name" : "anoopr",
+  "in_reply_to_user_id_str" : "254073",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "David He",
+      "screen_name" : "davidhexd",
+      "indices" : [ 0, 10 ],
+      "id_str" : "219481828",
+      "id" : 219481828
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481241071448379393",
+  "geo" : { },
+  "id_str" : "481249015263014912",
+  "in_reply_to_user_id" : 219481828,
+  "text" : "@davidhexd Perfect!",
+  "id" : 481249015263014912,
+  "in_reply_to_status_id" : 481241071448379393,
+  "created_at" : "2014-06-24 01:34:41 +0000",
+  "in_reply_to_screen_name" : "davidhexd",
+  "in_reply_to_user_id_str" : "219481828",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Matt Galligan",
+      "screen_name" : "mg",
+      "indices" : [ 0, 3 ],
+      "id_str" : "607",
+      "id" : 607
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481243255690899457",
+  "geo" : { },
+  "id_str" : "481248927870484480",
+  "in_reply_to_user_id" : 607,
+  "text" : "@mg Thanks Matt, I'll check it out",
+  "id" : 481248927870484480,
+  "in_reply_to_status_id" : 481243255690899457,
+  "created_at" : "2014-06-24 01:34:20 +0000",
+  "in_reply_to_screen_name" : "mg",
+  "in_reply_to_user_id_str" : "607",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Moshe Berman",
+      "screen_name" : "bermaniastudios",
+      "indices" : [ 0, 16 ],
+      "id_str" : "50231045",
+      "id" : 50231045
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "481242619411181568",
+  "geo" : { },
+  "id_str" : "481248867501871105",
+  "in_reply_to_user_id" : 50231045,
+  "text" : "@bermaniastudios Thanks!",
+  "id" : 481248867501871105,
+  "in_reply_to_status_id" : 481242619411181568,
+  "created_at" : "2014-06-24 01:34:05 +0000",
+  "in_reply_to_screen_name" : "bermaniastudios",
+  "in_reply_to_user_id_str" : "50231045",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "481240132545036289",
+  "text" : "I\u2019m terrified I\u2019m going to accidentally turn on a \u201Cmake my photos look shittier\u201D setting and not ever realize that I\u2019ve done so.",
+  "id" : 481240132545036289,
+  "created_at" : "2014-06-24 00:59:23 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Anoop Ranganath",
+      "screen_name" : "anoopr",
+      "indices" : [ 0, 7 ],
+      "id_str" : "254073",
+      "id" : 254073
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 29, 51 ],
+      "url" : "http:\/\/t.co\/zwcQGjgcHJ",
+      "expanded_url" : "http:\/\/www.amazon.com\/Sony-Compact-Interchangeable-Digital-Camera\/dp\/B0096W1OCG",
+      "display_url" : "amazon.com\/Sony-Compact-I\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "481237680642981888",
+  "geo" : { },
+  "id_str" : "481237797643108352",
+  "in_reply_to_user_id" : 254073,
+  "text" : "@anoopr Nothing *too* fancy: http:\/\/t.co\/zwcQGjgcHJ",
+  "id" : 481237797643108352,
+  "in_reply_to_status_id" : 481237680642981888,
+  "created_at" : "2014-06-24 00:50:06 +0000",
+  "in_reply_to_screen_name" : "anoopr",
+  "in_reply_to_user_id_str" : "254073",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "481236413682155520",
+  "text" : "Been a while since I got a new gadget and felt *completely* out of my depth.\n\nBought a camera and have absolutely no idea what I\u2019m doing.",
+  "id" : 481236413682155520,
+  "created_at" : "2014-06-24 00:44:36 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 20, 42 ],
+      "url" : "http:\/\/t.co\/tA8Gg3qTre",
+      "expanded_url" : "http:\/\/rd.io\/x\/QXMIwiIb7ZE\/",
+      "display_url" : "rd.io\/x\/QXMIwiIb7ZE\/"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "481187097152602112",
+  "text" : "New favorite album: http:\/\/t.co\/tA8Gg3qTre",
+  "id" : 481187097152602112,
+  "created_at" : "2014-06-23 21:28:38 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 95, 118 ],
+      "url" : "https:\/\/t.co\/8UPRTcDx1b",
+      "expanded_url" : "https:\/\/devforums.apple.com\/thread\/232935",
+      "display_url" : "devforums.apple.com\/thread\/232935"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "481160251413364736",
+  "text" : "Has anyone figured out how to make an iOS 8 share extension with a custom view controller yet? https:\/\/t.co\/8UPRTcDx1b",
+  "id" : 481160251413364736,
+  "created_at" : "2014-06-23 19:41:58 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Samuel E. Giddins",
+      "screen_name" : "segiddins",
+      "indices" : [ 3, 13 ],
+      "id_str" : "73644377",
+      "id" : 73644377
+    }, {
+      "name" : "Tumblr",
+      "screen_name" : "tumblr",
+      "indices" : [ 28, 35 ],
+      "id_str" : "52484614",
+      "id" : 52484614
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "481116226190856193",
+  "text" : "RT @segiddins: First day at @tumblr today!",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Tumblr",
+        "screen_name" : "tumblr",
+        "indices" : [ 13, 20 ],
+        "id_str" : "52484614",
+        "id" : 52484614
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "481023684082401280",
+    "text" : "First day at @tumblr today!",
+    "id" : 481023684082401280,
+    "created_at" : "2014-06-23 10:39:17 +0000",
+    "user" : {
+      "name" : "Samuel E. Giddins",
+      "screen_name" : "segiddins",
+      "protected" : false,
+      "id_str" : "73644377",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/458733123996372993\/CdZBz3qk_normal.jpeg",
+      "id" : 73644377,
+      "verified" : false
+    }
+  },
+  "id" : 481116226190856193,
+  "created_at" : "2014-06-23 16:47:01 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "mikeash",
+      "screen_name" : "mikeash",
+      "indices" : [ 53, 61 ],
+      "id_str" : "8142952",
+      "id" : 8142952
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 62, 84 ],
+      "url" : "http:\/\/t.co\/rP9o3WwdVp",
+      "expanded_url" : "http:\/\/tmblr.co\/Z32aPy1JWCyp5",
+      "display_url" : "tmblr.co\/Z32aPy1JWCyp5"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "481095945317527552",
+  "text" : "One of my favorite articles on Swift to date, thanks @mikeash http:\/\/t.co\/rP9o3WwdVp",
+  "id" : 481095945317527552,
+  "created_at" : "2014-06-23 15:26:26 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "480921408638156800",
+  "text" : "What a marvelous device the Retina iPad mini is. Such a joy to use.",
+  "id" : 480921408638156800,
+  "created_at" : "2014-06-23 03:52:53 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "q",
+      "screen_name" : "querln",
+      "indices" : [ 0, 7 ],
+      "id_str" : "2409648481",
+      "id" : 2409648481
+    }, {
+      "name" : "Casey Liss",
+      "screen_name" : "caseyliss",
+      "indices" : [ 8, 18 ],
+      "id_str" : "18119839",
+      "id" : 18119839
+    }, {
+      "name" : "Simple Simple",
+      "screen_name" : "simplesimpleco",
+      "indices" : [ 19, 34 ],
+      "id_str" : "1262403104",
+      "id" : 1262403104
+    }, {
+      "name" : "Alex Penny",
+      "screen_name" : "apnny",
+      "indices" : [ 35, 41 ],
+      "id_str" : "155110336",
+      "id" : 155110336
+    }, {
+      "name" : "Matt Davenport",
+      "screen_name" : "treeba",
+      "indices" : [ 42, 49 ],
+      "id_str" : "23464407",
+      "id" : 23464407
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480920605588733952",
+  "geo" : { },
+  "id_str" : "480920818860310528",
+  "in_reply_to_user_id" : 2409648481,
+  "text" : "@querln @caseyliss @simplesimpleco @apnny @treeba Thats the one I ended up going with. Perfect for my needs. Thanks!",
+  "id" : 480920818860310528,
+  "in_reply_to_status_id" : 480920605588733952,
+  "created_at" : "2014-06-23 03:50:32 +0000",
+  "in_reply_to_screen_name" : "querln",
+  "in_reply_to_user_id_str" : "2409648481",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Casey Liss",
+      "screen_name" : "caseyliss",
+      "indices" : [ 0, 10 ],
+      "id_str" : "18119839",
+      "id" : 18119839
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480893492227747840",
+  "geo" : { },
+  "id_str" : "480895500590137344",
+  "in_reply_to_user_id" : 18119839,
+  "text" : "@caseyliss Look at that toolbar gloss! \uD83D\uDE33",
+  "id" : 480895500590137344,
+  "in_reply_to_status_id" : 480893492227747840,
+  "created_at" : "2014-06-23 02:09:56 +0000",
+  "in_reply_to_screen_name" : "caseyliss",
+  "in_reply_to_user_id_str" : "18119839",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "480892363653386240",
+  "text" : "Simultaneously planning a wedding and an imminent two-week European vacation is exhausting.",
+  "id" : 480892363653386240,
+  "created_at" : "2014-06-23 01:57:28 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "480890894652936192",
+  "text" : "I'm going to be in Stockholm for one night only. Where should I eat\/drink\/sightsee?",
+  "id" : 480890894652936192,
+  "created_at" : "2014-06-23 01:51:38 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Mahdi Yusuf",
+      "screen_name" : "myusuf3",
+      "indices" : [ 0, 8 ],
+      "id_str" : "14233236",
+      "id" : 14233236
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480879405082759168",
+  "geo" : { },
+  "id_str" : "480886234093342720",
+  "in_reply_to_user_id" : 14233236,
+  "text" : "@myusuf3 That looks really nice, thank you",
+  "id" : 480886234093342720,
+  "in_reply_to_status_id" : 480879405082759168,
+  "created_at" : "2014-06-23 01:33:07 +0000",
+  "in_reply_to_screen_name" : "myusuf3",
+  "in_reply_to_user_id_str" : "14233236",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "David Chartier",
+      "screen_name" : "chartier",
+      "indices" : [ 0, 9 ],
+      "id_str" : "35383",
+      "id" : 35383
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 47, 70 ],
+      "url" : "https:\/\/t.co\/NtcrYjdb6Z",
+      "expanded_url" : "https:\/\/itunes.apple.com\/us\/app\/currency-made-simple\/id628148586?ls=1&mt=8",
+      "display_url" : "itunes.apple.com\/us\/app\/currenc\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "480882175206645760",
+  "geo" : { },
+  "id_str" : "480886194327126017",
+  "in_reply_to_user_id" : 35383,
+  "text" : "@chartier That does look good. I might go with https:\/\/t.co\/NtcrYjdb6Z, a little more single purpose and maybe simpler to quickly reference.",
+  "id" : 480886194327126017,
+  "in_reply_to_status_id" : 480882175206645760,
+  "created_at" : "2014-06-23 01:32:57 +0000",
+  "in_reply_to_screen_name" : "chartier",
+  "in_reply_to_user_id_str" : "35383",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "480879179496316928",
+  "text" : "Best currency converter for iOS?",
+  "id" : 480879179496316928,
+  "created_at" : "2014-06-23 01:05:05 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jack Flintermann",
+      "screen_name" : "jflinter",
+      "indices" : [ 0, 9 ],
+      "id_str" : "21278493",
+      "id" : 21278493
+    }, {
+      "name" : "\u2661rta",
+      "screen_name" : "orta",
+      "indices" : [ 10, 15 ],
+      "id_str" : "2569881",
+      "id" : 2569881
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480873067720093696",
+  "geo" : { },
+  "id_str" : "480873347379515392",
+  "in_reply_to_user_id" : 21278493,
+  "text" : "@jflinter @orta That is weird. Well, first at last dot me if you have any suggestions.",
+  "id" : 480873347379515392,
+  "in_reply_to_status_id" : 480873067720093696,
+  "created_at" : "2014-06-23 00:41:54 +0000",
+  "in_reply_to_screen_name" : "jflinter",
+  "in_reply_to_user_id_str" : "21278493",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Justin Ouellette",
+      "screen_name" : "jstn",
+      "indices" : [ 0, 5 ],
+      "id_str" : "14220621",
+      "id" : 14220621
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480858171083595776",
+  "geo" : { },
+  "id_str" : "480860050999631872",
+  "in_reply_to_user_id" : 14220621,
+  "text" : "@jstn I\u2019m going to make you come watch NFL with me next season",
+  "id" : 480860050999631872,
+  "in_reply_to_status_id" : 480858171083595776,
+  "created_at" : "2014-06-22 23:49:04 +0000",
+  "in_reply_to_screen_name" : "jstn",
+  "in_reply_to_user_id_str" : "14220621",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Tom Dale",
+      "screen_name" : "tomdale",
+      "indices" : [ 0, 8 ],
+      "id_str" : "668863",
+      "id" : 668863
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480826277947916289",
+  "geo" : { },
+  "id_str" : "480839863764127745",
+  "in_reply_to_user_id" : 668863,
+  "text" : "@tomdale GitHub pages",
+  "id" : 480839863764127745,
+  "in_reply_to_status_id" : 480826277947916289,
+  "created_at" : "2014-06-22 22:28:51 +0000",
+  "in_reply_to_screen_name" : "tomdale",
+  "in_reply_to_user_id_str" : "668863",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "\u2661rta",
+      "screen_name" : "orta",
+      "indices" : [ 0, 5 ],
+      "id_str" : "2569881",
+      "id" : 2569881
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480711236871397377",
+  "geo" : { },
+  "id_str" : "480718823633330177",
+  "in_reply_to_user_id" : 2569881,
+  "text" : "@orta Ever been there? I'm going to be for only one night, in mid-July. Need to figure out what I should do there.",
+  "id" : 480718823633330177,
+  "in_reply_to_status_id" : 480711236871397377,
+  "created_at" : "2014-06-22 14:27:53 +0000",
+  "in_reply_to_screen_name" : "orta",
+  "in_reply_to_user_id_str" : "2569881",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Slash Furrow",
+      "screen_name" : "ashfurrow",
+      "indices" : [ 0, 10 ],
+      "id_str" : "15536268",
+      "id" : 15536268
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480717584506290177",
+  "geo" : { },
+  "id_str" : "480717701526986753",
+  "in_reply_to_user_id" : 15536268,
+  "text" : "@ashfurrow I haven't",
+  "id" : 480717701526986753,
+  "in_reply_to_status_id" : 480717584506290177,
+  "created_at" : "2014-06-22 14:23:26 +0000",
+  "in_reply_to_screen_name" : "ashfurrow",
+  "in_reply_to_user_id_str" : "15536268",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Slash Furrow",
+      "screen_name" : "ashfurrow",
+      "indices" : [ 0, 10 ],
+      "id_str" : "15536268",
+      "id" : 15536268
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480678069288849408",
+  "geo" : { },
+  "id_str" : "480717432722436096",
+  "in_reply_to_user_id" : 15536268,
+  "text" : "@ashfurrow Just wait until you move here. The stigmatizer will become the stigmatizee!",
+  "id" : 480717432722436096,
+  "in_reply_to_status_id" : 480678069288849408,
+  "created_at" : "2014-06-22 14:22:21 +0000",
+  "in_reply_to_screen_name" : "ashfurrow",
+  "in_reply_to_user_id_str" : "15536268",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Benedict Evans",
+      "screen_name" : "BenedictEvans",
+      "indices" : [ 0, 14 ],
+      "id_str" : "1236101",
+      "id" : 1236101
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480580216314527744",
+  "geo" : { },
+  "id_str" : "480706978264539137",
+  "in_reply_to_user_id" : 1236101,
+  "text" : "@BenedictEvans Also doesn't work at all for Google Apps accounts, to my knowledge.",
+  "id" : 480706978264539137,
+  "in_reply_to_status_id" : 480580216314527744,
+  "created_at" : "2014-06-22 13:40:49 +0000",
+  "in_reply_to_screen_name" : "BenedictEvans",
+  "in_reply_to_user_id_str" : "1236101",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Sam Soffes",
+      "screen_name" : "soffes",
+      "indices" : [ 0, 7 ],
+      "id_str" : "6154602",
+      "id" : 6154602
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480563770238849025",
+  "geo" : { },
+  "id_str" : "480567753175101440",
+  "in_reply_to_user_id" : 6154602,
+  "text" : "@soffes Poured almost a whole beer on a plastic MacBook in college, somehow managed to mostly save it by flipping upside down quick enough.",
+  "id" : 480567753175101440,
+  "in_reply_to_status_id" : 480563770238849025,
+  "created_at" : "2014-06-22 04:27:35 +0000",
+  "in_reply_to_screen_name" : "soffes",
+  "in_reply_to_user_id_str" : "6154602",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Shannon Potter",
+      "screen_name" : "LucasTizma",
+      "indices" : [ 0, 11 ],
+      "id_str" : "70977717",
+      "id" : 70977717
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 12, 34 ],
+      "url" : "http:\/\/t.co\/tv9ovLoNFG",
+      "expanded_url" : "http:\/\/en.wikipedia.org\/wiki\/New_York_City",
+      "display_url" : "en.wikipedia.org\/wiki\/New_York_\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "480560610099204096",
+  "geo" : { },
+  "id_str" : "480564759033434112",
+  "in_reply_to_user_id" : 70977717,
+  "text" : "@LucasTizma http:\/\/t.co\/tv9ovLoNFG",
+  "id" : 480564759033434112,
+  "in_reply_to_status_id" : 480560610099204096,
+  "created_at" : "2014-06-22 04:15:41 +0000",
+  "in_reply_to_screen_name" : "LucasTizma",
+  "in_reply_to_user_id_str" : "70977717",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jake Marsh",
+      "screen_name" : "jakemarsh",
+      "indices" : [ 0, 10 ],
+      "id_str" : "2373551",
+      "id" : 2373551
+    }, {
+      "name" : "1Writer",
+      "screen_name" : "1writerapp",
+      "indices" : [ 11, 22 ],
+      "id_str" : "1562729460",
+      "id" : 1562729460
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480541677363281920",
+  "geo" : { },
+  "id_str" : "480542668997419008",
+  "in_reply_to_user_id" : 2373551,
+  "text" : "@jakemarsh @1writerapp Glad you're enjoying it too. I asked for a dark mode and they added one in the next release. Awesome developers.",
+  "id" : 480542668997419008,
+  "in_reply_to_status_id" : 480541677363281920,
+  "created_at" : "2014-06-22 02:47:55 +0000",
+  "in_reply_to_screen_name" : "jakemarsh",
+  "in_reply_to_user_id_str" : "2373551",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Matt Lehrer",
+      "screen_name" : "mattlehrer",
+      "indices" : [ 0, 11 ],
+      "id_str" : "9764422",
+      "id" : 9764422
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480530539234197504",
+  "geo" : { },
+  "id_str" : "480538684337315840",
+  "in_reply_to_user_id" : 9764422,
+  "text" : "@mattlehrer Yeah but their markup on quarters is what, 50%",
+  "id" : 480538684337315840,
+  "in_reply_to_status_id" : 480530539234197504,
+  "created_at" : "2014-06-22 02:32:04 +0000",
+  "in_reply_to_screen_name" : "mattlehrer",
+  "in_reply_to_user_id_str" : "9764422",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Rick Webb",
+      "screen_name" : "RickWebb",
+      "indices" : [ 0, 9 ],
+      "id_str" : "761628",
+      "id" : 761628
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480512374416224257",
+  "geo" : { },
+  "id_str" : "480534912999505920",
+  "in_reply_to_user_id" : 761628,
+  "text" : "@RickWebb Have you seen THE RAID 2? Reminds me one one of the set pieces.",
+  "id" : 480534912999505920,
+  "in_reply_to_status_id" : 480512374416224257,
+  "created_at" : "2014-06-22 02:17:05 +0000",
+  "in_reply_to_screen_name" : "RickWebb",
+  "in_reply_to_user_id_str" : "761628",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Bryan Bonczek",
+      "screen_name" : "itsbonczek",
+      "indices" : [ 0, 11 ],
+      "id_str" : "15174406",
+      "id" : 15174406
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480499303551889408",
+  "geo" : { },
+  "id_str" : "480531560056119296",
+  "in_reply_to_user_id" : 15174406,
+  "text" : "@itsbonczek CONGRATS!",
+  "id" : 480531560056119296,
+  "in_reply_to_status_id" : 480499303551889408,
+  "created_at" : "2014-06-22 02:03:46 +0000",
+  "in_reply_to_screen_name" : "itsbonczek",
+  "in_reply_to_user_id_str" : "15174406",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jake Marsh",
+      "screen_name" : "jakemarsh",
+      "indices" : [ 0, 10 ],
+      "id_str" : "2373551",
+      "id" : 2373551
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480530995565703168",
+  "geo" : { },
+  "id_str" : "480531215032668160",
+  "in_reply_to_user_id" : 2373551,
+  "text" : "@jakemarsh I've tried a bunch too but this one has been my favorite for some time now.",
+  "id" : 480531215032668160,
+  "in_reply_to_status_id" : 480530995565703168,
+  "created_at" : "2014-06-22 02:02:24 +0000",
+  "in_reply_to_screen_name" : "jakemarsh",
+  "in_reply_to_user_id_str" : "2373551",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Ellis Hamburger",
+      "screen_name" : "hamburger",
+      "indices" : [ 0, 10 ],
+      "id_str" : "130914103",
+      "id" : 130914103
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480492323025866752",
+  "geo" : { },
+  "id_str" : "480531114826534912",
+  "in_reply_to_user_id" : 130914103,
+  "text" : "@hamburger The old Tumblr screenshot tweet",
+  "id" : 480531114826534912,
+  "in_reply_to_status_id" : 480492323025866752,
+  "created_at" : "2014-06-22 02:02:00 +0000",
+  "in_reply_to_screen_name" : "hamburger",
+  "in_reply_to_user_id_str" : "130914103",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jake Marsh",
+      "screen_name" : "jakemarsh",
+      "indices" : [ 0, 10 ],
+      "id_str" : "2373551",
+      "id" : 2373551
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480486897576198144",
+  "geo" : { },
+  "id_str" : "480530594531528704",
+  "in_reply_to_user_id" : 2373551,
+  "text" : "@jakemarsh Day One is also fantastic, I just use them for different things.",
+  "id" : 480530594531528704,
+  "in_reply_to_status_id" : 480486897576198144,
+  "created_at" : "2014-06-22 01:59:56 +0000",
+  "in_reply_to_screen_name" : "jakemarsh",
+  "in_reply_to_user_id_str" : "2373551",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jake Marsh",
+      "screen_name" : "jakemarsh",
+      "indices" : [ 0, 10 ],
+      "id_str" : "2373551",
+      "id" : 2373551
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480486897576198144",
+  "geo" : { },
+  "id_str" : "480530502068105217",
+  "in_reply_to_user_id" : 2373551,
+  "text" : "@jakemarsh Honestly, just files on Dropbox. iOS and OS X clients vary over time. Right now I use 1Writer and Sublime Text.",
+  "id" : 480530502068105217,
+  "in_reply_to_status_id" : 480486897576198144,
+  "created_at" : "2014-06-22 01:59:34 +0000",
+  "in_reply_to_screen_name" : "jakemarsh",
+  "in_reply_to_user_id_str" : "2373551",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Matt Lehrer",
+      "screen_name" : "mattlehrer",
+      "indices" : [ 0, 11 ],
+      "id_str" : "9764422",
+      "id" : 9764422
+    }, {
+      "name" : "Jacob Bijani",
+      "screen_name" : "jcb",
+      "indices" : [ 12, 16 ],
+      "id_str" : "16448517",
+      "id" : 16448517
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480483645267124224",
+  "geo" : { },
+  "id_str" : "480530220038905856",
+  "in_reply_to_user_id" : 9764422,
+  "text" : "@mattlehrer @jcb Seems like that same company should do both. A US currency-only denomination exchange?",
+  "id" : 480530220038905856,
+  "in_reply_to_status_id" : 480483645267124224,
+  "created_at" : "2014-06-22 01:58:26 +0000",
+  "in_reply_to_screen_name" : "mattlehrer",
+  "in_reply_to_user_id_str" : "9764422",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jan Sichermann",
+      "screen_name" : "jansichermann",
+      "indices" : [ 0, 14 ],
+      "id_str" : "419356073",
+      "id" : 419356073
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480495587885080576",
+  "geo" : { },
+  "id_str" : "480526530661986304",
+  "in_reply_to_user_id" : 419356073,
+  "text" : "@jansichermann Just a long layover, not this coming Thursday but the next.",
+  "id" : 480526530661986304,
+  "in_reply_to_status_id" : 480495587885080576,
+  "created_at" : "2014-06-22 01:43:47 +0000",
+  "in_reply_to_screen_name" : "jansichermann",
+  "in_reply_to_user_id_str" : "419356073",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "paul sanwald",
+      "screen_name" : "paulsanwald",
+      "indices" : [ 0, 12 ],
+      "id_str" : "320539038",
+      "id" : 320539038
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480481371840729088",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 40.7344793396, -73.9902035115 ]
+  },
+  "id_str" : "480483720776794112",
+  "in_reply_to_user_id" : 320539038,
+  "text" : "@paulsanwald Is it actually bourbon?",
+  "id" : 480483720776794112,
+  "in_reply_to_status_id" : 480481371840729088,
+  "created_at" : "2014-06-21 22:53:40 +0000",
+  "in_reply_to_screen_name" : "paulsanwald",
+  "in_reply_to_user_id_str" : "320539038",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Anoop Ranganath",
+      "screen_name" : "anoopr",
+      "indices" : [ 0, 7 ],
+      "id_str" : "254073",
+      "id" : 254073
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480478705236463617",
+  "geo" : { },
+  "id_str" : "480479853922119680",
+  "in_reply_to_user_id" : 254073,
+  "text" : "@anoopr Sounds like my kind of city.",
+  "id" : 480479853922119680,
+  "in_reply_to_status_id" : 480478705236463617,
+  "created_at" : "2014-06-21 22:38:18 +0000",
+  "in_reply_to_screen_name" : "anoopr",
+  "in_reply_to_user_id_str" : "254073",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Anoop Ranganath",
+      "screen_name" : "anoopr",
+      "indices" : [ 0, 7 ],
+      "id_str" : "254073",
+      "id" : 254073
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480476703832018945",
+  "geo" : { },
+  "id_str" : "480478089411969025",
+  "in_reply_to_user_id" : 254073,
+  "text" : "@anoopr Good to know. Let me know if there's anywhere else I should specifically see or \uD83C\uDF57 or \uD83C\uDF7A at.",
+  "id" : 480478089411969025,
+  "in_reply_to_status_id" : 480476703832018945,
+  "created_at" : "2014-06-21 22:31:18 +0000",
+  "in_reply_to_screen_name" : "anoopr",
+  "in_reply_to_user_id_str" : "254073",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Anoop Ranganath",
+      "screen_name" : "anoopr",
+      "indices" : [ 0, 7 ],
+      "id_str" : "254073",
+      "id" : 254073
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480475904171180032",
+  "geo" : { },
+  "id_str" : "480476030818205696",
+  "in_reply_to_user_id" : 254073,
+  "text" : "@anoopr Hofbr\u00E4uhaus?",
+  "id" : 480476030818205696,
+  "in_reply_to_status_id" : 480475904171180032,
+  "created_at" : "2014-06-21 22:23:07 +0000",
+  "in_reply_to_screen_name" : "anoopr",
+  "in_reply_to_user_id_str" : "254073",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "480475266720886784",
+  "text" : "I\u2019m going to be in Munich for only about ~5 hours or so. What must I do while there?",
+  "id" : 480475266720886784,
+  "created_at" : "2014-06-21 22:20:05 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Casey Liss",
+      "screen_name" : "caseyliss",
+      "indices" : [ 0, 10 ],
+      "id_str" : "18119839",
+      "id" : 18119839
+    }, {
+      "name" : "Justin Booooober",
+      "screen_name" : "justin",
+      "indices" : [ 11, 18 ],
+      "id_str" : "929",
+      "id" : 929
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480422910654312448",
+  "geo" : { },
+  "id_str" : "480440304781123585",
+  "in_reply_to_user_id" : 18119839,
+  "text" : "@caseyliss @justin Potbelly has only been in NYC for a few years now. It's good though, basically just a better version of Subway.",
+  "id" : 480440304781123585,
+  "in_reply_to_status_id" : 480422910654312448,
+  "created_at" : "2014-06-21 20:01:09 +0000",
+  "in_reply_to_screen_name" : "caseyliss",
+  "in_reply_to_user_id_str" : "18119839",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Samuel E. Giddins",
+      "screen_name" : "segiddins",
+      "indices" : [ 0, 10 ],
+      "id_str" : "73644377",
+      "id" : 73644377
+    }, {
+      "name" : "Matthew Bischoff",
+      "screen_name" : "mb",
+      "indices" : [ 11, 14 ],
+      "id_str" : "5107",
+      "id" : 5107
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480408672041189378",
+  "geo" : { },
+  "id_str" : "480439380599771136",
+  "in_reply_to_user_id" : 73644377,
+  "text" : "@segiddins @mb I will listen and not say a word!",
+  "id" : 480439380599771136,
+  "in_reply_to_status_id" : 480408672041189378,
+  "created_at" : "2014-06-21 19:57:29 +0000",
+  "in_reply_to_screen_name" : "segiddins",
+  "in_reply_to_user_id_str" : "73644377",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Andreas Linde",
+      "screen_name" : "therealkerni",
+      "indices" : [ 0, 13 ],
+      "id_str" : "5805172",
+      "id" : 5805172
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480356532862074880",
+  "geo" : { },
+  "id_str" : "480384531011076097",
+  "in_reply_to_user_id" : 5805172,
+  "text" : "@therealkerni Nice!",
+  "id" : 480384531011076097,
+  "in_reply_to_status_id" : 480356532862074880,
+  "created_at" : "2014-06-21 16:19:31 +0000",
+  "in_reply_to_screen_name" : "therealkerni",
+  "in_reply_to_user_id_str" : "5805172",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "John Sheehan",
+      "screen_name" : "johnsheehan",
+      "indices" : [ 0, 12 ],
+      "id_str" : "11381522",
+      "id" : 11381522
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 13, 36 ],
+      "url" : "https:\/\/t.co\/0vI3gpOA6r",
+      "expanded_url" : "https:\/\/github.com\/maxpow4h\/swiftz\/blob\/master\/swiftz\/JSON.swift",
+      "display_url" : "github.com\/maxpow4h\/swift\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "480108180744065026",
+  "geo" : { },
+  "id_str" : "480145285113319424",
+  "in_reply_to_user_id" : 11381522,
+  "text" : "@johnsheehan https:\/\/t.co\/0vI3gpOA6r",
+  "id" : 480145285113319424,
+  "in_reply_to_status_id" : 480108180744065026,
+  "created_at" : "2014-06-21 00:28:51 +0000",
+  "in_reply_to_screen_name" : "johnsheehan",
+  "in_reply_to_user_id_str" : "11381522",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Andy LaVoy",
+      "screen_name" : "lavoy",
+      "indices" : [ 0, 6 ],
+      "id_str" : "15496852",
+      "id" : 15496852
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480026985306263552",
+  "geo" : { },
+  "id_str" : "480027166340820992",
+  "in_reply_to_user_id" : 15496852,
+  "text" : "@lavoy Texting businesses instead of calling. Seeing what time someplace closes, if they have something in stock, etc.",
+  "id" : 480027166340820992,
+  "in_reply_to_status_id" : 480026985306263552,
+  "created_at" : "2014-06-20 16:39:29 +0000",
+  "in_reply_to_screen_name" : "lavoy",
+  "in_reply_to_user_id_str" : "15496852",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "David Chartier",
+      "screen_name" : "chartier",
+      "indices" : [ 0, 9 ],
+      "id_str" : "35383",
+      "id" : 35383
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480013996603355140",
+  "geo" : { },
+  "id_str" : "480016191432704001",
+  "in_reply_to_user_id" : 35383,
+  "text" : "@chartier Can't help be dissapointed that a single-purpose app that I love is now part of a much larger app that I'm totally uninterested in",
+  "id" : 480016191432704001,
+  "in_reply_to_status_id" : 480013996603355140,
+  "created_at" : "2014-06-20 15:55:52 +0000",
+  "in_reply_to_screen_name" : "chartier",
+  "in_reply_to_user_id_str" : "35383",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "David Chartier",
+      "screen_name" : "chartier",
+      "indices" : [ 0, 9 ],
+      "id_str" : "35383",
+      "id" : 35383
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480005781111443456",
+  "geo" : { },
+  "id_str" : "480013767410221056",
+  "in_reply_to_user_id" : 35383,
+  "text" : "@chartier Oh yeah, thrilled that they'll now be taking TalkTo down with the ship \uD83D\uDE14",
+  "id" : 480013767410221056,
+  "in_reply_to_status_id" : 480005781111443456,
+  "created_at" : "2014-06-20 15:46:15 +0000",
+  "in_reply_to_screen_name" : "chartier",
+  "in_reply_to_user_id_str" : "35383",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "TalkTo",
+      "screen_name" : "talkto",
+      "indices" : [ 31, 38 ],
+      "id_str" : "226626786",
+      "id" : 226626786
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "480005809020338176",
+  "text" : "Somebody please buy Path, save @TalkTo, then shut down the rest.",
+  "id" : 480005809020338176,
+  "created_at" : "2014-06-20 15:14:37 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Matt Lehrer",
+      "screen_name" : "mattlehrer",
+      "indices" : [ 0, 11 ],
+      "id_str" : "9764422",
+      "id" : 9764422
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "480004930603085824",
+  "geo" : { },
+  "id_str" : "480005217522831360",
+  "in_reply_to_user_id" : 9764422,
+  "text" : "@mattlehrer I would\u2019ve paid good $ to keep using TalkTo. Now it\u2019ll die at Path\u2019s hands. Splendid.",
+  "id" : 480005217522831360,
+  "in_reply_to_status_id" : 480004930603085824,
+  "created_at" : "2014-06-20 15:12:16 +0000",
+  "in_reply_to_screen_name" : "mattlehrer",
+  "in_reply_to_user_id_str" : "9764422",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 88, 110 ],
+      "url" : "http:\/\/t.co\/aALw8FnUXy",
+      "expanded_url" : "http:\/\/talkto.com",
+      "display_url" : "talkto.com"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "480004769520832512",
+  "text" : "I\u2019ve legitimately never been more disappointed by an acquisition than I am by this one: http:\/\/t.co\/aALw8FnUXy",
+  "id" : 480004769520832512,
+  "created_at" : "2014-06-20 15:10:29 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "keithlaw",
+      "screen_name" : "keithlaw",
+      "indices" : [ 0, 9 ],
+      "id_str" : "15146558",
+      "id" : 15146558
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "479823300713930752",
+  "geo" : { },
+  "id_str" : "479839521203179520",
+  "in_reply_to_user_id" : 15146558,
+  "text" : "@keithlaw Thoughts on HANNIBAL?",
+  "id" : 479839521203179520,
+  "in_reply_to_status_id" : 479823300713930752,
+  "created_at" : "2014-06-20 04:13:51 +0000",
+  "in_reply_to_screen_name" : "keithlaw",
+  "in_reply_to_user_id_str" : "15146558",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Justin Booooober",
+      "screen_name" : "justin",
+      "indices" : [ 0, 7 ],
+      "id_str" : "929",
+      "id" : 929
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "479681718996066304",
+  "geo" : { },
+  "id_str" : "479697007184211968",
+  "in_reply_to_user_id" : 929,
+  "text" : "@justin Conflicting reports",
+  "id" : 479697007184211968,
+  "in_reply_to_status_id" : 479681718996066304,
+  "created_at" : "2014-06-19 18:47:33 +0000",
+  "in_reply_to_screen_name" : "justin",
+  "in_reply_to_user_id_str" : "929",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Shannon Potter",
+      "screen_name" : "LucasTizma",
+      "indices" : [ 0, 11 ],
+      "id_str" : "70977717",
+      "id" : 70977717
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "479501819605827585",
+  "geo" : { },
+  "id_str" : "479653173523935233",
+  "in_reply_to_user_id" : 70977717,
+  "text" : "@LucasTizma bryan.io",
+  "id" : 479653173523935233,
+  "in_reply_to_status_id" : 479501819605827585,
+  "created_at" : "2014-06-19 15:53:22 +0000",
+  "in_reply_to_screen_name" : "LucasTizma",
+  "in_reply_to_user_id_str" : "70977717",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Benny Wong",
+      "screen_name" : "bdotdub",
+      "indices" : [ 0, 8 ],
+      "id_str" : "3032241",
+      "id" : 3032241
+    }, {
+      "name" : "Joe F. \uE052\uE528\uE054\u2122",
+      "screen_name" : "mergesort",
+      "indices" : [ 9, 19 ],
+      "id_str" : "26178841",
+      "id" : 26178841
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "479473059011633152",
+  "geo" : { },
+  "id_str" : "479473212086947841",
+  "in_reply_to_user_id" : 3032241,
+  "text" : "@bdotdub @mergesort Yep",
+  "id" : 479473212086947841,
+  "in_reply_to_status_id" : 479473059011633152,
+  "created_at" : "2014-06-19 03:58:16 +0000",
+  "in_reply_to_screen_name" : "bdotdub",
+  "in_reply_to_user_id_str" : "3032241",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Peter Cohen",
+      "screen_name" : "flargh",
+      "indices" : [ 0, 7 ],
+      "id_str" : "2960721",
+      "id" : 2960721
+    }, {
+      "name" : "Rene Ritchie",
+      "screen_name" : "reneritchie",
+      "indices" : [ 8, 20 ],
+      "id_str" : "10194392",
+      "id" : 10194392
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "479448067779739651",
+  "geo" : { },
+  "id_str" : "479471049063411712",
+  "in_reply_to_user_id" : 2960721,
+  "text" : "@flargh @reneritchie I don't think that makes it any better",
+  "id" : 479471049063411712,
+  "in_reply_to_status_id" : 479448067779739651,
+  "created_at" : "2014-06-19 03:49:40 +0000",
+  "in_reply_to_screen_name" : "flargh",
+  "in_reply_to_user_id_str" : "2960721",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Caleb Davenport",
+      "screen_name" : "calebd",
+      "indices" : [ 0, 7 ],
+      "id_str" : "17641648",
+      "id" : 17641648
+    }, {
+      "name" : "Netflix US",
+      "screen_name" : "netflix",
+      "indices" : [ 71, 79 ],
+      "id_str" : "16573941",
+      "id" : 16573941
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "479437517012217856",
+  "geo" : { },
+  "id_str" : "479470161397678080",
+  "in_reply_to_user_id" : 17641648,
+  "text" : "@calebd At least we can build a better one using their API. Oh wait... @netflix",
+  "id" : 479470161397678080,
+  "in_reply_to_status_id" : 479437517012217856,
+  "created_at" : "2014-06-19 03:46:09 +0000",
+  "in_reply_to_screen_name" : "calebd",
+  "in_reply_to_user_id_str" : "17641648",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Peter Steinberger",
+      "screen_name" : "steipete",
+      "indices" : [ 0, 9 ],
+      "id_str" : "25401953",
+      "id" : 25401953
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "479430897771360256",
+  "geo" : { },
+  "id_str" : "479469572932632576",
+  "in_reply_to_user_id" : 25401953,
+  "text" : "@steipete You're likely in a trickier spot than most, but I'd say a large % of developers could and should go iOS 8 only immediately.",
+  "id" : 479469572932632576,
+  "in_reply_to_status_id" : 479430897771360256,
+  "created_at" : "2014-06-19 03:43:48 +0000",
+  "in_reply_to_screen_name" : "steipete",
+  "in_reply_to_user_id_str" : "25401953",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "David Chen",
+      "screen_name" : "davechensky",
+      "indices" : [ 0, 12 ],
+      "id_str" : "14290222",
+      "id" : 14290222
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "479415525651795968",
+  "geo" : { },
+  "id_str" : "479467745201778689",
+  "in_reply_to_user_id" : 14290222,
+  "text" : "@davechensky I flipped shit when I had to go through this for Veronica Mars, that my fianc\u00E9 had donated to and been excited about for months",
+  "id" : 479467745201778689,
+  "in_reply_to_status_id" : 479415525651795968,
+  "created_at" : "2014-06-19 03:36:33 +0000",
+  "in_reply_to_screen_name" : "davechensky",
+  "in_reply_to_user_id_str" : "14290222",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Myke Hurley",
+      "screen_name" : "imyke",
+      "indices" : [ 3, 9 ],
+      "id_str" : "763549",
+      "id" : 763549
+    }, {
+      "name" : "Matthew Bischoff",
+      "screen_name" : "mb",
+      "indices" : [ 49, 52 ],
+      "id_str" : "5107",
+      "id" : 5107
+    }, {
+      "name" : "Bryan Irace",
+      "screen_name" : "irace",
+      "indices" : [ 57, 63 ],
+      "id_str" : "21626062",
+      "id" : 21626062
+    }, {
+      "name" : "Tumblr",
+      "screen_name" : "tumblr",
+      "indices" : [ 120, 127 ],
+      "id_str" : "52484614",
+      "id" : 52484614
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 139, 140 ],
+      "url" : "http:\/\/t.co\/XrwfCYd6eK",
+      "expanded_url" : "http:\/\/5by5.tv\/cmdspace\/101",
+      "display_url" : "5by5.tv\/cmdspace\/101"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "479376685553692673",
+  "text" : "RT @imyke: This week on CMD+Space I am joined by @mb and @irace!\n\nWe talk about the awesome work they are doing over at @tumblr\n\nhttp:\/\/t.c\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Matthew Bischoff",
+        "screen_name" : "mb",
+        "indices" : [ 38, 41 ],
+        "id_str" : "5107",
+        "id" : 5107
+      }, {
+        "name" : "Bryan Irace",
+        "screen_name" : "irace",
+        "indices" : [ 46, 52 ],
+        "id_str" : "21626062",
+        "id" : 21626062
+      }, {
+        "name" : "Tumblr",
+        "screen_name" : "tumblr",
+        "indices" : [ 109, 116 ],
+        "id_str" : "52484614",
+        "id" : 52484614
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 118, 140 ],
+        "url" : "http:\/\/t.co\/XrwfCYd6eK",
+        "expanded_url" : "http:\/\/5by5.tv\/cmdspace\/101",
+        "display_url" : "5by5.tv\/cmdspace\/101"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "479375900124139520",
+    "text" : "This week on CMD+Space I am joined by @mb and @irace!\n\nWe talk about the awesome work they are doing over at @tumblr\n\nhttp:\/\/t.co\/XrwfCYd6eK",
+    "id" : 479375900124139520,
+    "created_at" : "2014-06-18 21:31:35 +0000",
+    "user" : {
+      "name" : "Myke Hurley",
+      "screen_name" : "imyke",
+      "protected" : false,
+      "id_str" : "763549",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477433400153092096\/XfVnOCBM_normal.jpeg",
+      "id" : 763549,
+      "verified" : false
+    }
+  },
+  "id" : 479376685553692673,
+  "created_at" : "2014-06-18 21:34:42 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Matthew Panzarino",
+      "screen_name" : "panzer",
+      "indices" : [ 3, 10 ],
+      "id_str" : "19312115",
+      "id" : 19312115
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "479327272311078913",
+  "text" : "RT @panzer: Amazon has no retail stores, so it put a retail store in your pocket. \n\n- Purchasing\n- Tech support\n- Buying guides\n- Affiliate\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "479326645460172800",
+    "text" : "Amazon has no retail stores, so it put a retail store in your pocket. \n\n- Purchasing\n- Tech support\n- Buying guides\n- Affiliate program",
+    "id" : 479326645460172800,
+    "created_at" : "2014-06-18 18:15:52 +0000",
+    "user" : {
+      "name" : "Matthew Panzarino",
+      "screen_name" : "panzer",
+      "protected" : false,
+      "id_str" : "19312115",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1382277517\/image_normal.jpg",
+      "id" : 19312115,
+      "verified" : true
+    }
+  },
+  "id" : 479327272311078913,
+  "created_at" : "2014-06-18 18:18:21 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 116, 139 ],
+      "url" : "https:\/\/t.co\/Uc3jnKE2SG",
+      "expanded_url" : "https:\/\/gist.github.com\/irace\/27c72d538b02d33cd714",
+      "display_url" : "gist.github.com\/irace\/27c72d53\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "479321601096552448",
+  "text" : "The Tumblr iOS dashboard used to (mid-2012) be implemented using a web view. Here\u2019s the JavaScript and CSS we used: https:\/\/t.co\/Uc3jnKE2SG",
+  "id" : 479321601096552448,
+  "created_at" : "2014-06-18 17:55:49 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "David Chen",
+      "screen_name" : "davechensky",
+      "indices" : [ 0, 12 ],
+      "id_str" : "14290222",
+      "id" : 14290222
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "479289211950858240",
+  "geo" : { },
+  "id_str" : "479316042552844289",
+  "in_reply_to_user_id" : 14290222,
+  "text" : "@davechensky Cut it down the middle if you only want half.",
+  "id" : 479316042552844289,
+  "in_reply_to_status_id" : 479289211950858240,
+  "created_at" : "2014-06-18 17:33:44 +0000",
+  "in_reply_to_screen_name" : "davechensky",
+  "in_reply_to_user_id_str" : "14290222",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "dustin curtis",
+      "screen_name" : "dcurtis",
+      "indices" : [ 0, 8 ],
+      "id_str" : "9395832",
+      "id" : 9395832
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "479280635509350400",
+  "geo" : { },
+  "id_str" : "479312917397921792",
+  "in_reply_to_user_id" : 9395832,
+  "text" : "@dcurtis House of Cards?!",
+  "id" : 479312917397921792,
+  "in_reply_to_status_id" : 479280635509350400,
+  "created_at" : "2014-06-18 17:21:19 +0000",
+  "in_reply_to_screen_name" : "dcurtis",
+  "in_reply_to_user_id_str" : "9395832",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Zach Holman",
+      "screen_name" : "holman",
+      "indices" : [ 0, 7 ],
+      "id_str" : "11322372",
+      "id" : 11322372
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "479300402249093120",
+  "geo" : { },
+  "id_str" : "479300854701625344",
+  "in_reply_to_user_id" : 11322372,
+  "text" : "@holman Thanks!",
+  "id" : 479300854701625344,
+  "in_reply_to_status_id" : 479300402249093120,
+  "created_at" : "2014-06-18 16:33:23 +0000",
+  "in_reply_to_screen_name" : "holman",
+  "in_reply_to_user_id_str" : "11322372",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Zach Holman",
+      "screen_name" : "holman",
+      "indices" : [ 0, 7 ],
+      "id_str" : "11322372",
+      "id" : 11322372
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "479299385184903168",
+  "geo" : { },
+  "id_str" : "479299579503190017",
+  "in_reply_to_user_id" : 11322372,
+  "text" : "@holman \u201CNope\u201D meaning I am correct that it is not possible?",
+  "id" : 479299579503190017,
+  "in_reply_to_status_id" : 479299385184903168,
+  "created_at" : "2014-06-18 16:28:19 +0000",
+  "in_reply_to_screen_name" : "holman",
+  "in_reply_to_user_id_str" : "11322372",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "GitHub",
+      "screen_name" : "github",
+      "indices" : [ 91, 98 ],
+      "id_str" : "13334762",
+      "id" : 13334762
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "479288575633412097",
+  "text" : "Still not possible to associate a gist with an organization instead of an individual user? @github",
+  "id" : 479288575633412097,
+  "created_at" : "2014-06-18 15:44:35 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "David Chartier",
+      "screen_name" : "chartier",
+      "indices" : [ 0, 9 ],
+      "id_str" : "35383",
+      "id" : 35383
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "479114234324725760",
+  "geo" : { },
+  "id_str" : "479268567737982976",
+  "in_reply_to_user_id" : 35383,
+  "text" : "@chartier I can't relate to anyone who doesn't configure their calendar to start on Monday",
+  "id" : 479268567737982976,
+  "in_reply_to_status_id" : 479114234324725760,
+  "created_at" : "2014-06-18 14:25:05 +0000",
+  "in_reply_to_screen_name" : "chartier",
+  "in_reply_to_user_id_str" : "35383",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Justin Booooober",
+      "screen_name" : "justin",
+      "indices" : [ 0, 7 ],
+      "id_str" : "929",
+      "id" : 929
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "479267925686120449",
+  "geo" : { },
+  "id_str" : "479268175654445056",
+  "in_reply_to_user_id" : 929,
+  "text" : "@justin Zack Snyder's Dawn of the Dead (yep, not Romero's) is still my favorite zombie film.",
+  "id" : 479268175654445056,
+  "in_reply_to_status_id" : 479267925686120449,
+  "created_at" : "2014-06-18 14:23:32 +0000",
+  "in_reply_to_screen_name" : "justin",
+  "in_reply_to_user_id_str" : "929",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Justin Booooober",
+      "screen_name" : "justin",
+      "indices" : [ 0, 7 ],
+      "id_str" : "929",
+      "id" : 929
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "479104879089053696",
+  "geo" : { },
+  "id_str" : "479266647350730752",
+  "in_reply_to_user_id" : 929,
+  "text" : "@justin I thought it was satisfactory. Nothing worth revisiting but better than it got credit for.",
+  "id" : 479266647350730752,
+  "in_reply_to_status_id" : 479104879089053696,
+  "created_at" : "2014-06-18 14:17:27 +0000",
+  "in_reply_to_screen_name" : "justin",
+  "in_reply_to_user_id_str" : "929",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Marcus S. Zarra",
+      "screen_name" : "mzarra",
+      "indices" : [ 0, 7 ],
+      "id_str" : "6798382",
+      "id" : 6798382
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "479024929577259008",
+  "geo" : { },
+  "id_str" : "479031693366415361",
+  "in_reply_to_user_id" : 6798382,
+  "text" : "@mzarra Yeah, singletons suck. Thanks.",
+  "id" : 479031693366415361,
+  "in_reply_to_status_id" : 479024929577259008,
+  "created_at" : "2014-06-17 22:43:50 +0000",
+  "in_reply_to_screen_name" : "mzarra",
+  "in_reply_to_user_id_str" : "6798382",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Chris Maddern",
+      "screen_name" : "chrismaddern",
+      "indices" : [ 0, 13 ],
+      "id_str" : "14077987",
+      "id" : 14077987
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "479000277559697408",
+  "geo" : { },
+  "id_str" : "479012280513089536",
+  "in_reply_to_user_id" : 14077987,
+  "text" : "@chrismaddern What do you like better about Sunrise than Fantastical?",
+  "id" : 479012280513089536,
+  "in_reply_to_status_id" : 479000277559697408,
+  "created_at" : "2014-06-17 21:26:41 +0000",
+  "in_reply_to_screen_name" : "chrismaddern",
+  "in_reply_to_user_id_str" : "14077987",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jerry Jones",
+      "screen_name" : "jerryhjones",
+      "indices" : [ 0, 12 ],
+      "id_str" : "11927552",
+      "id" : 11927552
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "478989497011818496",
+  "geo" : { },
+  "id_str" : "479007100308574208",
+  "in_reply_to_user_id" : 11927552,
+  "text" : "@jerryhjones Will take a look, thanks!",
+  "id" : 479007100308574208,
+  "in_reply_to_status_id" : 478989497011818496,
+  "created_at" : "2014-06-17 21:06:06 +0000",
+  "in_reply_to_screen_name" : "jerryhjones",
+  "in_reply_to_user_id_str" : "11927552",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Saul Mora",
+      "screen_name" : "casademora",
+      "indices" : [ 0, 11 ],
+      "id_str" : "14212878",
+      "id" : 14212878
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "478996965493981185",
+  "geo" : { },
+  "id_str" : "478997141982281729",
+  "in_reply_to_user_id" : 14212878,
+  "text" : "@casademora Sure, no rush",
+  "id" : 478997141982281729,
+  "in_reply_to_status_id" : 478996965493981185,
+  "created_at" : "2014-06-17 20:26:32 +0000",
+  "in_reply_to_screen_name" : "casademora",
+  "in_reply_to_user_id_str" : "14212878",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Marcus S. Zarra",
+      "screen_name" : "mzarra",
+      "indices" : [ 0, 7 ],
+      "id_str" : "6798382",
+      "id" : 6798382
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 82, 105 ],
+      "url" : "https:\/\/t.co\/cAzMFvNiWw",
+      "expanded_url" : "https:\/\/github.com\/tumblr\/CoreDataExample",
+      "display_url" : "github.com\/tumblr\/CoreDat\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "478996804059811841",
+  "in_reply_to_user_id" : 6798382,
+  "text" : "@mzarra Hey Marcus, anymore feedback you may have on this would be great. Thanks! https:\/\/t.co\/cAzMFvNiWw",
+  "id" : 478996804059811841,
+  "created_at" : "2014-06-17 20:25:12 +0000",
+  "in_reply_to_screen_name" : "mzarra",
+  "in_reply_to_user_id_str" : "6798382",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Saul Mora",
+      "screen_name" : "casademora",
+      "indices" : [ 0, 11 ],
+      "id_str" : "14212878",
+      "id" : 14212878
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 80, 103 ],
+      "url" : "https:\/\/t.co\/cAzMFvNiWw",
+      "expanded_url" : "https:\/\/github.com\/tumblr\/CoreDataExample",
+      "display_url" : "github.com\/tumblr\/CoreDat\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "478996694169030657",
+  "in_reply_to_user_id" : 14212878,
+  "text" : "@casademora Hey Saul, any feedback you may have on this would be great. Thanks! https:\/\/t.co\/cAzMFvNiWw",
+  "id" : 478996694169030657,
+  "created_at" : "2014-06-17 20:24:45 +0000",
+  "in_reply_to_screen_name" : "casademora",
+  "in_reply_to_user_id_str" : "14212878",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Samuel E. Giddins",
+      "screen_name" : "segiddins",
+      "indices" : [ 0, 10 ],
+      "id_str" : "73644377",
+      "id" : 73644377
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "478996394447888385",
+  "geo" : { },
+  "id_str" : "478996532914835456",
+  "in_reply_to_user_id" : 73644377,
+  "text" : "@segiddins w00t!",
+  "id" : 478996532914835456,
+  "in_reply_to_status_id" : 478996394447888385,
+  "created_at" : "2014-06-17 20:24:07 +0000",
+  "in_reply_to_screen_name" : "segiddins",
+  "in_reply_to_user_id_str" : "73644377",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Shannon Potter",
+      "screen_name" : "LucasTizma",
+      "indices" : [ 0, 11 ],
+      "id_str" : "70977717",
+      "id" : 70977717
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "478983762114404354",
+  "geo" : { },
+  "id_str" : "478993456778706944",
+  "in_reply_to_user_id" : 70977717,
+  "text" : "@LucasTizma Well, we\u2019re using NSFetchedResultsController which requires a main thread context (at least I think it does)",
+  "id" : 478993456778706944,
+  "in_reply_to_status_id" : 478983762114404354,
+  "created_at" : "2014-06-17 20:11:54 +0000",
+  "in_reply_to_screen_name" : "LucasTizma",
+  "in_reply_to_user_id_str" : "70977717",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Sam Oakley",
+      "screen_name" : "Sam_Oakley",
+      "indices" : [ 0, 11 ],
+      "id_str" : "34023936",
+      "id" : 34023936
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "478988686668083200",
+  "geo" : { },
+  "id_str" : "478990778107441153",
+  "in_reply_to_user_id" : 34023936,
+  "text" : "@Sam_Oakley I know \uD83D\uDE14. That's exactly my motivation for this project.",
+  "id" : 478990778107441153,
+  "in_reply_to_status_id" : 478988686668083200,
+  "created_at" : "2014-06-17 20:01:15 +0000",
+  "in_reply_to_screen_name" : "Sam_Oakley",
+  "in_reply_to_user_id_str" : "34023936",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 117, 140 ],
+      "url" : "https:\/\/t.co\/cAzMFvNiWw",
+      "expanded_url" : "https:\/\/github.com\/tumblr\/CoreDataExample",
+      "display_url" : "github.com\/tumblr\/CoreDat\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "478982206858469376",
+  "text" : "Use Core Data? Have feels on how to best structure your main queue\/background context access? Why not weigh in here? https:\/\/t.co\/cAzMFvNiWw",
+  "id" : 478982206858469376,
+  "created_at" : "2014-06-17 19:27:11 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Justin Booooober",
+      "screen_name" : "justin",
+      "indices" : [ 0, 7 ],
+      "id_str" : "929",
+      "id" : 929
+    }, {
+      "name" : "\u2661rta",
+      "screen_name" : "orta",
+      "indices" : [ 12, 17 ],
+      "id_str" : "2569881",
+      "id" : 2569881
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "478933304058466304",
+  "geo" : { },
+  "id_str" : "478953939996782592",
+  "in_reply_to_user_id" : 929,
+  "text" : "@justin \/CC @orta",
+  "id" : 478953939996782592,
+  "in_reply_to_status_id" : 478933304058466304,
+  "created_at" : "2014-06-17 17:34:52 +0000",
+  "in_reply_to_screen_name" : "justin",
+  "in_reply_to_user_id_str" : "929",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Slash Furrow",
+      "screen_name" : "ashfurrow",
+      "indices" : [ 0, 10 ],
+      "id_str" : "15536268",
+      "id" : 15536268
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "478916525202890752",
+  "geo" : { },
+  "id_str" : "478951093310087168",
+  "in_reply_to_user_id" : 15536268,
+  "text" : "@ashfurrow Good petition, would sign if Canadian",
+  "id" : 478951093310087168,
+  "in_reply_to_status_id" : 478916525202890752,
+  "created_at" : "2014-06-17 17:23:33 +0000",
+  "in_reply_to_screen_name" : "ashfurrow",
+  "in_reply_to_user_id_str" : "15536268",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Slash Furrow",
+      "screen_name" : "ashfurrow",
+      "indices" : [ 0, 10 ],
+      "id_str" : "15536268",
+      "id" : 15536268
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "478863017715986432",
+  "geo" : { },
+  "id_str" : "478922475464843264",
+  "in_reply_to_user_id" : 15536268,
+  "text" : "@ashfurrow Did you get a mug of beer like Vincent Vega?",
+  "id" : 478922475464843264,
+  "in_reply_to_status_id" : 478863017715986432,
+  "created_at" : "2014-06-17 15:29:50 +0000",
+  "in_reply_to_screen_name" : "ashfurrow",
+  "in_reply_to_user_id_str" : "15536268",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Matthew Bischoff",
+      "screen_name" : "mb",
+      "indices" : [ 0, 3 ],
+      "id_str" : "5107",
+      "id" : 5107
+    }, {
+      "name" : "Shannon Potter",
+      "screen_name" : "LucasTizma",
+      "indices" : [ 4, 15 ],
+      "id_str" : "70977717",
+      "id" : 70977717
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "478656148141117441",
+  "geo" : { },
+  "id_str" : "478657407141543936",
+  "in_reply_to_user_id" : 5107,
+  "text" : "@mb @LucasTizma We are nothing if not consistent.",
+  "id" : 478657407141543936,
+  "in_reply_to_status_id" : 478656148141117441,
+  "created_at" : "2014-06-16 21:56:33 +0000",
+  "in_reply_to_screen_name" : "mb",
+  "in_reply_to_user_id_str" : "5107",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Shannon Potter",
+      "screen_name" : "LucasTizma",
+      "indices" : [ 0, 11 ],
+      "id_str" : "70977717",
+      "id" : 70977717
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "478636794552926208",
+  "geo" : { },
+  "id_str" : "478655493096099840",
+  "in_reply_to_user_id" : 70977717,
+  "text" : "@LucasTizma Any interest in moving to NYC?",
+  "id" : 478655493096099840,
+  "in_reply_to_status_id" : 478636794552926208,
+  "created_at" : "2014-06-16 21:48:57 +0000",
+  "in_reply_to_screen_name" : "LucasTizma",
+  "in_reply_to_user_id_str" : "70977717",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "478596881023381505",
+  "text" : "Best way to implement something like Java enums (predefined set of instances, each which could have multiple properties) in Swift?",
+  "id" : 478596881023381505,
+  "created_at" : "2014-06-16 17:56:02 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "azamsharp",
+      "screen_name" : "azamsharp",
+      "indices" : [ 0, 10 ],
+      "id_str" : "10950092",
+      "id" : 10950092
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "478593015041126400",
+  "geo" : { },
+  "id_str" : "478593082410430465",
+  "in_reply_to_user_id" : 10950092,
+  "text" : "@azamsharp I don\u2019t believe so, unfortunately",
+  "id" : 478593082410430465,
+  "in_reply_to_status_id" : 478593015041126400,
+  "created_at" : "2014-06-16 17:40:57 +0000",
+  "in_reply_to_screen_name" : "azamsharp",
+  "in_reply_to_user_id_str" : "10950092",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 76, 98 ],
+      "url" : "http:\/\/t.co\/VSHdvIHEwr",
+      "expanded_url" : "http:\/\/www.jobscore.com\/jobs2\/tumblr\/ios-engineer-mobile-developer-ios\/dxg37S604r45riiGakhP3Q?ref=rss&sid=68",
+      "display_url" : "jobscore.com\/jobs2\/tumblr\/i\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "478566690897530880",
+  "text" : "As always, we\u2019re looking for iOS developers to come work on apps at Tumblr: http:\/\/t.co\/VSHdvIHEwr",
+  "id" : 478566690897530880,
+  "created_at" : "2014-06-16 15:56:05 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Casey Liss",
+      "screen_name" : "caseyliss",
+      "indices" : [ 0, 10 ],
+      "id_str" : "18119839",
+      "id" : 18119839
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 55, 77 ],
+      "url" : "http:\/\/t.co\/QfnOKyEOcR",
+      "expanded_url" : "http:\/\/staff.tumblr.com\/post\/88691179635\/behind-the-scenes-of-that-thing-that-happened",
+      "display_url" : "staff.tumblr.com\/post\/886911796\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "478512300492877824",
+  "geo" : { },
+  "id_str" : "478535718063845376",
+  "in_reply_to_user_id" : 18119839,
+  "text" : "@caseyliss FWIW official presidential stance is \u201CGIF\u201D: http:\/\/t.co\/QfnOKyEOcR",
+  "id" : 478535718063845376,
+  "in_reply_to_status_id" : 478512300492877824,
+  "created_at" : "2014-06-16 13:53:00 +0000",
+  "in_reply_to_screen_name" : "caseyliss",
+  "in_reply_to_user_id_str" : "18119839",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "spookymoof",
+      "screen_name" : "supermoof",
+      "indices" : [ 3, 13 ],
+      "id_str" : "14628156",
+      "id" : 14628156
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "478513532292448256",
+  "text" : "RT @supermoof: when you start a new programming job you have to walk right up to the biggest function in the yard and refactor it in front \u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "478322429257715712",
+    "text" : "when you start a new programming job you have to walk right up to the biggest function in the yard and refactor it in front of everyone",
+    "id" : 478322429257715712,
+    "created_at" : "2014-06-15 23:45:28 +0000",
+    "user" : {
+      "name" : "spookymoof",
+      "screen_name" : "supermoof",
+      "protected" : false,
+      "id_str" : "14628156",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1198077375\/title-moof_normal.png",
+      "id" : 14628156,
+      "verified" : false
+    }
+  },
+  "id" : 478513532292448256,
+  "created_at" : "2014-06-16 12:24:51 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Adam Laiacano",
+      "screen_name" : "adamlaiacano",
+      "indices" : [ 0, 13 ],
+      "id_str" : "208789178",
+      "id" : 208789178
+    }, {
+      "name" : "Urfe",
+      "screen_name" : "Urfe",
+      "indices" : [ 14, 19 ],
+      "id_str" : "32237595",
+      "id" : 32237595
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "478366949341405184",
+  "geo" : { },
+  "id_str" : "478367519250452481",
+  "in_reply_to_user_id" : 208789178,
+  "text" : "@adamlaiacano @Urfe Thanks!",
+  "id" : 478367519250452481,
+  "in_reply_to_status_id" : 478366949341405184,
+  "created_at" : "2014-06-16 02:44:38 +0000",
+  "in_reply_to_screen_name" : "adamlaiacano",
+  "in_reply_to_user_id_str" : "208789178",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "paul sanwald",
+      "screen_name" : "paulsanwald",
+      "indices" : [ 0, 12 ],
+      "id_str" : "320539038",
+      "id" : 320539038
+    }, {
+      "name" : "Karthik Senthil",
+      "screen_name" : "karsenthil",
+      "indices" : [ 23, 34 ],
+      "id_str" : "25825688",
+      "id" : 25825688
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "478321866826727425",
+  "geo" : { },
+  "id_str" : "478322017410621442",
+  "in_reply_to_user_id" : 320539038,
+  "text" : "@paulsanwald Maybe for @karsenthil\u2019s wedding\u2026",
+  "id" : 478322017410621442,
+  "in_reply_to_status_id" : 478321866826727425,
+  "created_at" : "2014-06-15 23:43:50 +0000",
+  "in_reply_to_screen_name" : "paulsanwald",
+  "in_reply_to_user_id_str" : "320539038",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "478320459323154432",
+  "text" : "OK, now say you were getting married in NYC and wanted to hire a band. Who would they be?",
+  "id" : 478320459323154432,
+  "created_at" : "2014-06-15 23:37:38 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "478263793726652416",
+  "text" : "Favorite places to eat or drink in Paris?",
+  "id" : 478263793726652416,
+  "created_at" : "2014-06-15 19:52:28 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Casey Liss",
+      "screen_name" : "caseyliss",
+      "indices" : [ 0, 10 ],
+      "id_str" : "18119839",
+      "id" : 18119839
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "478253408584228864",
+  "geo" : { },
+  "id_str" : "478263349499551745",
+  "in_reply_to_user_id" : 18119839,
+  "text" : "@caseyliss Same",
+  "id" : 478263349499551745,
+  "in_reply_to_status_id" : 478253408584228864,
+  "created_at" : "2014-06-15 19:50:42 +0000",
+  "in_reply_to_screen_name" : "caseyliss",
+  "in_reply_to_user_id_str" : "18119839",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Shannon Potter",
+      "screen_name" : "LucasTizma",
+      "indices" : [ 0, 11 ],
+      "id_str" : "70977717",
+      "id" : 70977717
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "478236500018995202",
+  "geo" : { },
+  "id_str" : "478245955112689665",
+  "in_reply_to_user_id" : 70977717,
+  "text" : "@LucasTizma \uD83D\uDE0A",
+  "id" : 478245955112689665,
+  "in_reply_to_status_id" : 478236500018995202,
+  "created_at" : "2014-06-15 18:41:35 +0000",
+  "in_reply_to_screen_name" : "LucasTizma",
+  "in_reply_to_user_id_str" : "70977717",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Matthew Bischoff",
+      "screen_name" : "mb",
+      "indices" : [ 0, 3 ],
+      "id_str" : "5107",
+      "id" : 5107
+    }, {
+      "name" : "Shannon Potter",
+      "screen_name" : "LucasTizma",
+      "indices" : [ 4, 15 ],
+      "id_str" : "70977717",
+      "id" : 70977717
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "478244927990939648",
+  "geo" : { },
+  "id_str" : "478245182349930496",
+  "in_reply_to_user_id" : 5107,
+  "text" : "@mb @LucasTizma That\u2019s right. Push notification banners yes, but not badges.",
+  "id" : 478245182349930496,
+  "in_reply_to_status_id" : 478244927990939648,
+  "created_at" : "2014-06-15 18:38:31 +0000",
+  "in_reply_to_screen_name" : "mb",
+  "in_reply_to_user_id_str" : "5107",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Shannon Potter",
+      "screen_name" : "LucasTizma",
+      "indices" : [ 0, 11 ],
+      "id_str" : "70977717",
+      "id" : 70977717
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "478213307870896128",
+  "geo" : { },
+  "id_str" : "478240168793481216",
+  "in_reply_to_user_id" : 70977717,
+  "text" : "@LucasTizma Which thumbnails?",
+  "id" : 478240168793481216,
+  "in_reply_to_status_id" : 478213307870896128,
+  "created_at" : "2014-06-15 18:18:36 +0000",
+  "in_reply_to_screen_name" : "LucasTizma",
+  "in_reply_to_user_id_str" : "70977717",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Chris Eidhof",
+      "screen_name" : "chriseidhof",
+      "indices" : [ 0, 12 ],
+      "id_str" : "4295181",
+      "id" : 4295181
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "478171324901523456",
+  "geo" : { },
+  "id_str" : "478196376749477888",
+  "in_reply_to_user_id" : 4295181,
+  "text" : "@chriseidhof Would buy",
+  "id" : 478196376749477888,
+  "in_reply_to_status_id" : 478171324901523456,
+  "created_at" : "2014-06-15 15:24:35 +0000",
+  "in_reply_to_screen_name" : "chriseidhof",
+  "in_reply_to_user_id_str" : "4295181",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Dan BRAAAAINSjamin",
+      "screen_name" : "danbenjamin",
+      "indices" : [ 0, 12 ],
+      "id_str" : "5905672",
+      "id" : 5905672
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "478170316423049216",
+  "geo" : { },
+  "id_str" : "478196337658572801",
+  "in_reply_to_user_id" : 5905672,
+  "text" : "@danbenjamin Sublime Text",
+  "id" : 478196337658572801,
+  "in_reply_to_status_id" : 478170316423049216,
+  "created_at" : "2014-06-15 15:24:26 +0000",
+  "in_reply_to_screen_name" : "danbenjamin",
+  "in_reply_to_user_id_str" : "5905672",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "MG Siegler",
+      "screen_name" : "parislemon",
+      "indices" : [ 0, 11 ],
+      "id_str" : "652193",
+      "id" : 652193
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477956624976314369",
+  "geo" : { },
+  "id_str" : "478040027197636608",
+  "in_reply_to_user_id" : 652193,
+  "text" : "@parislemon Also: different streams by experience. One for beginners that explains rules, an advanced one that doesn't point out the obvious",
+  "id" : 478040027197636608,
+  "in_reply_to_status_id" : 477956624976314369,
+  "created_at" : "2014-06-15 05:03:18 +0000",
+  "in_reply_to_screen_name" : "parislemon",
+  "in_reply_to_user_id_str" : "652193",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Klaas Pieter Annema",
+      "screen_name" : "klaaspieter",
+      "indices" : [ 0, 12 ],
+      "id_str" : "14197707",
+      "id" : 14197707
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477947067235835904",
+  "geo" : { },
+  "id_str" : "477952462578393088",
+  "in_reply_to_user_id" : 14197707,
+  "text" : "@klaaspieter Yeah, ice hockey. NHL though, not international.",
+  "id" : 477952462578393088,
+  "in_reply_to_status_id" : 477947067235835904,
+  "created_at" : "2014-06-14 23:15:21 +0000",
+  "in_reply_to_screen_name" : "klaaspieter",
+  "in_reply_to_user_id_str" : "14197707",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Klaas Pieter Annema",
+      "screen_name" : "klaaspieter",
+      "indices" : [ 0, 12 ],
+      "id_str" : "14197707",
+      "id" : 14197707
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477945864087142401",
+  "geo" : { },
+  "id_str" : "477945962103455744",
+  "in_reply_to_user_id" : 14197707,
+  "text" : "@klaaspieter Most likely hockey",
+  "id" : 477945962103455744,
+  "in_reply_to_status_id" : 477945864087142401,
+  "created_at" : "2014-06-14 22:49:31 +0000",
+  "in_reply_to_screen_name" : "klaaspieter",
+  "in_reply_to_user_id_str" : "14197707",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Klaas Pieter Annema",
+      "screen_name" : "klaaspieter",
+      "indices" : [ 0, 12 ],
+      "id_str" : "14197707",
+      "id" : 14197707
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477929012900401152",
+  "geo" : { },
+  "id_str" : "477940544488759296",
+  "in_reply_to_user_id" : 14197707,
+  "text" : "@klaaspieter Desperate times",
+  "id" : 477940544488759296,
+  "in_reply_to_status_id" : 477929012900401152,
+  "created_at" : "2014-06-14 22:28:00 +0000",
+  "in_reply_to_screen_name" : "klaaspieter",
+  "in_reply_to_user_id_str" : "14197707",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Justin Booooober",
+      "screen_name" : "justin",
+      "indices" : [ 0, 7 ],
+      "id_str" : "929",
+      "id" : 929
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477911824638038017",
+  "geo" : { },
+  "id_str" : "477912189810925568",
+  "in_reply_to_user_id" : 929,
+  "text" : "@justin Not everyone I follow will feel compelled to go out of their way to annoy me!",
+  "id" : 477912189810925568,
+  "in_reply_to_status_id" : 477911824638038017,
+  "created_at" : "2014-06-14 20:35:19 +0000",
+  "in_reply_to_screen_name" : "justin",
+  "in_reply_to_user_id_str" : "929",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Social Mute Filters",
+      "screen_name" : "MuteSocial",
+      "indices" : [ 5, 16 ],
+      "id_str" : "2411594702",
+      "id" : 2411594702
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "477911378162774016",
+  "text" : "Epic @mutesocial World Cup mute filter applied, let's see how well this thing works.",
+  "id" : 477911378162774016,
+  "created_at" : "2014-06-14 20:32:06 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Klaas Pieter Annema",
+      "screen_name" : "klaaspieter",
+      "indices" : [ 0, 12 ],
+      "id_str" : "14197707",
+      "id" : 14197707
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477889844295655425",
+  "geo" : { },
+  "id_str" : "477890614814441472",
+  "in_reply_to_user_id" : 14197707,
+  "text" : "@klaaspieter I'm mostly in the same boat since I don't care about soccer at all. But I'm empathetic since I do care about other sports.",
+  "id" : 477890614814441472,
+  "in_reply_to_status_id" : 477889844295655425,
+  "created_at" : "2014-06-14 19:09:36 +0000",
+  "in_reply_to_screen_name" : "klaaspieter",
+  "in_reply_to_user_id_str" : "14197707",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Klaas Pieter Annema",
+      "screen_name" : "klaaspieter",
+      "indices" : [ 0, 12 ],
+      "id_str" : "14197707",
+      "id" : 14197707
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477850141987057664",
+  "geo" : { },
+  "id_str" : "477886868424359938",
+  "in_reply_to_user_id" : 14197707,
+  "text" : "@klaaspieter Pretty sure a large majority of people who care about the World Cup are not American",
+  "id" : 477886868424359938,
+  "in_reply_to_status_id" : 477850141987057664,
+  "created_at" : "2014-06-14 18:54:42 +0000",
+  "in_reply_to_screen_name" : "klaaspieter",
+  "in_reply_to_user_id_str" : "14197707",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "477671219815149569",
+  "text" : "Three OT losses in five games is hard to swallow. Kings were the better team but NYR had plenty of opportunities and just couldn't finish.",
+  "id" : 477671219815149569,
+  "created_at" : "2014-06-14 04:37:48 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Paul Mayne",
+      "screen_name" : "paulmayne",
+      "indices" : [ 0, 10 ],
+      "id_str" : "51373",
+      "id" : 51373
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477669210144120832",
+  "geo" : { },
+  "id_str" : "477670561091301376",
+  "in_reply_to_user_id" : 51373,
+  "text" : "@paulmayne It's an under-appreciated gem of a sport",
+  "id" : 477670561091301376,
+  "in_reply_to_status_id" : 477669210144120832,
+  "created_at" : "2014-06-14 04:35:11 +0000",
+  "in_reply_to_screen_name" : "paulmayne",
+  "in_reply_to_user_id_str" : "51373",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Ryan Sarver",
+      "screen_name" : "rsarver",
+      "indices" : [ 3, 11 ],
+      "id_str" : "795649",
+      "id" : 795649
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "477669277542010880",
+  "text" : "RT @rsarver: Lunqvist deserves Conn Smythe (Stanley Cup MVP). Rangers weren\u2019t in the series otherwise",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "477668982401429504",
+    "text" : "Lunqvist deserves Conn Smythe (Stanley Cup MVP). Rangers weren\u2019t in the series otherwise",
+    "id" : 477668982401429504,
+    "created_at" : "2014-06-14 04:28:54 +0000",
+    "user" : {
+      "name" : "Ryan Sarver",
+      "screen_name" : "rsarver",
+      "protected" : false,
+      "id_str" : "795649",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477679945678741504\/k1qS6ruv_normal.jpeg",
+      "id" : 795649,
+      "verified" : false
+    }
+  },
+  "id" : 477669277542010880,
+  "created_at" : "2014-06-14 04:30:05 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "New York Rangers",
+      "screen_name" : "NYRangers",
+      "indices" : [ 13, 23 ],
+      "id_str" : "20264905",
+      "id" : 20264905
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "477669218683338752",
+  "text" : "Great season @NYRangers. Feeling good about 2034!",
+  "id" : 477669218683338752,
+  "created_at" : "2014-06-14 04:29:51 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Ryan Sarver",
+      "screen_name" : "rsarver",
+      "indices" : [ 0, 8 ],
+      "id_str" : "795649",
+      "id" : 795649
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477659163925811201",
+  "geo" : { },
+  "id_str" : "477659273028067329",
+  "in_reply_to_user_id" : 795649,
+  "text" : "@rsarver He should demand a new offense",
+  "id" : 477659273028067329,
+  "in_reply_to_status_id" : 477659163925811201,
+  "created_at" : "2014-06-14 03:50:19 +0000",
+  "in_reply_to_screen_name" : "rsarver",
+  "in_reply_to_user_id_str" : "795649",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "MG Siegler",
+      "screen_name" : "parislemon",
+      "indices" : [ 0, 11 ],
+      "id_str" : "652193",
+      "id" : 652193
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477657265286021121",
+  "geo" : { },
+  "id_str" : "477657747404496897",
+  "in_reply_to_user_id" : 652193,
+  "text" : "@parislemon Ugh",
+  "id" : 477657747404496897,
+  "in_reply_to_status_id" : 477657265286021121,
+  "created_at" : "2014-06-14 03:44:16 +0000",
+  "in_reply_to_screen_name" : "parislemon",
+  "in_reply_to_user_id_str" : "652193",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Ryan Sarver",
+      "screen_name" : "rsarver",
+      "indices" : [ 0, 8 ],
+      "id_str" : "795649",
+      "id" : 795649
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477653850053033984",
+  "geo" : { },
+  "id_str" : "477653979766071296",
+  "in_reply_to_user_id" : 795649,
+  "text" : "@rsarver Richards had a chance and didn\u2019t one-time it. Unforgivable.",
+  "id" : 477653979766071296,
+  "in_reply_to_status_id" : 477653850053033984,
+  "created_at" : "2014-06-14 03:29:17 +0000",
+  "in_reply_to_screen_name" : "rsarver",
+  "in_reply_to_user_id_str" : "795649",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Ryan Sarver",
+      "screen_name" : "rsarver",
+      "indices" : [ 0, 8 ],
+      "id_str" : "795649",
+      "id" : 795649
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477653180172349440",
+  "geo" : { },
+  "id_str" : "477653735452049408",
+  "in_reply_to_user_id" : 795649,
+  "text" : "@rsarver Despite being woefully outplayed, Rangers have had OT chances and just can\u2019t get it done. Sigh.",
+  "id" : 477653735452049408,
+  "in_reply_to_status_id" : 477653180172349440,
+  "created_at" : "2014-06-14 03:28:19 +0000",
+  "in_reply_to_screen_name" : "rsarver",
+  "in_reply_to_user_id_str" : "795649",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "477652813887991808",
+  "text" : "Richards not one-timing that shot is unforgivable.",
+  "id" : 477652813887991808,
+  "created_at" : "2014-06-14 03:24:39 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Ryan Sarver",
+      "screen_name" : "rsarver",
+      "indices" : [ 0, 8 ],
+      "id_str" : "795649",
+      "id" : 795649
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477648288972541953",
+  "geo" : { },
+  "id_str" : "477649165376188416",
+  "in_reply_to_user_id" : 795649,
+  "text" : "@rsarver \uD83D\uDE2D",
+  "id" : 477649165376188416,
+  "in_reply_to_status_id" : 477648288972541953,
+  "created_at" : "2014-06-14 03:10:09 +0000",
+  "in_reply_to_screen_name" : "rsarver",
+  "in_reply_to_user_id_str" : "795649",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Justin Booooober",
+      "screen_name" : "justin",
+      "indices" : [ 0, 7 ],
+      "id_str" : "929",
+      "id" : 929
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477647000696287232",
+  "geo" : { },
+  "id_str" : "477649040184590336",
+  "in_reply_to_user_id" : 929,
+  "text" : "@justin \uD83D\uDE21",
+  "id" : 477649040184590336,
+  "in_reply_to_status_id" : 477647000696287232,
+  "created_at" : "2014-06-14 03:09:40 +0000",
+  "in_reply_to_screen_name" : "justin",
+  "in_reply_to_user_id_str" : "929",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Danny",
+      "screen_name" : "calladan999",
+      "indices" : [ 0, 12 ],
+      "id_str" : "233807199",
+      "id" : 233807199
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477644082760544258",
+  "geo" : { },
+  "id_str" : "477646532619952128",
+  "in_reply_to_user_id" : 233807199,
+  "text" : "@calladan999 Richards",
+  "id" : 477646532619952128,
+  "in_reply_to_status_id" : 477644082760544258,
+  "created_at" : "2014-06-14 02:59:42 +0000",
+  "in_reply_to_screen_name" : "calladan999",
+  "in_reply_to_user_id_str" : "233807199",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "477640839783796736",
+  "text" : "Just an awful call on that penalty. Plays like that need to be reviewable folks.",
+  "id" : 477640839783796736,
+  "created_at" : "2014-06-14 02:37:05 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Matthew Panzarino",
+      "screen_name" : "panzer",
+      "indices" : [ 0, 7 ],
+      "id_str" : "19312115",
+      "id" : 19312115
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477571856447201280",
+  "geo" : { },
+  "id_str" : "477582735137964032",
+  "in_reply_to_user_id" : 19312115,
+  "text" : "@panzer Makes me so angry",
+  "id" : 477582735137964032,
+  "in_reply_to_status_id" : 477571856447201280,
+  "created_at" : "2014-06-13 22:46:11 +0000",
+  "in_reply_to_screen_name" : "panzer",
+  "in_reply_to_user_id_str" : "19312115",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Mark Gurman",
+      "screen_name" : "markgurman",
+      "indices" : [ 0, 11 ],
+      "id_str" : "15958614",
+      "id" : 15958614
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477509782186622976",
+  "geo" : { },
+  "id_str" : "477540506277535744",
+  "in_reply_to_user_id" : 15958614,
+  "text" : "@markgurman Just like the new desktop Photos.app replaces iPhoto, a new Music.app with Beats + iTunes Match\/Radio should replace iTunes.",
+  "id" : 477540506277535744,
+  "in_reply_to_status_id" : 477509782186622976,
+  "created_at" : "2014-06-13 19:58:23 +0000",
+  "in_reply_to_screen_name" : "markgurman",
+  "in_reply_to_user_id_str" : "15958614",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 116, 138 ],
+      "url" : "http:\/\/t.co\/Vtjse84jOw",
+      "expanded_url" : "http:\/\/fivethirtyeight.com\/burrito\/#brackets-view",
+      "display_url" : "fivethirtyeight.com\/burrito\/#brack\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "477535008484491264",
+  "text" : "Who do you like in the tournament this year? Pulling for hometown\/college favorites Anna\u2019s Taqueria and Tres Carnes http:\/\/t.co\/Vtjse84jOw",
+  "id" : 477535008484491264,
+  "created_at" : "2014-06-13 19:36:32 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Benny Wong",
+      "screen_name" : "bdotdub",
+      "indices" : [ 0, 8 ],
+      "id_str" : "3032241",
+      "id" : 3032241
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477497970577776640",
+  "geo" : { },
+  "id_str" : "477521167000276992",
+  "in_reply_to_user_id" : 3032241,
+  "text" : "@bdotdub Maybe not the best but Murray\u2019s is very good.",
+  "id" : 477521167000276992,
+  "in_reply_to_status_id" : 477497970577776640,
+  "created_at" : "2014-06-13 18:41:32 +0000",
+  "in_reply_to_screen_name" : "bdotdub",
+  "in_reply_to_user_id_str" : "3032241",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "1Password",
+      "screen_name" : "1Password",
+      "indices" : [ 0, 10 ],
+      "id_str" : "793926",
+      "id" : 793926
+    }, {
+      "name" : "Matt Galligan",
+      "screen_name" : "mg",
+      "indices" : [ 11, 14 ],
+      "id_str" : "607",
+      "id" : 607
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477520287869575169",
+  "geo" : { },
+  "id_str" : "477520651218350080",
+  "in_reply_to_user_id" : 793926,
+  "text" : "@1Password @mg Good luck. Shame that custom keyboards can\u2019t type into secure fields\/extensions are only accessible via activity controller.",
+  "id" : 477520651218350080,
+  "in_reply_to_status_id" : 477520287869575169,
+  "created_at" : "2014-06-13 18:39:29 +0000",
+  "in_reply_to_screen_name" : "1Password",
+  "in_reply_to_user_id_str" : "793926",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Ryan Jones",
+      "screen_name" : "rjonesy",
+      "indices" : [ 0, 8 ],
+      "id_str" : "14710664",
+      "id" : 14710664
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477512139435823104",
+  "geo" : { },
+  "id_str" : "477512335192367105",
+  "in_reply_to_user_id" : 14710664,
+  "text" : "@rjonesy I know that *your* tweet was about Touch ID, but the article I linked to is not.",
+  "id" : 477512335192367105,
+  "in_reply_to_status_id" : 477512139435823104,
+  "created_at" : "2014-06-13 18:06:27 +0000",
+  "in_reply_to_screen_name" : "rjonesy",
+  "in_reply_to_user_id_str" : "14710664",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Ryan Jones",
+      "screen_name" : "rjonesy",
+      "indices" : [ 0, 8 ],
+      "id_str" : "14710664",
+      "id" : 14710664
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477511729815891968",
+  "geo" : { },
+  "id_str" : "477511894698168320",
+  "in_reply_to_user_id" : 14710664,
+  "text" : "@rjonesy This doesn\u2019t have anything to do with Touch ID though, I don\u2019t think?",
+  "id" : 477511894698168320,
+  "in_reply_to_status_id" : 477511729815891968,
+  "created_at" : "2014-06-13 18:04:42 +0000",
+  "in_reply_to_screen_name" : "rjonesy",
+  "in_reply_to_user_id_str" : "14710664",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Ryan Jones",
+      "screen_name" : "rjonesy",
+      "indices" : [ 0, 8 ],
+      "id_str" : "14710664",
+      "id" : 14710664
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477511429516320768",
+  "geo" : { },
+  "id_str" : "477511569341825024",
+  "in_reply_to_user_id" : 14710664,
+  "text" : "@rjonesy That slide says nothing about third-party apps being able to access Safari\u2019s keychain.",
+  "id" : 477511569341825024,
+  "in_reply_to_status_id" : 477511429516320768,
+  "created_at" : "2014-06-13 18:03:24 +0000",
+  "in_reply_to_screen_name" : "rjonesy",
+  "in_reply_to_user_id_str" : "14710664",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Nick Arnott",
+      "screen_name" : "noir",
+      "indices" : [ 0, 5 ],
+      "id_str" : "11677062",
+      "id" : 11677062
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477507319551381504",
+  "geo" : { },
+  "id_str" : "477507427101732864",
+  "in_reply_to_user_id" : 11677062,
+  "text" : "@noir Some people just want to watch the world burn.",
+  "id" : 477507427101732864,
+  "in_reply_to_status_id" : 477507319551381504,
+  "created_at" : "2014-06-13 17:46:56 +0000",
+  "in_reply_to_screen_name" : "noir",
+  "in_reply_to_user_id_str" : "11677062",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Nick Arnott",
+      "screen_name" : "noir",
+      "indices" : [ 0, 5 ],
+      "id_str" : "11677062",
+      "id" : 11677062
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477506917288259585",
+  "geo" : { },
+  "id_str" : "477507130686054400",
+  "in_reply_to_user_id" : 11677062,
+  "text" : "@noir Yeah, that is definitely true.",
+  "id" : 477507130686054400,
+  "in_reply_to_status_id" : 477506917288259585,
+  "created_at" : "2014-06-13 17:45:46 +0000",
+  "in_reply_to_screen_name" : "noir",
+  "in_reply_to_user_id_str" : "11677062",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Nick Arnott",
+      "screen_name" : "noir",
+      "indices" : [ 0, 5 ],
+      "id_str" : "11677062",
+      "id" : 11677062
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477506488882036736",
+  "geo" : { },
+  "id_str" : "477506837793611776",
+  "in_reply_to_user_id" : 11677062,
+  "text" : "@noir Thankfully I don\u2019t think I use that many apps like this. What are some bad offenders?",
+  "id" : 477506837793611776,
+  "in_reply_to_status_id" : 477506488882036736,
+  "created_at" : "2014-06-13 17:44:36 +0000",
+  "in_reply_to_screen_name" : "noir",
+  "in_reply_to_user_id_str" : "11677062",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Matt Galligan",
+      "screen_name" : "mg",
+      "indices" : [ 0, 3 ],
+      "id_str" : "607",
+      "id" : 607
+    }, {
+      "name" : "1Password",
+      "screen_name" : "1Password",
+      "indices" : [ 40, 50 ],
+      "id_str" : "793926",
+      "id" : 793926
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477506123419758594",
+  "geo" : { },
+  "id_str" : "477506751403933696",
+  "in_reply_to_user_id" : 607,
+  "text" : "@mg But: create account on desktop, use @1Password to create account\/sign in, gets saved in Safari keychain, can now easily log in on iOS.",
+  "id" : 477506751403933696,
+  "in_reply_to_status_id" : 477506123419758594,
+  "created_at" : "2014-06-13 17:44:15 +0000",
+  "in_reply_to_screen_name" : "mg",
+  "in_reply_to_user_id_str" : "607",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Matt Galligan",
+      "screen_name" : "mg",
+      "indices" : [ 0, 3 ],
+      "id_str" : "607",
+      "id" : 607
+    }, {
+      "name" : "1Password",
+      "screen_name" : "1Password",
+      "indices" : [ 95, 105 ],
+      "id_str" : "793926",
+      "id" : 793926
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477506123419758594",
+  "geo" : { },
+  "id_str" : "477506462504062976",
+  "in_reply_to_user_id" : 607,
+  "text" : "@mg Yeah, I\u2019m holding out hope but am worried that iOS 8 extensions aren\u2019t flexible enough for @1Password to do what we all want it to.",
+  "id" : 477506462504062976,
+  "in_reply_to_status_id" : 477506123419758594,
+  "created_at" : "2014-06-13 17:43:06 +0000",
+  "in_reply_to_screen_name" : "mg",
+  "in_reply_to_user_id_str" : "607",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 14, 36 ],
+      "url" : "http:\/\/t.co\/XPbxOvGkps",
+      "expanded_url" : "http:\/\/9to5mac.com\/2014\/06\/13\/ios-8-lets-apps-access-safari-autofill-credentials-for-quick-easy-login\/",
+      "display_url" : "9to5mac.com\/2014\/06\/13\/ios\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "477505424111833090",
+  "text" : "This is huge: http:\/\/t.co\/XPbxOvGkps",
+  "id" : 477505424111833090,
+  "created_at" : "2014-06-13 17:38:59 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Martin De Wulf",
+      "screen_name" : "madewulf",
+      "indices" : [ 0, 9 ],
+      "id_str" : "19015006",
+      "id" : 19015006
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477447416820817920",
+  "geo" : { },
+  "id_str" : "477447570935926785",
+  "in_reply_to_user_id" : 19015006,
+  "text" : "@madewulf The original author doesn\u2019t work here anymore and I need to do a better job of staying on top of issues. But I would say to use it",
+  "id" : 477447570935926785,
+  "in_reply_to_status_id" : 477447416820817920,
+  "created_at" : "2014-06-13 13:49:06 +0000",
+  "in_reply_to_screen_name" : "madewulf",
+  "in_reply_to_user_id_str" : "19015006",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Martin De Wulf",
+      "screen_name" : "madewulf",
+      "indices" : [ 0, 9 ],
+      "id_str" : "19015006",
+      "id" : 19015006
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477446762660376576",
+  "geo" : { },
+  "id_str" : "477446891349614593",
+  "in_reply_to_user_id" : 19015006,
+  "text" : "@madewulf It is still used, but admittedly hasn\u2019t been much of a priority \uD83D\uDE15. What issue are you having specifically?",
+  "id" : 477446891349614593,
+  "in_reply_to_status_id" : 477446762660376576,
+  "created_at" : "2014-06-13 13:46:24 +0000",
+  "in_reply_to_screen_name" : "madewulf",
+  "in_reply_to_user_id_str" : "19015006",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Rick Webb",
+      "screen_name" : "RickWebb",
+      "indices" : [ 0, 9 ],
+      "id_str" : "761628",
+      "id" : 761628
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477209230089269248",
+  "geo" : { },
+  "id_str" : "477317234834960384",
+  "in_reply_to_user_id" : 761628,
+  "text" : "@RickWebb Congrats Rick!",
+  "id" : 477317234834960384,
+  "in_reply_to_status_id" : 477209230089269248,
+  "created_at" : "2014-06-13 05:11:11 +0000",
+  "in_reply_to_screen_name" : "RickWebb",
+  "in_reply_to_user_id_str" : "761628",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Caleb Davenport",
+      "screen_name" : "calebd",
+      "indices" : [ 0, 7 ],
+      "id_str" : "17641648",
+      "id" : 17641648
+    }, {
+      "name" : "Sam Soffes",
+      "screen_name" : "soffes",
+      "indices" : [ 8, 15 ],
+      "id_str" : "6154602",
+      "id" : 6154602
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477116911734382592",
+  "geo" : { },
+  "id_str" : "477201125423063040",
+  "in_reply_to_user_id" : 17641648,
+  "text" : "@calebd @soffes I know why they do it, I just think that something\u2019s gotta give here. Playing audio without visual indication sucks.",
+  "id" : 477201125423063040,
+  "in_reply_to_status_id" : 477116911734382592,
+  "created_at" : "2014-06-12 21:29:48 +0000",
+  "in_reply_to_screen_name" : "calebd",
+  "in_reply_to_user_id_str" : "17641648",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jacob Bijani",
+      "screen_name" : "jcb",
+      "indices" : [ 0, 4 ],
+      "id_str" : "16448517",
+      "id" : 16448517
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477140216634175488",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 40.7393584821, -73.9881281798 ]
+  },
+  "id_str" : "477198186939817985",
+  "in_reply_to_user_id" : 16448517,
+  "text" : "@jcb What lang. is that? Ruby?",
+  "id" : 477198186939817985,
+  "in_reply_to_status_id" : 477140216634175488,
+  "created_at" : "2014-06-12 21:18:08 +0000",
+  "in_reply_to_screen_name" : "jcb",
+  "in_reply_to_user_id_str" : "16448517",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Klaas Pieter Annema",
+      "screen_name" : "klaaspieter",
+      "indices" : [ 0, 12 ],
+      "id_str" : "14197707",
+      "id" : 14197707
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477081831981203456",
+  "geo" : { },
+  "id_str" : "477098950328348674",
+  "in_reply_to_user_id" : 14197707,
+  "text" : "@klaaspieter Swift may be more complex but I feel like some of it\u2019s complexity might be the kind that feels rewarding to learn.",
+  "id" : 477098950328348674,
+  "in_reply_to_status_id" : 477081831981203456,
+  "created_at" : "2014-06-12 14:43:48 +0000",
+  "in_reply_to_screen_name" : "klaaspieter",
+  "in_reply_to_user_id_str" : "14197707",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Drew McCormack",
+      "screen_name" : "drewmccormack",
+      "indices" : [ 0, 14 ],
+      "id_str" : "1793681",
+      "id" : 1793681
+    }, {
+      "name" : "Slash Furrow",
+      "screen_name" : "ashfurrow",
+      "indices" : [ 15, 25 ],
+      "id_str" : "15536268",
+      "id" : 15536268
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477089928283967488",
+  "geo" : { },
+  "id_str" : "477090254965702656",
+  "in_reply_to_user_id" : 1793681,
+  "text" : "@drewmccormack @ashfurrow My take: Swift is more complex but much complexity can be deferred, while pointers\/primitives can\u2019t be.",
+  "id" : 477090254965702656,
+  "in_reply_to_status_id" : 477089928283967488,
+  "created_at" : "2014-06-12 14:09:15 +0000",
+  "in_reply_to_screen_name" : "drewmccormack",
+  "in_reply_to_user_id_str" : "1793681",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Drew McCormack",
+      "screen_name" : "drewmccormack",
+      "indices" : [ 0, 14 ],
+      "id_str" : "1793681",
+      "id" : 1793681
+    }, {
+      "name" : "Slash Furrow",
+      "screen_name" : "ashfurrow",
+      "indices" : [ 67, 77 ],
+      "id_str" : "15536268",
+      "id" : 15536268
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477004219485278208",
+  "geo" : { },
+  "id_str" : "477089522044665857",
+  "in_reply_to_user_id" : 1793681,
+  "text" : "@drewmccormack People seem quite divided on this. Was talking with @ashfurrow about this yesterday, we both respectfully disagree with you.",
+  "id" : 477089522044665857,
+  "in_reply_to_status_id" : 477004219485278208,
+  "created_at" : "2014-06-12 14:06:20 +0000",
+  "in_reply_to_screen_name" : "drewmccormack",
+  "in_reply_to_user_id_str" : "1793681",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Joe Schmitt",
+      "screen_name" : "josephschmitt",
+      "indices" : [ 0, 14 ],
+      "id_str" : "5777542",
+      "id" : 5777542
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "476971309298376704",
+  "geo" : { },
+  "id_str" : "477088838951899136",
+  "in_reply_to_user_id" : 5777542,
+  "text" : "@josephschmitt We made Tumblr.app blog avatars throwable too. Why not?",
+  "id" : 477088838951899136,
+  "in_reply_to_status_id" : 476971309298376704,
+  "created_at" : "2014-06-12 14:03:37 +0000",
+  "in_reply_to_screen_name" : "josephschmitt",
+  "in_reply_to_user_id_str" : "5777542",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Phillip Bowden",
+      "screen_name" : "pbowden",
+      "indices" : [ 0, 8 ],
+      "id_str" : "2134761",
+      "id" : 2134761
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "477078384514961408",
+  "in_reply_to_user_id" : 2134761,
+  "text" : "@pbowden Screenshot of a Tumblr screenshot posted on Instagram?",
+  "id" : 477078384514961408,
+  "created_at" : "2014-06-12 13:22:05 +0000",
+  "in_reply_to_screen_name" : "pbowden",
+  "in_reply_to_user_id_str" : "2134761",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Spooky Streza",
+      "screen_name" : "SteveStreza",
+      "indices" : [ 0, 12 ],
+      "id_str" : "658643",
+      "id" : 658643
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "476915606332403713",
+  "geo" : { },
+  "id_str" : "477057200473800704",
+  "in_reply_to_user_id" : 658643,
+  "text" : "@SteveStreza Such page control",
+  "id" : 477057200473800704,
+  "in_reply_to_status_id" : 476915606332403713,
+  "created_at" : "2014-06-12 11:57:54 +0000",
+  "in_reply_to_screen_name" : "SteveStreza",
+  "in_reply_to_user_id_str" : "658643",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Matthew Bischoff",
+      "screen_name" : "mb",
+      "indices" : [ 0, 3 ],
+      "id_str" : "5107",
+      "id" : 5107
+    }, {
+      "name" : "John Gruber",
+      "screen_name" : "gruber",
+      "indices" : [ 4, 11 ],
+      "id_str" : "33423",
+      "id" : 33423
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "476898336788602880",
+  "geo" : { },
+  "id_str" : "477055714016636929",
+  "in_reply_to_user_id" : 5107,
+  "text" : "@mb @gruber Phone?!",
+  "id" : 477055714016636929,
+  "in_reply_to_status_id" : 476898336788602880,
+  "created_at" : "2014-06-12 11:52:00 +0000",
+  "in_reply_to_screen_name" : "mb",
+  "in_reply_to_user_id_str" : "5107",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Justin Booooober",
+      "screen_name" : "justin",
+      "indices" : [ 0, 7 ],
+      "id_str" : "929",
+      "id" : 929
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "476880439458541568",
+  "geo" : { },
+  "id_str" : "477053798792589312",
+  "in_reply_to_user_id" : 929,
+  "text" : "@justin Standing desks man",
+  "id" : 477053798792589312,
+  "in_reply_to_status_id" : 476880439458541568,
+  "created_at" : "2014-06-12 11:44:23 +0000",
+  "in_reply_to_screen_name" : "justin",
+  "in_reply_to_user_id_str" : "929",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Rounak Jain",
+      "screen_name" : "r0unak",
+      "indices" : [ 0, 7 ],
+      "id_str" : "17712725",
+      "id" : 17712725
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "476980700466249728",
+  "geo" : { },
+  "id_str" : "477044809476362241",
+  "in_reply_to_user_id" : 17712725,
+  "text" : "@r0unak My pleasure - nice work.",
+  "id" : 477044809476362241,
+  "in_reply_to_status_id" : 476980700466249728,
+  "created_at" : "2014-06-12 11:08:40 +0000",
+  "in_reply_to_screen_name" : "r0unak",
+  "in_reply_to_user_id_str" : "17712725",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Caleb Davenport",
+      "screen_name" : "calebd",
+      "indices" : [ 0, 7 ],
+      "id_str" : "17641648",
+      "id" : 17641648
+    }, {
+      "name" : "Sam Soffes",
+      "screen_name" : "soffes",
+      "indices" : [ 8, 15 ],
+      "id_str" : "6154602",
+      "id" : 6154602
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "476945003676061696",
+  "geo" : { },
+  "id_str" : "477044470698237952",
+  "in_reply_to_user_id" : 17641648,
+  "text" : "@calebd @soffes They shouldn\u2019t override the mute switch at all since they can\u2019t visually indicate that an Instagram thumbnail is a video.",
+  "id" : 477044470698237952,
+  "in_reply_to_status_id" : 476945003676061696,
+  "created_at" : "2014-06-12 11:07:19 +0000",
+  "in_reply_to_screen_name" : "calebd",
+  "in_reply_to_user_id_str" : "17641648",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Andreas Linde",
+      "screen_name" : "therealkerni",
+      "indices" : [ 0, 13 ],
+      "id_str" : "5805172",
+      "id" : 5805172
+    }, {
+      "name" : "Saul Mora",
+      "screen_name" : "casademora",
+      "indices" : [ 14, 25 ],
+      "id_str" : "14212878",
+      "id" : 14212878
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "477014349991919616",
+  "geo" : { },
+  "id_str" : "477043962570883072",
+  "in_reply_to_user_id" : 5805172,
+  "text" : "@therealkerni @casademora It is, but it\u2019d be nice to at least see the symbolicated call stack without having to do this first.",
+  "id" : 477043962570883072,
+  "in_reply_to_status_id" : 477014349991919616,
+  "created_at" : "2014-06-12 11:05:18 +0000",
+  "in_reply_to_screen_name" : "therealkerni",
+  "in_reply_to_user_id_str" : "5805172",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Sam Soffes",
+      "screen_name" : "soffes",
+      "indices" : [ 0, 7 ],
+      "id_str" : "6154602",
+      "id" : 6154602
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "476942239302565888",
+  "geo" : { },
+  "id_str" : "476942459491336192",
+  "in_reply_to_user_id" : 6154602,
+  "text" : "@soffes Yep. Just tapped one while laying in bed and probably scared my sleeping fianc\u00E9 half to death.",
+  "id" : 476942459491336192,
+  "in_reply_to_status_id" : 476942239302565888,
+  "created_at" : "2014-06-12 04:21:58 +0000",
+  "in_reply_to_screen_name" : "soffes",
+  "in_reply_to_user_id_str" : "6154602",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Andreas Linde",
+      "screen_name" : "therealkerni",
+      "indices" : [ 0, 13 ],
+      "id_str" : "5805172",
+      "id" : 5805172
+    }, {
+      "name" : "Saul Mora",
+      "screen_name" : "casademora",
+      "indices" : [ 14, 25 ],
+      "id_str" : "14212878",
+      "id" : 14212878
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "476818953701191682",
+  "geo" : { },
+  "id_str" : "476941344779567104",
+  "in_reply_to_user_id" : 5805172,
+  "text" : "@therealkerni @casademora It requires me to manually associate a commit with the build, where the website doesn\u2019t.",
+  "id" : 476941344779567104,
+  "in_reply_to_status_id" : 476818953701191682,
+  "created_at" : "2014-06-12 04:17:32 +0000",
+  "in_reply_to_screen_name" : "therealkerni",
+  "in_reply_to_user_id_str" : "5805172",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Tweetbot by Tapbots",
+      "screen_name" : "tweetbot",
+      "indices" : [ 3, 12 ],
+      "id_str" : "274626857",
+      "id" : 274626857
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "476938500668162048",
+  "text" : "So @tweetbot absolutely needs to NOT override the iOS mute switch if Instagram video thumbnails with audio are indistinguishable from photos",
+  "id" : 476938500668162048,
+  "created_at" : "2014-06-12 04:06:14 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Collin Donnell",
+      "screen_name" : "collindonnell",
+      "indices" : [ 0, 14 ],
+      "id_str" : "9943872",
+      "id" : 9943872
+    }, {
+      "name" : "Slash Furrow",
+      "screen_name" : "ashfurrow",
+      "indices" : [ 15, 25 ],
+      "id_str" : "15536268",
+      "id" : 15536268
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "476935348400824320",
+  "geo" : { },
+  "id_str" : "476935879307825152",
+  "in_reply_to_user_id" : 21626062,
+  "text" : "@collindonnell @ashfurrow Objective-C has oddities that must be understood upfront, e.g. why are only some variables prefixed with \u201C*\u201D?",
+  "id" : 476935879307825152,
+  "in_reply_to_status_id" : 476935348400824320,
+  "created_at" : "2014-06-12 03:55:49 +0000",
+  "in_reply_to_screen_name" : "irace",
+  "in_reply_to_user_id_str" : "21626062",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Collin Donnell",
+      "screen_name" : "collindonnell",
+      "indices" : [ 0, 14 ],
+      "id_str" : "9943872",
+      "id" : 9943872
+    }, {
+      "name" : "Slash Furrow",
+      "screen_name" : "ashfurrow",
+      "indices" : [ 15, 25 ],
+      "id_str" : "15536268",
+      "id" : 15536268
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "476806147643437056",
+  "geo" : { },
+  "id_str" : "476935348400824320",
+  "in_reply_to_user_id" : 9943872,
+  "text" : "@collindonnell @ashfurrow Most of Swift\u2019s optional syntax is exactly that. You could write a fully functional app without knowing about it.",
+  "id" : 476935348400824320,
+  "in_reply_to_status_id" : 476806147643437056,
+  "created_at" : "2014-06-12 03:53:42 +0000",
+  "in_reply_to_screen_name" : "collindonnell",
+  "in_reply_to_user_id_str" : "9943872",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Kyle Baxter",
+      "screen_name" : "kbaxter",
+      "indices" : [ 0, 8 ],
+      "id_str" : "14149882",
+      "id" : 14149882
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "476857098433998848",
+  "geo" : { },
+  "id_str" : "476859314850656257",
+  "in_reply_to_user_id" : 14149882,
+  "text" : "@kbaxter \u263A\uFE0F",
+  "id" : 476859314850656257,
+  "in_reply_to_status_id" : 476857098433998848,
+  "created_at" : "2014-06-11 22:51:34 +0000",
+  "in_reply_to_screen_name" : "kbaxter",
+  "in_reply_to_user_id_str" : "14149882",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Adam Laiacano",
+      "screen_name" : "adamlaiacano",
+      "indices" : [ 0, 13 ],
+      "id_str" : "208789178",
+      "id" : 208789178
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "476750244294950913",
+  "geo" : { },
+  "id_str" : "476842913713123328",
+  "in_reply_to_user_id" : 208789178,
+  "text" : "@adamlaiacano Could probably just hardcode it to that and have it be accurate a majority of the time.",
+  "id" : 476842913713123328,
+  "in_reply_to_status_id" : 476750244294950913,
+  "created_at" : "2014-06-11 21:46:24 +0000",
+  "in_reply_to_screen_name" : "adamlaiacano",
+  "in_reply_to_user_id_str" : "208789178",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/irace\/status\/476842031072149505\/photo\/1",
+      "indices" : [ 69, 91 ],
+      "url" : "http:\/\/t.co\/bxA8RbSk1e",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/Bp4VTN_IQAQSZ3G.png",
+      "id_str" : "476842030463991812",
+      "id" : 476842030463991812,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bp4VTN_IQAQSZ3G.png",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1136,
+        "resize" : "fit",
+        "w" : 640
+      }, {
+        "h" : 1136,
+        "resize" : "fit",
+        "w" : 640
+      }, {
+        "h" : 1065,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 603,
+        "resize" : "fit",
+        "w" : 340
+      } ],
+      "display_url" : "pic.twitter.com\/bxA8RbSk1e"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "476842031072149505",
+  "text" : "Still so thrilled with how Tumblr blog customization looks on mobile http:\/\/t.co\/bxA8RbSk1e",
+  "id" : 476842031072149505,
+  "created_at" : "2014-06-11 21:42:54 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Peter Vidani",
+      "screen_name" : "pter",
+      "indices" : [ 0, 5 ],
+      "id_str" : "14472428",
+      "id" : 14472428
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "476841481953882113",
+  "geo" : { },
+  "id_str" : "476841654880854017",
+  "in_reply_to_user_id" : 14472428,
+  "text" : "@pter I\u2019ll allow it!",
+  "id" : 476841654880854017,
+  "in_reply_to_status_id" : 476841481953882113,
+  "created_at" : "2014-06-11 21:41:24 +0000",
+  "in_reply_to_screen_name" : "pter",
+  "in_reply_to_user_id_str" : "14472428",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Peter Vidani",
+      "screen_name" : "pter",
+      "indices" : [ 0, 5 ],
+      "id_str" : "14472428",
+      "id" : 14472428
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "476732176596480001",
+  "geo" : { },
+  "id_str" : "476837646761984000",
+  "in_reply_to_user_id" : 14472428,
+  "text" : "@pter Does it count as a selfie if you didn\u2019t take it? Would every photo be a selfie (of someone) if so?",
+  "id" : 476837646761984000,
+  "in_reply_to_status_id" : 476732176596480001,
+  "created_at" : "2014-06-11 21:25:28 +0000",
+  "in_reply_to_screen_name" : "pter",
+  "in_reply_to_user_id_str" : "14472428",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Matthew Bischoff",
+      "screen_name" : "mb",
+      "indices" : [ 0, 3 ],
+      "id_str" : "5107",
+      "id" : 5107
+    }, {
+      "name" : "Brian Capps",
+      "screen_name" : "bcapps",
+      "indices" : [ 4, 11 ],
+      "id_str" : "73963286",
+      "id" : 73963286
+    }, {
+      "name" : "Paul Bruneau",
+      "screen_name" : "ethicalpaul",
+      "indices" : [ 12, 24 ],
+      "id_str" : "14603404",
+      "id" : 14603404
+    }, {
+      "name" : "Chris Dzombak",
+      "screen_name" : "cdzombak",
+      "indices" : [ 25, 34 ],
+      "id_str" : "643083",
+      "id" : 643083
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "476834030902456320",
+  "geo" : { },
+  "id_str" : "476834202940637186",
+  "in_reply_to_user_id" : 5107,
+  "text" : "@mb @bcapps @ethicalpaul @cdzombak Fewer, even \u263A\uFE0F",
+  "id" : 476834202940637186,
+  "in_reply_to_status_id" : 476834030902456320,
+  "created_at" : "2014-06-11 21:11:47 +0000",
+  "in_reply_to_screen_name" : "mb",
+  "in_reply_to_user_id_str" : "5107",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Brian Capps",
+      "screen_name" : "bcapps",
+      "indices" : [ 0, 7 ],
+      "id_str" : "73963286",
+      "id" : 73963286
+    }, {
+      "name" : "Paul Bruneau",
+      "screen_name" : "ethicalpaul",
+      "indices" : [ 8, 20 ],
+      "id_str" : "14603404",
+      "id" : 14603404
+    }, {
+      "name" : "Matthew Bischoff",
+      "screen_name" : "mb",
+      "indices" : [ 21, 24 ],
+      "id_str" : "5107",
+      "id" : 5107
+    }, {
+      "name" : "Chris Dzombak",
+      "screen_name" : "cdzombak",
+      "indices" : [ 25, 34 ],
+      "id_str" : "643083",
+      "id" : 643083
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "476832850281783296",
+  "geo" : { },
+  "id_str" : "476833853194395648",
+  "in_reply_to_user_id" : 73963286,
+  "text" : "@bcapps @ethicalpaul @mb @cdzombak Having two different ways to send the same message was dumb. I for one welcome our new dot overlords.",
+  "id" : 476833853194395648,
+  "in_reply_to_status_id" : 476832850281783296,
+  "created_at" : "2014-06-11 21:10:24 +0000",
+  "in_reply_to_screen_name" : "bcapps",
+  "in_reply_to_user_id_str" : "73963286",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Myke Hurley",
+      "screen_name" : "imyke",
+      "indices" : [ 0, 6 ],
+      "id_str" : "763549",
+      "id" : 763549
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "476715798992801792",
+  "geo" : { },
+  "id_str" : "476831497849413632",
+  "in_reply_to_user_id" : 763549,
+  "text" : "@imyke I bet next week\u2019s will be even better.",
+  "id" : 476831497849413632,
+  "in_reply_to_status_id" : 476715798992801792,
+  "created_at" : "2014-06-11 21:01:02 +0000",
+  "in_reply_to_screen_name" : "imyke",
+  "in_reply_to_user_id_str" : "763549",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Caleb Davenport",
+      "screen_name" : "calebd",
+      "indices" : [ 0, 7 ],
+      "id_str" : "17641648",
+      "id" : 17641648
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "476823903772631040",
+  "geo" : { },
+  "id_str" : "476827972285255680",
+  "in_reply_to_user_id" : 21626062,
+  "text" : "@calebd Being able to attach custom metadata to properties\/classes\/etc. is super useful.",
+  "id" : 476827972285255680,
+  "in_reply_to_status_id" : 476823903772631040,
+  "created_at" : "2014-06-11 20:47:02 +0000",
+  "in_reply_to_screen_name" : "irace",
+  "in_reply_to_user_id_str" : "21626062",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Caleb Davenport",
+      "screen_name" : "calebd",
+      "indices" : [ 0, 7 ],
+      "id_str" : "17641648",
+      "id" : 17641648
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "476823705943683072",
+  "geo" : { },
+  "id_str" : "476823903772631040",
+  "in_reply_to_user_id" : 17641648,
+  "text" : "@calebd Yes but you can\u2019t implement your own annotation types",
+  "id" : 476823903772631040,
+  "in_reply_to_status_id" : 476823705943683072,
+  "created_at" : "2014-06-11 20:30:52 +0000",
+  "in_reply_to_screen_name" : "calebd",
+  "in_reply_to_user_id_str" : "17641648",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jared Sin lair",
+      "screen_name" : "jaredsinclair",
+      "indices" : [ 0, 14 ],
+      "id_str" : "15004156",
+      "id" : 15004156
+    }, {
+      "name" : "Tweetbot by Tapbots",
+      "screen_name" : "tweetbot",
+      "indices" : [ 35, 44 ],
+      "id_str" : "274626857",
+      "id" : 274626857
+    } ],
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/irace\/status\/476815032572182529\/photo\/1",
+      "indices" : [ 66, 88 ],
+      "url" : "http:\/\/t.co\/C5qpWrr8Ag",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/Bp38vrwIcAEbvi7.png",
+      "id_str" : "476815031699795969",
+      "id" : 476815031699795969,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Bp38vrwIcAEbvi7.png",
+      "sizes" : [ {
+        "h" : 343,
+        "resize" : "fit",
+        "w" : 546
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 343,
+        "resize" : "fit",
+        "w" : 546
+      }, {
+        "h" : 213,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 343,
+        "resize" : "fit",
+        "w" : 546
+      } ],
+      "display_url" : "pic.twitter.com\/C5qpWrr8Ag"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "476580171403636737",
+  "geo" : { },
+  "id_str" : "476815032572182529",
+  "in_reply_to_user_id" : 15004156,
+  "text" : "@jaredsinclair My favorite part of @tweetbot for OS X is this bug http:\/\/t.co\/C5qpWrr8Ag",
+  "id" : 476815032572182529,
+  "in_reply_to_status_id" : 476580171403636737,
+  "created_at" : "2014-06-11 19:55:37 +0000",
+  "in_reply_to_screen_name" : "jaredsinclair",
+  "in_reply_to_user_id_str" : "15004156",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jonathan Fallin",
+      "screen_name" : "JonFallin",
+      "indices" : [ 121, 131 ],
+      "id_str" : "485747296",
+      "id" : 485747296
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 94, 116 ],
+      "url" : "http:\/\/t.co\/f3EedBPMgx",
+      "expanded_url" : "http:\/\/www.stripesframework.org\/display\/stripes\/Validation+Reference#ValidationReference-AnnotationDrivenValidation",
+      "display_url" : "stripesframework.org\/display\/stripe\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "476814125381976064",
+  "text" : "Used to love how the Stripes framework used annotations for form submission validation logic: http:\/\/t.co\/f3EedBPMgx \/CC @JonFallin",
+  "id" : 476814125381976064,
+  "created_at" : "2014-06-11 19:52:00 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Brian Papa",
+      "screen_name" : "bpapa",
+      "indices" : [ 0, 6 ],
+      "id_str" : "7460652",
+      "id" : 7460652
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "476813059215077376",
+  "geo" : { },
+  "id_str" : "476813249519058945",
+  "in_reply_to_user_id" : 7460652,
+  "text" : "@bpapa \u201Coverride\u201D is a keyword, yes, but you can\u2019t implement your own metadata types (read further down)",
+  "id" : 476813249519058945,
+  "in_reply_to_status_id" : 476813059215077376,
+  "created_at" : "2014-06-11 19:48:32 +0000",
+  "in_reply_to_screen_name" : "bpapa",
+  "in_reply_to_user_id_str" : "7460652",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 112, 134 ],
+      "url" : "http:\/\/t.co\/GE3erlmRuM",
+      "expanded_url" : "http:\/\/bryan.io\/post\/71982985726\/java-features-that-i-miss-in-objective-c-annotations",
+      "display_url" : "bryan.io\/post\/719829857\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "476812156521156608",
+  "text" : "Haven\u2019t finished the book yet but so far it doesn\u2019t appear that Swift has anything comparable to annotations? \uD83D\uDE25 http:\/\/t.co\/GE3erlmRuM",
+  "id" : 476812156521156608,
+  "created_at" : "2014-06-11 19:44:11 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Anthony Geranio",
+      "screen_name" : "asg",
+      "indices" : [ 0, 4 ],
+      "id_str" : "525956970",
+      "id" : 525956970
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "476788135159164928",
+  "geo" : { },
+  "id_str" : "476788357948010497",
+  "in_reply_to_user_id" : 525956970,
+  "text" : "@asg Would definitely be open to it. first at last dot me if you have some more information.",
+  "id" : 476788357948010497,
+  "in_reply_to_status_id" : 476788135159164928,
+  "created_at" : "2014-06-11 18:09:37 +0000",
+  "in_reply_to_screen_name" : "asg",
+  "in_reply_to_user_id_str" : "525956970",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 4, 27 ],
+      "url" : "https:\/\/t.co\/hv9FsYNuqC",
+      "expanded_url" : "https:\/\/twitter.com\/irace\/status\/476779521438674945",
+      "display_url" : "twitter.com\/irace\/status\/4\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "476786517118316544",
+  "text" : "Re: https:\/\/t.co\/hv9FsYNuqC, interested in all different kinds of roles: research\/operations\/BA\/etc. Smart kid, great looking older brother.",
+  "id" : 476786517118316544,
+  "created_at" : "2014-06-11 18:02:18 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "David Chartier",
+      "screen_name" : "chartier",
+      "indices" : [ 0, 9 ],
+      "id_str" : "35383",
+      "id" : 35383
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "476539205871755264",
+  "geo" : { },
+  "id_str" : "476784478678183936",
+  "in_reply_to_user_id" : 35383,
+  "text" : "@chartier But it won\u2019t bring you to another app, or your home screen.",
+  "id" : 476784478678183936,
+  "in_reply_to_status_id" : 476539205871755264,
+  "created_at" : "2014-06-11 17:54:12 +0000",
+  "in_reply_to_screen_name" : "chartier",
+  "in_reply_to_user_id_str" : "35383",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "476779521438674945",
+  "text" : "Anyone looking to hire an economics major fresh out of college (my brother)? Please get in touch if so.",
+  "id" : 476779521438674945,
+  "created_at" : "2014-06-11 17:34:30 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Brandon Weiss",
+      "screen_name" : "brandon_weiss",
+      "indices" : [ 0, 14 ],
+      "id_str" : "72153",
+      "id" : 72153
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "476769201160339456",
+  "geo" : { },
+  "id_str" : "476770550451539968",
+  "in_reply_to_user_id" : 72153,
+  "text" : "@brandon_weiss Cool, sounds good",
+  "id" : 476770550451539968,
+  "in_reply_to_status_id" : 476769201160339456,
+  "created_at" : "2014-06-11 16:58:51 +0000",
+  "in_reply_to_screen_name" : "brandon_weiss",
+  "in_reply_to_user_id_str" : "72153",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "David Chartier",
+      "screen_name" : "chartier",
+      "indices" : [ 0, 9 ],
+      "id_str" : "35383",
+      "id" : 35383
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "476751407828434944",
+  "geo" : { },
+  "id_str" : "476757209876271104",
+  "in_reply_to_user_id" : 35383,
+  "text" : "@chartier Thanks. I don\u2019t use Android but FWIW our devs here didn\u2019t consider switching from LastPass solely for that reason. I tried!",
+  "id" : 476757209876271104,
+  "in_reply_to_status_id" : 476751407828434944,
+  "created_at" : "2014-06-11 16:05:51 +0000",
+  "in_reply_to_screen_name" : "chartier",
+  "in_reply_to_user_id_str" : "35383",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Slash Furrow",
+      "screen_name" : "ashfurrow",
+      "indices" : [ 0, 10 ],
+      "id_str" : "15536268",
+      "id" : 15536268
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "476424958131052545",
+  "geo" : { },
+  "id_str" : "476751553274335233",
+  "in_reply_to_user_id" : 15536268,
+  "text" : "@ashfurrow Yeah, it is *not* sweater weather \u2018round these parts.",
+  "id" : 476751553274335233,
+  "in_reply_to_status_id" : 476424958131052545,
+  "created_at" : "2014-06-11 15:43:22 +0000",
+  "in_reply_to_screen_name" : "ashfurrow",
+  "in_reply_to_user_id_str" : "15536268",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "David Chartier",
+      "screen_name" : "chartier",
+      "indices" : [ 0, 9 ],
+      "id_str" : "35383",
+      "id" : 35383
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "476424262522138624",
+  "geo" : { },
+  "id_str" : "476751337699704832",
+  "in_reply_to_user_id" : 35383,
+  "text" : "@chartier Requires use of an in-app browser, as opposed to being omnipresent in other applications?",
+  "id" : 476751337699704832,
+  "in_reply_to_status_id" : 476424262522138624,
+  "created_at" : "2014-06-11 15:42:31 +0000",
+  "in_reply_to_screen_name" : "chartier",
+  "in_reply_to_user_id_str" : "35383",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Chris Dzombak",
+      "screen_name" : "cdzombak",
+      "indices" : [ 0, 9 ],
+      "id_str" : "643083",
+      "id" : 643083
+    }, {
+      "name" : "Matthew Bischoff",
+      "screen_name" : "mb",
+      "indices" : [ 15, 18 ],
+      "id_str" : "5107",
+      "id" : 5107
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "476743264091922432",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 40.7394160209, -73.9879719963 ]
+  },
+  "id_str" : "476750475099127809",
+  "in_reply_to_user_id" : 5107,
+  "text" : "@cdzombak Also @mb can\u2019t get mad at me for using functions for everything now \uD83D\uDE4C",
+  "id" : 476750475099127809,
+  "in_reply_to_status_id" : 476743264091922432,
+  "created_at" : "2014-06-11 15:39:05 +0000",
+  "in_reply_to_screen_name" : "mb",
+  "in_reply_to_user_id_str" : "5107",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Brandon Weiss",
+      "screen_name" : "brandon_weiss",
+      "indices" : [ 0, 14 ],
+      "id_str" : "72153",
+      "id" : 72153
+    }, {
+      "name" : "Andre Jurgensen",
+      "screen_name" : "thejurgy",
+      "indices" : [ 15, 24 ],
+      "id_str" : "145037975",
+      "id" : 145037975
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "476736984564920320",
+  "in_reply_to_user_id" : 72153,
+  "text" : "@brandon_weiss @thejurgy Any thoughts on an arrival.io iOS app?",
+  "id" : 476736984564920320,
+  "created_at" : "2014-06-11 14:45:29 +0000",
+  "in_reply_to_screen_name" : "brandon_weiss",
+  "in_reply_to_user_id_str" : "72153",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Paul Mayne",
+      "screen_name" : "paulmayne",
+      "indices" : [ 3, 13 ],
+      "id_str" : "51373",
+      "id" : 51373
+    } ],
+    "media" : [ {
+      "expanded_url" : "http:\/\/twitter.com\/paulmayne\/status\/476409572458889216\/photo\/1",
+      "indices" : [ 88, 110 ],
+      "url" : "http:\/\/t.co\/MyzCUL9zPB",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/BpyL-0yCAAElbec.png",
+      "id_str" : "476409572031070209",
+      "id" : 476409572031070209,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BpyL-0yCAAElbec.png",
+      "sizes" : [ {
+        "h" : 1105,
+        "resize" : "fit",
+        "w" : 1299
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 871,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
+        "h" : 289,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 510,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "display_url" : "pic.twitter.com\/MyzCUL9zPB"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "476558363518853120",
+  "text" : "RT @paulmayne: For the first time, Day One is the #1 Top Paid App on the Mac App Store. http:\/\/t.co\/MyzCUL9zPB",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "http:\/\/twitter.com\/paulmayne\/status\/476409572458889216\/photo\/1",
+        "indices" : [ 73, 95 ],
+        "url" : "http:\/\/t.co\/MyzCUL9zPB",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/BpyL-0yCAAElbec.png",
+        "id_str" : "476409572031070209",
+        "id" : 476409572031070209,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/BpyL-0yCAAElbec.png",
+        "sizes" : [ {
+          "h" : 1105,
+          "resize" : "fit",
+          "w" : 1299
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 871,
+          "resize" : "fit",
+          "w" : 1024
+        }, {
+          "h" : 289,
+          "resize" : "fit",
+          "w" : 340
+        }, {
+          "h" : 510,
+          "resize" : "fit",
+          "w" : 600
+        } ],
+        "display_url" : "pic.twitter.com\/MyzCUL9zPB"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "476409572458889216",
+    "text" : "For the first time, Day One is the #1 Top Paid App on the Mac App Store. http:\/\/t.co\/MyzCUL9zPB",
+    "id" : 476409572458889216,
+    "created_at" : "2014-06-10 17:04:27 +0000",
+    "user" : {
+      "name" : "Paul Mayne",
+      "screen_name" : "paulmayne",
+      "protected" : false,
+      "id_str" : "51373",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/486382680355790848\/Qmdm0D2r_normal.png",
+      "id" : 51373,
+      "verified" : false
+    }
+  },
+  "id" : 476558363518853120,
+  "created_at" : "2014-06-11 02:55:42 +0000",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Slash Furrow",
+      "screen_name" : "ashfurrow",
+      "indices" : [ 0, 10 ],
+      "id_str" : "15536268",
+      "id" : 15536268
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "476140934766137344",
+  "geo" : { },
+  "id_str" : "476436437244870657",
+  "in_reply_to_user_id" : 15536268,
+  "text" : "@ashfurrow Want to shoot for sometime tomorrow afternoon?",
+  "id" : 476436437244870657,
+  "in_reply_to_status_id" : 476140934766137344,
+  "created_at" : "2014-06-10 18:51:13 +0000",
+  "in_reply_to_screen_name" : "ashfurrow",
+  "in_reply_to_user_id_str" : "15536268",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Kyle Baxter",
+      "screen_name" : "kbaxter",
+      "indices" : [ 0, 8 ],
+      "id_str" : "14149882",
+      "id" : 14149882
+    }, {
+      "name" : "Brian Capps",
+      "screen_name" : "bcapps",
+      "indices" : [ 9, 16 ],
+      "id_str" : "73963286",
+      "id" : 73963286
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "476390563907125251",
+  "geo" : { },
+  "id_str" : "476391310845571073",
+  "in_reply_to_user_id" : 14149882,
+  "text" : "@kbaxter @bcapps His are great, but really the show just has such a beautiful, unique, cohesive visual style, across all of its directors.",
+  "id" : 476391310845571073,
+  "in_reply_to_status_id" : 476390563907125251,
+  "created_at" : "2014-06-10 15:51:54 +0000",
+  "in_reply_to_screen_name" : "kbaxter",
+  "in_reply_to_user_id_str" : "14149882",
+  "user" : {
+    "name" : "Bryan Irace",
+    "screen_name" : "irace",
+    "protected" : false,
+    "id_str" : "21626062",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473619624483753984\/01TFSAfc_normal.jpeg",
+    "id" : 21626062,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -351,7 +10120,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jared Sinclair",
+      "name" : "Jared Sin lair",
       "screen_name" : "jaredsinclair",
       "indices" : [ 0, 14 ],
       "id_str" : "15004156",
@@ -543,7 +10312,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Justin Williams",
+      "name" : "Justin Booooober",
       "screen_name" : "justin",
       "indices" : [ 0, 7 ],
       "id_str" : "929",
@@ -615,7 +10384,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Justin Williams",
+      "name" : "Justin Booooober",
       "screen_name" : "justin",
       "indices" : [ 0, 7 ],
       "id_str" : "929",
@@ -973,7 +10742,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ash Furrow",
+      "name" : "Slash Furrow",
       "screen_name" : "ashfurrow",
       "indices" : [ 0, 10 ],
       "id_str" : "15536268",
@@ -1051,7 +10820,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "14149882",
       "id" : 14149882
     }, {
-      "name" : "Pasquale D'Silva",
+      "name" : "pasquale d\u2019silva?",
       "screen_name" : "pasql",
       "indices" : [ 15, 21 ],
       "id_str" : "187793",
@@ -1117,7 +10886,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jared Sinclair",
+      "name" : "Jared Sin lair",
       "screen_name" : "jaredsinclair",
       "indices" : [ 3, 17 ],
       "id_str" : "15004156",
@@ -1166,11 +10935,11 @@ Grailbird.data.tweets_2014_06 =
     "id" : 476026895947923459,
     "created_at" : "2014-06-09 15:43:50 +0000",
     "user" : {
-      "name" : "Jared Sinclair",
+      "name" : "Jared Sin lair",
       "screen_name" : "jaredsinclair",
       "protected" : false,
       "id_str" : "15004156",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/467905659443240962\/GGoBa62W_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/522135966467633153\/x-fvSFd3_normal.png",
       "id" : 15004156,
       "verified" : false
     }
@@ -1358,7 +11127,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "robb",
+      "name" : "Robert B\u00C3\u00B6hnke",
       "screen_name" : "ceterum_censeo",
       "indices" : [ 0, 15 ],
       "id_str" : "20190095",
@@ -1497,7 +11266,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Oisin Prendiville",
+      "name" : "Ois\u00EDn Prendiville",
       "screen_name" : "prendio2",
       "indices" : [ 0, 9 ],
       "id_str" : "11195962",
@@ -1543,7 +11312,7 @@ Grailbird.data.tweets_2014_06 =
   "in_reply_to_status_id_str" : "475667279934275584",
   "geo" : {
     "type" : "Point",
-    "coordinates" : [ 41.50088938741408, -71.56854604462444 ]
+    "coordinates" : [ 41.5008893874, -71.5685460446 ]
   },
   "id_str" : "475688444094857217",
   "in_reply_to_user_id" : 2897431,
@@ -1644,7 +11413,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jared Sinclair",
+      "name" : "Jared Sin lair",
       "screen_name" : "jaredsinclair",
       "indices" : [ 0, 14 ],
       "id_str" : "15004156",
@@ -1761,7 +11530,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Justin Williams",
+      "name" : "Justin Booooober",
       "screen_name" : "justin",
       "indices" : [ 0, 7 ],
       "id_str" : "929",
@@ -1860,7 +11629,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Michael Potter",
+      "name" : "Shannon Potter",
       "screen_name" : "LucasTizma",
       "indices" : [ 0, 11 ],
       "id_str" : "70977717",
@@ -1893,7 +11662,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Michael Potter",
+      "name" : "Shannon Potter",
       "screen_name" : "LucasTizma",
       "indices" : [ 0, 11 ],
       "id_str" : "70977717",
@@ -2113,7 +11882,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "orta",
       "protected" : false,
       "id_str" : "2569881",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/464291563259318272\/8NHpSb9j_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/488439165693231104\/aYJROysr_normal.jpeg",
       "id" : 2569881,
       "verified" : false
     }
@@ -2194,7 +11963,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ash Furrow",
+      "name" : "Slash Furrow",
       "screen_name" : "ashfurrow",
       "indices" : [ 0, 10 ],
       "id_str" : "15536268",
@@ -2227,7 +11996,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ash Furrow",
+      "name" : "Slash Furrow",
       "screen_name" : "ashfurrow",
       "indices" : [ 0, 10 ],
       "id_str" : "15536268",
@@ -2629,7 +12398,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jared Sinclair",
+      "name" : "Jared Sin lair",
       "screen_name" : "jaredsinclair",
       "indices" : [ 0, 14 ],
       "id_str" : "15004156",
@@ -2674,7 +12443,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Justin Williams",
+      "name" : "Justin Booooober",
       "screen_name" : "justin",
       "indices" : [ 0, 7 ],
       "id_str" : "929",
@@ -2707,7 +12476,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jackson Harper",
+      "name" : "@jacksonh",
       "screen_name" : "jacksonh",
       "indices" : [ 0, 9 ],
       "id_str" : "14199114",
@@ -2740,7 +12509,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jackson Harper",
+      "name" : "@jacksonh",
       "screen_name" : "jacksonh",
       "indices" : [ 0, 9 ],
       "id_str" : "14199114",
@@ -2806,7 +12575,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jackson Harper",
+      "name" : "@jacksonh",
       "screen_name" : "jacksonh",
       "indices" : [ 0, 9 ],
       "id_str" : "14199114",
@@ -2839,7 +12608,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jackson Harper",
+      "name" : "@jacksonh",
       "screen_name" : "jacksonh",
       "indices" : [ 0, 9 ],
       "id_str" : "14199114",
@@ -2872,7 +12641,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jared Sinclair",
+      "name" : "Jared Sin lair",
       "screen_name" : "jaredsinclair",
       "indices" : [ 0, 14 ],
       "id_str" : "15004156",
@@ -2943,7 +12712,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jared Sinclair",
+      "name" : "Jared Sin lair",
       "screen_name" : "jaredsinclair",
       "indices" : [ 0, 14 ],
       "id_str" : "15004156",
@@ -2974,7 +12743,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jared Sinclair",
+      "name" : "Jared Sin lair",
       "screen_name" : "jaredsinclair",
       "indices" : [ 0, 14 ],
       "id_str" : "15004156",
@@ -3007,7 +12776,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jared Sinclair",
+      "name" : "Jared Sin lair",
       "screen_name" : "jaredsinclair",
       "indices" : [ 0, 14 ],
       "id_str" : "15004156",
@@ -3040,7 +12809,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jared Sinclair",
+      "name" : "Jared Sin lair",
       "screen_name" : "jaredsinclair",
       "indices" : [ 0, 14 ],
       "id_str" : "15004156",
@@ -3073,7 +12842,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jared Sinclair",
+      "name" : "Jared Sin lair",
       "screen_name" : "jaredsinclair",
       "indices" : [ 0, 14 ],
       "id_str" : "15004156",
@@ -3106,7 +12875,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jared Sinclair",
+      "name" : "Jared Sin lair",
       "screen_name" : "jaredsinclair",
       "indices" : [ 0, 14 ],
       "id_str" : "15004156",
@@ -3139,7 +12908,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jared Sinclair",
+      "name" : "Jared Sin lair",
       "screen_name" : "jaredsinclair",
       "indices" : [ 0, 14 ],
       "id_str" : "15004156",
@@ -4248,7 +14017,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Justin Williams",
+      "name" : "Justin Booooober",
       "screen_name" : "justin",
       "indices" : [ 0, 7 ],
       "id_str" : "929",
@@ -4450,7 +14219,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "transition.io",
+      "name" : "Marc Palmer",
       "screen_name" : "transition_io",
       "indices" : [ 0, 14 ],
       "id_str" : "1326598950",
@@ -4483,7 +14252,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "transition.io",
+      "name" : "Marc Palmer",
       "screen_name" : "transition_io",
       "indices" : [ 0, 14 ],
       "id_str" : "1326598950",
@@ -4522,7 +14291,7 @@ Grailbird.data.tweets_2014_06 =
   },
   "geo" : {
     "type" : "Point",
-    "coordinates" : [ 40.73061893017009, -73.99520707679373 ]
+    "coordinates" : [ 40.7306189302, -73.9952070768 ]
   },
   "id_str" : "473612794370457600",
   "text" : "Is there not somewhere I can watch the Platforms State of the Union right now?",
@@ -4697,7 +14466,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "17641648",
       "id" : 17641648
     }, {
-      "name" : "Michael Potter",
+      "name" : "Shannon Potter",
       "screen_name" : "LucasTizma",
       "indices" : [ 8, 19 ],
       "id_str" : "70977717",
@@ -5174,7 +14943,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pasquale D'Silva",
+      "name" : "pasquale d\u2019silva?",
       "screen_name" : "pasql",
       "indices" : [ 0, 6 ],
       "id_str" : "187793",
@@ -5408,7 +15177,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "5532",
       "id" : 5532
     }, {
-      "name" : "robb",
+      "name" : "Robert B\u00C3\u00B6hnke",
       "screen_name" : "ceterum_censeo",
       "indices" : [ 11, 26 ],
       "id_str" : "20190095",
@@ -5444,7 +15213,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "robb",
+      "name" : "Robert B\u00C3\u00B6hnke",
       "screen_name" : "ceterum_censeo",
       "indices" : [ 0, 15 ],
       "id_str" : "20190095",
@@ -5477,7 +15246,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Oisin Prendiville",
+      "name" : "Ois\u00EDn Prendiville",
       "screen_name" : "prendio2",
       "indices" : [ 0, 9 ],
       "id_str" : "11195962",
@@ -5490,7 +15259,7 @@ Grailbird.data.tweets_2014_06 =
   "in_reply_to_status_id_str" : "473393731677478912",
   "geo" : {
     "type" : "Point",
-    "coordinates" : [ 40.72773404722962, -73.99347801072663 ]
+    "coordinates" : [ 40.7277340472, -73.9934780107 ]
   },
   "id_str" : "473437969836433408",
   "in_reply_to_user_id" : 11195962,
@@ -5526,7 +15295,7 @@ Grailbird.data.tweets_2014_06 =
   "in_reply_to_status_id_str" : "473296707300495360",
   "geo" : {
     "type" : "Point",
-    "coordinates" : [ 40.72968380999998, -73.99544026999997 ]
+    "coordinates" : [ 40.72968381, -73.99544027 ]
   },
   "id_str" : "473301241632927744",
   "in_reply_to_user_id" : 795649,
@@ -5582,7 +15351,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scott I",
+      "name" : "Scott ",
       "screen_name" : "Scott_Source",
       "indices" : [ 0, 13 ],
       "id_str" : "43650262",
@@ -5615,7 +15384,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scott I",
+      "name" : "Scott ",
       "screen_name" : "Scott_Source",
       "indices" : [ 0, 13 ],
       "id_str" : "43650262",
@@ -5736,7 +15505,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Oisin Prendiville",
+      "name" : "Ois\u00EDn Prendiville",
       "screen_name" : "prendio2",
       "indices" : [ 0, 9 ],
       "id_str" : "11195962",

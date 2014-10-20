@@ -168,7 +168,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "MarkMacyk",
       "protected" : false,
       "id_str" : "78510065",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000504599252\/30f2c444df10cd8433d98fa24dd700a2_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/519148532243374080\/NQmL8kmf_normal.jpeg",
       "id" : 78510065,
       "verified" : false
     }
@@ -441,8 +441,8 @@ Grailbird.data.tweets_2010_05 =
       "name" : "Pitchfork",
       "screen_name" : "pitchforkmedia",
       "indices" : [ 11, 26 ],
-      "id_str" : "14089195",
-      "id" : 14089195
+      "id_str" : "2707054218",
+      "id" : 2707054218
     } ],
     "media" : [ ],
     "hashtags" : [ ],

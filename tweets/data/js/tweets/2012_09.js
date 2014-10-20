@@ -55,7 +55,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -171,7 +171,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan Benjamin",
+      "name" : "Dan BRAAAAINSjamin",
       "screen_name" : "danbenjamin",
       "indices" : [ 0, 12 ],
       "id_str" : "5905672",
@@ -354,7 +354,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan Benjamin",
+      "name" : "Dan BRAAAAINSjamin",
       "screen_name" : "danbenjamin",
       "indices" : [ 0, 12 ],
       "id_str" : "5905672",
@@ -552,7 +552,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne",
+      "name" : "Searing Payne",
       "screen_name" : "al3x",
       "indices" : [ 0, 5 ],
       "id_str" : "18713",
@@ -1370,7 +1370,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "the one true izs",
+      "name" : "Isaac Zimmitti Schlu",
       "screen_name" : "izs",
       "indices" : [ 3, 7 ],
       "id_str" : "8038312",
@@ -1409,11 +1409,11 @@ Grailbird.data.tweets_2012_09 =
     "id" : 248888781057429507,
     "created_at" : "2012-09-20 20:58:04 +0000",
     "user" : {
-      "name" : "the one true izs",
+      "name" : "Isaac Zimmitti Schlu",
       "screen_name" : "izs",
       "protected" : false,
       "id_str" : "8038312",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/460558674927185920\/D8ccNCw7_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/522132606364553218\/XJK2DuuZ_normal.jpeg",
       "id" : 8038312,
       "verified" : false
     }
@@ -1632,7 +1632,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1665,7 +1665,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Payne",
+      "name" : "Searing Payne",
       "screen_name" : "al3x",
       "indices" : [ 0, 5 ],
       "id_str" : "18713",
@@ -1803,7 +1803,7 @@ Grailbird.data.tweets_2012_09 =
     "verified" : false
   }
 }, {
-  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003EFoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1911,7 +1911,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "BMcCarthy32",
       "protected" : false,
       "id_str" : "258666578",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/456008043969257472\/0wLymENf_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/514683747380117504\/8Zj5jto2_normal.jpeg",
       "id" : 258666578,
       "verified" : true
     }
@@ -2154,7 +2154,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "SupX",
       "protected" : false,
       "id_str" : "124364009",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/449682234727862275\/qYlSO-EI_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/510405621049356288\/f2K9Shx3_normal.jpeg",
       "id" : 124364009,
       "verified" : false
     }
@@ -2353,7 +2353,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "the one true izs",
+      "name" : "Isaac Zimmitti Schlu",
       "screen_name" : "izs",
       "indices" : [ 0, 4 ],
       "id_str" : "8038312",
@@ -2389,7 +2389,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "the one true izs",
+      "name" : "Isaac Zimmitti Schlu",
       "screen_name" : "izs",
       "indices" : [ 0, 4 ],
       "id_str" : "8038312",
@@ -2718,7 +2718,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "RichCimini",
       "protected" : false,
       "id_str" : "136026074",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/843753162\/cimini_rich_55_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/501131821958963200\/lW31qU_D_normal.jpeg",
       "id" : 136026074,
       "verified" : false
     }
@@ -2781,6 +2781,10 @@ Grailbird.data.tweets_2012_09 =
       "id" : 244591444839501824,
       "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A2T2n4jCEAAGrm4.jpg",
       "sizes" : [ {
+        "h" : 453,
+        "resize" : "fit",
+        "w" : 340
+      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
@@ -2788,10 +2792,6 @@ Grailbird.data.tweets_2012_09 =
         "h" : 960,
         "resize" : "fit",
         "w" : 720
-      }, {
-        "h" : 453,
-        "resize" : "fit",
-        "w" : 340
       }, {
         "h" : 960,
         "resize" : "fit",
@@ -2837,6 +2837,10 @@ Grailbird.data.tweets_2012_09 =
         "id" : 244591444839501824,
         "media_url_https" : "https:\/\/pbs.twimg.com\/media\/A2T2n4jCEAAGrm4.jpg",
         "sizes" : [ {
+          "h" : 453,
+          "resize" : "fit",
+          "w" : 340
+        }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
@@ -2844,10 +2848,6 @@ Grailbird.data.tweets_2012_09 =
           "h" : 960,
           "resize" : "fit",
           "w" : 720
-        }, {
-          "h" : 453,
-          "resize" : "fit",
-          "w" : 340
         }, {
           "h" : 960,
           "resize" : "fit",
@@ -2878,7 +2878,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "OffTheRadarSFO",
       "protected" : false,
       "id_str" : "439848726",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000039266057\/e86a6f9c990770f12ffec6a2beb806bc_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/502212160143900672\/5HEZ9DzR_normal.jpeg",
       "id" : 439848726,
       "verified" : false
     }
@@ -3867,7 +3867,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan Benjamin",
+      "name" : "Dan BRAAAAINSjamin",
       "screen_name" : "danbenjamin",
       "indices" : [ 0, 12 ],
       "id_str" : "5905672",
