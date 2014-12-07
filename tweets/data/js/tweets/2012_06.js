@@ -119,7 +119,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "tumblr",
       "protected" : false,
       "id_str" : "52484614",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000576211895\/94a4a4b25f5d692cb836baf74b9e64b1_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/540603523373617154\/_yK0VDXH_normal.jpeg",
       "id" : 52484614,
       "verified" : true
     }
@@ -315,7 +315,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Isaac Zimmitti Schlu",
+      "name" : "isaacs o j s",
       "screen_name" : "izs",
       "indices" : [ 3, 7 ],
       "id_str" : "8038312",
@@ -342,11 +342,11 @@ Grailbird.data.tweets_2012_06 =
     "id" : 216954021926285313,
     "created_at" : "2012-06-24 18:00:44 +0000",
     "user" : {
-      "name" : "Isaac Zimmitti Schlu",
+      "name" : "isaacs o j s",
       "screen_name" : "izs",
       "protected" : false,
       "id_str" : "8038312",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/522132606364553218\/XJK2DuuZ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/540620008020135936\/AdI6tKZY_normal.jpeg",
       "id" : 8038312,
       "verified" : false
     }
@@ -551,7 +551,7 @@ Grailbird.data.tweets_2012_06 =
       "screen_name" : "tumblr",
       "protected" : false,
       "id_str" : "52484614",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000576211895\/94a4a4b25f5d692cb836baf74b9e64b1_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/540603523373617154\/_yK0VDXH_normal.jpeg",
       "id" : 52484614,
       "verified" : true
     }
@@ -1420,7 +1420,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan BRAAAAINSjamin",
+      "name" : "Dan Benjamin",
       "screen_name" : "danbenjamin",
       "indices" : [ 3, 15 ],
       "id_str" : "5905672",
@@ -1447,11 +1447,11 @@ Grailbird.data.tweets_2012_06 =
     "id" : 212715029227778049,
     "created_at" : "2012-06-13 01:16:29 +0000",
     "user" : {
-      "name" : "Dan BRAAAAINSjamin",
+      "name" : "Dan Benjamin",
       "screen_name" : "danbenjamin",
       "protected" : false,
       "id_str" : "5905672",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/523154665928945664\/Uejhinn5_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/540710866140688384\/03ngdnsI_normal.jpeg",
       "id" : 5905672,
       "verified" : false
     }
@@ -1801,27 +1801,16 @@ Grailbird.data.tweets_2012_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kyle Wanamaker",
-      "screen_name" : "KyleWpppd",
-      "indices" : [ 0, 10 ],
-      "id_str" : "240997975",
-      "id" : 240997975
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "212353767360827392",
   "geo" : { },
   "id_str" : "212355617065676800",
-  "in_reply_to_user_id" : 240997975,
   "text" : "@KyleWpppd I know the feeling, haha.",
   "id" : 212355617065676800,
-  "in_reply_to_status_id" : 212353767360827392,
   "created_at" : "2012-06-12 01:28:19 +0000",
-  "in_reply_to_screen_name" : "KyleWpppd",
-  "in_reply_to_user_id_str" : "240997975",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
@@ -3081,12 +3070,6 @@ Grailbird.data.tweets_2012_06 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/#!\/download\/ipad\" rel=\"nofollow\"\u003ETwitter for iPad\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kyle Wanamaker",
-      "screen_name" : "KyleWpppd",
-      "indices" : [ 0, 10 ],
-      "id_str" : "240997975",
-      "id" : 240997975
-    }, {
       "name" : "Hacker School",
       "screen_name" : "hackerschool",
       "indices" : [ 12, 25 ],
@@ -3109,12 +3092,9 @@ Grailbird.data.tweets_2012_06 =
   },
   "geo" : { },
   "id_str" : "209834737806745601",
-  "in_reply_to_user_id" : 240997975,
   "text" : "@kylewpppd \u201C@hackerschool: The first batch of Hacker School (last year): http:\/\/t.co\/DGMZuiIG The fourth (today): http:\/\/t.co\/Eeq2MHTF\u201D",
   "id" : 209834737806745601,
   "created_at" : "2012-06-05 02:31:14 +0000",
-  "in_reply_to_screen_name" : "KyleWpppd",
-  "in_reply_to_user_id_str" : "240997975",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
@@ -3431,13 +3411,7 @@ Grailbird.data.tweets_2012_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "MG Siegler",
-      "screen_name" : "parislemon",
-      "indices" : [ 3, 14 ],
-      "id_str" : "652193",
-      "id" : 652193
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3459,11 +3433,11 @@ Grailbird.data.tweets_2012_06 =
     "id" : 208736863429738496,
     "created_at" : "2012-06-02 01:48:41 +0000",
     "user" : {
-      "name" : "MG Siegler",
-      "screen_name" : "parislemon",
+      "name" : "M.G. Siegler",
+      "screen_name" : "mgsiegler",
       "protected" : false,
       "id_str" : "652193",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/521342931760734209\/7Jo_7YC4_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528600508148101120\/hKFw2ON3_normal.jpeg",
       "id" : 652193,
       "verified" : true
     }

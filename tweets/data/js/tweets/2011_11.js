@@ -610,7 +610,7 @@ Grailbird.data.tweets_2011_11 =
     "id" : 135808702757339136,
     "created_at" : "2011-11-13 19:58:12 +0000",
     "user" : {
-      "name" : "Scott ",
+      "name" : "Scott",
       "screen_name" : "Scott_Source",
       "protected" : false,
       "id_str" : "43650262",
@@ -720,7 +720,7 @@ Grailbird.data.tweets_2011_11 =
     "id" : 133954871840866304,
     "created_at" : "2011-11-08 17:11:44 +0000",
     "user" : {
-      "name" : "Scott ",
+      "name" : "Scott",
       "screen_name" : "Scott_Source",
       "protected" : false,
       "id_str" : "43650262",

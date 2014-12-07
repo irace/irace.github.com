@@ -171,7 +171,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan BRAAAAINSjamin",
+      "name" : "Dan Benjamin",
       "screen_name" : "danbenjamin",
       "indices" : [ 0, 12 ],
       "id_str" : "5905672",
@@ -354,7 +354,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan BRAAAAINSjamin",
+      "name" : "Dan Benjamin",
       "screen_name" : "danbenjamin",
       "indices" : [ 0, 12 ],
       "id_str" : "5905672",
@@ -552,7 +552,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Searing Payne",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 0, 5 ],
       "id_str" : "18713",
@@ -1161,11 +1161,11 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "15227849",
       "id" : 15227849
     }, {
-      "name" : "MG Siegler",
+      "name" : "ParisLemon",
       "screen_name" : "parislemon",
       "indices" : [ 14, 25 ],
-      "id_str" : "652193",
-      "id" : 652193
+      "id_str" : "134665872",
+      "id" : 134665872
     }, {
       "name" : "Adam Besvinick",
       "screen_name" : "Besvinick",
@@ -1298,11 +1298,11 @@ Grailbird.data.tweets_2012_09 =
       "id_str" : "15227849",
       "id" : 15227849
     }, {
-      "name" : "MG Siegler",
+      "name" : "ParisLemon",
       "screen_name" : "parislemon",
       "indices" : [ 7, 18 ],
-      "id_str" : "652193",
-      "id" : 652193
+      "id_str" : "134665872",
+      "id" : 134665872
     }, {
       "name" : "Peter Vidani",
       "screen_name" : "pter",
@@ -1370,7 +1370,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Isaac Zimmitti Schlu",
+      "name" : "isaacs o j s",
       "screen_name" : "izs",
       "indices" : [ 3, 7 ],
       "id_str" : "8038312",
@@ -1409,11 +1409,11 @@ Grailbird.data.tweets_2012_09 =
     "id" : 248888781057429507,
     "created_at" : "2012-09-20 20:58:04 +0000",
     "user" : {
-      "name" : "Isaac Zimmitti Schlu",
+      "name" : "isaacs o j s",
       "screen_name" : "izs",
       "protected" : false,
       "id_str" : "8038312",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/522132606364553218\/XJK2DuuZ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/540620008020135936\/AdI6tKZY_normal.jpeg",
       "id" : 8038312,
       "verified" : false
     }
@@ -1665,7 +1665,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Searing Payne",
+      "name" : "Alex Payne",
       "screen_name" : "al3x",
       "indices" : [ 0, 5 ],
       "id_str" : "18713",
@@ -2353,7 +2353,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Isaac Zimmitti Schlu",
+      "name" : "isaacs o j s",
       "screen_name" : "izs",
       "indices" : [ 0, 4 ],
       "id_str" : "8038312",
@@ -2389,7 +2389,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Isaac Zimmitti Schlu",
+      "name" : "isaacs o j s",
       "screen_name" : "izs",
       "indices" : [ 0, 4 ],
       "id_str" : "8038312",
@@ -3375,7 +3375,7 @@ Grailbird.data.tweets_2012_09 =
       "screen_name" : "AppStore",
       "protected" : false,
       "id_str" : "74594552",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000475446686\/503bef212d7997fa4b33cc99f72f7471_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/536702923846070272\/O5l1M-qQ_normal.png",
       "id" : 74594552,
       "verified" : true
     }
@@ -3800,27 +3800,16 @@ Grailbird.data.tweets_2012_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kyle Wanamaker",
-      "screen_name" : "KyleWpppd",
-      "indices" : [ 0, 10 ],
-      "id_str" : "240997975",
-      "id" : 240997975
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "242074843074424832",
   "geo" : { },
   "id_str" : "242074939052675072",
-  "in_reply_to_user_id" : 240997975,
   "text" : "@KyleWpppd Screwing their developers, I think.",
   "id" : 242074939052675072,
-  "in_reply_to_status_id" : 242074843074424832,
   "created_at" : "2012-09-02 01:42:17 +0000",
-  "in_reply_to_screen_name" : "KyleWpppd",
-  "in_reply_to_user_id_str" : "240997975",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
@@ -3833,27 +3822,16 @@ Grailbird.data.tweets_2012_09 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for iOS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kyle Wanamaker",
-      "screen_name" : "KyleWpppd",
-      "indices" : [ 0, 10 ],
-      "id_str" : "240997975",
-      "id" : 240997975
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "242044977973178368",
   "geo" : { },
   "id_str" : "242074386700582913",
-  "in_reply_to_user_id" : 240997975,
   "text" : "@KyleWpppd It\u2019s hard (you know better than I do) but there are lots of easy little things they could do that would go a long way.",
   "id" : 242074386700582913,
-  "in_reply_to_status_id" : 242044977973178368,
   "created_at" : "2012-09-02 01:40:05 +0000",
-  "in_reply_to_screen_name" : "KyleWpppd",
-  "in_reply_to_user_id_str" : "240997975",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
@@ -3867,7 +3845,7 @@ Grailbird.data.tweets_2012_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan BRAAAAINSjamin",
+      "name" : "Dan Benjamin",
       "screen_name" : "danbenjamin",
       "indices" : [ 0, 12 ],
       "id_str" : "5905672",

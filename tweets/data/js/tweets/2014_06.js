@@ -259,7 +259,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jared Sin lair",
+      "name" : "Jared Sinclair",
       "screen_name" : "jaredsinclair",
       "indices" : [ 0, 14 ],
       "id_str" : "15004156",
@@ -346,7 +346,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "chartier",
       "protected" : false,
       "id_str" : "35383",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/510074739449032705\/CbeMup_a_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/536666981899202560\/xMnuVn7Y_normal.jpeg",
       "id" : 35383,
       "verified" : false
     }
@@ -487,7 +487,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Justin Booooober",
+      "name" : "Justin Williams",
       "screen_name" : "justin",
       "indices" : [ 0, 7 ],
       "id_str" : "929",
@@ -532,7 +532,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "33423",
       "id" : 33423
     }, {
-      "name" : "Justin Booooober",
+      "name" : "Justin Williams",
       "screen_name" : "justin",
       "indices" : [ 8, 15 ],
       "id_str" : "929",
@@ -1272,7 +1272,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jared Sin lair",
+      "name" : "Jared Sinclair",
       "screen_name" : "jaredsinclair",
       "indices" : [ 42, 56 ],
       "id_str" : "15004156",
@@ -1327,7 +1327,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "race condition",
+      "name" : "Swizzmas",
       "screen_name" : "swizzlr",
       "indices" : [ 0, 8 ],
       "id_str" : "1468574148",
@@ -1806,7 +1806,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Spooky Streza",
+      "name" : "Sleigh Streza",
       "screen_name" : "SteveStreza",
       "indices" : [ 0, 12 ],
       "id_str" : "658643",
@@ -2071,7 +2071,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Christscreama Warren",
+      "name" : "Christina Warren",
       "screen_name" : "film_girl",
       "indices" : [ 0, 10 ],
       "id_str" : "9866582",
@@ -2228,7 +2228,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Justin Booooober",
+      "name" : "Justin Williams",
       "screen_name" : "justin",
       "indices" : [ 0, 7 ],
       "id_str" : "929",
@@ -2575,7 +2575,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "5107",
       "id" : 5107
     }, {
-      "name" : "Jared Sin lair",
+      "name" : "Jared Sinclair",
       "screen_name" : "jaredsinclair",
       "indices" : [ 88, 102 ],
       "id_str" : "15004156",
@@ -2608,7 +2608,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jared Sin lair",
+      "name" : "Jared Sinclair",
       "screen_name" : "jaredsinclair",
       "indices" : [ 0, 14 ],
       "id_str" : "15004156",
@@ -2718,7 +2718,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jared Sin lair",
+      "name" : "Jared Sinclair",
       "screen_name" : "jaredsinclair",
       "indices" : [ 118, 132 ],
       "id_str" : "15004156",
@@ -2912,7 +2912,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jared Sin lair",
+      "name" : "Jared Sinclair",
       "screen_name" : "jaredsinclair",
       "indices" : [ 0, 14 ],
       "id_str" : "15004156",
@@ -3009,7 +3009,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Justin Booooober",
+      "name" : "Justin Williams",
       "screen_name" : "justin",
       "indices" : [ 0, 7 ],
       "id_str" : "929",
@@ -4112,7 +4112,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Slash Furrow",
+      "name" : "Ash Furrow \u26C4\uFE0F",
       "screen_name" : "ashfurrow",
       "indices" : [ 0, 10 ],
       "id_str" : "15536268",
@@ -4145,7 +4145,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Slash Furrow",
+      "name" : "Ash Furrow \u26C4\uFE0F",
       "screen_name" : "ashfurrow",
       "indices" : [ 0, 10 ],
       "id_str" : "15536268",
@@ -4787,7 +4787,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "18119839",
       "id" : 18119839
     }, {
-      "name" : "Justin Booooober",
+      "name" : "Justin Williams",
       "screen_name" : "justin",
       "indices" : [ 11, 18 ],
       "id_str" : "929",
@@ -5150,7 +5150,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Justin Booooober",
+      "name" : "Justin Williams",
       "screen_name" : "justin",
       "indices" : [ 0, 7 ],
       "id_str" : "929",
@@ -5476,7 +5476,7 @@ Grailbird.data.tweets_2014_06 =
       "screen_name" : "imyke",
       "protected" : false,
       "id_str" : "763549",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/477433400153092096\/XfVnOCBM_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/540705682295898112\/VLkWxIyS_normal.jpeg",
       "id" : 763549,
       "verified" : false
     }
@@ -5767,7 +5767,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Justin Booooober",
+      "name" : "Justin Williams",
       "screen_name" : "justin",
       "indices" : [ 0, 7 ],
       "id_str" : "929",
@@ -5800,7 +5800,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Justin Booooober",
+      "name" : "Justin Williams",
       "screen_name" : "justin",
       "indices" : [ 0, 7 ],
       "id_str" : "929",
@@ -6163,7 +6163,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Justin Booooober",
+      "name" : "Justin Williams",
       "screen_name" : "justin",
       "indices" : [ 0, 7 ],
       "id_str" : "929",
@@ -6202,7 +6202,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Slash Furrow",
+      "name" : "Ash Furrow \u26C4\uFE0F",
       "screen_name" : "ashfurrow",
       "indices" : [ 0, 10 ],
       "id_str" : "15536268",
@@ -6235,7 +6235,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Slash Furrow",
+      "name" : "Ash Furrow \u26C4\uFE0F",
       "screen_name" : "ashfurrow",
       "indices" : [ 0, 10 ],
       "id_str" : "15536268",
@@ -6460,7 +6460,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "spookymoof",
+      "name" : "supermoof",
       "screen_name" : "supermoof",
       "indices" : [ 3, 13 ],
       "id_str" : "14628156",
@@ -6487,7 +6487,7 @@ Grailbird.data.tweets_2014_06 =
     "id" : 478322429257715712,
     "created_at" : "2014-06-15 23:45:28 +0000",
     "user" : {
-      "name" : "spookymoof",
+      "name" : "supermoof",
       "screen_name" : "supermoof",
       "protected" : false,
       "id_str" : "14628156",
@@ -6804,7 +6804,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dan BRAAAAINSjamin",
+      "name" : "Dan Benjamin",
       "screen_name" : "danbenjamin",
       "indices" : [ 0, 12 ],
       "id_str" : "5905672",
@@ -6837,11 +6837,11 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MG Siegler",
+      "name" : "ParisLemon",
       "screen_name" : "parislemon",
       "indices" : [ 0, 11 ],
-      "id_str" : "652193",
-      "id" : 652193
+      "id_str" : "134665872",
+      "id" : 134665872
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6855,7 +6855,7 @@ Grailbird.data.tweets_2014_06 =
   "id" : 478040027197636608,
   "in_reply_to_status_id" : 477956624976314369,
   "created_at" : "2014-06-15 05:03:18 +0000",
-  "in_reply_to_screen_name" : "parislemon",
+  "in_reply_to_screen_name" : "mgsiegler",
   "in_reply_to_user_id_str" : "652193",
   "user" : {
     "name" : "Bryan Irace",
@@ -6969,7 +6969,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Justin Booooober",
+      "name" : "Justin Williams",
       "screen_name" : "justin",
       "indices" : [ 0, 7 ],
       "id_str" : "929",
@@ -7263,11 +7263,11 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MG Siegler",
+      "name" : "ParisLemon",
       "screen_name" : "parislemon",
       "indices" : [ 0, 11 ],
-      "id_str" : "652193",
-      "id" : 652193
+      "id_str" : "134665872",
+      "id" : 134665872
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -7281,7 +7281,7 @@ Grailbird.data.tweets_2014_06 =
   "id" : 477657747404496897,
   "in_reply_to_status_id" : 477657265286021121,
   "created_at" : "2014-06-14 03:44:16 +0000",
-  "in_reply_to_screen_name" : "parislemon",
+  "in_reply_to_screen_name" : "mgsiegler",
   "in_reply_to_user_id_str" : "652193",
   "user" : {
     "name" : "Bryan Irace",
@@ -7417,7 +7417,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Justin Booooober",
+      "name" : "Justin Williams",
       "screen_name" : "justin",
       "indices" : [ 0, 7 ],
       "id_str" : "929",
@@ -8186,7 +8186,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "1793681",
       "id" : 1793681
     }, {
-      "name" : "Slash Furrow",
+      "name" : "Ash Furrow \u26C4\uFE0F",
       "screen_name" : "ashfurrow",
       "indices" : [ 15, 25 ],
       "id_str" : "15536268",
@@ -8225,7 +8225,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "1793681",
       "id" : 1793681
     }, {
-      "name" : "Slash Furrow",
+      "name" : "Ash Furrow \u26C4\uFE0F",
       "screen_name" : "ashfurrow",
       "indices" : [ 67, 77 ],
       "id_str" : "15536268",
@@ -8322,7 +8322,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Spooky Streza",
+      "name" : "Sleigh Streza",
       "screen_name" : "SteveStreza",
       "indices" : [ 0, 12 ],
       "id_str" : "658643",
@@ -8394,7 +8394,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Justin Booooober",
+      "name" : "Justin Williams",
       "screen_name" : "justin",
       "indices" : [ 0, 7 ],
       "id_str" : "929",
@@ -8644,7 +8644,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "9943872",
       "id" : 9943872
     }, {
-      "name" : "Slash Furrow",
+      "name" : "Ash Furrow \u26C4\uFE0F",
       "screen_name" : "ashfurrow",
       "indices" : [ 15, 25 ],
       "id_str" : "15536268",
@@ -8683,7 +8683,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "9943872",
       "id" : 9943872
     }, {
-      "name" : "Slash Furrow",
+      "name" : "Ash Furrow \u26C4\uFE0F",
       "screen_name" : "ashfurrow",
       "indices" : [ 15, 25 ],
       "id_str" : "15536268",
@@ -9101,7 +9101,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jared Sin lair",
+      "name" : "Jared Sinclair",
       "screen_name" : "jaredsinclair",
       "indices" : [ 0, 14 ],
       "id_str" : "15004156",
@@ -9263,7 +9263,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anthony Geranio",
+      "name" : "Anthony S Geranio",
       "screen_name" : "asg",
       "indices" : [ 0, 4 ],
       "id_str" : "525956970",
@@ -9444,7 +9444,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Slash Furrow",
+      "name" : "Ash Furrow \u26C4\uFE0F",
       "screen_name" : "ashfurrow",
       "indices" : [ 0, 10 ],
       "id_str" : "15536268",
@@ -9700,7 +9700,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Slash Furrow",
+      "name" : "Ash Furrow \u26C4\uFE0F",
       "screen_name" : "ashfurrow",
       "indices" : [ 0, 10 ],
       "id_str" : "15536268",
@@ -9817,7 +9817,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "18119839",
       "id" : 18119839
     }, {
-      "name" : "jaimeejaimee",
+      "name" : "jaimee newberry",
       "screen_name" : "jaimeejaimee",
       "indices" : [ 11, 24 ],
       "id_str" : "17544123",
@@ -10120,7 +10120,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jared Sin lair",
+      "name" : "Jared Sinclair",
       "screen_name" : "jaredsinclair",
       "indices" : [ 0, 14 ],
       "id_str" : "15004156",
@@ -10312,7 +10312,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Justin Booooober",
+      "name" : "Justin Williams",
       "screen_name" : "justin",
       "indices" : [ 0, 7 ],
       "id_str" : "929",
@@ -10384,7 +10384,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Justin Booooober",
+      "name" : "Justin Williams",
       "screen_name" : "justin",
       "indices" : [ 0, 7 ],
       "id_str" : "929",
@@ -10742,7 +10742,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Slash Furrow",
+      "name" : "Ash Furrow \u26C4\uFE0F",
       "screen_name" : "ashfurrow",
       "indices" : [ 0, 10 ],
       "id_str" : "15536268",
@@ -10886,7 +10886,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jared Sin lair",
+      "name" : "Jared Sinclair",
       "screen_name" : "jaredsinclair",
       "indices" : [ 3, 17 ],
       "id_str" : "15004156",
@@ -10935,11 +10935,11 @@ Grailbird.data.tweets_2014_06 =
     "id" : 476026895947923459,
     "created_at" : "2014-06-09 15:43:50 +0000",
     "user" : {
-      "name" : "Jared Sin lair",
+      "name" : "Jared Sinclair",
       "screen_name" : "jaredsinclair",
       "protected" : false,
       "id_str" : "15004156",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/522135966467633153\/x-fvSFd3_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528337111490248705\/lou2eS77_normal.jpeg",
       "id" : 15004156,
       "verified" : false
     }
@@ -11127,7 +11127,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Robert B\u00C3\u00B6hnke",
+      "name" : "robb",
       "screen_name" : "ceterum_censeo",
       "indices" : [ 0, 15 ],
       "id_str" : "20190095",
@@ -11413,7 +11413,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jared Sin lair",
+      "name" : "Jared Sinclair",
       "screen_name" : "jaredsinclair",
       "indices" : [ 0, 14 ],
       "id_str" : "15004156",
@@ -11530,7 +11530,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Justin Booooober",
+      "name" : "Justin Williams",
       "screen_name" : "justin",
       "indices" : [ 0, 7 ],
       "id_str" : "929",
@@ -11963,7 +11963,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Slash Furrow",
+      "name" : "Ash Furrow \u26C4\uFE0F",
       "screen_name" : "ashfurrow",
       "indices" : [ 0, 10 ],
       "id_str" : "15536268",
@@ -11996,7 +11996,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Slash Furrow",
+      "name" : "Ash Furrow \u26C4\uFE0F",
       "screen_name" : "ashfurrow",
       "indices" : [ 0, 10 ],
       "id_str" : "15536268",
@@ -12398,7 +12398,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jared Sin lair",
+      "name" : "Jared Sinclair",
       "screen_name" : "jaredsinclair",
       "indices" : [ 0, 14 ],
       "id_str" : "15004156",
@@ -12443,7 +12443,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Justin Booooober",
+      "name" : "Justin Williams",
       "screen_name" : "justin",
       "indices" : [ 0, 7 ],
       "id_str" : "929",
@@ -12641,7 +12641,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jared Sin lair",
+      "name" : "Jared Sinclair",
       "screen_name" : "jaredsinclair",
       "indices" : [ 0, 14 ],
       "id_str" : "15004156",
@@ -12712,7 +12712,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jared Sin lair",
+      "name" : "Jared Sinclair",
       "screen_name" : "jaredsinclair",
       "indices" : [ 0, 14 ],
       "id_str" : "15004156",
@@ -12743,7 +12743,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jared Sin lair",
+      "name" : "Jared Sinclair",
       "screen_name" : "jaredsinclair",
       "indices" : [ 0, 14 ],
       "id_str" : "15004156",
@@ -12776,7 +12776,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jared Sin lair",
+      "name" : "Jared Sinclair",
       "screen_name" : "jaredsinclair",
       "indices" : [ 0, 14 ],
       "id_str" : "15004156",
@@ -12809,7 +12809,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jared Sin lair",
+      "name" : "Jared Sinclair",
       "screen_name" : "jaredsinclair",
       "indices" : [ 0, 14 ],
       "id_str" : "15004156",
@@ -12842,7 +12842,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jared Sin lair",
+      "name" : "Jared Sinclair",
       "screen_name" : "jaredsinclair",
       "indices" : [ 0, 14 ],
       "id_str" : "15004156",
@@ -12875,7 +12875,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jared Sin lair",
+      "name" : "Jared Sinclair",
       "screen_name" : "jaredsinclair",
       "indices" : [ 0, 14 ],
       "id_str" : "15004156",
@@ -12908,7 +12908,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jared Sin lair",
+      "name" : "Jared Sinclair",
       "screen_name" : "jaredsinclair",
       "indices" : [ 0, 14 ],
       "id_str" : "15004156",
@@ -13984,11 +13984,11 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MG Siegler",
+      "name" : "ParisLemon",
       "screen_name" : "parislemon",
       "indices" : [ 0, 11 ],
-      "id_str" : "652193",
-      "id" : 652193
+      "id_str" : "134665872",
+      "id" : 134665872
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -14002,7 +14002,7 @@ Grailbird.data.tweets_2014_06 =
   "id" : 473647412465381376,
   "in_reply_to_status_id" : 473634181415591936,
   "created_at" : "2014-06-03 02:08:37 +0000",
-  "in_reply_to_screen_name" : "parislemon",
+  "in_reply_to_screen_name" : "mgsiegler",
   "in_reply_to_user_id_str" : "652193",
   "user" : {
     "name" : "Bryan Irace",
@@ -14017,7 +14017,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Justin Booooober",
+      "name" : "Justin Williams",
       "screen_name" : "justin",
       "indices" : [ 0, 7 ],
       "id_str" : "929",
@@ -14218,13 +14218,7 @@ Grailbird.data.tweets_2014_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Marc Palmer",
-      "screen_name" : "transition_io",
-      "indices" : [ 0, 14 ],
-      "id_str" : "1326598950",
-      "id" : 1326598950
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -14237,7 +14231,7 @@ Grailbird.data.tweets_2014_06 =
   "id" : 473615999741464576,
   "in_reply_to_status_id" : 473615875380346880,
   "created_at" : "2014-06-03 00:03:48 +0000",
-  "in_reply_to_screen_name" : "transition_io",
+  "in_reply_to_screen_name" : "marcpalmerdev",
   "in_reply_to_user_id_str" : "1326598950",
   "user" : {
     "name" : "Bryan Irace",
@@ -14251,13 +14245,7 @@ Grailbird.data.tweets_2014_06 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Marc Palmer",
-      "screen_name" : "transition_io",
-      "indices" : [ 0, 14 ],
-      "id_str" : "1326598950",
-      "id" : 1326598950
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -14270,7 +14258,7 @@ Grailbird.data.tweets_2014_06 =
   "id" : 473615453873799169,
   "in_reply_to_status_id" : 473614868952936448,
   "created_at" : "2014-06-03 00:01:38 +0000",
-  "in_reply_to_screen_name" : "transition_io",
+  "in_reply_to_screen_name" : "marcpalmerdev",
   "in_reply_to_user_id_str" : "1326598950",
   "user" : {
     "name" : "Bryan Irace",
@@ -15177,7 +15165,7 @@ Grailbird.data.tweets_2014_06 =
       "id_str" : "5532",
       "id" : 5532
     }, {
-      "name" : "Robert B\u00C3\u00B6hnke",
+      "name" : "robb",
       "screen_name" : "ceterum_censeo",
       "indices" : [ 11, 26 ],
       "id_str" : "20190095",
@@ -15213,7 +15201,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Robert B\u00C3\u00B6hnke",
+      "name" : "robb",
       "screen_name" : "ceterum_censeo",
       "indices" : [ 0, 15 ],
       "id_str" : "20190095",
@@ -15351,7 +15339,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scott ",
+      "name" : "Scott",
       "screen_name" : "Scott_Source",
       "indices" : [ 0, 13 ],
       "id_str" : "43650262",
@@ -15384,7 +15372,7 @@ Grailbird.data.tweets_2014_06 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Scott ",
+      "name" : "Scott",
       "screen_name" : "Scott_Source",
       "indices" : [ 0, 13 ],
       "id_str" : "43650262",

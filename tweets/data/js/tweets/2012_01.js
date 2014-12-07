@@ -507,7 +507,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "rauchg",
       "protected" : false,
       "id_str" : "15540222",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/501573010805895169\/S4GvMG1l_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/527293598119636992\/ZF4mxvGY_normal.png",
       "id" : 15540222,
       "verified" : false
     }
@@ -955,7 +955,7 @@ Grailbird.data.tweets_2012_01 =
     "id" : 156461647039434752,
     "created_at" : "2012-01-09 19:45:38 +0000",
     "user" : {
-      "name" : "Scott ",
+      "name" : "Scott",
       "screen_name" : "Scott_Source",
       "protected" : false,
       "id_str" : "43650262",
@@ -1210,7 +1210,7 @@ Grailbird.data.tweets_2012_01 =
       "id_str" : "33423",
       "id" : 33423
     }, {
-      "name" : "Dan BRAAAAINSjamin",
+      "name" : "Dan Benjamin",
       "screen_name" : "danbenjamin",
       "indices" : [ 8, 20 ],
       "id_str" : "5905672",
@@ -1537,13 +1537,7 @@ Grailbird.data.tweets_2012_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "MG Siegler",
-      "screen_name" : "parislemon",
-      "indices" : [ 3, 14 ],
-      "id_str" : "652193",
-      "id" : 652193
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -1575,11 +1569,11 @@ Grailbird.data.tweets_2012_01 =
     "id" : 154680503386120193,
     "created_at" : "2012-01-04 21:48:00 +0000",
     "user" : {
-      "name" : "MG Siegler",
-      "screen_name" : "parislemon",
+      "name" : "M.G. Siegler",
+      "screen_name" : "mgsiegler",
       "protected" : false,
       "id_str" : "652193",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/521342931760734209\/7Jo_7YC4_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/528600508148101120\/hKFw2ON3_normal.jpeg",
       "id" : 652193,
       "verified" : true
     }

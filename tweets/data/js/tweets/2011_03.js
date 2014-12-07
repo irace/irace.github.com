@@ -100,7 +100,7 @@ Grailbird.data.tweets_2011_03 =
       "screen_name" : "piraino",
       "protected" : false,
       "id_str" : "40563",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/520272571036479488\/8YXDOqAm_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/529335384858062848\/1ROFSzRq_normal.png",
       "id" : 40563,
       "verified" : false
     }

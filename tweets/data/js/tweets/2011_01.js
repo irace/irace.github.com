@@ -419,7 +419,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "monteiro",
       "protected" : false,
       "id_str" : "2426",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/480334642566803457\/2HgLwJHi_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/539211010993700864\/aHVsuWK9_normal.jpeg",
       "id" : 2426,
       "verified" : false
     }

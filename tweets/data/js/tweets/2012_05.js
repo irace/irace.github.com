@@ -140,7 +140,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "joeypfeifer",
       "protected" : false,
       "id_str" : "787487",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/506543113519656960\/foZq9HcI_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/538140446258913280\/zXPJqq4P_normal.jpeg",
       "id" : 787487,
       "verified" : false
     }
@@ -237,7 +237,7 @@ Grailbird.data.tweets_2012_05 =
       "id_str" : "127666940",
       "id" : 127666940
     }, {
-      "name" : "#OctoberTogether",
+      "name" : "World Champs",
       "screen_name" : "SFGiants",
       "indices" : [ 30, 39 ],
       "id_str" : "43024351",
@@ -262,7 +262,7 @@ Grailbird.data.tweets_2012_05 =
     "source" : "\u003Ca href=\"http:\/\/www.echofon.com\/\" rel=\"nofollow\"\u003EEchofon\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "#OctoberTogether",
+        "name" : "World Champs",
         "screen_name" : "SFGiants",
         "indices" : [ 11, 20 ],
         "id_str" : "43024351",
@@ -1401,7 +1401,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "tumblr",
       "protected" : false,
       "id_str" : "52484614",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000576211895\/94a4a4b25f5d692cb836baf74b9e64b1_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/540603523373617154\/_yK0VDXH_normal.jpeg",
       "id" : 52484614,
       "verified" : true
     }
@@ -3027,7 +3027,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/us\/app\/twitter\/id409789998?mt=12\" rel=\"nofollow\"\u003ETwitter for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BetaKit ",
+      "name" : "BetaKit",
       "screen_name" : "BetaKit",
       "indices" : [ 1, 9 ],
       "id_str" : "420537199",
