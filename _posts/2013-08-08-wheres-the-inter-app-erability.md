@@ -25,4 +25,6 @@ Like many of iOS's built-in applications, Safari also displays an activity contr
 
 As iOS evolves, it continues to empower developers with new capabilities for enriching the lives of our users on a daily basis. Allowing apps to be smarter about exposing data to and consuming data from other applications would be a natural progression. By providing dynamic inter-app communication, iOS would allow developers to focus on what makes their particular applications great. For users, a seamless integration of services would make our ever-increasing time spent on mobile devices more productive.
 
+---
+
 [Originally published](http://www.loopinsight.com/magazine/issue-5/wheres-the-inter-app-erability/) in [The Loop magazine](http://www.loopinsight.com/magazine/), [Issue 5](http://www.loopinsight.com/magazine/issue-5/).

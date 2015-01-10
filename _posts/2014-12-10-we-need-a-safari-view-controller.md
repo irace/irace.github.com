@@ -22,3 +22,7 @@ iOS 8 share and action extensions are further proof that Apple thinks being able
 [^1]: Another reason to build in-app browsers in the past had been to augment them with functionality like “Save to Instapaper” and “Login with 1Password.” Now that iOS 8 extensions bake these capabilities into Safari itself, this is no longer a valid justification.
 
 [^2]: Authentication isn’t the only feature that non-Safari browsers lack out of the box. Third-party apps can’t integrate with a user’s bookmarks nor iCloud Tabs, either, just to name a few.
+
+---
+
+[Originally published](http://bryan.io/post/104845880796/we-need-a-safari-view-controller) on [bryan.io](http://bryan.io)

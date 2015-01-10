@@ -41,5 +41,6 @@ One such example is [`pod-try`](http://blog.cocoapods.org/CocoaPods-0.29/), a pl
 
 Between helping to create a thriving open-source Objective-C ecosystem, and providing tools that help ensure quality rather than sprawling dependency graphs, the goals behind CocoaPods are noble ones. Any developer should be able to benefit from and get behind them, regardless of where you fall on the "not invented here" spectrum.
 
-[Originally published](http://glidedata.com/the-loop-magazine/issue-20/cocoapods-or-how-i-learned-to-stop-worrying-and-love-objective-c/) in [The Loop magazine](http://www.loopinsight.com/magazine/), Issue 20.
+---
 
+[Originally published](http://glidedata.com/the-loop-magazine/issue-20/cocoapods-or-how-i-learned-to-stop-worrying-and-love-objective-c/) in [The Loop magazine](http://www.loopinsight.com/magazine/), Issue 20.
