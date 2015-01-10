@@ -138,4 +138,4 @@ And of course, to the frameworks and developer evangelist teams at Apple. With e
 
 ---
 
-[Originally published](http://cocoa.tumblr.com/post/97658941878/what-we-learned-building-the-tumblr-ios-share) on [cocoa.tumblr.com](http://cocoa.tumblr.com)
+[Originally published](http://bryan.io/post/97658826431/what-we-learned-building-the-tumblr-ios-share) on [bryan.io](http://bryan.io)
