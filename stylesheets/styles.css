@@ -4,7 +4,7 @@
 
 body {
 	margin: 40px 0 40px 0;
-	background-color: #3889ca;
+	background-color: #303030;
   color: #EAEAEA !important;
 	font-size: 20px;
 }
@@ -61,7 +61,7 @@ h1 {
 }
 
 a:link, a:visited, a:hover, a:active {
-	color: #63c0f5;
+	color: #BCE7FF;
 	opacity: 1;
 	transition: opacity .1s ease-in-out;
 	-moz-transition: opacity .1s ease-in-out;
