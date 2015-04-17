@@ -23,12 +23,12 @@ section {
   margin-top: 20px;
 }
 
-ul {
+ul.bullet {
   list-style-type: none;
   list-style-position: inside;
 }
 
-li {
+ul.bulletli {
   background-image: url('/images/bullet.png');
   background-repeat: no-repeat;
   background-size: 8px 12px;
