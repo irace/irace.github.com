@@ -28,7 +28,7 @@ ul.bullet {
   list-style-position: inside;
 }
 
-ul.bulletli {
+ul.bullet li {
   background-image: url('/images/bullet.png');
   background-repeat: no-repeat;
   background-size: 8px 12px;
