@@ -9,6 +9,12 @@ body {
 	font-size: 20px;
 }
 
+.highlight {
+  background-color: #ffffff;
+  color: #222220 !important;
+  margin-bottom: 20px;
+}
+
 header .image-container {
   text-align: center;
   margin-bottom: 20px;
