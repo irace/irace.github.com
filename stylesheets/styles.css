@@ -6,6 +6,8 @@ body {
 	font-size: 20px;
 }
 
+/* Code */
+
 .highlight {
   background-color: #ffffff;
   color: #222220 !important;
@@ -15,7 +17,10 @@ body {
 
 .highlight pre {
   font-family: monospace;
+  white-space: pre-wrap;
 }
+
+/* Heading */
 
 header .image-container {
   text-align: center;
