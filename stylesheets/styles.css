@@ -10,6 +10,11 @@ body {
   background-color: #ffffff;
   color: #222220 !important;
   margin-bottom: 20px;
+  padding: 20px;
+}
+
+.highlight pre {
+  font-family: monospace;
 }
 
 header .image-container {
