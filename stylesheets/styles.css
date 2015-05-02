@@ -54,7 +54,7 @@ ul.bullet li {
         only screen and (-webkit-min-device-pixel-ratio: 2), 
         only screen and (min-device-pixel-ratio: 2),
         only screen and (max-width: 749px) {
-  li {
+  ul.bullet li {
     background-image: url('/images/bullet@2x.png');
   }
 }
