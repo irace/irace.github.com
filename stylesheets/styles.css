@@ -77,7 +77,7 @@ h1 {
 	letter-spacing: -1px;
 }
 
-p {
+p, li {
   line-height: 30px;
 }
 
