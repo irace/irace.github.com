@@ -2,8 +2,11 @@ body {
   font-family: "Helvetica Neue", sans-serif;
 	margin: 40px 0 40px 0;
 	background-color: #303030;
-  color: #EAEAEA !important;
 	font-size: 20px;
+}
+
+strong, body {
+  color: #EAEAEA !important;
 }
 
 /* Code */
