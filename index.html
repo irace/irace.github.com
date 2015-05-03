@@ -15,8 +15,8 @@ layout: none
   <meta name="description" content="{{ site.description | xml_escape }}">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-  <link rel="stylesheet" href="stylesheets/base.css">
-  <link rel="stylesheet" href="stylesheets/skeleton.css">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
   <link rel="stylesheet" href="stylesheets/styles.css">
 
   <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
@@ -29,28 +29,28 @@ layout: none
 <body>
   <div class="container">
 
-    <header class="sixteen columns">
+    <header>
       <div class="image-container">
         <img src="images/bryan.png">
       </div>
       <h1>Hey!</h1>
     </header>
 
-    <section class="sixteen columns">
+    <section>
       <p>I’m a software developer in NYC currently working on building <a href="https://itunes.apple.com/us/app/tumblr/id305343404?mt=8">Tumblr for iOS</a>. Follow me on <a href="http://bryan.io">Tumblr</a> and on <a href="http://twitter.com/irace">Twitter</a>.</p>
     </section>
 
-    <section class="sixteen columns">
+    <section>
       <h3>Open source</h3>
       <p>I have lots of various code up on <a href="https://github.com/irace?tab=repositories">GitHub</a> but here are few of my more complete projects:</p>
-       <ul class="bullet">
+      <ul class="bullet">
         <li><a href="https://github.com/tumblr/TMTumblrSDK">TMTumblrSDK</a></li>
         <li><a href="https://github.com/irace/BRYSerialAnimationQueue">BRYSerialAnimationQueue</a></li>
         <li><a href="https://github.com/irace/BRYSoundEffectPlayer">BRYSoundEffectPlayer</a></li>
       </ul>
     </section>
 
-    <section class="sixteen columns">
+    <section>
       <h3>Writing</h3>
       <p>I write most frequently on Tumblr (<a href="http://bryan.io">bryan.io</a> and <a href="http://cocoa.tumblr.com">cocoa.tumblr.com</a>) but here are some selected pieces:
       <ul class="bullet">
@@ -63,7 +63,7 @@ layout: none
       </ul>
     </section>
 
-    <section class="sixteen columns">
+    <section>
       <h3>Speaking</h3>
       <ul class="bullet">
         <li><a href="https://speakerdeck.com/irace/building-tumblr-for-ios">Building Tumblr for iOS 8</a> (11/10/2014)</li>
@@ -75,7 +75,7 @@ layout: none
       </ul>
     </section>
 
-    <section class="sixteen columns">
+    <section>
       <h3>Podcasts</h3>
       <ul class="bullet">
         <li><a href="https://itunes.apple.com/us/podcast/57-extensibility-roundtable/id578812394?i=326160445&amp;mt=2">Debug #57: Extensibility roundtable</a> (11/26/2014)</li>
@@ -85,12 +85,10 @@ layout: none
       </ul>
     </section>
 
-    <section class="sixteen columns" id="now_playing">
+    <section id="now_playing">
       <h3>Now playing</h3>
       <p><img class="artwork"><span class="artist"></span> - <span class="track"></span></p>
     </section>
-    </div>
-  </div>
 
   </div>
 

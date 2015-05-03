@@ -11,9 +11,10 @@
   <meta name="author" content="Bryan Irace">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+
   <link rel="stylesheet" href="/stylesheets/github-syntax-highlighting.css">
-  <link rel="stylesheet" href="/stylesheets/base.css">
-  <link rel="stylesheet" href="/stylesheets/skeleton.css">
   <link rel="stylesheet" href="/stylesheets/styles.css">
 
   <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
@@ -27,7 +28,7 @@
 <body>
   <div class="container">
 
-    <header class="sixteen columns">
+    <header>
       <div class="image-container">
         <a href="http://irace.me"><img src="/images/bryan.png"></a>
       </div>
@@ -35,9 +36,9 @@
       <p><date><em>{{ page.date | date: '%B %d, %Y' }}</em></date></p>
     </header>
 
-    <div class="sixteen columns">
+    <section>
       {{ content }}
-    </div>
+    </section>
 
   </div>
 

@@ -1,12 +1,12 @@
 body {
   font-family: "Helvetica Neue", sans-serif;
-	margin: 40px 0 40px 0;
-	background-color: #303030;
-	font-size: 20px;
-}
+  font-size: 20px;
+  color: #EAEAEA;
+  -webkit-font-smoothing: antialiased;
 
-strong, body {
-  color: #EAEAEA !important;
+	margin: 40px;
+  
+	background-color: #303030;
 }
 
 /* Code */
@@ -77,11 +77,8 @@ h1 {
 	letter-spacing: -1px;
 }
 
-p, li {
-  line-height: 30px;
-}
-
 a:link, a:visited, a:hover, a:active {
+  text-decoration: underline;
 	color: #BCE7FF;
 	opacity: 1;
 	transition: opacity .1s ease-in-out;
