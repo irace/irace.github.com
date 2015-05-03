@@ -5,7 +5,7 @@ body {
   -webkit-font-smoothing: antialiased;
 
 	margin: 40px;
-  
+
 	background-color: #303030;
 }
 
@@ -44,6 +44,8 @@ section {
 ul.bullet {
   list-style-type: none;
   list-style-position: inside;
+
+  padding-left: 0;
 }
 
 ul.bullet li {
@@ -55,6 +57,11 @@ ul.bullet li {
   padding-left: 15px;
 
   line-height: normal !important;
+}
+
+li {
+  -webkit-margin-before: 1em;
+  -webkit-margin-after: 1em;
 }
 
 @media only screen and (min--moz-device-pixel-ratio: 2), 
