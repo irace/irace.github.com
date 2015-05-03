@@ -9,18 +9,38 @@ body {
 	background-color: #303030;
 }
 
-/* Code */
-
-.highlight {
-  background-color: #ffffff;
-  color: #222220 !important;
-  margin-bottom: 20px;
-  padding: 20px;
+h1 {
+  font-size: 40px;
+  letter-spacing: -1px;
 }
 
-.highlight pre {
-  font-family: monospace;
-  white-space: pre-wrap;
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Menlo", Courier, monospace;
+  color: white;
+}
+
+li {
+  -webkit-margin-before: 0.25em;
+  -webkit-margin-after: 0.25em;
+}
+
+section {
+  margin-top: 20px;
+}
+
+/* Links */
+
+a:link, a:visited, a:hover, a:active {
+  text-decoration: underline;
+  color: #BCE7FF;
+  opacity: 1;
+  transition: opacity .1s ease-in-out;
+  -moz-transition: opacity .1s ease-in-out;
+  -webkit-transition: opacity .1s ease-in-out;
+}
+
+a:hover {
+  opacity: 0.5;
 }
 
 /* Heading */
@@ -33,75 +53,4 @@ header .image-container {
 header img {
   width: 99px;
   height: 99px;
-}
-
-section {
-  margin-top: 20px;
-}
-
-/* Lists */
-
-ul.bullet {
-  list-style-type: none;
-  list-style-position: inside;
-
-  padding-left: 0;
-}
-
-ul.bullet li {
-  background-image: url('/images/bullet.png');
-  background-repeat: no-repeat;
-  background-size: 8px 12px;
-  background-position: left center;
-
-  padding-left: 15px;
-
-  line-height: normal !important;
-}
-
-li {
-  -webkit-margin-before: 1em;
-  -webkit-margin-after: 1em;
-}
-
-@media only screen and (min--moz-device-pixel-ratio: 2), 
-        only screen and (-o-min-device-pixel-ratio: 2/1), 
-        only screen and (-webkit-min-device-pixel-ratio: 2), 
-        only screen and (min-device-pixel-ratio: 2),
-        only screen and (max-width: 749px) {
-  ul.bullet li {
-    background-image: url('/images/bullet@2x.png');
-  }
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Menlo", Courier, monospace;
-  color: white;
-}
-
-h1 {
-	font-size: 40px;
-	letter-spacing: -1px;
-}
-
-a:link, a:visited, a:hover, a:active {
-  text-decoration: underline;
-	color: #BCE7FF;
-	opacity: 1;
-	transition: opacity .1s ease-in-out;
-	-moz-transition: opacity .1s ease-in-out;
-	-webkit-transition: opacity .1s ease-in-out;
-}
-
-a:hover {
-	opacity: 0.5;
-}
-
-#now_playing {
-  display: none;
-}
-
-#now_playing .artwork {
-  vertical-align: middle;
-  margin-right: 15px;
 }
