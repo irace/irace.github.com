@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Background check: multitasking on iOS throughout the years
+title: Background check – multitasking on iOS throughout the years
 permalink: backgrounding
 date: 2014-05-30
 ---
