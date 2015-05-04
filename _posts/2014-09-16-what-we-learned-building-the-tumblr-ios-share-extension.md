@@ -109,9 +109,9 @@ This looks like it would mean &ldquo;show my extension as long as *any* of the a
 
 [Federico Viticci](http://twitter.com/viticci), who at this point has likely used more third-party share extensions than anyone else on the planet, verifies that this is in fact a legitimate problem:
 
-<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/irace">@irace</a> Yup. Been talking to devs to handle exceptions when possible, but I'm getting a lot of failures in several apps.</p>&mdash; Federico Viticci (@viticci) <a href="https://twitter.com/viticci/status/507992803872616448">September 5, 2014</a></blockquote>
+<center><blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/irace">@irace</a> Yup. Been talking to devs to handle exceptions when possible, but I'm getting a lot of failures in several apps.</p>&mdash; Federico Viticci (@viticci) <a href="https://twitter.com/viticci/status/507992803872616448">September 5, 2014</a></blockquote>
 <blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/irace">@irace</a> Yep. And, that the input passed by an app doesn't match what another app's extension expects and you get all sorts of weird stuff.</p>&mdash; Federico Viticci (@viticci) <a href="https://twitter.com/viticci/status/507996744865837056">September 5, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
 ### Workaround
 

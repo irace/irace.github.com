@@ -39,6 +39,10 @@ a:link, a:visited, a:hover, a:active {
   -webkit-transition: opacity .1s ease-in-out;
 }
 
+a:link, a:visited, a:hover, a:active, a code {
+  color: #BCE7FF;
+}
+
 a:hover {
   opacity: 0.5;
 }
