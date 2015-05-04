@@ -5,7 +5,7 @@ permalink: backgrounding
 date: 2014-05-30
 ---
 
-> "What are you doing that for?"
+**“What are you doing that for?”**
 
 It’s 2012. Imagine that you’re an iOS developer who understands how the operating system manages which apps are running at any given time. You happen to notice that your friend has opened the app switcher on their iPhone and is manually “killing” each application, one by one.
 
@@ -13,7 +13,7 @@ They tell you that they’re doing this to increase their battery life, or to ma
 
 You *know* that it isn’t true though. You try to explain that those applications either aren’t running at all, or are in a suspended state that doesn’t impact their phone’s performance or battery life. If iOS needs to free up memory, it’ll do so without them needing to intervene, you say. They resist.
 
-“So you’re telling me that closing *all* of these will have zero effect on my battery life?”
+“So you’re telling me that closing *all* of these will have *zero* effect on my battery life?”
 
 Sigh. OK, *now* how are you going to explain this?
 
