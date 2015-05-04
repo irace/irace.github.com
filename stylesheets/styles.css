@@ -32,14 +32,15 @@ section {
 
 a:link, a:visited, a:hover, a:active {
   text-decoration: underline;
-  color: #BCE7FF;
   opacity: 1;
-  transition: opacity .1s ease-in-out;
-  -moz-transition: opacity .1s ease-in-out;
-  -webkit-transition: opacity .1s ease-in-out;
+
+  transition: opacity .05s ease-in-out;
+  -moz-transition: opacity .05s ease-in-out;
+  -webkit-transition: opacity .05s ease-in-out;
 }
 
-a:link, a:visited, a:hover, a:active, a code {
+a:link, a:visited, a:hover, a:active
+a:link *, a:visited *, a:hover *, a:active * {
   color: #BCE7FF;
 }
 
