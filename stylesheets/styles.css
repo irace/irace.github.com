@@ -39,7 +39,7 @@ a:link, a:visited, a:hover, a:active {
   -webkit-transition: opacity .05s ease-in-out;
 }
 
-a:link, a:visited, a:hover, a:active
+a:link, a:visited, a:hover, a:active,
 a:link *, a:visited *, a:hover *, a:active * {
   color: #BCE7FF;
 }
