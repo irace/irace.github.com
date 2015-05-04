@@ -1,6 +1,9 @@
+/* Code */
+
 .highlight {
   width: 80%;
   margin: auto;
+  padding: 25px 0 25px 0;
 }
 
 .highlight pre {
