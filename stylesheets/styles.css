@@ -33,10 +33,6 @@ section {
 a:link, a:visited, a:hover, a:active {
   text-decoration: underline;
   opacity: 1;
-
-  transition: opacity .05s ease-in-out;
-  -moz-transition: opacity .05s ease-in-out;
-  -webkit-transition: opacity .05s ease-in-out;
 }
 
 a:link, a:visited, a:hover, a:active, a code {
