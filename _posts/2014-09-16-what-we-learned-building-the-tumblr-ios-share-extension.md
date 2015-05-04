@@ -15,7 +15,7 @@ Of course, your mileage may vary with some or all of these. We&rsquo;ve talked t
 
 ## We couldn&rsquo;t get background file uploads to work
 
-* [Radar #18107172: Background NSURLSessionUploadTask cannot read file in app group shared container](http://openradar.appspot.com/radar?id=6188366450130944) ([sample project](https://github.com/tumblr/ios-extension-issues/tree/master/samples/BackgroundSessionErrors))
+[Radar #18107172: Background NSURLSessionUploadTask cannot read file in app group shared container](http://openradar.appspot.com/radar?id=6188366450130944) ([sample project](https://github.com/tumblr/ios-extension-issues/tree/master/samples/BackgroundSessionErrors))
 
 Apple&rsquo;s [App Extension Programming Guide](https://developer.apple.com/library/prerelease/ios/documentation/General/Conceptual/ExtensibilityPG/index.html) contains a section on [performing uploads and downloads](https://developer.apple.com/library/prerelease/ios/documentation/General/Conceptual/ExtensibilityPG/ExtensionScenarios.html#//apple_ref/doc/uid/TP40014214-CH21-SW2), complete with sample code indicating how background sessions are to be used to perform uploads that may last longer than your extension process is alive for. Normally, an [`NSURLSessionUploadTask`](https://developer.apple.com/library/ios/documentation/Foundation/Reference/NSURLSessionUploadTask_class/Reference/Reference.html) can be created from a stream, raw data, or a file URL, but only the latter is intended to be used in an extension. This makes sense: communication between extensions and container applications in the same &ldquo;app group&rdquo; occurs through a [shared container](https://developer.apple.com/library/prerelease/ios/documentation/General/Conceptual/ExtensibilityPG/ExtensionScenarios.html#//apple_ref/doc/uid/TP40014214-CH21-SW6), a special, secure location on disk that both extension and app are able to read and write from. The extension writes a file to the shared container and initiates a task to upload that file. The upload ostensibly occurs in a third process, allowing it to continue even once the extension has been terminated. The container application will then later be woken up and notified as to its success or failure.
 
@@ -29,7 +29,7 @@ As soon as a user taps the &ldquo;Post&rdquo; button, we&rsquo;d ideally like to
 
 ## The container application must be opened before the share extension can be used
 
-* [Radar #18119318: Need a way to migrate data into a shared container without requiring the user to explicitly launching the containing app before using the extension](http://openradar.appspot.com/radar?id=6377617741578240)
+[Radar #18119318: Need a way to migrate data into a shared container without requiring the user to explicitly launching the containing app before using the extension](http://openradar.appspot.com/radar?id=6377617741578240)
 
 As mentioned, the shared container is where everything that you need to access from both your app and extension must be located: user defaults, keychains, databases, files that you&rsquo;re serializing via `NSCoding`, etc.
 
@@ -41,7 +41,7 @@ There&rsquo;s no great option here. If the user opens our extension first, we ju
 
 ## We couldn&rsquo;t get `NSFileCoordinator` to work
 
-* [Radar #18341292: `NSFileCoordinator` does not work reliably across applications and share extensions](http://openradar.appspot.com/radar?id=4926212463919104)
+[Radar #18341292: `NSFileCoordinator` does not work reliably across applications and share extensions](http://openradar.appspot.com/radar?id=4926212463919104)
 
 `NSUserDefaults` and SQLite are useful for synchronizing data access across both extension and container application, but as per [WWDC Session 217](http://asciiwwdc.com/2014/sessions/217?q=NSFileCoordinator), [`NSFileCoordinator`](https://developer.apple.com/library/mac/documentation/Foundation/Reference/NSFileCoordinator_class/Reference/Reference.html) is also supposed to be an option for those of us using `NSCoding` for custom data persistence. We tried hard, but couldn&rsquo;t actually get it to reliably work.
 
@@ -59,7 +59,7 @@ This isn&rsquo;t to say that `NSFileCoordinator` isn&rsquo;t currently a viable 
 
 ## Share extensions can&rsquo;t set the status bar color
 
-* [Radar #17916449: Share extension status bars don&rsquo;t respect `preferredStatusBarStyle`](http://openradar.appspot.com/radar?id=6397505050771456) ([sample project](https://github.com/tumblr/ios-extension-issues/tree/master/samples/StatusBarStyleIgnored))
+[Radar #17916449: Share extension status bars don&rsquo;t respect `preferredStatusBarStyle`](http://openradar.appspot.com/radar?id=6397505050771456) ([sample project](https://github.com/tumblr/ios-extension-issues/tree/master/samples/StatusBarStyleIgnored))
 
 The Tumblr share extension &ndash; like its container application &ndash; has a dark blue background color. White looks great on dark blue. Black, not so much.
 
@@ -71,7 +71,7 @@ None so far. Neither Info.plist keys nor view controller methods worked, and we 
 
 ## You can&rsquo;t exclude your own share extension from your application&rsquo;s activity controllers
 
-* [Radar #18065047: There&rsquo;s no way to exclude your own app&rsquo;s share extension from showing up within the app](http://openradar.appspot.com/radar?id=6456818549129216)
+[Radar #18065047: There&rsquo;s no way to exclude your own app&rsquo;s share extension from showing up within the app](http://openradar.appspot.com/radar?id=6456818549129216)
 
 It makes sense that you can&rsquo;t specifically exclude a specific share extension from an activity view controller. We wouldn&rsquo;t want Instagram doing something like preventing sharing to Twitter, would we?
 
@@ -83,8 +83,8 @@ None so far. We tried configuring our activity controllers with an activity item
 
 ## By default, share extensions will *only* show up if they explicitly support *all* of the provided activity items
 
-* [Radar #18342403: NSExtensionActivationRules should only need to match a single activity item for a share extension to be displayed](http://openradar.appspot.com/radar?id=5616559737274368)
-* [Radar #18150467: Documentation for custom NSExtensionItemActivation rules is very vague](http://openradar.appspot.com/radar?id=5803657102622720)
+[Radar #18342403: NSExtensionActivationRules should only need to match a single activity item for a share extension to be displayed](http://openradar.appspot.com/radar?id=5616559737274368)
+[Radar #18150467: Documentation for custom NSExtensionItemActivation rules is very vague](http://openradar.appspot.com/radar?id=5803657102622720)
 
 This is a doozy. It&rsquo;s the most important issue we&rsquo;ve found, and one that probably deserves a blog post of its own.
 
@@ -128,7 +128,7 @@ SUBQUERY(extensionItems, $extensionItem, SUBQUERY($extensionItem.attachments, $a
 
 ## Misc.
 
-* [Radar #18207630: Table view content insets get adjusted wildly when rotating a share extension](http://openradar.appspot.com/radar?id=6662315554373632) ([sample project](https://github.com/tumblr/ios-extension-issues/tree/master/samples/IncorrectTableViewContentInsets)). Minor, especially relative to the rest of these issues, but we&rsquo;re already over 2,000 words here. What&rsquo;s a few more?
+[Radar #18207630: Table view content insets get adjusted wildly when rotating a share extension](http://openradar.appspot.com/radar?id=6662315554373632) ([sample project](https://github.com/tumblr/ios-extension-issues/tree/master/samples/IncorrectTableViewContentInsets)). Minor, especially relative to the rest of these issues, but we&rsquo;re already over 2,000 words here. What&rsquo;s a few more?
 
 ## Thanks!
 
