@@ -121,4 +121,4 @@ class AuthenticationControllerFactory {
 
 Glue code. A throwaway class. When we get some time to pay off some of our technical debt, we can probably get rid of it. But in the interim, we’ve isolated our global access to a single place that we can blissfully ignore to when it comes time to write tests for or reuse our `AuthenticationController`.
 
-[^1]: A class method in a Swift extension or Objective-C category would also work, if you find that approach to be a bit more familiar. Though factory methods are prevalent throughout the iOS SDK, factory *classes* aren’t. I still prefer them personally due to how obvious their single purpose ends up being.
+[^1]: A class method or convience initializer in a Swift extension or Objective-C category would also work, if you find that approach to be a bit more familiar. Though factory methods are prevalent throughout the iOS SDK, factory *classes* aren’t. I still prefer them personally due to how obvious their single purpose ends up being.
