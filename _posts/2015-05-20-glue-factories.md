@@ -103,7 +103,7 @@ class AuthenticationControllerTest: XCTest {
 }
 {% endhighlight %}
 
-Rather than a separate factory class, could we simply give our object a new class method that returns a configured instance? Or configure our object’s constructor with shared instances using Swift default parameters? These approaches would help with testability but not portability. By breaking out a separate class, the authentication controller itself can now be moved into a framework, while the factory class stays specific to our application.[^1] The framework remains generic and oblivious to the existence of our application’s global accesors.
+Rather than a separate factory class, could we simply give our object a new class method or convenience initializer that returns a configured instance? Or configure our object’s constructor with shared instances using Swift default parameters? These approaches would help with testability but not portability. By breaking out a separate class, the authentication controller itself can now be moved into a framework, while the factory class stays specific to our application.[^1] The framework remains generic and oblivious to the existence of our application’s global accesors.
 
 Let’s assume that – despite how nice it’d be – that it isn’t practical at this point in time for us to rewrite our application to make it particularly easy to get rid of all of these `sharedInstance` accessors. <mark>Introducing a factory is an easy way to avoid reworking our application to go all-in on dependency injection, but still keep our class’s logic isolated and testable.</mark>
 
