@@ -40,16 +40,15 @@ Examples of popular dependency injection libraries on iOS include [Objection](ht
 
 {% highlight objectivec %}
 - (SettingsController *)appSettingsController {
-    return [TyphoonDefinition withClass:[AppSettingsController class] 
-                          configuration:^(TyphoonDefinition *definition) {
-                              [definition useInitializer:@selector(initWithSoundManager:settingsView:) 
-                                              parameters:^(TyphoonMethod *initializer) {
-                                                  [initializer injectParameterWith:[_kernel soundManager]];
-                                                  [initializer injectParameterWith:[self appSettingsView]];
-                                              }];
-    
-                              [definition injectProperty:@selector(title) with:@"Settings"];
-                          }];
+    return [TyphoonDefinition withClass:[AppSettingsController class] configuration:^(TyphoonDefinition *definition) {
+        [definition useInitializer:@selector(initWithSoundManager:settingsView:) 
+                        parameters:^(TyphoonMethod *initializer) {
+                            [initializer injectParameterWith:[_kernel soundManager]];
+                            [initializer injectParameterWith:[self appSettingsView]];
+                        }];
+
+        [definition injectProperty:@selector(title) with:@"Settings"];
+    }];
 }
 {% endhighlight %}
 
