@@ -9,7 +9,7 @@ Before getting into iOS development, I used to build server-side web application
 
 Of course, code that reads from disk isn’t particularly testable. Rather than mock out the file system access, we’d create [factory](http://en.wikipedia.org/wiki/Factory_(object-oriented_programming)) classes that would simply read our config file and inject the values into our class’s constructor. In pseudocode, it’d look something like this:
 
-{% highlight text %}
+{% highlight swift %}
 class ObjectFactory {
     let properties: Properties
     
@@ -31,7 +31,7 @@ Perhaps you’re starting a new application from scratch today. You can architec
 
 When working on a legacy iOS codebase, you likely have a number of intertwined, coupled dependencies that aren’t particularly testable. Maybe you have a single Core Data controller, or a shared API client instance. Similarly, maybe your user defaults and keychain are stored in an app group that doesn’t particularly lend itself to easily unit testing. Your class might look something like this:
 
-{% highlight text %}
+{% highlight swift %}
 class AuthenticationController {
     func login(credentials: Credentials) {
         APIClient.sharedInstance().authenticate(credentials) { result in
@@ -49,7 +49,7 @@ Shared instances aren’t bad in and of themselves – there could be a perfect
 
 It’d be pretty hard to write a test for this controller. Ideally, you’d pass API client, Core Data controller, and keychain instances into something that looks more like:
 
-{% highlight text %}
+{% highlight swift %}
 class AuthenticationController {
     let coreDataController: CoreDataController
     let APIClient: APIClient
@@ -75,7 +75,7 @@ class AuthenticationController {
 
 And now, testing becomes a lot easier:
 
-{% highlight text %}
+{% highlight swift %}
 class AuthenticationControllerTest: XCTest {
     let coreDataController = InMemoryCoreDataController()
 
@@ -107,7 +107,7 @@ Rather than a separate factory class, could we simply give our object a new clas
 
 Let’s assume that – despite how nice it’d be – that it isn’t practical at this point in time for us to rewrite our application to make it particularly easy to get rid of all of these `sharedInstance` accessors. <mark>Introducing a factory is an easy way to avoid reworking our application to go all-in on dependency injection, but still keep our class’s logic isolated and testable.</mark>
 
-{% highlight text %}
+{% highlight swift %}
 class AuthenticationControllerFactory {
     class func authenticationController() -> AuthenticationController {
         return AuthenticationController(

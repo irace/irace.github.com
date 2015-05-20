@@ -1,11 +1,9 @@
 ---
 layout: post
-title: "Inversion of View Controllers: dependency injection on iOS"
+title: "Inversion of view controllers: dependency injection on iOS"
 permalink: di
 date: 2015-05-20
 ---
-
-// TODO: Show what your application code can look like if you do this
 
 “Dependency injection” is a phrase that has been tossed around a lot over the past few years, as the culture of unit testing (and as such, writing testable code) has grown within the iOS developer community. On more than one occasion, I’ve seen the concept of dependency injection reduced to something along the lines of “just passing instances into an initializer,” and confusion as to why such a practice would even be given a special name.
 
