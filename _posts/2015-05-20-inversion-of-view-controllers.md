@@ -98,7 +98,7 @@ Many dependency injection frameworks (notably, [Spring](http://docs.spring.io/sp
 </object>
 {% endhighlight %}
 
-You may have a knee-jerk aversion to the above, having dealt with some crummy XML API in the past, but try considering this approach without preconceived notions. **Markup languages are actually really good for defining relationships between nodes in a tree structure**. Separating the object graph definition from your actual class implementations ends up providing for a really nice separation of concerns. It’s a joy to implement a class’s logic without worrying about where it’s dependencies are actually coming from.
+You may have a knee-jerk aversion to the above, having dealt with some crummy XML API in the past, but try considering this approach without preconceived notions. <mark>Markup languages are actually really good for defining relationships between nodes in a tree structure</mark>. Separating the object graph definition from your actual class implementations ends up providing for a really nice separation of concerns. It’s a joy to implement a class’s logic without worrying about where it’s dependencies are actually coming from.
 
 Yes, it’s a bit of a pipe dream, but imagine initializing your application with little more than:
 
@@ -110,7 +110,7 @@ Yes, it’s a bit of a pipe dream, but imagine initializing your application wit
 }
 {% endhighlight %}
 
-That’s it. You pull a window out of your container, which has already configured it with a root view controller. The root view controller is already configured with its child view controllers, each of which is already configured with the various objects that they each need, each of which is configured with the objects that _they_ need, and so on and so forth. <mark>You don’t initialize any of these instances manually.</mark>
+That’s it. You pull a window out of your container, which has already configured it with a root view controller. The root view controller is already configured with its child view controllers, each of which is already configured with the various objects that they each need, each of which is configured with the objects that _they_ need, and so on and so forth. <mark>You don’t initialize any of these manually.</mark>
 
 In closing, I’m not suggesting that you rewrite your application to use Typhoon or Objection, or start rolling a dependency injection container yourself. Rather, I’d encourage you to take inspiration from these concepts when trying to strike a balance between the reusability or your classes and the overhead involved in implementing them to be that way. Selectively applingy dependency injection to your application, use something like [a factory](http://irace.me/factories), is a totally reasonable alternative to going “all in” and flipping your whole application inside out. With this approach, each factory serves as a mini DI-container: glue code that knows how to create instances of your classes using whatever they each need.
 
