@@ -7,7 +7,7 @@ date: 2014-01-27
 
 [Caleb Davenport](https://twitter.com/calebd) recently asked the following question on Twitter:
 
-<center><blockquote class="twitter-tweet" lang="en"><p>Is there a small CocoaPod that does NSDictionary to and from form encoded string and nothing else?</p>&mdash; Caleb Davenport (@calebd) <a href="https://twitter.com/calebd/statuses/425705753404379136">January 21, 2014</a></blockquote></center>
+<center class="centered-tweet"><blockquote class="twitter-tweet" lang="en"><p>Is there a small CocoaPod that does NSDictionary to and from form encoded string and nothing else?</p>&mdash; Caleb Davenport (@calebd) <a href="https://twitter.com/calebd/statuses/425705753404379136">January 21, 2014</a></blockquote></center>
 <script src="http://platform.twitter.com/widgets.js" charset="utf-8">&nbsp;</script>
 
 He knew that this functionality already exists in a number of larger libraries, but couldn't find exactly what he was looking for; something that did query string serialization correctly and nothing else. So he [made it](https://github.com/calebd/CMDQueryStringSerialization).

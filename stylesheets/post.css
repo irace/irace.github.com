@@ -5,6 +5,10 @@ pre {
   font-size: 15px;
 }
 
+img, .centered-tweet {
+    margin: 20px auto 20px auto;
+}
+
 code {
   padding: 0;
   background-color: inherit;
