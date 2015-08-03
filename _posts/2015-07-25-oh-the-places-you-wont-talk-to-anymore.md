@@ -1,0 +1,20 @@
+---
+layout: post
+title: Oh the Places you won’t talk to anymore
+permalink: places
+date: 2015-07-25
+---
+
+It didn’t make the press release and wasn’t picked up on by most of the tech press obituaries, but when [Path sold it’s apps to KakaoTalk](http://recode.net/2015/04/21/path-to-sell-kakaotalk/), the best product that the company had released to date was silently brought out behind the barn and shot. That product was the Path Talk app’s “Places” feature, or as it had been known before [being acquired by Dave Morin’s oft maligned app factory](http://www.theverge.com/2014/9/30/6873665/path-talk-lets-you-text-businesses-talkto), TalkTo.
+
+TalkTo, and subsequently, Path Talk Places (I’m going to refer to both products as TalkTo for the remainder of this post), is easy to describe but almost impossible to believe how well it actually worked in practice. Simply message any place – a bar, Home Depot, your doctor’s office – the same way that you’d message a friend or family member, and receive accurate, timely, natural human responses. All of the actions that you’d previously need to suffer through speaking to another person on the phone in order to perform – checking store hours, seeing if something is in stock, making a reservation at a restaurant that doesn’t support OpenTable – were now as painless as texting a friend to ask what time they’d be getting off work that evening. It felt too good to be true. Those of us who used it _loved it_, and tried to balance the desire to show our enthusiasm by shouting from the rooftops with our worry that this clearly _wasn’t_ a sustainable business, and that if we got more people using it, we might actually cause it to disappear faster than we already feared it was going to.
+
+The acquisition seemed like the nail in TalkTo’s coffin, and while it still lasted for quite a while, I feel like my initial reaction ended up being justified.
+
+<center><blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Somebody please buy Path, save <a href="https://twitter.com/talkto">@TalkTo</a>, then shut down the rest.</p>&mdash; Bryan Irace (@irace) <a href="https://twitter.com/irace/status/480005809020338176">June 20, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+
+So now what? Using TalkTo felt like using the future, [as the potential for chat as a replacement for conventional app interfaces](https://medium.com/@mg/there-s-a-chat-for-that-apple-s-biggest-platform-opportunity-yet-19d5b1870857) [remains huge](http://ben-evans.com/benedictevans/2015/3/24/the-state-of-messaging). My understanding of the original TalkTo thesis still makes a lot of sense; while TalkTo had employees or contractors receiving your text messages, calling a venue on your behalf, then responsding to you via text message, the end goal was always to provide business with some combination of hardware and software that would allow them to remove the middlemen. Clearly a system like this, in addition to being preferable by the customer, would allow businesses to provide more efficient and higher quality customer service. This is something that _someone_ should still be moving towards, but who?
+
+On the surface, this sounds like exactly the type of task that Google is best suited for. Historically, they’ve been the ones willing to throw lots of resources at large, manual tasks – such as sending cars to photograph as many storefronts as possible, globally - in the interest of making their mapping product more useful. I haven’t used the Google Maps app in quite some time[^1], but something like this would definitely be enough to bring me back.
+
+[^1]: The overwhelming majority of my transit and POI needs take place in New York City, where I find [Citymapper](https://citymapper.com) and [Foursquare](https://foursquare.com) to be the best in their respective classes. I rarely drive but Apple Maps has been perfectly fine for turn-by-turn navigation in my experience.
