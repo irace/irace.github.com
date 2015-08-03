@@ -11,7 +11,7 @@ Being notified about something is nice, but being able to _act_ on it right from
 
 WatchKit does allow developers to build custom, enhanced “long-look” notifications, as well. Here’s what Uber’s looks like – it simply shows you a preview of which car you should be looking out for.
 
-![A screenshot of Uber’s custom long look notification, showing a picture of the car that will be picking you up](uber.jpg)
+![A screenshot of Uber’s custom long look notification, showing a picture of the car that will be picking you up](/images/uber.jpg)
 
 Unlike interactive notifications, receiving these long-looks requires having an app specifically installed _on_ your Watch, highlighting a discoverability concern: there’s no way for you to know whether a Watch app comes with enhanced notifications or not. Many of the apps I have on my phone include Watch components, but I haven’t installed most because I don’t _want_ to have too many apps on there. Less is often more, especially when considering how rapidly the Watch’s paged glances and honeycomb app grid decrease in usability as the number of apps in them increase.
 
