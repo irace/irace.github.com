@@ -4,7 +4,7 @@ body {
   color: #EAEAEA;
   -webkit-font-smoothing: antialiased;
 
-	margin: 40px;
+	margin: 40px 0 40px 0;
 
 	background-color: #303030;
 }
@@ -53,4 +53,10 @@ header .image-container {
 header img {
   width: 99px;
   height: 99px;
+}
+
+@media screen and (min-width: 768px) {
+  body {
+    margin: 40px;
+  }
 }
