@@ -5,6 +5,10 @@ pre {
   font-size: 15px;
 }
 
+img {
+    max-width: 100%;
+}
+
 img, .centered-tweet {
     margin: 20px auto 20px auto;
 }
