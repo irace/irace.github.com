@@ -15,4 +15,4 @@ In the meantime, hearing people discuss smartwatches’ merits – or lack there
 
 ---
 
-Originally published on [bryan.io](http://bryan.io)
+[Originally published](http://bryan.io/post/113879653871/just-watch) on [bryan.io](http://bryan.io)
