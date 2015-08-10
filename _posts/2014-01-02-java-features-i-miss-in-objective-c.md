@@ -155,3 +155,7 @@ for (Theme theme : Theme.values()) {
     // Create a table cell for each theme
 }
 {% endhighlight %}
+
+---
+
+Originally published on [bryan.io](http://bryan.io)

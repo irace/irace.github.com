@@ -16,3 +16,7 @@ This isn't to say that Drew's article isn't worth reading; it's a great read, an
 > There's nothing really magical about this – don't cause retain cycles, everyone knows `__block` semantics changed with ARC, keep the returned value from the block-based `NSNotificationCenter` method, etc. Standard stuff.
 
 [^1]: Probably because unlike most blocks retain cycles, this one is caused by `NSNotificationCenter` retaining the block as opposed to `self` retaining it.
+
+---
+
+Originally published on [cocoa.tumblr.com](http://cocoa.tumblr.com)

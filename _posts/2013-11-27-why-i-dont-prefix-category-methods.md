@@ -31,3 +31,7 @@ If you're releasing a class category as part of an open-source library, it *may*
 **UPDATE:** Both [Brian Bonczek](https://twitter.com/itsbonczek) and [Jared Sinclair](https://twitter.com/jaredsinclair) have pointed out a benefit of prefixing category methods that I somehow overlooked: to prevent collisions with third-party dependencies that *you* include. But again I question the general usefulness of third-party categories as opposed to utility classes.
 
 [^1]: In which case you wouldn't be using a prefix anyway.
+
+---
+
+Originally published on [cocoa.tumblr.com](http://cocoa.tumblr.com)

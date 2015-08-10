@@ -117,4 +117,3 @@ In closing, I’m not suggesting that you rewrite your application to use Typhoo
 [^1]: Constructors aren’t the only way to inject dependencies. Setters work just fine, but when possible, let’s pass dependencies during construction in the interest of keeping our classes immutable.
 
 [^2]: There are exceptions to this, e.g. for trivial objects that you’d never reasonably want to pass in a replacement for.
-
