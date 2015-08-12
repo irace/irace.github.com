@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TechCrunch&#58; Google+ is Walking Dead
+title: "TechCrunch: Google+ is Walking Dead"
 permalink: google+
 date: 2014-04-25
 ---
