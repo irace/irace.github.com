@@ -11,7 +11,8 @@ One problem that I’ve been trying to work around is how coordinators are to be
 
 {% highlight swift %}
 func signUpButtonTapped() {
-  let accountCreationCoordinator = AccountCreationCoordinator(rootViewController: currentViewController, delegate: self)
+  let accountCreationCoordinator = AccountCreationCoordinator(rootViewController: 
+      currentViewController, delegate: self)
   accountCreationCoordinator.start()
 
   /*
