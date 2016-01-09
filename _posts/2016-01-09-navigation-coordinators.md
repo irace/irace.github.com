@@ -11,7 +11,8 @@ One problem that I’ve been trying to work around is how coordinators are to be
 
 {% highlight swift %}
 func signUpButtonTapped() {
-  let accountCreationCoordinator = AccountCreationCoordinator(rootViewController: currentViewController, delegate: self)
+  let accountCreationCoordinator = AccountCreationCoordinator(rootViewController: 
+      currentViewController, delegate: self)
   accountCreationCoordinator.start()
 
   /*
@@ -158,12 +159,12 @@ final class NavigationController: UIViewController {
 
     childNavigationController.view.translatesAutoresizingMaskIntoConstraints = false
 
-    NSLayoutConstraint.activateConstraints[
+    NSLayoutConstraint.activateConstraints([
       childNavigationController.view.topAnchor.constraintEqualToAnchor(view.topAnchor),
       childNavigationController.view.leftAnchor.constraintEqualToAnchor(view.leftAnchor),
       childNavigationController.view.rightAnchor.constraintEqualToAnchor(view.rightAnchor),
       childNavigationController.view.bottomAnchor.constraintEqualToAnchor(view.bottomAnchor)
-    ]
+    ])
   }
 
   // MARK: - Public
