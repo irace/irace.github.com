@@ -36,7 +36,8 @@ final class AccountCreationCoordinator {
 
   private let storage = Storage()
 
-  private lazy var navigationController: UINavigationController = UINavigationController(UserNameAndPasswordViewController(delegate: self))
+  private lazy var navigationController: UINavigationController = UINavigationController(
+    UserNameAndPasswordViewController(delegate: self))
 
   // MARK: - Initialization
 
@@ -112,92 +113,95 @@ Instead of having our account coordinator be called, let’s see if we can’t i
 
 {% highlight swift %}
 protocol RootViewControllerProvider: class {
-    var rootViewController: UIViewController { get }
+  var rootViewController: UIViewController { get }
 }
 
 typealias RootCoordinator = protocol<Coordinator, RootViewControllerProvider>
 
 final class NavigationController: UIViewController {
-    // MARK: - Inputs
+  // MARK: - Inputs
 
-    private let rootViewController: UIViewController
+  private let rootViewController: UIViewController
 
-    // MARK: - Mutable state
+  // MARK: - Mutable state
 
-    private var viewControllersToChildCoordinators: [UIViewController: Coordinator] = [:]
+  private var viewControllersToChildCoordinators: [UIViewController: Coordinator] = [:]
 
-    // MARK: - Lazy views
+  // MARK: - Lazy views
 
-    // https://github.com/devxoul/Then
-    private lazy var childNavigationController: UINavigationController = UINavigationController(rootViewController: self.rootViewController).then {
-      $0.delegate = self
-    }
+  // https://github.com/devxoul/Then
+  private lazy var childNavigationController: UINavigationController =
+      UINavigationController(rootViewController: self.rootViewController).then {
+    $0.delegate = self
+  }
 
-    // MARK: - Initialization
+  // MARK: - Initialization
 
-    init(rootViewController: UIViewController) {
-      self.rootViewController = rootViewController
+  init(rootViewController: UIViewController) {
+    self.rootViewController = rootViewController
 
-      super.init(nibName: nil, bundle: nil)
-    }
+    super.init(nibName: nil, bundle: nil)
+  }
 
-    // MARK: - UIViewController
+  // MARK: - UIViewController
 
-    override func viewDidLoad() {
-        super.viewDidLoad()
+  override func viewDidLoad() {
+    super.viewDidLoad()
 
-        addChildViewController(childNavigationController)
-        view.addSubview(childNavigationController.view)
-        childNavigationController.didMoveToParentViewController(self)
+    addChildViewController(childNavigationController)
+    view.addSubview(childNavigationController.view)
+    childNavigationController.didMoveToParentViewController(self)
 
-        childNavigationController.interactivePopGestureRecognizer?.delegate = self
+    childNavigationController.interactivePopGestureRecognizer?.delegate = self
 
-        childNavigationController.view.translatesAutoresizingMaskIntoConstraints = false
+    childNavigationController.view.translatesAutoresizingMaskIntoConstraints = false
 
-        NSLayoutConstraint.activateConstraints[
-          childNavigationController.view.topAnchor.constraintEqualToAnchor(view.topAnchor),
-          childNavigationController.view.leftAnchor.constraintEqualToAnchor(view.leftAnchor),
-          childNavigationController.view.rightAnchor.constraintEqualToAnchor(view.rightAnchor),
-          childNavigationController.view.bottomAnchor.constraintEqualToAnchor(view.bottomAnchor)
-        ]
-    }
+    NSLayoutConstraint.activateConstraints[
+      childNavigationController.view.topAnchor.constraintEqualToAnchor(view.topAnchor),
+      childNavigationController.view.leftAnchor.constraintEqualToAnchor(view.leftAnchor),
+      childNavigationController.view.rightAnchor.constraintEqualToAnchor(view.rightAnchor),
+      childNavigationController.view.bottomAnchor.constraintEqualToAnchor(view.bottomAnchor)
+    ]
+  }
 
-    // MARK: - Public
+  // MARK: - Public
 
-    func pushCoordinator(coordinator: RootCoordinator, animated: Bool) {
-        viewControllersToChildCoordinators[coordinator.rootViewController] = coordinator
+  func pushCoordinator(coordinator: RootCoordinator, animated: Bool) {
+    viewControllersToChildCoordinators[coordinator.rootViewController] = coordinator
 
-        pushViewController(coordinator.rootViewController, animated: animated)
-    }
+    pushViewController(coordinator.rootViewController, animated: animated)
+  }
 
-    func pushViewController(viewController: UIViewController, animated: Bool) {
-        childNavigationController.pushViewController(viewController, animated: animated)
-    }
+  func pushViewController(viewController: UIViewController, animated: Bool) {
+    childNavigationController.pushViewController(viewController, animated: animated)
+  }
 }
 
 // MARK: - UIGestureRecognizerDelegate
 
 extension NavigationController: UIGestureRecognizerDelegate {
-    func gestureRecognizer(gestureRecognizer: UIGestureRecognizer, shouldRecognizeSimultaneouslyWithGestureRecognizer otherGestureRecognizer: UIGestureRecognizer) -> Bool {
-        // Necessary to get the child navigation controller’s interactive pop gesture recognizer to work.
-        return true
-    }
+  func gestureRecognizer(gestureRecognizer: UIGestureRecognizer,
+      shouldRecognizeSimultaneouslyWithGestureRecognizer otherGestureRecognizer: UIGestureRecognizer) -> Bool {
+    // Necessary to get the child navigation controller’s interactive pop gesture recognizer to work.
+    return true
+  }
 }
 
 extension NavigationController: UINavigationControllerDelegate {    
-    func navigationController(navigationController: UINavigationController, didShowViewController viewController: UIViewController, animated: Bool) {
-        cleanUpChildCoordinators()
-    }
+  func navigationController(navigationController: UINavigationController,
+      didShowViewController viewController: UIViewController, animated: Bool) {
+    cleanUpChildCoordinators()
+  }
 
-    // MARK: - Private
+  // MARK: - Private
 
-    private func cleanUpChildCoordinators() {
-        for viewController in viewControllersToChildCoordinators.keys {
-            if !childNavigationController.viewControllers.contains(viewController) {
-                viewControllersToChildCoordinators.removeValueForKey(viewController)
-            }
-        }
+  private func cleanUpChildCoordinators() {
+    for viewController in viewControllersToChildCoordinators.keys {
+      if !childNavigationController.viewControllers.contains(viewController) {
+          viewControllersToChildCoordinators.removeValueForKey(viewController)
+      }
     }
+  }
 }
 {% endhighlight %}
 
