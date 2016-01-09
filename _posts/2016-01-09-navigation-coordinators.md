@@ -150,12 +150,11 @@ final class NavigationController: UIViewController {
     super.viewDidLoad()
 
     childNavigationController.delegate = self
+    childNavigationController.interactivePopGestureRecognizer?.delegate = self
 
     addChildViewController(childNavigationController)
     view.addSubview(childNavigationController.view)
     childNavigationController.didMoveToParentViewController(self)
-
-    childNavigationController.interactivePopGestureRecognizer?.delegate = self
 
     childNavigationController.view.translatesAutoresizingMaskIntoConstraints = false
 
