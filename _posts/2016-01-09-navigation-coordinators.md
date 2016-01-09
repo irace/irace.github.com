@@ -98,7 +98,7 @@ extension AccountCreationCoordinator: AvatarSelectionCoordinatorDelegate {
 }
 {% endhighlight %}
 
-Here’s the problem: while this works great so long as the user keeps moving *forward* through our onboarding flow, what would happen if they tapped the navigation controller’s back button? The `AvatarSelectionCoordinator` would still be retained by the `childCoordinators` array, and *another* `avatarSelectionCoordinator` would end up being added to the same array if the user was to submit the username and password form again. Not good.
+Here’s the problem: while this works great so long as the user keeps moving *forward* through our onboarding flow, what would happen if they tapped the navigation controller’s back button? The `AvatarSelectionCoordinator` would still be retained by the `childCoordinators` array, and *another* `AvatarSelectionCoordinator` would end up being added to the same array if the user was to submit the username and password form again. Not good.
 
 One solution would be to have `AccountCreationCoordinator` monitor the navigation controller’s view controller stack, and ensure that a coordinator is cleaned up if its root view controller is no longer included. This would involve:
 
