@@ -109,7 +109,7 @@ This is fairly straightforward, but this isn’t *account creation-specific* beh
 
 When trying to come up with a more elegant solution, I found myself drawing inspiration from a quote from Soroush’s original coordinator doctrine:
 
-> You're not sitting around waiting for ``-viewDidLoad` to get called so you can do work, you're totally in control of the show. There's no invisible code in a `UIViewController` superclass that is doing some magic that you don't understand. Instead of being called, you start doing the calling.
+> You're not sitting around waiting for `-viewDidLoad` to get called so you can do work, you're totally in control of the show. There's no invisible code in a `UIViewController` superclass that is doing some magic that you don't understand. Instead of being called, you start doing the calling.
 
 > Flipping this model makes it much easier to understand what's going on. The behavior of your app is a completely transparent to you, and UIKit is now just a library that you call when you want to use it.
 
