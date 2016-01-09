@@ -43,7 +43,7 @@ struct SomeType {
   }
 }
 
-let somethingDoer = SomeType.doSomething()
+let somethingDoer = SomeType.doSomething
 {% endhighlight %}
 
 You can’t do this with properties though, meaning you can’t employ [tricks like this](https://gist.github.com/Pearapps/cbbb23fad41c4917621e) the way that you could if they were argument-less methods.
