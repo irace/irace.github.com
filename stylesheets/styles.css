@@ -1,12 +1,14 @@
 body {
+	margin: 40px 0 40px 0;
+	background-color: #303030;
+}
+
+body,
+body blockquote {
   font-family: "Helvetica Neue", sans-serif;
-  font-size: 20px;
   color: #EAEAEA;
   -webkit-font-smoothing: antialiased;
-
-	margin: 40px 0 40px 0;
-
-	background-color: #303030;
+  font-size: 20px;
 }
 
 h1 {

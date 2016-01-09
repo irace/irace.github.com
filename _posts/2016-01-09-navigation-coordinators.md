@@ -55,7 +55,8 @@ final class AccountCreationCoordinator {
 // MARK: - UserNameAndPasswordViewControllerDelegate
 
 extension AccountCreationCoordinator: UserNameAndPasswordViewControllerDelegate {
-  func userNameAndPasswordViewController(viewController: UserNameAndPasswordViewController, didSubmitCredentials credentials: Credentials) {
+  func userNameAndPasswordViewController(viewController: UserNameAndPasswordViewController,
+      didSubmitCredentials credentials: Credentials) {
     storage.credentials = credentials
 
     // Next: Push a view controller for selecting an avatar
@@ -67,13 +68,15 @@ It’d be easy enough to simply push an `AvatarSelectionViewController` onto the
 
 {% highlight swift %}
 extension AccountCreationCoordinator: UserNameAndPasswordViewControllerDelegate {
-  func userNameAndPasswordViewController(viewController: UserNameAndPasswordViewController, didSubmitCredentials credentials: Credentials) {
+  func userNameAndPasswordViewController(viewController: UserNameAndPasswordViewController,
+      didSubmitCredentials credentials: Credentials) {
     storage.credentials = credentials
 
     let avatarSelectionCoordinator = AvatarSelectionCoordinator(delegate: self)
     childCoordinators.append(avatarSelectionCoordinator)
 
-    navigationController.pushViewController(avatarSelectionCoordinator.rootViewController, animated: true)
+    navigationController.pushViewController(avatarSelectionCoordinator.rootViewController,
+      animated: true)
   }
 }
 {% endhighlight %}
@@ -84,7 +87,8 @@ The next step would be for our `AccountCreationCoordinator` to implement the `Av
 
 {% highlight swift %}
 extension AccountCreationCoordinator: AvatarSelectionCoordinatorDelegate {
-  func avatarSelectionCoordinator(coordinator: AvatarSelectionCoordinator, didSubmitImage image: UIImage) {
+  func avatarSelectionCoordinator(coordinator: AvatarSelectionCoordinator,
+      didSubmitImage image: UIImage) {
     storage.avatar = image
 
     childCoordinators.remove(coordinator)
