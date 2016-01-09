@@ -133,11 +133,8 @@ final class NavigationController: UIViewController {
 
   // MARK: - Lazy views
 
-  // https://github.com/devxoul/Then
   private lazy var childNavigationController: UINavigationController =
-      UINavigationController(rootViewController: self.rootViewController).then {
-    $0.delegate = self
-  }
+      UINavigationController(rootViewController: self.rootViewController)
 
   // MARK: - Initialization
 
@@ -151,6 +148,8 @@ final class NavigationController: UIViewController {
 
   override func viewDidLoad() {
     super.viewDidLoad()
+
+    childNavigationController.delegate = self
 
     addChildViewController(childNavigationController)
     view.addSubview(childNavigationController.view)
