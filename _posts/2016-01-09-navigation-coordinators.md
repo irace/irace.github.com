@@ -98,7 +98,7 @@ extension AccountCreationCoordinator: AvatarSelectionCoordinatorDelegate {
 }
 {% endhighlight %}
 
-Here’s the problem; while this works great so long as the user keeps moving *forward* through our onboarding flow, what would happen if they tapped the navigation controller’s back button? The `AvatarSelectionCoordinator` would still be retained by the `childCoordinators` array, and *another* `avatarSelectionCoordinator` would end up being added to the same array if the user was to submit the username and password form again. Not good.
+Here’s the problem: while this works great so long as the user keeps moving *forward* through our onboarding flow, what would happen if they tapped the navigation controller’s back button? The `AvatarSelectionCoordinator` would still be retained by the `childCoordinators` array, and *another* `avatarSelectionCoordinator` would end up being added to the same array if the user was to submit the username and password form again. Not good.
 
 One solution would be to have `AccountCreationCoordinator` monitor the navigation controller’s view controller stack, and ensure that a coordinator is cleaned up if its root view controller is no longer included. This would involve:
 
@@ -109,7 +109,7 @@ This is fairly straightforward, but this isn’t *account creation-specific* beh
 
 When trying to come up with a more elegant solution, I found myself drawing inspiration from a quote from Soroush’s original coordinator doctrine:
 
-> You're not sitting around waiting for -viewDidLoad to get called so you can do work, you're totally in control of the show. There's no invisible code in a UIViewController superclass that is doing some magic that you don't understand. Instead of being called, you start doing the calling.
+> You're not sitting around waiting for ``-viewDidLoad` to get called so you can do work, you're totally in control of the show. There's no invisible code in a `UIViewController` superclass that is doing some magic that you don't understand. Instead of being called, you start doing the calling.
 
 > Flipping this model makes it much easier to understand what's going on. The behavior of your app is a completely transparent to you, and UIKit is now just a library that you call when you want to use it.
 
@@ -211,6 +211,6 @@ extension NavigationController: UINavigationControllerDelegate {
 
 This `NavigationController` class can be used in conjunction with coordinators throughout our application, making it easy for us to compose coordinators inside one another for maximum reusability.
 
-`UIViewController` composition is a really powerful pattern that I’ve been using to great effect in a new project I’ve been working on. Yes, it inherently requires more boilerplate plumbing. For example, my `NavigationController` above _only_ exposes the ability to push a new view controller onto the navigation stack; none of the other public methods or properties that classes interacting directly with `UINavigationController` instance would be able to call. I think this is a worthwhile tradeoff, however. It’s not a huge deal to proxy some method calls through if I want my custom class to expose more of `UINavigationController`’s capabilities, and in the meantime, I’m benefiting from exposing a minimal surface area with very little mutability. If I ever want to do something more elaborate, like implement my own _replacement_ for `UINavigationController`, I wouldn’t need to make code changes at any of `NavigationController`’s call sites.
+`UIViewController` composition is a really powerful pattern that I’ve been using to great effect in a new project I’ve been working on. Yes, it inherently requires more boilerplate plumbing. For example, my `NavigationController` above _only_ exposes the ability to push a new view controller onto the navigation stack; none of the other public methods or properties that classes interacting directly with a `UINavigationController` instance would be able to call. I think this is a worthwhile tradeoff, however. It’s not a huge deal to proxy some method calls through if I want my custom class to expose more of `UINavigationController`’s capabilities, and in the meantime, I’m benefiting from exposing a minimal surface area with very little mutability. If I ever want to do something more elaborate, like implement my own _replacement_ for `UINavigationController`, I wouldn’t need to make code changes at any of `NavigationController`’s call sites.
 
 While being diligent about using coordinators to route between view controllers has been a valuable exercise, there have been cases like this one where it would’ve been easy to succumb to how `UIKit` tends to imply ones code should be structured. The original thinking behind coordinators was that your application’s flow should be modeled by your own objects, with `UIKit` components serving as an implementation detail wherever possible. It shouldn’t be too surprising that going back to that original mantra led to exactly the solution that I needed in this instance. I presume that’ll continue to be the case in the future.
