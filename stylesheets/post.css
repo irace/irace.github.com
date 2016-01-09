@@ -3,6 +3,7 @@
 pre {
   margin: 25px auto 20px auto;
   font-size: 15px;
+  word-break: normal;
 }
 
 img {
