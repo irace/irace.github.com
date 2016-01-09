@@ -7,7 +7,7 @@ date: 2016-01-09
 
 Coordinators are an iOS design pattern that I’ve become a big fan of over the past few months. You should read Soroush’s [post](http://khanlou.com/2015/10/coordinators-redux/) introducing them (and watch his [conference talk](https://vimeo.com/144116310) as well), but in short, coordinators allow you to keep your view controllers isolated and reusable by preventing any one controller from knowing about any other. Each controller has its own delegate protocol, and a separate **coordinator** object acts as all of their delegates, performing all of the requisite routing. This makes it trivial to change the order in which view controllers are displayed, add support for new device classes, and so on and so forth.
 
-One problem that I’ve been trying to work around is how coordinators are to be effectively used when a navigation controller is involved. Here’s an example in which we encapsulate an application’s signup flow inside of an “account creation coordinator.8” You can envision a user tapping a **Sign up** button and being presented with a modal flow for creating an account. At the call site, that code would look like:
+One problem that I’ve been trying to work around is how coordinators are to be effectively used when a navigation controller is involved. Here’s an example in which we encapsulate an application’s signup flow inside of an “account creation coordinator.” You can envision a user tapping a **Sign up** button and being presented with a modal flow for creating an account. At the call site, that code would look like:
 
 {% highlight swift %}
 func signUpButtonTapped() {
