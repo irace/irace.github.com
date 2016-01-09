@@ -52,7 +52,7 @@ Properties provide a hugely beneficial, expressive way to instruct the compiler 
 
 At the same time, I can’t help but feel like Swift is missing an opportunity to provide a conceptually simpler programming model by removing this distinction from its types’ public interfaces.
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/jansichermann">@jansichermann</a> <a href="https://twitter.com/mb">@mb</a> Believe me, we got there</p>&mdash; Bryan Irace (@irace) <a href="https://twitter.com/irace/status/440943091907067904">March 4, 2014</a></blockquote>
+<center class="centered-tweet"><blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/jansichermann">@jansichermann</a> <a href="https://twitter.com/mb">@mb</a> Believe me, we got there</p>&mdash; Bryan Irace (@irace) <a href="https://twitter.com/irace/status/440943091907067904">March 4, 2014</a></blockquote></center>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [^1]: When folks like myself would call Objective-C methods like `-[NSArray count]` using dot-notation, we’d be [chided for using dot-syntax to call non-properties](https://twitter.com/irace/status/440941047636828161). Then Apple changed `count` to be a property instead of a method, ostensibly because `array.count` is nicer than `[array count]`. In the process, I’m assuming they didn’t stop computing the count in favor of storing it in an instance variable.
