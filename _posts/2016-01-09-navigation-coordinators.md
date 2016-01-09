@@ -9,7 +9,7 @@ Coordinators are an iOS design pattern that I’ve become a big fan of over the 
 
 One problem that I’ve been trying to work around is how coordinators are to most effectively be used when a navigation controller is involved. Here’s an example in which we encapsulate an application’s signup flow inside of an “account creation coordinator”. You can envision a user tapping a **Sign up** button and being presented with a modal flow for creating an application. At the call site, that code would look like:
 
-```swift
+{% highlight swift %}
 func signUpButtonTapped() {
   let accountCreationCoordinator = AccountCreationCoordinator(rootViewController: currentViewController, delegate: self)
   accountCreationCoordinator.start()
@@ -21,11 +21,11 @@ func signUpButtonTapped() {
    */
   childCoordinators.append(accountCreationCoordinator)
 }
-```
+{% endhighlight %}
 
 The coordinator implementation would start out something like this:
 
-```swift
+{% highlight swift %}
 final class AccountCreationCoordinator {
   // MARK: - Inputs
 
@@ -60,11 +60,11 @@ extension AccountCreationCoordinator: UserNameAndPasswordViewControllerDelegate 
     // Next: Push a view controller for selecting an avatar
   }
 }
-```
+{% endhighlight %}
 
 It’d be easy enough to simply push an `AvatarSelectionViewController` onto the navigation controller, but let’s think about this a bit more. Avatar selection likely requires integrating with a `UIImagePickerController`, and perhaps even third-party APIs like Facebook or Twitter. To include this integration code inside of the `AvatarSelectionViewController` would be to go against the spirit of coordinators. We *could* put all of that code right here, inside of the `AccountCreationCoordinator`, but then that code wouldn’t be as reusable. Once they’ve registered, we probably want to allow our user to modify the avatar from somewhere inside of the application as well, so the best course of action here is to package all of this code up into an `AvatarSelectionCoordinator`, and have that coordinator be a child of our `AccountCreationCoordinator`.
 
-```swift
+{% highlight swift %}
 extension AccountCreationCoordinator: UserNameAndPasswordViewControllerDelegate {
   func userNameAndPasswordViewController(viewController: UserNameAndPasswordViewController, didSubmitCredentials credentials: Credentials) {
     storage.credentials = credentials
@@ -75,13 +75,13 @@ extension AccountCreationCoordinator: UserNameAndPasswordViewControllerDelegate 
     navigationController.pushViewController(avatarSelectionCoordinator.rootViewController, animated: true)
   }
 }
-```
+{% endhighlight %}
 
 (You’ll notice that I’ve called `rootViewController` on `avatarSelectionCoordinator`, instead of calling a `start` method. Exposing a read-only root view controller is useful for integrating coordinators in a variety of different places, navigation controllers being one but also when configuring your window’s `rootViewController` in your application delegate.)
 
 The next step would be for our `AccountCreationCoordinator` to implement the `AvatarSelectionCoordinatorDelegate` protocol:
 
-```swift
+{% highlight swift %}
 extension AccountCreationCoordinator: AvatarSelectionCoordinatorDelegate {
   func avatarSelectionCoordinator(coordinator: AvatarSelectionCoordinator, didSubmitImage image: UIImage) {
     storage.avatar = image
@@ -91,7 +91,7 @@ extension AccountCreationCoordinator: AvatarSelectionCoordinatorDelegate {
     // Next: Push the next view controller in the flow
   }
 }
-```
+{% endhighlight %}
 
 Here’s the problem; while this works great so long as the user keeps moving *forward* through our onboarding flow, what would happen if they tapped the navigation controller’s back button? The `AvatarSelectionCoordinator` would still be retained by the `childCoordinators` array, and *another* `avatarSelectionCoordinator` would end up being added to the same array if the user was to submit the username and password form again. Not good.
 
@@ -110,7 +110,7 @@ When trying to come up with a more elegant solution, I found myself drawing insp
 
 Instead of having our account coordinator be called, let’s see if we can’t instead call something that treats `UINavigationController` as a library.
 
-```swift
+{% highlight swift %}
 protocol RootViewControllerProvider: class {
     var rootViewController: UIViewController { get }
 }
@@ -199,7 +199,7 @@ extension NavigationController: UINavigationControllerDelegate {
         }
     }
 }
-```
+{% endhighlight %}
 
 This `NavigationController` class can be used in conjunction with coordinators throughout our application, making it easy for us to compose coordinators inside one another for maximum reusability.
 
