@@ -158,12 +158,12 @@ final class NavigationController: UIViewController {
 
     childNavigationController.view.translatesAutoresizingMaskIntoConstraints = false
 
-    NSLayoutConstraint.activateConstraints[
+    NSLayoutConstraint.activateConstraints([
       childNavigationController.view.topAnchor.constraintEqualToAnchor(view.topAnchor),
       childNavigationController.view.leftAnchor.constraintEqualToAnchor(view.leftAnchor),
       childNavigationController.view.rightAnchor.constraintEqualToAnchor(view.rightAnchor),
       childNavigationController.view.bottomAnchor.constraintEqualToAnchor(view.bottomAnchor)
-    ]
+    ])
   }
 
   // MARK: - Public
