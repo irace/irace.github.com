@@ -190,6 +190,8 @@ extension NavigationController: UIGestureRecognizerDelegate {
   }
 }
 
+// MARK: - UINavigationControllerDelegate
+
 extension NavigationController: UINavigationControllerDelegate {    
   func navigationController(navigationController: UINavigationController,
       didShowViewController viewController: UIViewController, animated: Bool) {
