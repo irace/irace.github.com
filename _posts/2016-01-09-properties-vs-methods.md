@@ -5,7 +5,7 @@ permalink: properties
 date: 2016-01-09
 ---
 
-Here’s a potentially controversial thought that keeps coming back to me as I spend more and more time developing in Swift: I don’t think that properties should be part of a type’s public interface.
+Here’s a potentially controversial thought that keeps coming back to me as I spend more and more time developing in Swift: <mark>I don’t think that properties should be part of a type’s public interface.</mark>
 
 [The Swift Programming Language](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Properties.html#//apple_ref/doc/uid/TP40014097-CH14-ID254) states that “Properties associate values with a particular class, structure, or enumeration.” This is all well and good, since associating types with values is *not* functionality that could otherwise be provided by methods alone. I certainly don’t have a problem with using properties to *implement* a type. I’m solely bothered by this implementation detail subsequently leaking out into a type’s API. Let’s take a look at an excerpt from `String`’s public interface:
 
@@ -30,7 +30,7 @@ Over the years, I’ve heard many variations on the following: properties are fo
 * If properties are for accessing instance variables, having them be part of a class’s public API provides unnecessary transparency into how that class is implemented, violating encapsulation.
 * We all know full well that properties *aren’t* just for accessing instance variables. Computed properties were and are commonly used in Objective-C. Swift even perpetuates this further by providing first-class language support for them[^1].
 
-While Swift eschewed Objective-C’s brackets in favor of dot-syntax for everything, it didn’t actually shake having different invocation syntaxes for properties and methods. I wish it had.
+<mark>While Swift eschewed Objective-C’s brackets in favor of dot-syntax for everything, it didn’t actually shake having different invocation syntaxes for properties and methods.</mark> I wish it had.
 
 Consistency when calling a property accessor or a method would be beneficial for other reasons as well. Every zero-argument method *could* be implemented as a property, but adding an argument would then change the call site from `foo.bar` to `foo.bar(argument: baz)` instead of from `foo.bar()` to `foo.bar(argument: baz)`. Isn’t that kind of weird?
 
@@ -46,11 +46,11 @@ struct SomeType {
 let somethingDoer = SomeType.doSomething
 {% endhighlight %}
 
-You can’t do this with properties though, meaning you can’t employ [tricks like this](https://gist.github.com/Pearapps/cbbb23fad41c4917621e) the way that you could if they were argument-less methods.
+You can’t do this with properties though, meaning you can’t employ [tricks like this](https://gist.github.com/Pearapps/cbbb23fad41c4917621e) with higher-order functions, the way that you could if they were argument-less methods.
 
 Properties provide a hugely beneficial, expressive way to instruct the compiler how to generate boilerplate accessors and mutators for you. Swift expands on this by providing a whole slew of additional ways to not only define them, but also hook into changes being made[^2]. I’m *really* glad I don’t need to implement all of this myself.
 
-At the same time, I can’t help but feel like Swift is missing an opportunity to provide a conceptually simpler programming model by removing this distinction from its types’ public interfaces.
+At the same time, <mark>I can’t help but feel like Swift is missing an opportunity to provide a conceptually simpler programming model by removing this distinction from its types’ public interfaces.</mark>
 
 <center class="centered-tweet"><blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/jansichermann">@jansichermann</a> <a href="https://twitter.com/mb">@mb</a> Believe me, we got there</p>&mdash; Bryan Irace (@irace) <a href="https://twitter.com/irace/status/440943091907067904">March 4, 2014</a></blockquote></center>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
