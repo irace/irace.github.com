@@ -30,7 +30,7 @@ Over the years, I’ve heard many variations on the following: properties are fo
 * If properties are for accessing instance variables, having them be part of a class’s public API provides unnecessary transparency into how that class is implemented, violating encapsulation.
 * We all know full well that properties *aren’t* just for accessing instance variables. Computed properties were and are commonly used in Objective-C. Swift even perpetuates this further by providing first-class language support for them[^1].
 
-<mark>While Swift eschewed Objective-C’s brackets in favor of dot-syntax for everything, it didn’t actually shake having different invocation syntaxes for properties and methods. I wish it had.</mark>
+While Swift eschewed Objective-C’s brackets in favor of dot-syntax for everything, <mark>it didn’t actually shake having different invocation syntaxes for properties and methods.</mark> I wish it had.
 
 Consistency when calling a property accessor or a method would be beneficial for other reasons as well. Every zero-argument method *could* be implemented as a property, but adding an argument would then change the call site from `foo.bar` to `foo.bar(argument: baz)` instead of from `foo.bar()` to `foo.bar(argument: baz)`. Isn’t that kind of weird?
 
