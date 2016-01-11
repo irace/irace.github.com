@@ -5,7 +5,7 @@ permalink: properties
 date: 2016-01-09
 ---
 
-Here’s a potentially controversial thought that keeps coming back to me as I spend more and more time developing in Swift: <mark>I don’t think that properties should be part of a type’s public interface.</mark>
+Here’s a potentially controversial thought that keeps coming back to me as I spend more and more time developing in Swift: I don’t think that properties should be part of a type’s public interface.
 
 [The Swift Programming Language](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Properties.html#//apple_ref/doc/uid/TP40014097-CH14-ID254) states that “Properties associate values with a particular class, structure, or enumeration.” This is all well and good, since associating types with values is *not* functionality that could otherwise be provided by methods alone. I certainly don’t have a problem with using properties to *implement* a type. I’m solely bothered by this implementation detail subsequently leaking out into a type’s API. Let’s take a look at an excerpt from `String`’s public interface:
 
