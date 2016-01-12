@@ -19,7 +19,7 @@ Over the past two months, I’ve been working on a brand new company. At this ju
 
 I do think there’s some truth to this, but of course it isn’t so black and white. You absolutely shouldn’t concern yourself with *certain* kinds of technical debt while racing towards your initial launch, with so many questions still swirling around value proposition and product/market fit. Maybe you have a class whose implementation consists solely of one giant method. It works, seemingly, but its logic is hard to understand and even harder to modify. Test coverage isn’t great and you’re sure there’re edge cases that don’t work as expected, that’d be apparent if you just spent some time breaking it down into a number of smaller methods.
 
-This is the kind of technical debt that I have no problem introducing into my codebase at this early stage. **Technical debt might be worth introducing early only if it’s going to make you faster in the short-term.** But specific types of debt do exactly the opposite.
+This is the kind of technical debt that I have no problem introducing into my codebase at this early stage. <mark>Technical debt might be worth introducing early only if it’s going to make you faster in the short-term.</mark> But specific types of debt do exactly the opposite.
 
 One common form of technical debt is building components that are more tightly coupled together than they should be. Perhaps your view controllers each know about the *next* view controller that is to be displayed[^1]. Maybe various parts of the codebase are all intimately aware that Core Data is being used for your persistence layer. This makes it prohibitively difficult to make rapid changes, specifically at the time when codebases tend to undergo the most: during their infancy.
 
@@ -27,6 +27,6 @@ Maybe we’re just using `NSUserDefaults` for now, since it’s so easy. Now we�
 
 These are logical progressions for a new application to go through, and developing “correctly” by keeping these boundaries loosely coupled will facilitate making changes when it’s most important to do so. Established codebases don’t switch persistence mechanisms three times over the course of two months, but a new one very well might. As such, a decision that’d make a change like this overly difficult is exactly the type of debt that I won’t tolerate no matter how fast I‘m supposed to be moving.
 
- **Properly architecting may seem like it’s going to be more time consuming, but in practice, it won’t, as long as you’re investing in the right approach.** For a new codebase, I can’t think of a tradeoff more important than keeping your components decoupled rather than worrying too much about their implementations. Design for change when your code is going to be at its most volatile.
+ <mark>Properly architecting may seem like it’s going to be more time consuming, but in practice, it won’t, as long as you’re investing in the right approach.</mark> For a new codebase, I can’t think of a tradeoff more important than keeping your components decoupled rather than worrying too much about their implementations. Design for change when your code is going to be at its most volatile.
 
 [^1]: If afflicted by this particular problem, meet [coordinators](http://khanlou.com/2015/10/coordinators-redux/).
