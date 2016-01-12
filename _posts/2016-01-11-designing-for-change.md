@@ -27,6 +27,6 @@ Maybe we’re just using `NSUserDefaults` for now, since it’s so easy. Now we�
 
 These are logical progressions for a new application to go through, and developing “correctly” by keeping these boundaries loosely coupled will facilitate making changes when it’s most important to do so. Established codebases don’t switch persistence mechanisms three times over the course of two months, but a new one very well might. As such, a decision that’d make a change like this overly difficult is exactly the type of debt that I won’t tolerate no matter how fast I‘m supposed to be moving.
 
- <mark>Properly architecting may seem like it’s going to be more time consuming, but in practice, it won’t, as long as you’re investing in the right approach.</mark> For a new codebase, I can’t think of a tradeoff more important than keeping your components decoupled rather than worrying too much about their implementations. Design for change when your code is going to be at its most volatile.
+ It can be hard to convince yourself, but while <mark>properly architecting may seem like it’s going to be more time consuming, but in practice, it won’t, as long as you’re investing in the right approach.</mark> For a new codebase, I can’t think of a tradeoff more important than keeping your components decoupled rather than worrying too much about their implementations. Design for change when your code is going to be at its most volatile.
 
 [^1]: If afflicted by this particular problem, meet [coordinators](http://khanlou.com/2015/10/coordinators-redux/).
