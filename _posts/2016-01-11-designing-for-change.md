@@ -1,5 +1,3 @@
-2016-01-11-designing-for-change.md
-
 ---
 layout: post
 title: Designing for change
