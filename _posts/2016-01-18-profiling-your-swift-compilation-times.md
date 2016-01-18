@@ -20,11 +20,8 @@ The next step was to aggregate all of these logs together in one place in order 
 Rather than building via Xcode itself, using the `xcodebuild` command line tool results in the logs being printed to standard output, where we can massage them to our liking:
 
 {% highlight bash %}
-# Let’s first run a clean for good measure
-xcodebuild -workspace App.xcworkspace -scheme App clean
-
-# Build, capturing only lines containing `X.Yms` where X > 0, and sorting from largest to smallest
-xcodebuild -workspace App.xcworkspace -scheme App | grep [1-9].[0-9]ms | sort -nr > culprits.txt`
+# Clean and build, capturing only lines containing `X.Yms` where X > 0, and sorting from largest to smallest
+xcodebuild -workspace App.xcworkspace -scheme App clean build | grep [1-9].[0-9]ms | sort -nr > culprits.txt`
 {% endhighlight %}
 
 At this point, the question was whether I’d actually be able to derive actionable insights from the output, and I most certainly was. Thought my culprits file highlighted any function that took over a millisecond to compile, I actually had 1,200+ cases in which a function took **more than a second**, with many taking over three seconds. Thankfully, these 1,200+ lines were actually all **the same three functions** repeated many times over again (I don’t know enough about compilers to understand why this is the case, but the inclusion of “closure” in the output sample below does shed a bit of light).
