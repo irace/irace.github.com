@@ -46,7 +46,7 @@ At this point, the question was whether I’d actually be able to derive actiona
 3026.1ms	/Users/Bryan/Projects/App/FileB.swift:27:22	final get {}
 {% endhighlight %}
 
-Even crazier, each of these three functions was only **a single line of code**. <mark>Rewriting just these three lines of code caused my entire project to build 60% faster</mark>. I could see this enraging many, but honestly I was just so happy to have figured out the sources of the bottleneck, as well as to now know how to troubleshoot the next time I found myself in a similar situation.
+Even crazier, each of these three functions was only **a single line of code**. <mark>Rewriting just these three lines of code caused my entire project to build 60% faster.</mark> I could see this enraging many, but honestly I was just so happy to have figured out the sources of the bottleneck, as well as to now know how to troubleshoot the next time I found myself in a similar situation.
 
 You might be wondering what in the world these three lines looked like. All were (perhaps unsurprisingly) *very* similar, taking a form like:
 
