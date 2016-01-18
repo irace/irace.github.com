@@ -5,7 +5,7 @@ permalink: swift-profiling
 date: 2016-01-18
 ---
 
-I had a problem. The new iOS application that I’m working on – written 100% in Swift – was noticeably taking *much* longer to compile than should, given its size. More concerning, it was suddenly a *lot* slower than only a couple of weeks prior. I needed to get to the root of the problem as soon as possible, before it got any worse.
+I had a problem. The new iOS application that I’m working on – written 100% in Swift – was noticeably taking *much* longer to compile than should, given its size (~200 files). More concerning, it was suddenly a *lot* slower than only a couple of weeks prior. I needed to get to the root of the problem as soon as possible, before it got any worse.
 
 The first step was to add `-Xfrontend -debug-time-function-bodies` to my Swift compiler flags:
 
@@ -15,7 +15,7 @@ This causes the compiler to print out how long it takes to compile each function
 
 <img src="/images/xcode-build-reports.png">
 
-We need to aggregate all of these logs together in one place in order to make sense out of them.
+The next step was to aggregate all of these logs together in one place in order to make sense out of them.
 
 Rather than building via Xcode itself, using the `xcodebuild` command line tool results in the logs being printed to standard output, where we can massage them to our liking:
 
@@ -27,7 +27,7 @@ xcodebuild -workspace App.xcworkspace -scheme App clean
 xcodebuild -workspace App.xcworkspace -scheme App | grep [1-9].[0-9]ms | sort -nr > culprits.txt`
 {% endhighlight %}
 
-At this point, the question was whether I’d actually be able to derive actionable insights from the output, and I most certainly was. Thought my culprits file highlighted any function that took over a millisecond to compile, I actually had 1,200+ cases in which a function took **more than a second**, with many taking over three seconds. Thankfully, these 1,200+ lines were actually all **the same three functions** repeated many times over again (I don’t know enough about compilers to understand why this is the case, but the inclusion of “closure” in the output sample below does shed a bit of light). Even crazier, each of these three functions was only **a single line of code**.
+At this point, the question was whether I’d actually be able to derive actionable insights from the output, and I most certainly was. Thought my culprits file highlighted any function that took over a millisecond to compile, I actually had 1,200+ cases in which a function took **more than a second**, with many taking over three seconds. Thankfully, these 1,200+ lines were actually all **the same three functions** repeated many times over again (I don’t know enough about compilers to understand why this is the case, but the inclusion of “closure” in the output sample below does shed a bit of light).
 
 {% highlight text %}
 3158.2ms	/Users/Bryan/Projects/App/FileA.swift:23:14	@objc get {}
@@ -46,7 +46,7 @@ At this point, the question was whether I’d actually be able to derive actiona
 3026.1ms	/Users/Bryan/Projects/App/FileB.swift:27:22	final get {}
 {% endhighlight %}
 
-<marK>Rewriting just these three lines of code caused my entire project to build 60% faster</mark>. I could see this enraging many, but honestly I was just so happy to have figured out the sources of the bottleneck, as well as to now know how to troubleshoot the next time I found myself in a similar situation.
+Even crazier, each of these three functions was only **a single line of code**. <mark>Rewriting just these three lines of code caused my entire project to build 60% faster</mark>. I could see this enraging many, but honestly I was just so happy to have figured out the sources of the bottleneck, as well as to now know how to troubleshoot the next time I found myself in a similar situation.
 
 You might be wondering what in the world these three lines looked like. All were (perhaps unsurprisingly) *very* similar, taking a form like:
 
