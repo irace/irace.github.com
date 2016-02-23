@@ -10,13 +10,13 @@ Before getting into iOS development, I used to build server-side web application
 Of course, code that reads from disk isn’t particularly testable. Rather than mock out the file system access, we’d create [factory](http://en.wikipedia.org/wiki/Factory_(object-oriented_programming)) classes that would simply read our config file and inject the values into our class’s constructor. In pseudocode, it’d look something like this:
 
 {% highlight swift %}
-class ObjectFactory {
-    let properties: Properties
-    
+final class ObjectFactory {
+    private let properties: Properties
+
     init() {
         properties = Properties(path: "/path/to/file")
     }
-    
+
     func object() -> Object {
         return Object(value1: properties.value1, value2: properties.value2, value3: properties.value3)
     }
@@ -32,7 +32,7 @@ Perhaps you’re starting a new application from scratch today. You can architec
 When working on a legacy iOS codebase, you likely have a number of intertwined, coupled dependencies that aren’t particularly testable. Maybe you have a single Core Data controller, or a shared API client instance. Similarly, maybe your user defaults and keychain are stored in an app group that doesn’t particularly lend itself to easily unit testing. Your class might look something like this:
 
 {% highlight swift %}
-class AuthenticationController {
+final class AuthenticationController {
     func login(credentials: Credentials) {
         APIClient.sharedInstance().authenticate(credentials) { result in
             if result.isSuccessful {
@@ -50,10 +50,10 @@ Shared instances aren’t bad in and of themselves – there could be a perfect
 It’d be pretty hard to write a test for this controller. Ideally, you’d pass API client, Core Data controller, and keychain instances into something that looks more like:
 
 {% highlight swift %}
-class AuthenticationController {
-    let coreDataController: CoreDataController
-    let APIClient: APIClient
-    let keychain: Keychain
+final class AuthenticationController {
+    private let coreDataController: CoreDataController
+    private let APIClient: APIClient
+    private let keychain: Keychain
 
     init(coreDataController: CoreDataController, APIClient: APIClient, keychain: Keychain) {
         self.coreDataController = coreDataController
@@ -76,18 +76,18 @@ class AuthenticationController {
 And now, testing becomes a lot easier:
 
 {% highlight swift %}
-class AuthenticationControllerTest: XCTest {
-    let coreDataController = InMemoryCoreDataController()
+final class AuthenticationControllerTest: XCTest {
+    private let coreDataController = InMemoryCoreDataController()
 
-    let tokens = Tokens(token: "a4ka3", secret: "pk601n")
-    let APIClient = TestAPIClient(tokens: tokens)
+    private let tokens = Tokens(token: "a4ka3", secret: "pk601n")
+    private let APIClient = TestAPIClient(tokens: tokens)
 
-    let keychain = Keychain(path: "/tmp/location")
+    private let keychain = Keychain(path: "/tmp/location")
 
-    let authController = AuthenticationController(coreDataController: coreDataController, APIClient: APIClient, keychain: keychain)
+    private let authController = AuthenticationController(coreDataController: coreDataController, APIClient: APIClient, keychain: keychain)
 
-    let userName = "bryan"
-    let credentials = Credentials(userName: userName))
+    private let userName = "bryan"
+    private let credentials = Credentials(userName: userName))
 
     func testSuccessfulLoginCreatesUser() {
         authController.login(credentials: credentials)
@@ -108,7 +108,7 @@ Rather than a separate factory class, could we simply give our object a new clas
 Let’s assume that – despite how nice it’d be – that it isn’t practical at this point in time for us to rewrite our application to make it particularly easy to get rid of all of these `sharedInstance` accessors. <mark>Introducing a factory is an easy way to avoid reworking our application to go all-in on dependency injection, but still keep our class’s logic isolated and testable.</mark>
 
 {% highlight swift %}
-class AuthenticationControllerFactory {
+final class AuthenticationControllerFactory {
     class func authenticationController() -> AuthenticationController {
         return AuthenticationController(
             coreDataController: CoreDataController.sharedInstance(),
