@@ -38,7 +38,7 @@ final class AuthenticationController {
             if result.isSuccessful {
                 CoreDataController.sharedInstance().createUser(credentials.userName)
 
-                new Keychain(path: "/path/to/app/group").saveTokens(result.tokens)
+                Keychain(path: "/path/to/app/group").saveTokens(result.tokens)
             }
         }
     }
@@ -113,7 +113,7 @@ final class AuthenticationControllerFactory {
         return AuthenticationController(
             coreDataController: CoreDataController.sharedInstance(),
             APIClient: APIClient.sharedInstance(),
-            keychain: new Keychain("/path/to/app/group")
+            keychain: Keychain("/path/to/app/group")
         )
     }
 }
