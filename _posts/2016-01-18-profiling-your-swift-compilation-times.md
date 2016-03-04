@@ -5,6 +5,14 @@ permalink: swift-profiling
 date: 2016-01-18
 ---
 
+**UPDATE**: It’s possible to do this entirely from the command line, without modifying your Xcode project at all. Simply run the following (thanks to [Mike Skiba](https://twitter.com/atelierclkwrk) for pointing this out to me):
+
+{% highlight bash %}
+xcodebuild -workspace App.workspace -scheme App clean build OTHER_SWIFT_FLAGS="-Xfrontend -debug-time-function-bodies" | grep [1-9].[0-9]ms | sort -nr > culprits.txt
+{% endhighlight %}
+
+---
+
 I had a problem. The new iOS application that I’m working on – written 100% in Swift – was noticeably taking *much* longer to compile than should, given its size (~200 files). More concerning, it was suddenly a *lot* slower than only a couple of weeks prior. I needed to get to the root of the problem as soon as possible, before it got any worse.
 
 The first step was to add `-Xfrontend -debug-time-function-bodies` to my Swift compiler flags:
