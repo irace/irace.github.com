@@ -70,8 +70,8 @@ extension UIViewController {
     /**
      Add behaviors to be hooked into this view controller’s lifecycle.
 
-     This method requires the view controller’s view to be loaded, so it’s best to call in `viewDidLoad` to avoid it
-     being loaded prematurely.
+     This method requires the view controller’s view to be loaded, so it’s best to call
+     in `viewDidLoad` to avoid it being loaded prematurely.
 
      - parameter behaviors: Behaviors to be added.
      */
