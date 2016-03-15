@@ -52,4 +52,4 @@ The next time you see a friend obsessively clearing out their app switcher, make
 
 ---
 
-[Originally published](http://finertech.com/blog/featured/ios-7-background-multitasking-killing-apps/) on [Finer Things in Tech](http://finertech.com)
+[Originally published](http://finertech.com/2014/05/30/featuredios-7-background-multitasking-killing-apps/) on [Finer Things in Tech](http://finertech.com)
