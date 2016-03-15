@@ -44,7 +44,7 @@ With one big caveat.
 
 All of the new multitasking support—normally working its wonders to keep apps updated in the background without draining your battery—comes to a screeching halt for any apps that you’ve swiped out of the app switcher.
 
-Removing an app from that switcher not only terminates any background operations that are *currently* occurring, but also prevents any that the OS may have permitted in the future. **This means that the app won’t be woken up again to perform background fetches, and won’t receive anymore silent push notifications from the server**. In order for these new forms of backgrounding to resume, you’ll have to explicitly launch the application again from your home screen.
+Removing an app from that switcher not only terminates any background operations that are *currently* occurring, but also prevents any that the OS may have permitted in the future. <mark>This means that the app won’t be woken up again to perform background fetches, and won’t receive anymore silent push notifications from the server</mark>. In order for these new forms of backgrounding to resume, you’ll have to explicitly launch the application again from your home screen.
 
 In summary, iOS 7 makes true what many thought was already the case to begin with: that force quitting apps can help to save scarce resources such as battery. iOS 7 provides new opportunities for developers to provide great user experiences, but as much as Apple would love the inner-workings of iOS to remain “magical,” a cursory understanding of how multitasking affects battery life can truly go a long way.
 
