@@ -8,7 +8,7 @@ date: 2016-01-18
 **UPDATE**: It’s possible to do this entirely from the command line, without modifying your Xcode project at all. Simply run the following (thanks to [Mike Skiba](https://twitter.com/atelierclkwrk) and [Eric Slosser](https://twitter.com/part_of_the_sln) for their help with this):
 
 {% highlight bash %}
-xcodebuild -workspace App.workspace -scheme App clean build OTHER_SWIFT_FLAGS="-Xfrontend -debug-time-function-bodies" | grep .[0-9]ms | grep -v ^0.[0-9]ms | sort -nr > culprits.txt
+xcodebuild -workspace App.xcworkspace -scheme App clean build OTHER_SWIFT_FLAGS="-Xfrontend -debug-time-function-bodies" | grep .[0-9]ms | grep -v ^0.[0-9]ms | sort -nr > culprits.txt
 {% endhighlight %}
 
 ---
