@@ -57,6 +57,14 @@ h1 {
 
 h2 {
   font-size: 24px;
+}
+
+h3 {
+  font-size: 22px;
+}
+
+h2,
+h3 {
   color: #dd3d3d;
 }
 
