@@ -74,6 +74,10 @@ article, article strong {
   color: #EAEAEA;
 }
 
+blockquote {
+  color: #bbbbbb;
+}
+
 article p,
 li,
 footer {
