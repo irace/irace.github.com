@@ -67,7 +67,7 @@ Now, how do we actually integrate these behaviors into our view controller’s l
 
 ```swift
 extension UIViewController {
-    /**
+    /*
      Add behaviors to be hooked into this view controller’s lifecycle.
 
      This method requires the view controller’s view to be loaded, so it’s best to call

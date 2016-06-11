@@ -7,6 +7,7 @@ tagline:             Mostly coding and writing
 url:                 http://irace.me
 paginate:            3
 baseurl:             ""
+analytics_id:        UA-22036475-2
 
 # About/contact
 author:
