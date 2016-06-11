@@ -119,7 +119,7 @@ enum Theme {
     Color getBackgroundColor() { return backgroundColor; }
     Color getTextColor() { return textColor; }
 }
-```java
+```
 
 In Objective-C, you'd probably implement this with two singletons, exposed via class methods:
 
