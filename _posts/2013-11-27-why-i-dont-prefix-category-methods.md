@@ -5,7 +5,7 @@ permalink: category-prefixes
 date: 2013-11-27
 ---
 
-This weekend I came across a series of tweets from [Nick Lockwood](https://twitter.com/nicklockwood) explaining why he doesn't prefix his class category method names, and found fully myself vehemently agreeing with everything he said. 
+This weekend I came across a series of tweets from [Nick Lockwood](https://twitter.com/nicklockwood) explaining why he doesn't prefix his class category method names, and found fully myself vehemently agreeing with everything he said.
 
 <center>
 <blockquote class="twitter-tweet"><p>People ask why I don't prefix category methods. It's because prefixes are ugly, and the ONLY reason for categories is to make code beautiful</p>&mdash; Nick Lockwood (@nicklockwood) <a href="https://twitter.com/nicklockwood/statuses/394043609957552128">October 26, 2013</a></blockquote>

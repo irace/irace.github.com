@@ -1,0 +1,127 @@
+html {
+  font-family: 'San Francisco', Helvetica, Arial, san-serif;
+}
+
+body {
+  background-color: #292B37;
+}
+
+a {
+  color: #66D9EF;
+}
+
+a:hover {
+  opacity: 0.5;
+  text-decoration: none;
+}
+
+/* Header */
+
+.image-container {
+  text-align: center;
+}
+
+.image-container img {
+  width: 99px;
+  height: 99px;
+  display: inline;
+}
+
+.masthead {
+  margin-bottom: 0;
+}
+
+/* Navigation */
+
+nav {
+  font-family: "Myriad Set Pro", "Lucida Grande", "Helvetica Neue", "Helvetica", "Arial", "Verdana", "sans-serif";
+  text-align: center;
+}
+
+nav a {
+  color: #b0619e;
+}
+
+/* Posts */
+
+h1,
+h2,
+h3 {
+  font-family: "Myriad Set Pro", "Lucida Grande", "Helvetica Neue", "Helvetica", "Arial", "Verdana", "sans-serif";
+  font-weight: normal;
+}
+
+h1 {
+  font-size: 34px;
+}
+
+h2 {
+  font-size: 24px;
+  color: #dd3d3d;
+}
+
+.page-title,
+.post-title,
+.post-title a {
+  color: #9DCE7A;
+}
+
+time.post-date {
+  font-size: 17px;
+}
+
+article, article strong {
+  color: #EAEAEA;
+}
+
+article p,
+li,
+footer {
+  font-weight: 300;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+li time {
+  float: right;
+  color: #9A9A9A;
+}
+
+mark {
+  background-color: #E59053;
+}
+
+/* Code */
+
+code,
+.highlight {
+  background-color: #27272F !important;
+}
+
+.highlight {
+  overflow: scroll;
+}
+
+.highlight * {
+  font-weight: normal !important;
+}
+
+/* Footer */
+
+footer {
+  font-size: 14px;
+  color: #9A9A9A;
+  text-align: center;
+}
+
+/* Misc. overrides */
+
+hr {
+  margin-left: 30%;
+  margin-right: 30%;
+  border-top: 1px solid rgba(238, 238, 238, 0.5);
+  border-bottom: 0;
+}

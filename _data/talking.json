@@ -1,0 +1,71 @@
+{
+  "speaking": [
+    {
+        "title": "Practical iOS application modularity",
+        "url": "https://speakerdeck.com/irace/practical-ios-application-modularity",
+        "date": "2015-08-26"
+    },
+    {
+        "title": "iOS at Tumblr",
+        "url": "https://speakerdeck.com/irace/ios-at-tumblr",
+        "date": "2015-08-20"
+    },
+    {
+        "title": "Building Tumblr for iOS 8",
+        "url": "https://speakerdeck.com/irace/building-tumblr-for-ios",
+        "date": "2014-11-10"
+    },
+    {
+        "title": "When the iOS SDK says “Jump,” ask “How High?”",
+        "url": "https://speakerdeck.com/irace/when-the-ios-sdk-says-jump-ask-how-high",
+        "date": "2014-09-25"
+    },
+    {
+        "title": "Don't be “an Objective-C” or “a Swift Developer”",
+        "url": "https://speakerdeck.com/irace/dont-be-an-objective-c-or-a-swift-developer",
+        "date": "2014-08-29"
+    },
+    {
+        "title": "Tumblr iOS architecture",
+        "url": "https://speakerdeck.com/irace/tumblr-ios-architecture",
+        "date": "2014-08-05"
+    },
+    {
+        "title": "Introduction to Objective-C and Cocoa Touch",
+        "url": "https://speakerdeck.com/irace/introduction-to-objective-c-and-cocoa-touch",
+        "date": "2014-03-26"
+    },
+    {
+        "title": "Building apps that play nicely with other apps",
+        "url": "https://speakerdeck.com/irace/building-apps-that-play-nicely-with-other-apps",
+        "date": "2013-11-20"
+    }
+  ],
+  "podcasts": [
+    {
+        "title": "Inquisitive #50: Favourite Album: Bryan Irace and 'Kid A'",
+        "url": "http://www.relay.fm/inquisitive/50",
+        "date": "2015-08-05"
+    },
+    {
+        "title": "Debug #57: Extensibility roundtable",
+        "url": "https://itunes.apple.com/us/podcast/57-extensibility-roundtable/id578812394?i=326160445&amp;mt=2",
+        "date": "2014-11-26"
+    },
+    {
+        "title": "CocoaRadio: Bryan Irace on CocoaPods",
+        "url": "http://irace.me/files/cocoapods.mp3",
+        "date": "2014-08-20"
+    },
+    {
+        "title": "CMD+Space #101: Own your identity",
+        "url": "http://5by5.tv/cmdspace/101",
+        "date": "2014-06-18"
+    },
+    {
+        "title": "Unprofessional #92: Let‘s Go Outside Right Now",
+        "url": "http://unprofesh.com/blog/2014/5/23/92-lets-go-outside-right-now",
+        "date": "2014-05-23"
+    }
+  ]
+}

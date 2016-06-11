@@ -11,7 +11,7 @@ His post ended up being a bit of a divisive one. While view controller containme
 
 First, let’s define what exactly a lifecycle behavior would look like. Any of `UIViewController`’s standard lifecycle methods could theoretically be worth hooking into, which yields a protocol that looks something like the following:
 
-{% highlight swift %}
+```swift
 protocol ViewControllerLifecycleBehavior {
     func afterLoading(viewController: UIViewController)
 
@@ -27,11 +27,11 @@ protocol ViewControllerLifecycleBehavior {
 
     func afterLayingOutSubviews(viewController: UIViewController)
 }
-{% endhighlight %}
+```
 
 In order for a behavior to optionally implement whichever lifecycle methods are pertinent, we can provide empty implementations by default:
 
-{% highlight swift %}
+```swift
 extension ViewControllerLifecycleBehavior {
     func afterLoading(viewController: UIViewController) {}
 
@@ -47,11 +47,11 @@ extension ViewControllerLifecycleBehavior {
 
     func afterLayingOutSubviews(viewController: UIViewController) {}
 }
-{% endhighlight %}
+```
 
 Let’s say that our app uses `UINavigationController` and that the navigation bar is visible by default, but the occasional view controller needs to hide it. Modeling this behavior in a concrete `ViewControllerLifecyleBehavior` is trivial:
 
-{% highlight swift %}
+```swift
 struct HideNavigationBarBehavior: ViewControllerLifecycleBehavior {
     func beforeAppearing(viewController: UIViewController) {
         viewController.navigationController?.setNavigationBarHidden(true, animated: true)
@@ -61,13 +61,13 @@ struct HideNavigationBarBehavior: ViewControllerLifecycleBehavior {
         viewController.navigationController?.setNavigationBarHidden(false, animated: true)
     }
 }
-{% endhighlight %}
+```
 
 Now, how do we actually integrate these behaviors into our view controller’s lifecycle? Since view controllers forward their lifecycle methods to their children, creating a child view controller is the easiest way to hook in:
 
-{% highlight swift %}
+```swift
 extension UIViewController {
-    /**
+    /*
      Add behaviors to be hooked into this view controller’s lifecycle.
 
      This method requires the view controller’s view to be loaded, so it’s best to call
@@ -169,16 +169,16 @@ extension UIViewController {
         }
     }
 }
-{% endhighlight %}
+```
 
 Lastly, adding this behavior to one of our custom view controllers is as simple as:
 
-{% highlight swift %}
+```swift
 override func viewDidLoad() {
     super.viewDidLoad()
 
     addBehaviors([HideNavigationBarBehavior()])
 }
-{% endhighlight %}
+```
 
 And that’s all there is to it. Sure, the implementation might not be using view controllers in *exactly* the way that UIKit intends, but when has that stopped us before? Perhaps future enhancements to the language and SDK will allow our `addBehaviors(behaviors: [ViewControllerLifecycleBehavior])` method to be more idiomatically implemented (increased dynamism could better facilitate [aspect-oriented programming](https://en.wikipedia.org/wiki/Aspect-oriented_programming)). But we won’t need to change all of our individual `UIViewController` subclasses if and when this happens.

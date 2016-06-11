@@ -24,7 +24,7 @@ The iOS application that we’re working on has a tab bar controller as it’s w
 
 You get the picture. If this sounds backwards to you – creating all of your object graph’s leaves first in order to facilitate creating the root – you’re not alone. In fact, this practice is often even referred to as “inversion of control.”
 
-Clearly, this could get unwieldy. The client-side apps that we work on are long-running and stateful; extrapolating the above example to it’s logical conclusion, **you’d basically create *everything* that your application might ever need upfront, regardless of whether the user actually navigates to those screens during any given session**. 
+Clearly, this could get unwieldy. The client-side apps that we work on are long-running and stateful; extrapolating the above example to it’s logical conclusion, <mark>you’d basically create <em>everything</em> that your application might ever need upfront, regardless of whether the user actually navigates to those screens during any given session</mark>.
 
 For a moment, let’s step away from iOS and consider how this might differ if we were working on a server-side application. Rather than our entry point being an application delegate that knows very little about what the user may do during the duration of the application’s run, HTTP server processes are generally spun up to handle only individual, stateless requests. If a user makes a POST request to delete a row from the database, the entry point knows exactly which objects will be needed in order to do so, and can easily create those and only those in order to facilitate the operation. Which order they’re created in and how they’re pieced together doesn’t seem like a big deal when there are way fewer pieces.
 
@@ -38,10 +38,10 @@ Once your container is configured, the root object of your graph is simply pulle
 
 Examples of popular dependency injection libraries on iOS include [Objection](http://objection-framework.org) and [Typhoon](http://typhoonframework.org). Configuring Typhoon looks something like the following:
 
-{% highlight objectivec %}
+```objc
 - (SettingsController *)appSettingsController {
     return [TyphoonDefinition withClass:[AppSettingsController class] configuration:^(TyphoonDefinition *definition) {
-        [definition useInitializer:@selector(initWithSoundManager:settingsView:) 
+        [definition useInitializer:@selector(initWithSoundManager:settingsView:)
                         parameters:^(TyphoonMethod *initializer) {
                             [initializer injectParameterWith:[_kernel soundManager]];
                             [initializer injectParameterWith:[self appSettingsView]];
@@ -50,11 +50,11 @@ Examples of popular dependency injection libraries on iOS include [Objection](ht
         [definition injectProperty:@selector(title) with:@"Settings"];
     }];
 }
-{% endhighlight %}
+```
 
 If you think the process of configuring these containers looks procedural, you’re not wrong; <mark>there’s no reason that this needs to be done in “code” at all</mark>. In languages that support metaprogramming, dependencies can be specified by adding metadata to constructors or setter methods. Java’s [annotations](http://en.wikipedia.org/wiki/Java_annotation) are pretty perfect for this, as shown by this example from [Google Guice](https://github.com/google/guice):
 
-{% highlight java %}
+```java
 class RealBillingService implements BillingService {
 
   @Inject
@@ -62,22 +62,22 @@ class RealBillingService implements BillingService {
     ...
   }
 }
-{% endhighlight %}
+```
 
 Objection actually [uses preprocessor macros to accomplish something similar](https://github.com/atomicobject/objection#example) for Objective-C:
 
-{% highlight objectivec %}
+```objc
 @implementation Car
 
 objection_requires(@"engine", @"brakes")
 @synthesize engine, brakes;
 
 @end
-{% endhighlight %}
+```
 
 Many dependency injection frameworks (notably, [Spring](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/beans.html)) even support wiring up dependencies using a markup language. This can end up looking something like the following:
 
-{% highlight xml %}
+```xml
 <object id="apiClient" class="APIClient">
     <constructor-arg name="maxConcurrentOperations" value="6">
 </object>
@@ -96,19 +96,19 @@ Many dependency injection frameworks (notably, [Spring](http://docs.spring.io/sp
     <constructor-arg ref="apiClient">
     <constructor-arg ref="keychain">
 </object>
-{% endhighlight %}
+```
 
 You may have a knee-jerk aversion to the above, having dealt with some crummy XML API in the past, but try considering this approach without preconceived notions. <mark>Markup languages are actually really good for defining relationships between nodes in a tree structure</mark>. Separating the object graph definition from your actual class implementations ends up providing for a really nice separation of concerns. It’s a joy to implement a class’s logic without worrying about where it’s dependencies are actually coming from.
 
 Yes, it’s a bit of a pipe dream, but imagine initializing your application with little more than:
 
-{% highlight objectivec %}
+```objc
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
   DependencyContainer *container = [[DependencyContainer alloc] initWithPath:@"/path/to/xml"];
   self.window = container["window"];
   [self.window makeKeyAndVisible];
 }
-{% endhighlight %}
+```
 
 That’s it. You pull a window out of your container, which has already configured it with a root view controller. The root view controller is already configured with its child view controllers, each of which is already configured with the various objects that they each need, each of which is configured with the objects that _they_ need, and so on and so forth. <mark>You don’t initialize any of these manually.</mark>
 

@@ -9,19 +9,19 @@ Here’s a potentially controversial thought that keeps coming back to me as I s
 
 [The Swift Programming Language](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Properties.html#//apple_ref/doc/uid/TP40014097-CH14-ID254) states that “Properties associate values with a particular class, structure, or enumeration.” This is all well and good, since associating types with values is *not* functionality that could otherwise be provided by methods alone. I certainly don’t have a problem with using properties to *implement* a type. I’m solely bothered by this implementation detail subsequently leaking out into a type’s API. Let’s take a look at an excerpt from `String`’s public interface:
 
-{% highlight swift %}
+```swift
 public struct String {
   public var lowercaseString: String { get }
 }
-{% endhighlight %}
+````
 
 From this, a caller knows that `stringInstance.lowercaseString` can be called without parentheses. On the other hand, the standard library authors could’ve just as easily implemented `String` as follows:
 
-{% highlight swift %}
+```swift
 public struct String {
   public func lowercaseString() -> String
 }
-{% endhighlight %}
+```
 
 In which case, we’d call `stringInstance.lowercaseString()` to achieve the same result. But why on Earth should a caller need to concern themselves with this distinction?
 
@@ -36,7 +36,7 @@ Consistency when calling a property accessor or a method would be beneficial for
 
 Instance methods can also be curried, and in fact, [are *already* curried class methods](http://oleb.net/blog/2014/07/swift-instance-methods-curried-functions/). You can get a handle to them as follows:
 
-{% highlight swift %}
+```swift
 struct SomeType {
   func doSomething() {
       // ...
@@ -44,7 +44,7 @@ struct SomeType {
 }
 
 let somethingDoer = SomeType.doSomething
-{% endhighlight %}
+```
 
 You can’t do this with properties though, meaning you can’t employ [tricks like this](https://gist.github.com/Pearapps/cbbb23fad41c4917621e) with higher-order functions, the way that you could if they were argument-less methods.
 
