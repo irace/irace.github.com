@@ -75,8 +75,19 @@ article, article strong {
 }
 
 article p,
-li {
+li,
+footer {
   font-weight: 300;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+li time {
+  float: right;
+  color: #9A9A9A;
 }
 
 mark {
