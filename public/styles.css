@@ -1,0 +1,76 @@
+html {
+  font-family: 'San Francisco', Helvetica, Arial, san-serif;
+}
+
+body {
+  background-color: #292B37;
+}
+
+a {
+  color: #66d9ef;
+}
+
+/* Header */
+
+.image-container {
+  text-align: center;
+}
+
+.image-container img {
+  width: 99px;
+  height: 99px;
+  display: inline;
+}
+
+.masthead {
+  margin-bottom: 0;
+}
+
+/* Posts */
+
+.post-title,
+.post-title a {
+  font-family: "Myriad Set Pro", "Lucida Grande", "Helvetica Neue", "Helvetica", "Arial", "Verdana", "sans-serif";
+  font-size: 34px;
+  font-weight: normal;
+  color: #9dce7a;
+}
+
+time {
+  font-size: 17px;
+}
+
+article, article strong {
+  color: #EAEAEA;
+}
+
+article p {
+  font-weight: 300;
+}
+
+mark {
+  background-color: #dd3d3d;
+}
+
+/* Code */
+
+code,
+.highlight {
+  background-color: #27272f;
+}
+
+.highlight {
+  width: 48rem;
+  margin-left: -5rem;
+}
+
+pre {
+  white-space: pre-wrap;
+}
+
+/* Footer */
+
+footer {
+  font-size: 17px;
+  color: #9a9a9a;
+}

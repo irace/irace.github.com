@@ -1,121 +1,33 @@
 ---
-layout: none
+layout: default
+title: Home
 ---
-<!DOCTYPE html>
-<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
-<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
-<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
-<head>
-  <meta charset="utf-8">
 
-  <title>Bryan Irace</title>
+<div class="posts">
+  {% for post in paginator.posts %}
+  <article class="post">
+    <h1 class="post-title">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
 
-  <meta name="author" content="Bryan Irace">
-  <meta name="description" content="{{ site.description | xml_escape }}">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
-  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
-  <link rel="stylesheet" href="stylesheets/styles.css">
-  <link rel="stylesheet" href="stylesheets/index.css">
+    {{ post.content }}
+  </article>
+  {% endfor %}
+</div>
 
-  <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
-  <link rel="icon" type="image/png" href="images/favicon.png">
-
-  <!--[if lt IE 9]>
-    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-</head>
-<body>
-  <div class="container">
-
-    <header>
-      <div class="image-container">
-        <img src="images/bryan.png">
-      </div>
-      <h1>Hey!</h1>
-    </header>
-
-    <section>
-      <p>I’m a software developer in NYC currently working on building something new. I led development on <a href="https://itunes.apple.com/us/app/tumblr/id305343404?mt=8">Tumblr for iOS</a> from March 2012 through November 2015. Follow me on <a href="http://twitter.com/irace">Twitter</a> and on <a href="http://bryan.io">Tumblr</a>.</p>
-    </section>
-
-    <section>
-      <h3>Open source</h3>
-      <p>More of my code can be found on <a href="https://github.com/irace?tab=repositories">GitHub</a>.</p>
-      <ul class="bullet">
-        <li><a href="https://github.com/tumblr/TMTumblrSDK">TMTumblrSDK</a></li>
-        <li><a href="https://github.com/irace/BRYSerialAnimationQueue">BRYSerialAnimationQueue</a></li>
-        <li><a href="https://github.com/irace/BRYSoundEffectPlayer">BRYSoundEffectPlayer</a></li>
-      </ul>
-    </section>
-
-    <section>
-      <h3>Writing</h3>
-      <p>I also write some shorter pieces on <a href="http://bryan.io">bryan.io</a>.
-      <ul class="bullet">
-        {% for post in site.posts %}
-          <li>
-            <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date: "%-m/%-d/%Y" }})
-          </li>
-        {% endfor %}
-      </ul>
-    </section>
-
-    <section>
-      <h3>Speaking</h3>
-      <ul class="bullet">
-        <li><a href="https://speakerdeck.com/irace/practical-ios-application-modularity">Practical iOS application modularity</a> (8/26/2015)</li>
-        <li><a href="https://speakerdeck.com/irace/ios-at-tumblr">iOS at Tumblr</a> (8/20/2015)</li>
-        <li><a href="https://speakerdeck.com/irace/building-tumblr-for-ios">Building Tumblr for iOS 8</a> (11/10/2014)</li>
-        <li><a href="https://speakerdeck.com/irace/when-the-ios-sdk-says-jump-ask-how-high">When the iOS SDK says “Jump,” ask “How High?”</a> (9/25/2014)</li>
-        <li><a href="https://speakerdeck.com/irace/dont-be-an-objective-c-or-a-swift-developer">Don't be “an Objective-C” or “a Swift Developer”</a> (8/29/2014)</li>
-        <li><a href="https://speakerdeck.com/irace/tumblr-ios-architecture">Tumblr iOS architecture</a> (8/5/2014)</li>
-        <li><a href="https://speakerdeck.com/irace/introduction-to-objective-c-and-cocoa-touch">Introduction to Objective-C and Cocoa Touch</a> (3/26/2014)</li>
-        <li><a href="https://speakerdeck.com/irace/building-apps-that-play-nicely-with-other-apps">Building apps that play nicely with other apps</a> (11/20/2013)</li>
-      </ul>
-    </section>
-
-    <section>
-      <h3>Podcasts</h3>
-      <ul class="bullet">
-        <li><a href="http://www.relay.fm/inquisitive/50">Inquisitive #50: Favourite Album: Bryan Irace and 'Kid A'</a> (8/5/2015)</li>
-        <li><a href="https://itunes.apple.com/us/podcast/57-extensibility-roundtable/id578812394?i=326160445&amp;mt=2">Debug #57: Extensibility roundtable</a> (11/26/2014)</li>
-        <li><a href="http://irace.me/files/cocoapods.mp3">CocoaRadio: Bryan Irace on CocoaPods</a> (8/20/2014)</li>
-        <li><a href="http://5by5.tv/cmdspace/101">CMD+Space #101: Own your identity</a> (6/18/2014)</li>
-        <li><a href="http://unprofesh.com/blog/2014/5/23/92-lets-go-outside-right-now">Unprofessional #92: Let‘s Go Outside Right Now</a> (5/23/2014)</li>
-      </ul>
-    </section>
-
-    <section id="now_playing">
-      <h3>Now playing</h3>
-      <p><img class="artwork"><span class="artist"></span> - <span class="track"></span></p>
-    </section>
-
-  </div>
-
-{% include analytics.html %}
-
-  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-  <script src="http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.2/underscore-min.js"></script>
-  <script src="scripts/lastfm.js"></script>
-
-  <script>
-    $(function() {
-      last_fm_client.latest_track(function (now_playing, artist, track, image_url) {
-        if (now_playing) {
-          $('#now_playing').show();
-          $('#now_playing .artwork').attr('src', image_url);
-          $('#now_playing .artist').text(artist);
-          $('#now_playing .track').text(track);
-        }
-        else {
-          $('#now_playing').hide();
-        }
-      });
-    });
-  </script>
-
-</body>
-</html>
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
