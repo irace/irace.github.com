@@ -4,6 +4,7 @@ html {
 
 body {
   background-color: #292B37;
+  -webkit-font-smoothing: antialiased;
 }
 
 a {
