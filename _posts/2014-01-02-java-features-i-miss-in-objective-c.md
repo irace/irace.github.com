@@ -5,7 +5,7 @@ permalink: java-vs-objc
 date: 2014-01-02
 ---
 
-## Packages
+<h2><a id="packages">Packages</a></h2>
 
 One of Objective-C's biggest annoyances is the lack of proper namespacing. It's hard to believe, after years of programming in other languages, that I now prefix *every class name I ever type* with a two if not three-character code.
 
@@ -29,7 +29,7 @@ com.tumblr.models.Post post = new com.tumblr.models.Post();
 
 This is rarely necessary in practice, however.
 
-## Generics
+<h2><a id="generics">Generics</a></h2>
 
 [Generics](http://en.wikipedia.org/wiki/Generics_in_Java) are a language feature that allow "type variables" to be used in class definitions. Let's look at an example:
 
@@ -94,7 +94,7 @@ Say you're implementing a mobile app that parses data from an API. Annotations a
 * Use the `key` field to determine where the desired value can be found in the API response dictionary
 * Use other fields to do other things, e.g. trim strings if `trim = true`, abort if a non-nullable field is missing, run a regular expression to ensure a field contains a valid value, etc.
 
-## Enums
+<h2><a id="enums">Enums</a></h2>
 
 You're thinking "Objective-C already has enums." Objective-C enums are just integer types while [Java enums](http://en.wikipedia.org/wiki/Enumerated_type#Java) are instances of a custom class, with their own instance variables and methods.
 
