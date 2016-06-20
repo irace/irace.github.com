@@ -68,7 +68,7 @@ List<? super Number>    // Type must be Number or its superclass
 
 It's worth noting that generics in Java are simply a compile-time construct, which allowed them to be introduced in Java 5 while maintaining backwards compatibility with older runtimes. I'm unaware of a technical reason why Objective-C couldn't go the same route.
 
-## Annotations
+<h2><a id="annotations">Annotations</a></h2>
 [Annotations](http://en.wikipedia.org/wiki/Java_annotation) are a great feature that allows metadata to be added to classes, methods, variables, parameters, and packages. Annotations can be both used by developer tools at compile-time as well as at run-time, by your code itself.
 
 First, let's use an annotation to tell the compiler that we're overriding a method that belongs on our superclass (don't be confused by the `@` symbol which obviously has [all sorts of meanings](http://nshipster.com/at-compiler-directives/) in Objective-C but is only used for annotations in Java):
