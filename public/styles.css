@@ -65,7 +65,9 @@ h3 {
 }
 
 h2,
-h3 {
+h2 a,
+h3,
+h3 a {
   color: #dd3d3d;
 }
 
