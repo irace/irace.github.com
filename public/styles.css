@@ -109,6 +109,10 @@ mark {
   background-color: #E59053;
 }
 
+a.footnote {
+  font-weight: normal;
+}
+
 /* Code */
 
 code,
