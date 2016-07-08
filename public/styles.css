@@ -109,8 +109,14 @@ mark {
   background-color: #E59053;
 }
 
+/* Footnotes */
+
 a.footnote {
   font-weight: normal;
+}
+
+.bigfoot-footnote__content {
+  color: #2d2d2d;
 }
 
 /* Code */

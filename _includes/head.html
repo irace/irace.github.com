@@ -13,7 +13,7 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/public/poole.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/public/styles.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/public/syntax.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}/public/bigfoot-default.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/public/bigfoot-number.css">
 
   <link rel="shortcut icon" href="{{ site.baseurl }}/public/favicon.png">
 
@@ -21,7 +21,9 @@
   <script src="{{ site.baseurl }}/public/bigfoot.min.js"></script>
 
   <script>
-    $.bigfoot();
+    $.bigfoot({
+      actionOriginalFN: 'ignore'
+    });
   </script>
 
   {% feed_meta %}
