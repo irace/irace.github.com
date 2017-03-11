@@ -95,6 +95,19 @@ footer {
   font-weight: 300;
 }
 
+article img {
+  display: inline;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+figure {
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+
 ul {
   list-style-type: none;
   padding-left: 0;
@@ -136,7 +149,7 @@ code,
 
 /* Footer */
 
-footer {
+footer, figcaption {
   font-size: 14px;
   color: #9A9A9A;
   text-align: center;
