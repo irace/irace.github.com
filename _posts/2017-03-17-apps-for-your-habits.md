@@ -32,13 +32,15 @@ With a few slight tweaks, either Habit List or Momentum could be sufficient, but
 Why? If you only perform a certain habit (e.g. flossing) at night, there’s no need for your homescreen to show a badge all day indicating that you haven’t done it yet. I’m pretty conservative about app icon badges – I think important ones should be noticeable and jarring, which means not letting unimportant ones dilute their prominence. Productive lets me do exactly this, which makes up for the fact that it doesn’t offer a Today widget or a Watch complication.
 
 <figure>
-  <img src="/images/habits/productive1.png" alt=""><img src="/images/habits/productive2.png" alt="">
+  <img src="/images/habits/productive1.png" alt="Productive showing no habits due"><img src="/images/habits/productive2.png" alt="Productive showing your habits due later tonight">
   <figcaption>Productive doesn’t bother showing you habits that you don’t need to (or can’t) perform yet.</figcaption>
 </figure>
 
 The easiest habits to track are the ones that get automatically tracked for you. While [Streaks](https://itunes.apple.com/us/app/streaks/id963034692?mt=8) allows you to enter custom habits as well, it’s main draw is a wide variety of built-in presets for automatically tracking based on your [HealthKit](https://developer.apple.com/healthkit/) data: sleeping, drinking water, weighing yourself, exercising, etc. For this reason alone, tracking your health-based habits with Streaks is a no brainer. It even has a Today widget, a Watch complication, and really nice custom Watch notifications.
 
-<center><img src="/images/habits/streaks.png" alt=""></center>
+<figure>
+  <img src="/images/habits/streaks.png" alt="Streaks showing your six tracked activities for today">
+</figure>
 
 The biggest problem with Streaks is that it supports a maximum of only six habits. This, combined with the aforementioned smarter badging solution that Productive employs, has me using both in conjunction with one another: Streaks for habits that can be automatically tracked via HealthKit, and Productive for everything else. And it’s working really well for me.
 

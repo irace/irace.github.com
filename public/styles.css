@@ -77,8 +77,9 @@ h3 a {
   color: #9DCE7A;
 }
 
-time.post-date {
+p.post-subtitle {
   font-size: 17px;
+  color: #9A9A9A;
 }
 
 article, article strong {
@@ -95,19 +96,6 @@ footer {
   font-weight: 300;
 }
 
-article img {
-  display: inline;
-  margin-left: 20px;
-  margin-right: 20px;
-}
-
-figure {
-  margin-left: 0;
-  margin-right: 0;
-  padding-left: 0;
-  padding-right: 0;
-}
-
 ul {
   list-style-type: none;
   padding-left: 0;
@@ -120,6 +108,25 @@ li time {
 
 mark {
   background-color: #E59053;
+}
+
+/* Images */
+
+figure {
+  text-align: center;
+
+  margin-left: 0;
+  margin-right: 0;
+
+  padding-left: 0;
+  padding-right: 0;
+}
+
+figure img {
+  display: inline;
+
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 /* Footnotes */
