@@ -11,11 +11,11 @@ It’s really easy to go overboard here. In a perfect world, I’d of course lik
 
 Like weather or to-do list applications, there are a *lot* of different habit trackers, which shouldn’t be surprising given that everyone responds to subtly different types of motivation. Most are pretty similar, however. Before diving in too deep, let’s take a look at a couple that aren’t really full-featured habit trackers, but interesting entries nonetheless.
 
-## Sessions and Activity
+## Sessions and Activity++
 
 [Sessions](https://itunes.apple.com/us/app/sessions-activity-timer-habit/id962313775?mt=8) is unique amongst the applications listed here, as it’s entirely built around setting timers for habits. If your goal is to read for five minutes each day, it’ll kick off a timer and increase your streak once it’s completed. It’s very nicely designed, and there are certainly plenty of cases in which timers are useful when performing daily habits[^2], but it’s not flexible enough to be a general purpose streak tracker.
 
-[Activity](https://itunes.apple.com/us/app/activity++/id1089666978?mt=8) has a narrow focus; it tracks streaks and provides gorgeous visualizations for the three metrics highlighted by Apple’s [Activity](https://support.apple.com/en-us/HT204517) app – **Move** (active calories burned), **Stand** (hours in which you’ve stood and moved for at least a minute), and **Exercise** (minutes of “brisk activity”) – and does so automatically by integrating with HealthKit. Given the small feature set, Activity
+[Activity++](https://itunes.apple.com/us/app/activity++/id1089666978?mt=8) has a narrow focus; it tracks streaks and provides gorgeous visualizations for the three metrics highlighted by Apple’s [Activity](https://support.apple.com/en-us/HT204517) app – **Move** (active calories burned), **Stand** (hours in which you’ve stood and moved for at least a minute), and **Exercise** (minutes of “brisk activity”) – and does so automatically by integrating with HealthKit. Given the small feature set, Activity++ is a very nice application, but it frustratingly doesn’t notify you if you’re at risk of breaking a streak. There _is_ an Apple Watch complication, but it oddly doesn’t include any streak data. I’d like to see a simple Today widget with streak information added as well.
 
 Next, a group of apps that I found to all be pretty comparable to one another.
 
