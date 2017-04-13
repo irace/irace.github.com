@@ -5,8 +5,6 @@ permalink: window
 date: 2017-04-12
 ---
 
-# Window installation
-
 View hierarchies in iOS applications have only gotten more complex over the years, particularly as view controller containment has gained traction as a nice way to compose parts of your application together without succumbing to inheritance (and as such [tighter coupling than you probably want](https://en.wikipedia.org/wiki/Composition_over_inheritance)). One downside of this is that displaying something _on top_ of the currently displayed view can potentially involve quite a bit of hierarchy traversal and understanding of how your UI’s pieces all fit together.
 
 When attempting to overlay something on top of your entire view hierarchy – common examples include a notification banner or a heads-up display – it’s helpful to move up a level beyond regular views or even view controllers, and start thinking in the context of _windows_. While one could reach for `UIApplication.shared.keyWindow`, or employ some private API to find e.g. the window that’s currently hosting the status bar or an alert dialog, a far simpler and cleaner approach is to simply create a new window of your own. This is far from a new technique, but I only recently learned how easy it actually is in practice.
