@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google+ is Walking Dead
+title: Google+ is walking dead
 permalink: google+
 date: 2014-04-25
 ---
