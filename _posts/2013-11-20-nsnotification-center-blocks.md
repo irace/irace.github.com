@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NSNotificationCenter with blocks considered harmful... unless you use weak references, then it's fine
+title: NSNotificationCenter with blocks considered harmful… unless you use weak references, then it's fine
 permalink: nsnotificationcenter-blocks
 date: 2013-11-20
 ---
