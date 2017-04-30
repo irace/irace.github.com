@@ -8,22 +8,43 @@
       {{ site.title }} &middot; {{ site.tagline }}
     {% endif %}</title>
 
-  <meta property="og:site_name" content="{{ site.title }}">
-  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.tagline}}{% endif %}">
-  <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}">
-  <meta property="og:image" content="http://irace.me/public/bryan.png"/>
-  <meta property="og:type" content="{% if page.title %}article{% else %}website{% endif %}">
-  <meta property="og:description" content="{% if page.title %}{{ page.excerpt | strip_html | strip_newlines | truncatewords: 25 }}{% else %}{{ site.description }}{% endif %}">
-  <meta property="og:locale" content="en_US">
-  {% if page.title %}
-  <meta property="article:published_time" content="{{ page.date }}">
+  {% if page.excerpt %}
+    {% assign description = page.excerpt | strip_html | strip_newlines | truncatewords: 50 %}
+  {% else %}
+    {% assign description =  site.description %}
+  {% endif %}
 
-  <meta name="twitter:label1" value="Reading time">
-  {% assign minutes_to_read = page.content | number_of_words | divided_by: 180 %}<meta name="twitter:data1" value="{{ minutes_to_read }} min read">
+  {% if page.title %}
+    {% assign title = page.title %}
+  {% else %}
+    {% assign title = site.tagline %}
+  {% endif %}
+
+  {% if page.title %}
+    {% assign type = 'article' %}
+  {% else %}
+    {% assign type = 'website' %}
+  {% endif %}
+
+  {% assign minutes_to_read = page.content | number_of_words | divided_by: 180 %}
+  {% assign url = page.url | prepend: site.baseurl | prepend: site.url %}
+
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:title" content="{{ title }}">
+  <meta property="og:url" content="{{ url }}">
+  <meta property="og:image" content="http://irace.me/public/bryan.png">
+  <meta property="og:type" content="{{ type }}">
+  <meta property="og:description" content="{{ description }}">
+  <meta property="og:locale" content="en_US">
+  {% if page.date %}
+  <meta property="article:published_time" content="{{ page.date }}">
   {% endif %}
   <meta name="twitter:site" content="@iracedotme" />
-  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncatewords: 25 }}{% else %}{{ site.description }}{% endif %}">
-
+  <meta name="twitter:description" content="{{ description }}">
+  {% if page.title %}
+  <meta name="twitter:label1" value="Reading time">
+  <meta name="twitter:data1" value="{{ minutes_to_read }} min read">
+  {% endif %}
   <link rel="stylesheet" href="{{ site.baseurl }}/public/poole.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/public/styles.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/public/syntax.css">
