@@ -16,8 +16,14 @@
   <meta property="og:description" content="{% if page.title %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:locale" content="en_US">
 
+  {% if page.title %}
+  <meta name="twitter:label1" value="Reading time">
+  {% assign minutes_to_read = page.content | number_of_words | divided_by: 180 %} <!-- Duplicated in a few different places -->
+  <meta name="twitter:data1" value="{{ minutes_to_read }} min read">
+  {% endif %}
+
   <meta name="twitter:site" content="@iracedotme" />
-  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.tagline }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
   <link rel="stylesheet" href="{{ site.baseurl }}/public/poole.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/public/styles.css">
