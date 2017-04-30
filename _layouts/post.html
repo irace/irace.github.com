@@ -5,9 +5,7 @@ layout: default
 <article class="post">
   <h1 class="post-title">{{ page.title }}</h1>
 
-  <!-- Currently duplicated in `index.html` as well -->
-  {% assign words = content | number_of_words %}
-  {% assign minutes_to_read = words | divided_by: 180 %}
+  {% assign minutes_to_read = content | number_of_words | divided_by: 180 %}
   <p class="post-subtitle"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%B %d, %Y'  }}</time> · {{ minutes_to_read }} minute read</p>
 
   {{ content }}

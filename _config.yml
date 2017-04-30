@@ -4,6 +4,7 @@ permalink:           pretty
 # Setup
 title:               Bryan Irace
 tagline:             Mostly coding and writing
+description:         I’m Bryan – a software developer from Brooklyn, NY.
 url:                 http://irace.me
 paginate:            3
 baseurl:             ""
