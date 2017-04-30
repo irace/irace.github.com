@@ -2,21 +2,18 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>{% if page.title %}
-      {{ page.title }} &middot; {{ site.title }}
-    {% else %}
-      {{ site.title }} &middot; {{ site.tagline }}
-    {% endif %}</title>
+  <title>{% if page.title %}{{ page.title }} &middot; {{ site.title }}{% else %}{{ site.title }} &middot; {{ site.tagline }}{% endif %}</title>
 
   <meta property="og:site_name" content="{{ site.title }}">
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.tagline}}{% endif %}">
   <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}">
-  <meta property="og:image" content="http://irace.me/public/bryan.png"/>
+  <meta property="og:image" content="{% if page.image %}{{page.image}}{% else %}http://irace.me/public/bryan.png{% endif %}">
   <meta property="og:type" content="{% if page.title %}article{% else %}website{% endif %}">
   <meta property="og:description" content="{% if page.title %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:locale" content="en_US">
 
   <meta name="twitter:site" content="@iracedotme" />
+  <meta name="twitter:image" content="{% if page.image %}{{page.image}}{% else %}http://irace.me/public/bryan.png{% endif %}">
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.tagline }}{% endif %}">
 
   <link rel="stylesheet" href="{{ site.baseurl }}/public/poole.css">
