@@ -11,7 +11,7 @@ layout: default
       </a>
     </h1>
 
-    {% assign minutes_to_read = post.content | number_of_words | divided_by: 180 %} <!-- Duplicated in a few different places -->
+    {% assign minutes_to_read = post.content | number_of_words | divided_by: 180 %}
     <p class="post-subtitle"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%B %d, %Y'  }}</time> · {{ minutes_to_read }} minute read</p>
 
     {{ post.content }}
