@@ -6,7 +6,7 @@ date: 2017-04-30
 image: http://irace.me/images/prefer-team.jpg
 ---
 
-Today, we’re introducing [Prefer](http://prefer.com/) – <mark>a platform for the future of independent work</mark> that we've been working on since 2015. I won't rehash our launch post, which explains what we're doing and why (and for even more, please read what my colleagues Scott and Andrew also had to say), but I wanted to add some additional color to how we’re approaching our mission from an engineering perspective.
+Today, we’re introducing [Prefer](http://prefer.com/) – <mark>a platform for the future of independent work</mark> that we've been working on since 2015. I won't rehash our [launch post](https://medium.com/@prefer/introducing-prefer-connecting-people-and-professionals-through-trusted-referrals-725d35a91bbf), which explains what we're doing and why (and for even more, please read what my colleagues Scott and [Andrew](https://medium.com/@andrewmbarr/andrew-launch-post-523693b00a2b) also had to say), but I want to add some additional color to how we’re approaching our mission from an engineering perspective.
 
 ## What role will technology play?
 
