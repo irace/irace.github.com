@@ -2,7 +2,7 @@
 layout: post
 title: Introducing Prefer
 permalink: prefer
-date: 2017-04-30
+date: 2017-05-01
 image: http://irace.me/images/prefer-team.jpg
 ---
 
