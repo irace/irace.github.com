@@ -122,6 +122,10 @@ figure {
   padding-right: 0;
 }
 
+figure img {
+  display: inline;
+}
+
 figure img,
 .centered-tweet {
   margin: 20px;
