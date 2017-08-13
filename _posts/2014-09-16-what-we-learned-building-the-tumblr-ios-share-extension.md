@@ -5,6 +5,8 @@ permalink: tumblr-ios-extension
 date: 2014-09-16
 ---
 
+<center><img src="/images/wwdc.png" alt="A banner at WWDC showing Tumblr’s share extension. Guess we had to build one…"></center>
+
 <center><p><img src="https://42.media.tumblr.com/66f54175604ab2f00230321a0da1e86c/tumblr_inline_nbyrb8V10h1qaga3l.png" title="Tumblr share extension icon featured in a banner at Apple&rsquo;s WWDC 2014 event"></p></center>
 
 iOS app extensions &ndash; launching this Wednesday, [as part of iOS 8](https://developer.apple.com/ios8/#capabilities) &ndash; provide an exciting opportunity for developers of all types of apps to integrate with their customers&rsquo; devices like never before. Here at [Tumblr](https://itunes.apple.com/us/app/tumblr/id305343404?mt=8), we&rsquo;re thrilled to pull the curtain off of our share extension, which we&rsquo;ve been working hard on for quite a while now.
@@ -88,7 +90,7 @@ None so far. We tried configuring our activity controllers with an activity item
 
 This is a doozy. It&rsquo;s the most important issue we&rsquo;ve found, and one that probably deserves a blog post of its own.
 
-Here&rsquo;s how applications pass data to share extensions: 
+Here&rsquo;s how applications pass data to share extensions:
 
 * An application configures a `UIActivityViewController` with an array of &ldquo;activity items&rdquo;
 * The activity controller displays the system activities and share extensions that can operate on the types of items provided
@@ -99,7 +101,7 @@ Here&rsquo;s how we think this should work, using the Tumblr app as an example:
 * We put the image data, the posts&rsquo;s URL, and maybe a text summary of the post, all in the activity items array
 * We&rsquo;d expect share extensions that support either image data *or* URLs *or* text to all show up in the activity controller
 
-What *actually* happens is that only share extensions that explicitly support images *and* URLs *and* text will show up. 
+What *actually* happens is that only share extensions that explicitly support images *and* URLs *and* text will show up.
 
 This is a problem, because the simplest way to specify what your extension supports &ndash; and by far the best documented &ndash; is by adding `NSExtensionActivationRule` keys like:
 
@@ -122,7 +124,7 @@ This negatively affects both app and extension developers. It means that:
 * Extension developers should use the more complex (and unfortunately, not very thoroughly documented) [predicate syntax](https://developer.apple.com/library/prerelease/ios/documentation/General/Conceptual/ExtensibilityPG/ExtensionScenarios.html#//apple_ref/doc/uid/TP40014214-CH21-SW8) to specifically specify an OR relationship. This would look something like:
 
 <code>
-SUBQUERY(extensionItems, $extensionItem, SUBQUERY($extensionItem.attachments, $attachment, ANY $attachment.registeredTypeIdentifiers UTI-CONFORMS-TO "public.image").@count = 1 OR 
+SUBQUERY(extensionItems, $extensionItem, SUBQUERY($extensionItem.attachments, $attachment, ANY $attachment.registeredTypeIdentifiers UTI-CONFORMS-TO "public.image").@count = 1 OR
 SUBQUERY(extensionItems, $extensionItem, SUBQUERY($extensionItem.attachments, $attachment, ANY $attachment.registeredTypeIdentifiers UTI-CONFORMS-TO "public.text").@count &gt;= 1).@count &gt;= 1
 </code>
 
