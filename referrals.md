@@ -11,5 +11,6 @@ layout: page
 * [Instacart](https://inst.cr/t/T7njvHHcW)
 * [Lyft](https://www.lyft.com/invite/IRACE): IRACE
 * [MeUndies](http://getcomfy.in/ghS3h)
+* Minibar: BI027761
 * [Trunk Club](https://www.trunkclub.com/my/invite/9WCPMS)
 * [Uber](https://www.uber.com/invite/thnq5): thnq5
