@@ -14,6 +14,7 @@ layout: page
 * [MeUndies](http://getcomfy.in/ghS3h) (20% off first order)
 * Minibar: BI027761 ($10 off)
 * [Peloton](https://www.pelotoncycle.com/referrals/MXP6G9): MXP6G9 ($100 off accessories)
+* Postmates: ihndz ($101 in free delivery fees)
 * [Soylent](soy.lt/r/bJs7WOLaJP) (50% off first 12 bottles)
 * [Trunk Club](https://www.trunkclub.com/my/invite/9WCPMS)
 * [Uber](https://www.uber.com/invite/thnq5): thnq5 (free ride)
