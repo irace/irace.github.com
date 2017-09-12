@@ -15,8 +15,7 @@ layout: null
     "url": "{{ site.url }}",
     "avatar": "{{ site.url }}{{ site.author.avatar }}"
   },
-  "items": [
-  {% for post in site.posts %}
+  "items": [{% for post in site.posts %}
     {
       "id": "{{ post.url | absolute_url | sha1 }}",
       "url": "{{ site.url }}{{ post.url }}",
@@ -34,7 +33,6 @@ layout: null
               },
       "summary": {{ post.excerpt | jsonify }},
       "content_html": {{ post.content | jsonify }}
-    }{% if forloop.last == false %},{% endif %}
-  {% endfor %}
+    }{% if forloop.last == false %},{% endif %}{% endfor %}
   ]
 }
