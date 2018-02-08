@@ -3,6 +3,7 @@ layout: post
 title: Many Siris
 permalink: siri
 date: 2018-02-07
+image: http://irace.me/images/siri.png
 ---
 
 <figure>
