@@ -16,7 +16,7 @@ Tweetbot hasn’t only been removed from my dock and home screen[^3], but from m
 
 I have a real love-hate relationship with Twitter. It has – at times – brought me immense joy, knowledge, and offline friendships that I value dearly to this day. I truly consider it to be [my most important professional network](https://twitter.com/irace/status/933547959702228997). Conversely, I’ve found it to be a time-suck that I’m drawn to like no other. And it’s important to me that I change that.
 
-[https://twitter.com/jasonbrennan/status/890569068574498816](https://twitter.com/jasonbrennan/status/890569068574498816)
+<center class="centered-tweet"><blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Replace &quot;because I got high&quot; with &quot;because I was opened Twitter&quot; and the song works pretty much just as good</p>&mdash; jason brennan (@jasonbrennan) <a href="https://twitter.com/jasonbrennan/status/890569068574498816?ref_src=twsrc%5Etfw">July 27, 2017</a></blockquote></center><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 The blessing and curse of the modern mobile operating system – depending on your self-control – is that your phone can take on any form you’d like: a machine for Twitter and games, a tool that encourages an active and present lifestyle, or in most cases, something in between. Without a right answer, the best that I think you can do is to make sure that you’re consciously deciding.
 
