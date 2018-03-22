@@ -16,6 +16,7 @@ layout: page
 * [Instacart](https://inst.cr/t/T7njvHHcW) ($10 off)
 * [Juno](https://join.gojuno.com/XAEa2Z9f8K) (30% off for two weeks)
 * [Lyft](https://www.lyft.com/invite/IRACE): IRACE ($5 off)
+* [Mealpal](https://mealpal.com/bryanirace): Offers vary (presently: $50 Visa gift card after two cycles)
 * [MeUndies](http://getcomfy.in/ghS3h) (20% off first order)
 * Minibar: BI027761 ($10 off)
 * [Peloton](https://www.pelotoncycle.com/referrals/MXP6G9): MXP6G9 ($100 off accessories)
