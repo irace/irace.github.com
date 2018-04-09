@@ -40,8 +40,5 @@ Google should remove these restrictions from G Suite accounts, such that anyone 
 Thanks to [Brian Donohue](https://twitter.com/bthdonohue) for providing feedback on this post.
 
 [^1]: Formerly known as a “Google Apps”
-[^2]:
-
-  Export all of your existing email, import it into a regular Gmail account, set up email forwarding from the G Suite account to the regular account, ad nauseam. Don’t get me wrong, this would be a massive headache, but it at least seems theoretically doable.
-
+[^2]: Export all of your existing email, import it into a regular Gmail account, set up email forwarding from the G Suite account to the regular account, ad nauseam. Don’t get me wrong, this would be a massive headache, but it at least seems theoretically doable.
 [^3]: To my knowledge. I haven’t researched this extensively.
