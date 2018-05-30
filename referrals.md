@@ -10,7 +10,8 @@ layout: page
 * [Bombfell](https://bombfell.com/?rc=480709OqTbn) ($25 off)
 * car2g0: JOINC2GNY_bryan@irace.me ($10 off)
 * [Cash App](https://cash.me/app/MBWKFXS): MBWKFXS ($5 off)
-* [Caviar](https://www.trycaviar.com/r/f06r54?s=web): $10 off each of your first two (Manhattan) orders
+* [Caviar](https://www.trycaviar.com/r/f06r54?s=web) ($10 off each of your first two Manhattan orders)
+* [Coinbase](https://www.coinbase.com/join/529cc96243bb6bfb760000e8) ($10 free)
 * [Dropbox](https://db.tt/PNFeXTxb) (500 MB bonus space)
 * [Everlane](https://www.everlane.com/r/bryanirace)
 * Fracture: RFR97988 ($10 off)
@@ -19,7 +20,7 @@ layout: page
 * [JACHS](http://fbuy.me/iVU64) (50% off)
 * [Juno](https://join.gojuno.com/XAEa2Z9f8K) (30% off for two weeks)
 * [Lyft](https://www.lyft.com/invite/IRACE): IRACE ($5 off)
-* [Mealpal](https://mealpal.com/bryanirace): Offers vary (presently: $50 Visa gift card after two cycles)
+* [Mealpal](https://mealpal.com/bryanirace) (Offers vary, currently $50 Visa gift card after two cycles)
 * [MeUndies](http://getcomfy.in/ghS3h) (20% off first order)
 * Minibar: BI027761 ($10 off)
 * [Peloton](https://www.pelotoncycle.com/referrals/MXP6G9): MXP6G9 ($100 off accessories)
