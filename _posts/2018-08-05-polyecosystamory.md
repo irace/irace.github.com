@@ -12,7 +12,7 @@ image: http://irace.me/images/paint.jpg
 
 Around the time of Apple and Google’s maps-induced falling out, there seemed to be a common consumer-tech refrain around how the best theoretical experience would be comprised of Apple hardware tightly integrated with both Google’s software and Amazon’s content, and how much of a shame it was that this would almost certainly never come to fruition. Instead, it felt wasteful that all three companies were directly competing with one another on so many different fronts instead of each just doing what they do best.
 
-This was always a false dichotomy, however – it’s precisely _because_ such fervent competition exists that these companies and so many others have been pushed to build their best-in-breed products: Kindle is better because of iBooks, Google Maps is better because of Apple Maps, and iOS is better because of Android. This list goes on and on and on.
+This was a simplistic and misguied viewpoint, however – it’s precisely _because_ such fervent competition exists that these companies and so many others have been pushed to build their best-in-breed products: Kindle is better because of iBooks, Google Maps is better because of Apple Maps, and iOS is better because of Android. This list goes on and on and on.
 
 Today, such competition exists across far more vectors than in 2012. In 2018, we not only choose a type of smartphone to purchase, but which voice assistant we’ll talk to, which services we’ll stream our music and videos from, and which smart devices we’ll outfit our homes with. Such choices can be paralysis-inducing, and as such it’s hard to blame one for choosing to:
 
