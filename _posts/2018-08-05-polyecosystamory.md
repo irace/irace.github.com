@@ -27,7 +27,9 @@ If this setup sounds like it‘s continually evolving, it is, because consumer t
 
 All of these companies – Apple, Amazon, Google, Sonos, Spotify, etc. – will continue to push forward on these fronts. As such, despite the landscape perhaps feeling devoid of clear answers today, I can’t personally foresee a “winning ecosystem“ coming into focus anytime soon. Waiting for this to happen will likely mean indefinitely depriving yourself of products that may otherwise meet a need today.
 
-If there’s [a single ecosystem that suits you](https://www.macstories.net/stories/apple-ecosystem-comfort/), all the better. But if not, I wouldn’t be afraid to mix and match, especially if doing so will allow you to solve a problem that may never be solved by waiting. Come on in, the water’s fine.
+If there’s [a single ecosystem that suits you](https://www.macstories.net/stories/apple-ecosystem-comfort/), all the better. But if not, I wouldn’t be afraid to mix and match, especially if doing so will allow you to solve a problem that may never be solved by waiting.
+
+Come on in, the water’s fine.
 
 [^1]: You can use the Spotify app instead of either using the Sonos app or AirPlaying.
 
