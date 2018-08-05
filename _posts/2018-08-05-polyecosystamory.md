@@ -16,8 +16,8 @@ This was always a false dichotomy, however – it’s precisely _because_ such 
 
 Today, such competition exists across far more vectors than in 2012. In 2018, we not only choose a type of smartphone to purchase, but which voice assistant we’ll talk to, which services we’ll stream our music and videos from, and which smart devices we’ll outfit our homes with. Such choices can be paralysis-inducing, and as such it’s hard to blame one for choosing to:
 
-1.  Commit solely to either Google, Apple, or Amazon
-2.  Commit to nothing, abstaining from adopting too many new devices and services until an indeterminate time in the future when it’s more obvious what the “best” setup will be
+1. Commit solely to either Google, Apple, or Amazon
+2. Commit to nothing, abstaining from adopting too many new devices and services until an indeterminate time in the future when it’s more obvious what the “best” setup will be
 
 I’m here to tell you that these aren’t the only options, and that ecosystem polyamory can actually work quite well in practice. Just as the lack of deep Google and Amazon integrations on iOS hasn’t stopped most of us from using the Google Maps and Kindle apps on our iPhones, mixing and matching devices and services from different vendors can be a completely viable strategy depending on your particular home and familial needs. Of course, there are downsides – heterogeneous setups are more complicated, redundant, and inconsistent – but what you lose in simplicity, you gain in flexibility and optionality. And I hate to break it to you, but there’s likely never going to be a “best” setup much like how Google’s services are likely never going to integrate with iOS as deeply as Apple’s.
 
@@ -29,8 +29,6 @@ All of these companies – Apple, Amazon, Google, Sonos, Spotify, etc. – will 
 
 If there’s [a single ecosystem that suits you](https://www.macstories.net/stories/apple-ecosystem-comfort/), all the better. But if not, I wouldn’t be afraid to mix and match, especially if doing so will allow you to solve a problem that may never be solved by waiting. Come on in, the water’s fine.
 
-[^1]:
-
-  You can use the Spotify app instead of either using the Sonos app or AirPlaying.
+[^1]: You can use the Spotify app instead of either using the Sonos app or AirPlaying.
 
 [^2]: You can’t play Apple Music through Alexa.
