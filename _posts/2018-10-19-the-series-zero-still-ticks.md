@@ -14,7 +14,7 @@ On Friday, September 14 at 2:58 AM, my alarm woke me up so that I could pre-orde
 
 It feels safe to say that most meditations on consumer technology in 2018 have a tinge of negativity to them, and as such a soliloquy in praise of the Series Zero feels in order. Are there times over the past three-plus years that I wished mine were faster and smaller, or that it had GPS? Absolutely. But in an age when shortened attention spans and heightened expectations always have us ready for what’s newer and shinier, the duration over which my Series Zero served me well feels commendable to say the very least.
 
-Apple’s AirPods were released in December 2016 – over a year and seven months after the Series Zero. With both the Series 1 and Series 2 watches already being available for sale at this point, it wouldn’t have been too surprising or indefinsible if the AirPods weren’t compatible with the Series Zero. But they were, and this combination was instrumental in my training for and eventually completing my first half-marathon in Brooklyn in May of 2018.
+Apple’s AirPods were released in December 2016 – over a year and seven months after the Series Zero. With both the Series 1 and Series 2 watches already being available for sale at this point, it wouldn’t have been too surprising or indefensible if the AirPods weren’t compatible with the Series Zero. But they were, and this combination was instrumental in my training for and eventually completing my first half-marathon in Brooklyn in May of 2018.
 
 <figure>
   <img src="/images/brooklynhalf.jpg" alt="Running the 2018 Brooklyn Half-Marathon">
