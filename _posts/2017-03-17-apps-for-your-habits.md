@@ -5,11 +5,13 @@ permalink: habits
 date: 2017-03-11
 ---
 
+**UPDATE:** [Streaks](https://streaksapp.com) has actually added _all_ of the features I wanted since the time of publication. I’m now happily using it exclusively.
+
 We’d all like to be more productive, but it’s far easier to stick with a daily habit like reading for at least five minutes than, say, training to run a marathon sometime in the next year. I’ve personally found these types of small, repetitive goals really easy to gamify, and if your brain is anything like mine, a few strategic dopamine deployments can really go a long way. Drinking eight glasses of water a day isn’t hard to begin with, but it’s certainly a lot easier if you’re constantly being reminded about it. And if you’re made aware that you’re actually at risk of breaking a 15 day streak, you’re even more likely to get off the couch for a refill. Obviously these streaks don’t _really_ matter, but brains work in mysterious ways. Or at least mine does.
 
-It’s really easy to go overboard here. In a perfect world, I’d of course like to read about current events and practice the guitar every day, but the quickest way to make sure you don’t drink those eight glasses of water is to lump them alongside a bunch of other goals that you weren’t realistically going to hit anyway. Take something like hitting a daily stand goal[^1]; I can usually accomplish this without really thinking much about it, and on the days when I don’t, I’m usually only an hour or two short. But since missing a day isn’t particularly crucial, there’s no compelling reason for me to explicitly check how I’m doing. Going from pull (“Let me proactively see how many hours I’ve stood for today”) to push (“Hey, you need three more hours or you’re going to lose your 20 day streak”) provides enough of an impetus to do the task that was easy to begin with as long as you didn’t forget.  
+It’s really easy to go overboard here. In a perfect world, I’d of course like to read about current events and practice the guitar every day, but the quickest way to make sure you don’t drink those eight glasses of water is to lump them alongside a bunch of other goals that you weren’t realistically going to hit anyway. Take something like hitting a daily stand goal[^1]; I can usually accomplish this without really thinking much about it, and on the days when I don’t, I’m usually only an hour or two short. But since missing a day isn’t particularly crucial, there’s no compelling reason for me to explicitly check how I’m doing. Going from pull (“Let me proactively see how many hours I’ve stood for today”) to push (“Hey, you need three more hours or you’re going to lose your 20 day streak”) provides enough of an impetus to do the task that was easy to begin with as long as you didn’t forget.
 
-Like weather or to-do list applications, there are a *lot* of different habit trackers, which shouldn’t be surprising given that everyone responds to subtly different types of motivation. Most are pretty similar, however. Before diving in too deep, let’s take a look at a couple that aren’t really full-featured habit trackers, but interesting entries nonetheless.
+Like weather or to-do list applications, there are a _lot_ of different habit trackers, which shouldn’t be surprising given that everyone responds to subtly different types of motivation. Most are pretty similar, however. Before diving in too deep, let’s take a look at a couple that aren’t really full-featured habit trackers, but interesting entries nonetheless.
 
 ## Sessions and Activity++
 
@@ -46,14 +48,11 @@ The biggest problem with Streaks is that it supports a maximum of only six habit
 
 I don’t realistically expect Productive to add HealthKit support, or Streaks to drop its habit limit and ape Productive’s badging implementation, but if one or the other did, I’d happily consolidate.
 
-----
+---
 
 Productivity is all about finding a system that works for you, and importantly, not trying to do too much. In my case, the combination of reminders and streak tracking helps keep me motivated and prevents me from forgetting, making it easy to keep up with simple habits that I know would otherwise lapse. As our smartphones and watches learn more and more about ourselves, the opportunities to employ systems[^4] that help us be better versions of ourselves is only going to increase.
 
-[^1]:	12 hours per day is the Apple Watch default.
-
-[^2]:	I’ve been using [Timeglass](https://itunes.apple.com/us/app/timeglass-countdown-timer/id1138584627?mt=8) for my daily reading habit. It’s from the makers of Productive, so – unsurprisingly – it’s really nicely designed.
-
-[^3]:	For example, I don’t have my mornings starting until 5AM since I tend to be up pretty late at night.
-
-[^4]:	Somewhat outside the bounds of a streak tracking article, but I’m a huge huge fan of [Gyroscope](https://gyrosco.pe). Pro users do have access to a Goals feature that touches on many of the same ideas discussed here.
+[^1]: 12 hours per day is the Apple Watch default.
+[^2]: I’ve been using [Timeglass](https://itunes.apple.com/us/app/timeglass-countdown-timer/id1138584627?mt=8) for my daily reading habit. It’s from the makers of Productive, so – unsurprisingly – it’s really nicely designed.
+[^3]: For example, I don’t have my mornings starting until 5AM since I tend to be up pretty late at night.
+[^4]: Somewhat outside the bounds of a streak tracking article, but I’m a huge huge fan of [Gyroscope](https://gyrosco.pe). Pro users do have access to a Goals feature that touches on many of the same ideas discussed here.

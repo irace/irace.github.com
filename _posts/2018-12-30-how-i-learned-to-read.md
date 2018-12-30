@@ -85,7 +85,7 @@ Did you know that not only can you borrow physical books for free from your loca
 
 <figure>
   <img src="/images/reading/libby.png" style="width: 300px;" alt="The Libby app, used to rent e-books from local libraries">
-  <figcaption>Libby even supports having accounts with multiple libraries, if you’re lucky enough to have more than one in your area.</figcaption>
+  <figcaption>Libby even supports multiple accounts, if you’re lucky enough to have more than one in your area.</figcaption>
 </figure>
 
 The selection isn’t perfect, but I’ve been able to find a lot of books on my reading lists at either the New York or Brooklyn Public Libraries[^4]. You may need to wait a few weeks for popular books to become available, but you can put them on hold such that they’re automatically rented once they are. Once rented, you can keep the book for up to 21 days (which I’ve found can serve as a helpful forcing function to make sure you’re moving through it with haste).
