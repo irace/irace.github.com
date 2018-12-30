@@ -49,7 +49,7 @@ Modern Kindles also have the benefit of being quite light and small. I expected 
 
 ## Reading wherever, whenever
 
-Despite having really grown to like my Kindle, it’s only with me a fraction of the time compared to my iPhone. Like with [cameras](https://www.amazon.com/Best-Camera-One-Thats-You/dp/0321684788), <mark>the best book is the one that’s with you</mark>. Kindle sync means that your book is _always_ with you even if your primary reading device is not.
+Despite having really grown to like my Kindle, it’s only with me a fraction of the time compared to my iPhone. Like with [cameras](https://www.amazon.com/Best-Camera-One-Thats-You/dp/0321684788), <mark>the best book is the one that’s with you</mark>. Kindle sync means that your book is always with you as long as your phone is, even if your primary reading device is not. And as mentioned, I’m definitely not above reading books on my phone.
 
 There are plenty of times where I most certainly do _not_ want to carry anything more than my phone – specifically in the summer – but this doesn’t mean that there can’t still be any number of planned or unplanned reading opportunities along the way.
 
