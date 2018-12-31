@@ -32,7 +32,7 @@ I still prefer Apple for programming books because I find the Apple Books softwa
 
 ## Keeping a streak
 
-If you’re the type of person who [finds streaks to be motivational](https://irace.me/habits), keeping track of a streak is an easy way to make sure that you’re spending at least a few minutes reading each day. Just five or ten minutes each day is a great place to start; <mark>those minutes really do add up</mark>, but perhaps more importantly, a streak helps ingrain the habit of dipping into your book during your commute or while waiting in line at the grocery store. Or really, anytime when you might otherwis default to scrolling through Twitter or Instagram.
+If you’re the type of person who [finds streaks to be motivational](https://irace.me/habits), keeping track of a streak is an easy way to make sure that you’re spending at least a few minutes reading each day. Just five or ten minutes each day is a great place to start; <mark>those minutes really do add up</mark>, but perhaps more importantly, a streak helps ingrain the habit of dipping into your book during your commute or while waiting in line at the grocery store. Or really, anytime when you might otherwise default to scrolling through Twitter or Instagram.
 
 <figure>
   <img src="/images/reading/streaks.png" style="width: 300px;" alt="My 2018 reading streak">
@@ -94,7 +94,7 @@ The selection isn’t perfect, but I’ve been able to find a lot of books on my
 
 These are just a few tactics, but they’ve worked well for me over the past year and I expect will continue in years to come. I still think there’s room for improvement[^5], but the first step to improving a habit is to have said habit in the first place. As of 2018, I can finally say that I do.
 
-[^1]: I didn’t really keep track in 2014-2016. [Day One](http://dayoneapp.com) and Goodreads indicate that I read at least three in 2014, at least three in 2015, and at least two in 2016. Nothing to brag about.
+[^1]: I didn’t really keep track from 2014 through 2016. [Day One](http://dayoneapp.com) and Goodreads indicate that I read at least three in 2014, at least three in 2015, and at least two in 2016. Nothing to brag about.
 [^2]: A couple of favorites: [this one](https://medium.com/rick-webb/my-reading-habits-1e4039966f18) from [Rick Webb](https://twitter.com/rickwebb) (my former Tumblr colleague and a far more prolific reader than I am ever likely to be), and [this one](https://paulstamatiou.com/reading-more-kindle-oasis/) from Paul Stamatiou.
 [^3]: I wish I could take credit for this, but I saw got it from Twitter at some point and can’t find the source for the life of me.
 [^4]: Your mileage may vary depending on your local library, of course.
