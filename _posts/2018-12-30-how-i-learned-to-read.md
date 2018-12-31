@@ -39,6 +39,12 @@ If you’re the type of person who [finds streaks to be motivational](https://ir
   <figcaption>I highly recommend <a href="https://streaksapp.com">Streaks</a> for iOS. It even has built-in timers for letting you know when you’ve finished reading for the desired increment.</figcaption>
 </figure>
 
+## Allowing myself to take breaks from books
+
+There are some days where I simply don’t want to read a book, but that doesn’t mean I can’t read something else of value. The goal here was to instill a reading habit, not _necessarily_ a book habit.
+
+Maybe I just finished my last book and haven’t decided which my next one will be, or maybe there’s a lot going on in the news that I’d like to catch up on. I use [Instapaper](https://www.instapaper.com) to save articles of all different kinds to read at a later date, and on days where I choose to spend at least ten minutes reading these instead of a book, I’m happy to count that against the streak as well.
+
 ## Using an e-ink Kindle
 
 I resisted getting a dedicated Kindle device until December 2016, primarily because I really don’t mind reading on iOS. I’ve read entire books on iPhones without issue.
