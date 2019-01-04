@@ -59,6 +59,10 @@ Despite having really grown to like my Kindle, it’s only with me a fraction of
 
 There are plenty of times where I most certainly do _not_ want to carry anything more than my phone – specifically in the summer – but this doesn’t mean that there can’t still be any number of planned or unplanned reading opportunities along the way.
 
+## Drowning out the noise
+
+In the spirit of reading wherever and whenever, it’s often helpful to have something to help you drown out the background noise of your neighborhood coffee shop, or the New York City subway. I’ve been using [Brain.fm](https://brain.fm) almost exclusively for the past year but have also used [Noizio](http://noiz.io) a lot in the past. They’re both really nice.
+
 ## Putting a book cover on my lock screen
 
 Whenever I start a new book, I put the book’s cover on my iPhone lock screen[^3]. It’s not exactly subtle, but I benefit from the constant reminder that I could be reading my book whenever I’m tempted to use my phone for something less beneficial.
