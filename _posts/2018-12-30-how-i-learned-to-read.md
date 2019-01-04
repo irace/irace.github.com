@@ -61,7 +61,7 @@ There are plenty of times where I most certainly do _not_ want to carry anything
 
 ## Drowning out the noise
 
-In the spirit of reading wherever and whenever, it’s often helpful to have something to help you drown out the background noise of your neighborhood coffee shop, or the New York City subway. I’ve been using [Brain.fm](https://brain.fm) almost exclusively for the past year but have also used [Noizio](http://noiz.io) a lot in the past. They’re both really nice.
+In the spirit of reading wherever and whenever, it’s often helpful to have something to help you drown out the background noise of your neighborhood coffee shop, or the New York City subway. I’ve been using [Brain.fm](https://brain.fm) almost exclusively for the past year but have also used [Noizio](http://noiz.io) a lot in the past. They’re both really good at what they do.
 
 ## Putting a book cover on my lock screen
 
