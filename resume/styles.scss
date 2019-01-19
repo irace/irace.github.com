@@ -1,0 +1,53 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+@import "../node_modules/tachyons-sass/tachyons.scss";
+
+.resume {
+  .yellowtail {
+    font-family: "Yellowtail", cursive;
+  }
+
+  a {
+    @extend .link, .dim, .green;
+  }
+
+  .copy {
+    @extend .f6, .lh-copy;
+  }
+
+  .title {
+    @extend .f5, .lh-title, .mv0;
+  }
+
+  .company {
+    @extend .f4, .lh-title, .mv2, .v-mid;
+  }
+
+  .entry {
+    @extend .mv5-ns, .mv4;
+  }
+
+  .logo {
+    @extend .mr2, .v-mid;
+
+    width: 30px;
+  }
+
+  .thumbnails {
+    @extend .mw9, .center, .ph3-ns, .cf;
+    .thumbnail {
+      @extend .fl, .w-100, .w-third-ns, .pa2;
+
+      a {
+        display: block;
+        @extend .dim;
+
+        img {
+          @extend .br2, .shadow-4;
+        }
+      }
+    }
+  }
+}

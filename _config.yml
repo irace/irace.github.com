@@ -1,28 +1,29 @@
 # Permalinks
-permalink:           pretty
+permalink: pretty
 
 # Setup
-title:               Bryan Irace
-tagline:             Mostly coding and writing
-description:         I’m Bryan – a software developer from Brooklyn, NY.
-url:                 http://irace.me
-paginate:            3
-baseurl:             ""
-analytics_id:        UA-22036475-2
+title: Bryan Irace
+tagline: Mostly coding and writing
+description: I’m Bryan – a software developer from Brooklyn, NY.
+url: http://irace.me
+paginate: 3
+baseurl: ""
+analytics_id: UA-22036475-2
 
-# About/contact
 author:
-  name:              Bryan Irace
-  url:               https://twitter.com/irace
-  email:             bryan@irace.me
+  name: Bryan Irace
+  url: https://twitter.com/irace
+  email: bryan@irace.me
 
-# Custom vars
-version:             2.0.0
-github:
-  repo:              https://github.com/irace/irace.github.com
-
-# Gems
 gems:
   - jekyll-paginate
-  - jekyll-gist
   - jekyll-feed
+
+github: [metadata]
+
+sass:
+  # Where you keep your scss files
+  sass_dir: resume/
+  # Where SASS should look for other SCSS
+  load_paths:
+    - node_modules/
