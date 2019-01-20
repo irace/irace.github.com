@@ -106,6 +106,6 @@ These are just a few tactics, but they’ve worked well for me over the past yea
 
 [^1]: I didn’t really keep track from 2014 through 2016. [Day One](http://dayoneapp.com) and Goodreads indicate that I read at least three in 2014, at least three in 2015, and at least two in 2016. Nothing to brag about.
 [^2]: A couple of favorites: [this one](https://medium.com/rick-webb/my-reading-habits-1e4039966f18) from [Rick Webb](https://twitter.com/rickwebb) (my former Tumblr colleague and a far more prolific reader than I am ever likely to be), and [this one](https://paulstamatiou.com/reading-more-kindle-oasis/) from Paul Stamatiou.
-[^3]: I wish I could take credit for this, but I saw got it from Twitter at some point and can’t find the source for the life of me.
+[^3]: I wish I could take credit for this, but I got the idea from Twitter at some point and can’t find the source for the life of me. Apologies!
 [^4]: Your mileage may vary depending on your local library, of course.
 [^5]: Specifically, [retaining and utilizing information gleaned from non-fiction books](https://robertheaton.com/2018/06/25/how-to-read/).
