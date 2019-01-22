@@ -1,5 +1,8 @@
 # About
-Personal site, will eventually contain information about various projects I hope to work on.
 
-# License
+1. A blog! Built using [Jekyll](https://jekyllrb.com).
+2. A résumé! Built using [Jekyll](https://jekyllrb.com) and [Tachyons](https://tachyons.io).
+
+## License
+
 Available for use under the MIT license: [http://bryan.mit-license.org](http://bryan.mit-license.org)
