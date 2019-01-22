@@ -5,7 +5,7 @@ layout: page
 
 I’m Bryan – a software developer from Brooklyn, NY. You can follow me on Twitter [here](http://twitter.com/irace).
 
-Career-wise, I’m currently trying to figure out what’s next for me.
+Career-wise, I’m currently trying to figure out what’s next for me. Here’s [my résumé](https://irace.me/resume), if you’re interested.
 
 Most recently, I was a founding team member and CTO at a company called Prefer (founded by [Scott Belsky](https://twitter.com/scottbelsky) of Adobe/Behance). We worked on Prefer – a platform for the future of good jobs and independent work – for over three years but eventually shut it down in January 2019. I’m very sad that we couldn’t make it work, but am incredibly grateful for the opportunity to work on such an ambitious project along with such an amazing group of people.
 
