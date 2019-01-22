@@ -9,7 +9,7 @@
     font-family: "Yellowtail", cursive;
   }
 
-  a {
+  a:not(.unstyled) {
     @extend .link, .dim, .green;
   }
 
