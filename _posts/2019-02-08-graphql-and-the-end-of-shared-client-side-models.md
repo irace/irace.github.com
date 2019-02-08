@@ -86,7 +86,7 @@ At this point, your frontend will need to:
 
 `User` vs. `SimpleUser` is admittedly a coarse and superficial distinction. If we add a _third_ flavor to the mix, what would we reasonably name it?
 
-Instead of `SimpleUser`, we could instead call this new type `FriendListUser`, named after the feature that it powers. Having separate user models for each use case is a more scalable approach – we could end up with quite a few different flavors, whose names all accurately convey intention better than “simple” does:
+Instead of `SimpleUser`, we could instead call this new type `FriendListUser`, named after the feature that it powers. Having separate user models for each use case is a more scalable approach – we could end up with quite a few different versions, whose names all accurately convey intention better than “simple” does:
 
 - `FriendListUser`
 - `EditAccountUser`
