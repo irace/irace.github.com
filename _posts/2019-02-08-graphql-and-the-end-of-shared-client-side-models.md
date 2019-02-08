@@ -198,7 +198,7 @@ GraphQL query fragments better facilite the colocation of components _and_ their
 
 ```
 const FriendListItem = gql`
-  {
+  fragment FriendListItem on User {
     firstName
     lastName
     avatar {
