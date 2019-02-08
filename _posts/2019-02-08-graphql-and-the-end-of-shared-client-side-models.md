@@ -39,7 +39,7 @@ Instances of this same user model type can be vended by multiple routes, e.g.:
 1. `/me` – A route that returns the currently authenticated user
 2. `/friends` - A route that returns the current user’s friends
 
-RESTful APIs aren’t inherently type-safe, so a frontend developer will generally learn that these routes both return objects the same `User` type by looking at the API documentation (and hoping that it’s accurate[^1]), or by eyeballing the HTTP traffic itself.
+RESTful APIs aren’t inherently type-safe, so a frontend developer will generally learn that these routes both return objects of the same `User` type by looking at the API documentation (and hoping that it’s accurate[^1]), or by eyeballing the HTTP traffic itself.
 
 After realizing this, a type definition like the following can be manually added to your client-side application, instances of which you can populate when parsing response bodies from either of these two routes:
 
