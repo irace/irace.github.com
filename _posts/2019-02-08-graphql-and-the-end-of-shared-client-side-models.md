@@ -68,7 +68,7 @@ Suppose that your application includes the following capabilities (and is contin
 
 Your server will initially return the same user payload from all of these features’ routes, but this won’t scale particularly well. A model with a large number of properties[^2] will be necessary to render a full profile, but problematic when rendering a long list of users’ names and avatars. It’s unnecessary at best and a performance bottleneck at worst[^3] to serialize a full user when most of its properties are simply going to be ignored.
 
-Perhaps your API developer changes your server to return only a subset of user properties from the `/friend` route. This is followed by a change to the API documentation and a hope that your frontend engineer notices, at which point they’ll add a new type to the client-side codebase. Perhaps this new type looks something like:
+Perhaps your API developer changes your server to return only a subset of user properties from the `/friends` route. This is followed by a change to the API documentation and a hope that your frontend engineer notices, at which point they’ll add a new type to the client-side codebase. Perhaps this new type looks something like:
 
 ```ts
 interface SimpleUser {
