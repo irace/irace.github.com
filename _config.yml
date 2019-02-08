@@ -15,7 +15,7 @@ author:
   url: https://twitter.com/irace
   email: bryan@irace.me
 
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-feed
 

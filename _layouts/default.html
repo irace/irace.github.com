@@ -6,15 +6,11 @@
     <div class="container content">
       <header class="masthead">
         <div class="image-container">
-          <a href="{{ site.baseurl }}/" title="Home"
-            ><img src="{{ site.baseurl }}/public/bryan.png"
-          /></a>
+          <a href="{{ site.baseurl }}/" title="Home"><img src="{{ site.baseurl }}/public/bryan.png"/></a>
         </div>
 
         <nav>
-          <a href="/about/">About</a>&nbsp;&nbsp;
-          <a href="/writing/">Writing</a>&nbsp;&nbsp;
-          <a href="/talking/">Talking</a>&nbsp;&nbsp;
+          <a href="/about/">About</a>&nbsp;&nbsp; <a href="/writing/">Writing</a>&nbsp;&nbsp; <a href="/talking/">Talking</a>&nbsp;&nbsp;
           <a href="http://github.com/irace">Coding</a>
         </nav>
       </header>
@@ -23,13 +19,8 @@
 
       <footer class="footer">
         &copy;
-        <time datetime="{{ site.time | date_to_xmlschema }}">{{
-          site.time | date: "%Y"
-        }}</time
-        >.
-        <a href="http://creativecommons.org/licenses/by-sa/4.0/"
-          >Some rights reserved</a
-        >.
+        <time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: "%Y" }}</time
+        >. <a href="http://creativecommons.org/licenses/by-sa/4.0/">Some rights reserved</a>.
       </footer>
     </div>
 
@@ -47,18 +38,12 @@
         a.async = 1;
         a.src = g;
         m.parentNode.insertBefore(a, m);
-      })(
-        window,
-        document,
-        "script",
-        "//www.google-analytics.com/analytics.js",
-        "ga"
-      );
+      })(window, document, "script", "//www.google-analytics.com/analytics.js", "ga");
       ga("create", "{{ site.analytics_id }}", "auto");
       ga("send", "pageview");
     </script>
     {% endif %}
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/Snowstorm/20131208/snowstorm-min.js"></script>
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/Snowstorm/20131208/snowstorm-min.js"></script> -->
   </body>
 </html>
