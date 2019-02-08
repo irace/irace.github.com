@@ -73,8 +73,8 @@ Perhaps your API developer changes your server to return only a subset of user p
 ```ts
 interface SimpleUser {
   id: number;
-  first_name: string;
-  last_name: string;
+  firstName: string;
+  lastName: string;
   avatar: Avatar;
 }
 ```
