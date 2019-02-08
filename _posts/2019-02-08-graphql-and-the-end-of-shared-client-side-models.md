@@ -227,7 +227,7 @@ Just as a UI rendering layer will walk the component tree in order to lay out ou
 
 GraphQL is a high-level query language; while you can use it to query a GraphQL _server_, client-side libraries such as [Apollo](https://www.apollographql.com) and [Relay](https://facebook.github.io/relay/) can act as abstraction layers on top of both the network as well as an optional local cache[^5].
 
-(Additionally, Apollo can handle both the code generation and the query fragment unification outlined in the sections above 💫)
+(Additionally, Apollo and Relay both also handle the code generation and query fragment unification outlined in the sections above 💫)
 
 Traditional client-server applications often end up with logic that looks as follows:
 
