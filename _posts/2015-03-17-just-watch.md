@@ -9,10 +9,10 @@ Having a sensor-packed computer on your wrist for [identity/payments/etc](http:/
 
 In the meantime, hearing people discuss smartwatches’ merits – or lack thereof – will become unbearable. It already is.
 
-[Apple is smart to release it now and to frame the narrative largely around getting people interested in actually being seen wearing it](http://stratechery.com/2015/apple-make-wearable-market/), followed by what I can only assume will be years of both working hard and waiting patiently for the rest of the pieces to fall into place. If anyone can afford a long play like this, it’s the company with $160B in cash. It’s a much longer play than the iPhone or iPad were. [Not to mention that it’ll probably generate a shit-ton of revenue in the interim](http://www.imore.com/over-60-million-americans-interested-buying-apple-watch).
+[Apple is smart to release it now and to frame the narrative largely around getting people interested in actually being seen wearing it](http://stratechery.com/2015/apple-make-wearable-market/), followed by what I can only assume will be years of both working hard and waiting patiently for the rest of the pieces to fall into place. If anyone can afford a long play like this, it’s the company with \$160B in cash. It’s a much longer play than the iPhone or iPad were. [Not to mention that it’ll probably generate a shit-ton of revenue in the interim](http://www.imore.com/over-60-million-americans-interested-buying-apple-watch).
 
 [It’s not the end of a trek](https://twitter.com/clattner_llvm/status/474082459860992000) but we’ll be reading articles that treat it as such for quite some time.
 
 ---
 
-[Originally published](http://bryan.io/post/113879653871/just-watch) on [bryan.io](http://bryan.io)
+[Originally published](https://bryan.tumblr.com/post/113879653871/just-watch) on [Tumblr](https://bryan.tumblr.com)

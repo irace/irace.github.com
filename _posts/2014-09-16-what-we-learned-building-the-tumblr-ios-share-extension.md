@@ -33,7 +33,7 @@ As soon as a user taps the &ldquo;Post&rdquo; button, we&rsquo;d ideally like to
 
 As mentioned, the shared container is where everything that you need to access from both your app and extension must be located: user defaults, keychains, databases, files that you&rsquo;re serializing via `NSCoding`, etc.
 
-For existing apps, the problem is simple; the data already exists somewhere outside of the shared container, and only the container app can migrate it over. Thus, if the user installs an update that adds an extension, and tries to use the extension *before* launching the application and giving it a chance to perform the migration, they&rsquo;re going to have a bad time.
+For existing apps, the problem is simple; the data already exists somewhere outside of the shared container, and only the container app can migrate it over. Thus, if the user installs an update that adds an extension, and tries to use the extension _before_ launching the application and giving it a chance to perform the migration, they&rsquo;re going to have a bad time.
 
 ### Workaround
 
@@ -47,9 +47,9 @@ There&rsquo;s no great option here. If the user opens our extension first, we ju
 
 Our use case required both our app and extension to write to the same file, where only the app would read from it. We observed a number of problems while both extension and app processes were running simultaneously. [`NSFilePresenter`](https://developer.apple.com/library/mac/documentation/Foundation/Reference/NSFilePresenter_protocol/Reference/Reference.html) methods intended to indicate that the file had been or will be modified ([`presentedItemDidChange`](https://developer.apple.com/library/mac/documentation/Foundation/Reference/NSFilePresenter_protocol/Reference/Reference.html#//apple_ref/occ/intfm/NSFilePresenter/presentedItemDidChange) or [`relinquishPresentedItemToWriter:`](https://developer.apple.com/library/mac/documentation/Foundation/Reference/NSFilePresenter_protocol/Reference/Reference.html#//apple_ref/occ/intfm/NSFilePresenter/relinquishPresentedItemToWriter:)) would either:
 
-* Not be called at all
-* Only be called when switching between applications
-* Be called, but only after a method that would cause the app to overwrite the data that the extension had just written (either [`savePresentedItemChangesWithCompletionHandler:`](https://developer.apple.com/library/mac/documentation/Foundation/Reference/NSFilePresenter_protocol/Reference/Reference.html#//apple_ref/occ/intfm/NSFilePresenter/savePresentedItemChangesWithCompletionHandler:) or [`relinquishPresentedItemToReader:`](https://developer.apple.com/library/mac/documentation/Foundation/Reference/NSFilePresenter_protocol/Reference/Reference.html#//apple_ref/occ/intfm/NSFilePresenter/relinquishPresentedItemToReader:)) was called first
+- Not be called at all
+- Only be called when switching between applications
+- Be called, but only after a method that would cause the app to overwrite the data that the extension had just written (either [`savePresentedItemChangesWithCompletionHandler:`](https://developer.apple.com/library/mac/documentation/Foundation/Reference/NSFilePresenter_protocol/Reference/Reference.html#//apple_ref/occ/intfm/NSFilePresenter/savePresentedItemChangesWithCompletionHandler:) or [`relinquishPresentedItemToReader:`](https://developer.apple.com/library/mac/documentation/Foundation/Reference/NSFilePresenter_protocol/Reference/Reference.html#//apple_ref/occ/intfm/NSFilePresenter/relinquishPresentedItemToReader:)) was called first
 
 ### Workaround
 
@@ -63,7 +63,7 @@ This isn&rsquo;t to say that `NSFileCoordinator` isn&rsquo;t currently a viable 
 
 The Tumblr share extension &ndash; like its container application &ndash; has a dark blue background color. White looks great on dark blue. Black, not so much.
 
-We tried *everything*, but couldn&rsquo;t find a way for our share extension (which uses a custom view controller subclass, as opposed to [`SLComposeServiceViewController`](https://developer.apple.com/library/prerelease/ios/documentation/Social/Reference/SLComposeServiceViewController_Class/)) to specify its status bar style. Instead, we always get the status bar style of the host application. Since we&rsquo;re expecting Photos.app and Safari &ndash; both which have black status bars &ndash; to be two of the apps that Tumblr users share from the most, this is really disappointing.
+We tried _everything_, but couldn&rsquo;t find a way for our share extension (which uses a custom view controller subclass, as opposed to [`SLComposeServiceViewController`](https://developer.apple.com/library/prerelease/ios/documentation/Social/Reference/SLComposeServiceViewController_Class/)) to specify its status bar style. Instead, we always get the status bar style of the host application. Since we&rsquo;re expecting Photos.app and Safari &ndash; both which have black status bars &ndash; to be two of the apps that Tumblr users share from the most, this is really disappointing.
 
 ### Workaround
 
@@ -75,13 +75,13 @@ None so far. Neither Info.plist keys nor view controller methods worked, and we 
 
 It makes sense that you can&rsquo;t specifically exclude a specific share extension from an activity view controller. We wouldn&rsquo;t want Instagram doing something like preventing sharing to Twitter, would we?
 
-But the one extension that you *should* be able to remove from your own app&rsquo;s activity view controllers is *your own extension*. It&rsquo;s silly to be able to share to Tumblr from within Tumblr. I mean, it works. It&rsquo;s OK, I guess. But it&rsquo;s weird.
+But the one extension that you _should_ be able to remove from your own app&rsquo;s activity view controllers is _your own extension_. It&rsquo;s silly to be able to share to Tumblr from within Tumblr. I mean, it works. It&rsquo;s OK, I guess. But it&rsquo;s weird.
 
 ### Workaround
 
-None so far. We tried configuring our activity controllers with an activity item with a custom UTI, and then specifically giving our share extension a predicate that would cause it to *not* show up when said UTI was present, but it had unintended side effects, which brings us to the next issue&hellip;
+None so far. We tried configuring our activity controllers with an activity item with a custom UTI, and then specifically giving our share extension a predicate that would cause it to _not_ show up when said UTI was present, but it had unintended side effects, which brings us to the next issue&hellip;
 
-## By default, share extensions will *only* show up if they explicitly support *all* of the provided activity items
+## By default, share extensions will _only_ show up if they explicitly support _all_ of the provided activity items
 
 [Radar #18342403: NSExtensionActivationRules should only need to match a single activity item for a share extension to be displayed](http://openradar.appspot.com/radar?id=5616559737274368)
 [Radar #18150467: Documentation for custom NSExtensionItemActivation rules is very vague](http://openradar.appspot.com/radar?id=5803657102622720)
@@ -90,22 +90,22 @@ This is a doozy. It&rsquo;s the most important issue we&rsquo;ve found, and one 
 
 Here&rsquo;s how applications pass data to share extensions:
 
-* An application configures a `UIActivityViewController` with an array of &ldquo;activity items&rdquo;
-* The activity controller displays the system activities and share extensions that can operate on the types of items provided
+- An application configures a `UIActivityViewController` with an array of &ldquo;activity items&rdquo;
+- The activity controller displays the system activities and share extensions that can operate on the types of items provided
 
 Here&rsquo;s how we think this should work, using the Tumblr app as an example:
 
-* The user long-presses on a photo
-* We put the image data, the posts&rsquo;s URL, and maybe a text summary of the post, all in the activity items array
-* We&rsquo;d expect share extensions that support either image data *or* URLs *or* text to all show up in the activity controller
+- The user long-presses on a photo
+- We put the image data, the posts&rsquo;s URL, and maybe a text summary of the post, all in the activity items array
+- We&rsquo;d expect share extensions that support either image data _or_ URLs _or_ text to all show up in the activity controller
 
-What *actually* happens is that only share extensions that explicitly support images *and* URLs *and* text will show up.
+What _actually_ happens is that only share extensions that explicitly support images _and_ URLs _and_ text will show up.
 
 This is a problem, because the simplest way to specify what your extension supports &ndash; and by far the best documented &ndash; is by adding `NSExtensionActivationRule` keys like:
 
     `NSExtensionActivationSupportsText` : `YES`
 
-This looks like it would mean &ldquo;show my extension as long as *any* of the activity items are text,&rdquo; but it really means &ldquo;show my extension as long as there is only one activity item, and it is text.&rdquo;
+This looks like it would mean &ldquo;show my extension as long as _any_ of the activity items are text,&rdquo; but it really means &ldquo;show my extension as long as there is only one activity item, and it is text.&rdquo;
 
 [Federico Viticci](http://twitter.com/viticci), who at this point has likely used more third-party share extensions than anyone else on the planet, verifies that this is in fact a legitimate problem:
 
@@ -117,9 +117,9 @@ This looks like it would mean &ldquo;show my extension as long as *any* of the a
 
 This negatively affects both app and extension developers. It means that:
 
-* App developers should only configure their activity controllers with a single activity item. There are a couple of problems with this. First, [it&rsquo;s doable](https://gist.github.com/irace/535c9aa3314ee41fb902), but a pain if, like in Tumblr.app, you want system activities like copying and saving to the Camera Roll to support multiple different types of data. Secondly, it&rsquo;s a huge shame to only export one type of data and limit the number of sharing options that your users will be able to perform.
+- App developers should only configure their activity controllers with a single activity item. There are a couple of problems with this. First, [it&rsquo;s doable](https://gist.github.com/irace/535c9aa3314ee41fb902), but a pain if, like in Tumblr.app, you want system activities like copying and saving to the Camera Roll to support multiple different types of data. Secondly, it&rsquo;s a huge shame to only export one type of data and limit the number of sharing options that your users will be able to perform.
 
-* Extension developers should use the more complex (and unfortunately, not very thoroughly documented) [predicate syntax](https://developer.apple.com/library/prerelease/ios/documentation/General/Conceptual/ExtensibilityPG/ExtensionScenarios.html#//apple_ref/doc/uid/TP40014214-CH21-SW8) to specifically specify an OR relationship. This would look something like:
+- Extension developers should use the more complex (and unfortunately, not very thoroughly documented) [predicate syntax](https://developer.apple.com/library/prerelease/ios/documentation/General/Conceptual/ExtensibilityPG/ExtensionScenarios.html#//apple_ref/doc/uid/TP40014214-CH21-SW8) to specifically specify an OR relationship. This would look something like:
 
 <code>
 SUBQUERY(extensionItems, $extensionItem, SUBQUERY($extensionItem.attachments, $attachment, ANY $attachment.registeredTypeIdentifiers UTI-CONFORMS-TO "public.image").@count = 1 OR
@@ -138,4 +138,4 @@ And of course, to the frameworks and developer evangelist teams at Apple. With e
 
 ---
 
-[Originally published](http://bryan.io/post/97658826431/what-we-learned-building-the-tumblr-ios-share) on [bryan.io](http://bryan.io)
+[Originally published](https://bryan.tumblr.com/post/97658826431/what-we-learned-building-the-tumblr-ios-share) on [Tumblr](https://bryan.tumblr.com)

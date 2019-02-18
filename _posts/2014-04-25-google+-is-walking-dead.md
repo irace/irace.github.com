@@ -9,7 +9,7 @@ date: 2014-04-25
 
 > What we’re hearing from multiple sources is that Google+ will no longer be considered a product, but a platform – essentially ending its competition with other social networks like Facebook and Twitter.
 
-[Lots of chatter](http://bits.blogs.nytimes.com/2012/03/06/google-defending-google-plus-shares-usage-numbers/) about whether Google+ is really “walking dead” in the wake of news that [Vic Gundotra will be leaving the company](http://techcrunch.com/2014/04/24/vic-gundotra-the-father-of-google-is-leaving-google-after-8-years/).  I understand that Google+ is less of a singular product and more of a collection of tools, but disagree with [The Next Web](http://thenextweb.com/socialmedia/2012/03/08/for-the-last-time-lets-all-say-it-together-google-is-not-a-social-network/) when the say the following:
+[Lots of chatter](http://bits.blogs.nytimes.com/2012/03/06/google-defending-google-plus-shares-usage-numbers/) about whether Google+ is really “walking dead” in the wake of news that [Vic Gundotra will be leaving the company](http://techcrunch.com/2014/04/24/vic-gundotra-the-father-of-google-is-leaving-google-after-8-years/). I understand that Google+ is less of a singular product and more of a collection of tools, but disagree with [The Next Web](http://thenextweb.com/socialmedia/2012/03/08/for-the-last-time-lets-all-say-it-together-google-is-not-a-social-network/) when the say the following:
 
 > [It’s] not a social network, [it’s] a social layer. It’s nothing more than the NYT adding new buttons, commenting systems, and other social tools to its site. Would you call the NYT a “social network”? No, of course not. The Next Web has social features all over the place, but would you call it a “social network”? No, of course not.
 
@@ -29,4 +29,4 @@ Whether or not Google+ actually a massive success internally ([I have to assume 
 
 ---
 
-[Originally published](http://bryan.io/post/83817782080/google-is-walking-dead-techcrunch) on [bryan.io](http://bryan.io)
+[Originally published](https://bryan.tumblr.com/post/83817782080/google-is-walking-dead-techcrunch) on [Tumblr](https://bryan.tumblr.com)

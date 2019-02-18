@@ -7,7 +7,7 @@ date: 2014-01-02
 
 <h2><a id="packages">Packages</a></h2>
 
-One of Objective-C's biggest annoyances is the lack of proper namespacing. It's hard to believe, after years of programming in other languages, that I now prefix *every class name I ever type* with a two if not three-character code.
+One of Objective-C's biggest annoyances is the lack of proper namespacing. It's hard to believe, after years of programming in other languages, that I now prefix _every class name I ever type_ with a two if not three-character code.
 
 Java solves this problem by grouping classes together in units known as [packages](http://en.wikipedia.org/wiki/Java_package). At the top of a class file, the package that the class belongs to is declared, in reverse DNS format:
 
@@ -90,9 +90,9 @@ String blogName;
 
 Say you're implementing a mobile app that parses data from an API. Annotations allow this to be done declaratively instead of procedurally. Instance variables can be marked up with a custom `@ResponseField` annotation that indicates that they should be populated with values from the API responses. The response parsing logic can now be completely generic and reused across all of your different model objects:
 
-* Introspect an instance for variables with the `@ResponseField` annotation
-* Use the `key` field to determine where the desired value can be found in the API response dictionary
-* Use other fields to do other things, e.g. trim strings if `trim = true`, abort if a non-nullable field is missing, run a regular expression to ensure a field contains a valid value, etc.
+- Introspect an instance for variables with the `@ResponseField` annotation
+- Use the `key` field to determine where the desired value can be found in the API response dictionary
+- Use other fields to do other things, e.g. trim strings if `trim = true`, abort if a non-nullable field is missing, run a regular expression to ensure a field contains a valid value, etc.
 
 <h2><a id="enums">Enums</a></h2>
 
@@ -158,4 +158,4 @@ for (Theme theme : Theme.values()) {
 
 ---
 
-Originally published on [bryan.io](http://bryan.io)
+Originally published on [Tumblr](https://bryan.tumblr.com)
