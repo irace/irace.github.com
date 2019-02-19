@@ -3,7 +3,7 @@ layout: post
 title: Software without coding, documents vs. apps, or the impossible dream of the “personal CRM”
 permalink: documents-vs-apps
 date: 2019-02-19
-image: http://irace.me/images/reading/books.jpg
+image: http://irace.me/images/documents-vs-apps/legos.jpg
 ---
 
 <figure>
