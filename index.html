@@ -11,8 +11,10 @@ layout: default
       </a>
     </h1>
 
-    {% assign minutes_to_read = post.content | number_of_words | divided_by: 180 %}
-    <p class="post-subtitle"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%B %d, %Y'  }}</time> · {{ minutes_to_read }} minute read</p>
+    {% assign minutes_to_read = post.content | strip_html | number_of_words | divided_by: 220 %}
+    <p class="post-subtitle">
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time> · {{ minutes_to_read }} minute read
+    </p>
 
     {{ post.content }}
   </article>
@@ -21,13 +23,12 @@ layout: default
 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+  <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
   {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+  <span class="pagination-item older">Older</span>
+  {% endif %} {% if paginator.previous_page %}
+  <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
   {% else %}
-    <span class="pagination-item newer">Newer</span>
+  <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
