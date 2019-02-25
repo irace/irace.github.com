@@ -72,6 +72,6 @@ But traditional software development being long for this world isn’t an excuse
 
 [If you don’t like change, you're going to like irrelevance even less](https://en.wikiquote.org/wiki/Eric_Shinseki).
 
-[^1]: Coda goes so far as to intelligently translating traditional desktop documents into common mobile app paradigms. A section in a document becomes a tab in an app’s navigation, and a select box with multiple states can be edited using a native swipe-gesture.
+[^1]: Coda goes so far as to intelligently translate traditional desktop documents into common mobile app paradigms. A section in a document becomes a tab in an app’s navigation, and a select box with multiple states can be edited using a native swipe-gesture.
 [^2]: Especially as voice control and home automation continue to increase in prominence.
 [^3]: Not to mention, entire [Google Sheets apps](https://www.labnol.org/internet/website-uptime-monitor/21060/).
