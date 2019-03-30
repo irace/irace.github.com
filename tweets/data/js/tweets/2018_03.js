@@ -163,7 +163,7 @@ Grailbird.data.tweets_2018_03 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Web App\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Paola Mata",
+      "name" : "Paola \uD83E\uDD54",
       "screen_name" : "PaolaNotPaolo",
       "indices" : [ 0, 14 ],
       "id_str" : "347201605",
@@ -1464,7 +1464,7 @@ Grailbird.data.tweets_2018_03 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Web App\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Paola Mata",
+      "name" : "Paola \uD83E\uDD54",
       "screen_name" : "PaolaNotPaolo",
       "indices" : [ 0, 14 ],
       "id_str" : "347201605",

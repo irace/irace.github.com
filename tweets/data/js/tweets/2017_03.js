@@ -1665,13 +1665,13 @@ Grailbird.data.tweets_2017_03 =
       "id_str" : "21150267",
       "id" : 21150267
     }, {
-      "name" : "Conradicus Kramericus",
+      "name" : "Conrad Kramer",
       "screen_name" : "conradev",
       "indices" : [ 30, 39 ],
       "id_str" : "50685018",
       "id" : 50685018
     }, {
-      "name" : "Ari Weinstein",
+      "name" : "Ari Apple",
       "screen_name" : "AriX",
       "indices" : [ 40, 45 ],
       "id_str" : "765340",
@@ -4209,7 +4209,7 @@ Grailbird.data.tweets_2017_03 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Phillip Bowden",
+      "name" : "phillip bowden",
       "screen_name" : "pbowden",
       "indices" : [ 0, 8 ],
       "id_str" : "2134761",

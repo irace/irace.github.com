@@ -2277,7 +2277,7 @@ Grailbird.data.tweets_2018_10 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2694 Siong",
+      "name" : "\u2694 SIONG",
       "screen_name" : "siong1987",
       "indices" : [ 0, 10 ],
       "id_str" : "2453361",

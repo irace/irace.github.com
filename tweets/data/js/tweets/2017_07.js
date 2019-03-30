@@ -1233,7 +1233,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lasha Krikheli",
+      "name" : "Lasha Krikheli @ PAX East",
       "screen_name" : "LashaKrikheli",
       "indices" : [ 0, 14 ],
       "id_str" : "14140936",
@@ -1528,7 +1528,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Aaron Lammer",
+      "name" : "Lammer \uD83E\uDD90",
       "screen_name" : "aaronlammer",
       "indices" : [ 0, 12 ],
       "id_str" : "18402494",
@@ -2566,30 +2566,19 @@ Grailbird.data.tweets_2017_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "calculus dog",
-      "screen_name" : "patr1ck",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14178728",
-      "id" : 14178728
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "886094434802073600",
   "geo" : {
     "type" : "Point",
     "coordinates" : [ 43.64356067501348, -71.74867892644531 ]
   },
   "id_str" : "886098840809603072",
-  "in_reply_to_user_id" : 14178728,
   "text" : "@patr1ck \uD83D\uDCAF",
   "id" : 886098840809603072,
-  "in_reply_to_status_id" : 886094434802073600,
   "created_at" : "2017-07-15 05:43:21 +0000",
-  "in_reply_to_screen_name" : "patr1ck",
-  "in_reply_to_user_id_str" : "14178728",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
@@ -3803,7 +3792,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Paola Mata",
+      "name" : "Paola \uD83E\uDD54",
       "screen_name" : "PaolaNotPaolo",
       "indices" : [ 0, 14 ],
       "id_str" : "347201605",
@@ -3842,7 +3831,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Paola Mata",
+      "name" : "Paola \uD83E\uDD54",
       "screen_name" : "PaolaNotPaolo",
       "indices" : [ 0, 14 ],
       "id_str" : "347201605",
@@ -4564,7 +4553,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2694 Siong",
+      "name" : "\u2694 SIONG",
       "screen_name" : "siong1987",
       "indices" : [ 0, 10 ],
       "id_str" : "2453361",
@@ -5482,7 +5471,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Paola Mata",
+      "name" : "Paola \uD83E\uDD54",
       "screen_name" : "PaolaNotPaolo",
       "indices" : [ 0, 14 ],
       "id_str" : "347201605",
@@ -5518,7 +5507,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Paola Mata",
+      "name" : "Paola \uD83E\uDD54",
       "screen_name" : "PaolaNotPaolo",
       "indices" : [ 0, 14 ],
       "id_str" : "347201605",
@@ -5916,7 +5905,7 @@ Grailbird.data.tweets_2017_07 =
       "id_str" : "5107",
       "id" : 5107
     }, {
-      "name" : "symphony of snott",
+      "name" : "Alex Cox at C2E2 THIS WEEKEND!",
       "screen_name" : "AlexCox",
       "indices" : [ 13, 21 ],
       "id_str" : "12803032",
@@ -6128,7 +6117,7 @@ Grailbird.data.tweets_2017_07 =
       "id_str" : "22080446",
       "id" : 22080446
     }, {
-      "name" : "Oktawian Chojnacki",
+      "name" : "Oktawian (\u5C4B\u5927\u7EF4) Chojnacki",
       "screen_name" : "nsmeme",
       "indices" : [ 13, 20 ],
       "id_str" : "2190220224",
@@ -6176,7 +6165,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Praval Singh",
+      "name" : "Praval - #SMMW19",
       "screen_name" : "Praval",
       "indices" : [ 0, 7 ],
       "id_str" : "11215482",
@@ -6260,7 +6249,7 @@ Grailbird.data.tweets_2017_07 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Walt \uD83D\uDEB4\uD83C\uDFFC\u200D\u2642\uFE0F\uD83D\uDDFD",
+      "name" : "Walt \uD83D\uDEB4\uD83C\uDFFC\u200D\u2642\uFE0F\uD83C\uDFD7\uD83D\uDDFD\uD83C\uDF0E",
       "screen_name" : "WaltFrench",
       "indices" : [ 0, 11 ],
       "id_str" : "14911096",

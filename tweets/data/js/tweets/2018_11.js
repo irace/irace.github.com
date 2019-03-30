@@ -1384,7 +1384,7 @@ Grailbird.data.tweets_2018_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Peter Steinberger",
+      "name" : "Peter.pdf",
       "screen_name" : "steipete",
       "indices" : [ 0, 9 ],
       "id_str" : "25401953",
@@ -2248,7 +2248,7 @@ Grailbird.data.tweets_2018_11 =
       "id_str" : "785543509369622528",
       "id" : 785543509369622528
     }, {
-      "name" : "Carl Hamad-Lipscombe",
+      "name" : "Carl Hamad Lipscombe",
       "screen_name" : "carlken",
       "indices" : [ 24, 32 ],
       "id_str" : "16242579",
@@ -2386,7 +2386,7 @@ Grailbird.data.tweets_2018_11 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "lazerwalker \uD83D\uDD1C GDC",
+      "name" : "lazerwalker",
       "screen_name" : "lazerwalker",
       "indices" : [ 0, 12 ],
       "id_str" : "19924413",
@@ -2428,7 +2428,7 @@ Grailbird.data.tweets_2018_11 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "lazerwalker \uD83D\uDD1C !!con West",
+      "name" : "lazerwalker \uD83D\uDE82 GDC",
       "screen_name" : "lazerwalker",
       "indices" : [ 0, 12 ],
       "id_str" : "19924413",
@@ -2830,7 +2830,7 @@ Grailbird.data.tweets_2018_11 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Katherine (Barna) Glover",
+      "name" : "Katherine Barna",
       "screen_name" : "kathbarna",
       "indices" : [ 0, 10 ],
       "id_str" : "18990767",

@@ -1550,7 +1550,7 @@ Grailbird.data.tweets_2018_04 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Web App\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2694 Siong",
+      "name" : "\u2694 SIONG",
       "screen_name" : "siong1987",
       "indices" : [ 3, 13 ],
       "id_str" : "2453361",

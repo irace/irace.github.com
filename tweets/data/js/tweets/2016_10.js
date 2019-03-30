@@ -724,7 +724,7 @@ Grailbird.data.tweets_2016_10 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Paola Mata",
+      "name" : "Paola \uD83E\uDD54",
       "screen_name" : "PaolaNotPaolo",
       "indices" : [ 0, 14 ],
       "id_str" : "347201605",
@@ -2435,7 +2435,7 @@ Grailbird.data.tweets_2016_10 =
       "screen_name" : "labibti",
       "protected" : false,
       "id_str" : "285822802",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1081021433638207488\/e_XK6vbg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1108257917910736897\/Fv4eOvhF_normal.jpg",
       "id" : 285822802,
       "verified" : false
     }
@@ -4378,7 +4378,7 @@ Grailbird.data.tweets_2016_10 =
       "id_str" : "175264452",
       "id" : 175264452
     }, {
-      "name" : "Philip Schiller",
+      "name" : "Philip \uF8FF Schiller",
       "screen_name" : "pschiller",
       "indices" : [ 130, 140 ],
       "id_str" : "17104751",
@@ -4570,12 +4570,6 @@ Grailbird.data.tweets_2016_10 =
       "indices" : [ 0, 11 ],
       "id_str" : "756129",
       "id" : 756129
-    }, {
-      "name" : "Paul Sondhi",
-      "screen_name" : "paulsondhi",
-      "indices" : [ 12, 23 ],
-      "id_str" : "2969087921",
-      "id" : 2969087921
     } ],
     "media" : [ ],
     "hashtags" : [ ],

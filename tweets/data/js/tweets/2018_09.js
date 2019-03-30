@@ -491,7 +491,7 @@ Grailbird.data.tweets_2018_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "anat",
+      "name" : "anat\uD83D\uDCCDNZ",
       "screen_name" : "anat_gilboa",
       "indices" : [ 0, 12 ],
       "id_str" : "1552038578",
@@ -720,12 +720,6 @@ Grailbird.data.tweets_2018_09 =
       "indices" : [ 0, 12 ],
       "id_str" : "14231571",
       "id" : 14231571
-    }, {
-      "name" : "Jake Behrens",
-      "screen_name" : "behrens",
-      "indices" : [ 56, 64 ],
-      "id_str" : "15225114",
-      "id" : 15225114
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1298,7 +1292,7 @@ Grailbird.data.tweets_2018_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "LiFE",
+      "name" : "the lonely stoner...",
       "screen_name" : "stoner",
       "indices" : [ 0, 7 ],
       "id_str" : "766703653994496000",
@@ -1898,13 +1892,13 @@ Grailbird.data.tweets_2018_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ari Weinstein",
+      "name" : "Ari Apple",
       "screen_name" : "AriX",
       "indices" : [ 21, 26 ],
       "id_str" : "765340",
       "id" : 765340
     }, {
-      "name" : "Conradicus Kramericus",
+      "name" : "Conrad Kramer",
       "screen_name" : "conradev",
       "indices" : [ 27, 36 ],
       "id_str" : "50685018",
@@ -2207,7 +2201,7 @@ Grailbird.data.tweets_2018_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2694 Siong",
+      "name" : "\u2694 SIONG",
       "screen_name" : "siong1987",
       "indices" : [ 0, 10 ],
       "id_str" : "2453361",
@@ -4510,7 +4504,7 @@ Grailbird.data.tweets_2018_09 =
       "id_str" : "466936748",
       "id" : 466936748
     }, {
-      "name" : "Satoshi",
+      "name" : "Satoshi \uD83E\uDD5E try! Swift",
       "screen_name" : "jpmartha_jp",
       "indices" : [ 81, 93 ],
       "id_str" : "1097378822",
@@ -5424,7 +5418,7 @@ Grailbird.data.tweets_2018_09 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Peter Steinberger",
+      "name" : "Peter.pdf",
       "screen_name" : "steipete",
       "indices" : [ 0, 9 ],
       "id_str" : "25401953",

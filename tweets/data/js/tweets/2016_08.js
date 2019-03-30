@@ -2169,12 +2169,6 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "calculus dog",
-      "screen_name" : "patr1ck",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14178728",
-      "id" : 14178728
-    }, {
       "name" : "Christopher Price",
       "screen_name" : "topherchris",
       "indices" : [ 14, 26 ],
@@ -2190,12 +2184,9 @@ Grailbird.data.tweets_2016_08 =
     "coordinates" : [ 40.67667953182488, -73.97068864979597 ]
   },
   "id_str" : "767147631076319232",
-  "in_reply_to_user_id" : 14178728,
   "text" : "@patr1ck That @topherchris is a genius.",
   "id" : 767147631076319232,
   "created_at" : "2016-08-20 23:53:42 +0000",
-  "in_reply_to_screen_name" : "patr1ck",
-  "in_reply_to_user_id_str" : "14178728",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
@@ -5852,13 +5843,13 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Phillip Bowden",
+      "name" : "phillip bowden",
       "screen_name" : "pbowden",
       "indices" : [ 0, 8 ],
       "id_str" : "2134761",
       "id" : 2134761
     }, {
-      "name" : "FW Colin",
+      "name" : "great goth defective",
       "screen_name" : "cbarrett",
       "indices" : [ 9, 18 ],
       "id_str" : "3562421",
@@ -5925,7 +5916,7 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Aaron Lammer",
+      "name" : "Lammer \uD83E\uDD90",
       "screen_name" : "aaronlammer",
       "indices" : [ 20, 32 ],
       "id_str" : "18402494",
@@ -6102,7 +6093,7 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Zach Waldowski",
+      "name" : "Zachary Waldowski",
       "screen_name" : "zwaldowski",
       "indices" : [ 0, 11 ],
       "id_str" : "18553922",
@@ -6589,7 +6580,7 @@ Grailbird.data.tweets_2016_08 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "matt k.",
+      "name" : "matt",
       "screen_name" : "slim",
       "indices" : [ 0, 5 ],
       "id_str" : "16144278",

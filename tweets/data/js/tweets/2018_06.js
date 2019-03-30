@@ -562,7 +562,7 @@ Grailbird.data.tweets_2018_06 =
       "screen_name" : "MeekPhill_",
       "protected" : false,
       "id_str" : "1081435296",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1087186542110613507\/O4wbH7C1_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1107523179273162752\/QFlnxswP_normal.jpg",
       "id" : 1081435296,
       "verified" : false
     }
@@ -1729,7 +1729,7 @@ Grailbird.data.tweets_2018_06 =
       "id_str" : "14710664",
       "id" : 14710664
     }, {
-      "name" : "Eli Hodapp",
+      "name" : "Eli Hodapp \u2708\uFE0F GDC",
       "screen_name" : "hodapp",
       "indices" : [ 9, 16 ],
       "id_str" : "7481082",
@@ -1773,7 +1773,7 @@ Grailbird.data.tweets_2018_06 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eli Hodapp",
+      "name" : "Eli Hodapp \uD83D\uDE4B\uD83C\uDFFB\u200D\u2642\uFE0F GDC \u2708\uFE0F PAX East",
       "screen_name" : "hodapp",
       "indices" : [ 0, 7 ],
       "id_str" : "7481082",
@@ -1890,7 +1890,7 @@ Grailbird.data.tweets_2018_06 =
       "id_str" : "35383",
       "id" : 35383
     }, {
-      "name" : "Cabel",
+      "name" : "Cabel. \uD83D\uDCCDGDC",
       "screen_name" : "cabel",
       "indices" : [ 10, 16 ],
       "id_str" : "1919231",
@@ -3245,7 +3245,7 @@ Grailbird.data.tweets_2018_06 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicole",
+      "name" : "nicole \uD83D\uDDFD",
       "screen_name" : "sodevious",
       "indices" : [ 0, 10 ],
       "id_str" : "9555772",
@@ -3278,7 +3278,7 @@ Grailbird.data.tweets_2018_06 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nicole",
+      "name" : "nicole \uD83D\uDDFD",
       "screen_name" : "sodevious",
       "indices" : [ 0, 10 ],
       "id_str" : "9555772",

@@ -1757,7 +1757,7 @@ Grailbird.data.tweets_2017_11 =
       "id_str" : "147053951",
       "id" : 147053951
     }, {
-      "name" : "\u2694 Siong",
+      "name" : "\u2694 SIONG",
       "screen_name" : "siong1987",
       "indices" : [ 27, 37 ],
       "id_str" : "2453361",
@@ -2041,7 +2041,7 @@ Grailbird.data.tweets_2017_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Evan Jacobs",
+      "name" : "Evan Jacobs \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "probablyup",
       "indices" : [ 0, 11 ],
       "id_str" : "74507569",
@@ -3450,7 +3450,7 @@ Grailbird.data.tweets_2017_11 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "lazerwalker \uD83D\uDD1C GDC",
+      "name" : "lazerwalker \uD83D\uDE82 GDC",
       "screen_name" : "lazerwalker",
       "indices" : [ 0, 12 ],
       "id_str" : "19924413",
@@ -4329,7 +4329,7 @@ Grailbird.data.tweets_2017_11 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ged Maheux",
+      "name" : "Ged Iconfactory",
       "screen_name" : "gedeon",
       "indices" : [ 0, 7 ],
       "id_str" : "38003",
@@ -4804,7 +4804,7 @@ Grailbird.data.tweets_2017_11 =
       "id_str" : "325366838",
       "id" : 325366838
     }, {
-      "name" : "\u1D1B\u1D22, \u0262\u1D07\u0274 \u1D22 \u1D05\u1D07\u1D04\u1D0F\u1D05\u1D07\u0280 \uD83E\uDDD9\uD83C\uDFFB\u200D\u2640\uFE0F",
+      "name" : "\u1D1B\u1D22 \uD83E\uDDD9\uD83C\uDFFB\u200D\u2640\uFE0F",
       "screen_name" : "TZhongg",
       "indices" : [ 8, 16 ],
       "id_str" : "2458844640",

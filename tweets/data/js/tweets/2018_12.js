@@ -1537,7 +1537,7 @@ Grailbird.data.tweets_2018_12 =
       "screen_name" : "TVietor08",
       "protected" : false,
       "id_str" : "155784594",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1055456986945515520\/OytDRlQ1_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1103673387723849731\/m77-GNd__normal.jpg",
       "id" : 155784594,
       "verified" : true
     }
@@ -1557,7 +1557,7 @@ Grailbird.data.tweets_2018_12 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "\u2694 Siong",
+      "name" : "\u2694 SIONG",
       "screen_name" : "siong1987",
       "indices" : [ 0, 10 ],
       "id_str" : "2453361",
@@ -3257,7 +3257,7 @@ Grailbird.data.tweets_2018_12 =
       "screen_name" : "KenTremendous",
       "protected" : false,
       "id_str" : "45499837",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833085837747236864\/QvtoXePm_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1111142997113004032\/Sk9pGYfn_normal.png",
       "id" : 45499837,
       "verified" : true
     }
@@ -4687,7 +4687,7 @@ Grailbird.data.tweets_2018_12 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alex Rose",
+      "name" : "Alex Rose @ GDC",
       "screen_name" : "AlexRoseGames",
       "indices" : [ 0, 14 ],
       "id_str" : "726754154",

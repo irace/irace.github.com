@@ -3,7 +3,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter Web App\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Paola Mata",
+      "name" : "Paola \uD83E\uDD54",
       "screen_name" : "PaolaNotPaolo",
       "indices" : [ 0, 14 ],
       "id_str" : "347201605",
@@ -3087,7 +3087,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ole Zorn",
+      "name" : "omz",
       "screen_name" : "olemoritz",
       "indices" : [ 0, 10 ],
       "id_str" : "10368262",
@@ -4659,7 +4659,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Paola Mata",
+      "name" : "Paola \uD83E\uDD54",
       "screen_name" : "PaolaNotPaolo",
       "indices" : [ 0, 14 ],
       "id_str" : "347201605",
@@ -4858,7 +4858,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Dickerson",
+      "name" : "Mr. Anne McKeehan",
       "screen_name" : "jdickerson",
       "indices" : [ 3, 14 ],
       "id_str" : "4119741",
@@ -4885,7 +4885,7 @@ Grailbird.data.tweets_2018_02 =
     "id" : 959497610494185474,
     "created_at" : "2018-02-02 18:43:51 +0000",
     "user" : {
-      "name" : "John Dickerson",
+      "name" : "Mr. Anne McKeehan",
       "screen_name" : "jdickerson",
       "protected" : false,
       "id_str" : "4119741",
@@ -5261,7 +5261,7 @@ Grailbird.data.tweets_2018_02 =
       "id_str" : "39369577",
       "id" : 39369577
     }, {
-      "name" : "\u2694 Siong",
+      "name" : "\u2694 SIONG",
       "screen_name" : "siong1987",
       "indices" : [ 13, 23 ],
       "id_str" : "2453361",

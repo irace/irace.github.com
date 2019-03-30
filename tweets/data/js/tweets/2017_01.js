@@ -2896,7 +2896,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Phillip Bowden",
+      "name" : "phillip bowden",
       "screen_name" : "pbowden",
       "indices" : [ 0, 8 ],
       "id_str" : "2134761",
@@ -5299,7 +5299,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "iRace 8S",
+      "name" : "iRace XS",
       "screen_name" : "kevin_irace",
       "indices" : [ 0, 12 ],
       "id_str" : "279709182",
@@ -7889,7 +7889,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"http:\/\/tapbots.com\/tweetbot\" rel=\"nofollow\"\u003ETweetbot for i\u039FS\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Aaron Lammer",
+      "name" : "Lammer \uD83E\uDD90",
       "screen_name" : "aaronlammer",
       "indices" : [ 0, 12 ],
       "id_str" : "18402494",
@@ -10626,27 +10626,16 @@ Grailbird.data.tweets_2017_01 =
 }, {
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "calculus dog",
-      "screen_name" : "patr1ck",
-      "indices" : [ 0, 8 ],
-      "id_str" : "14178728",
-      "id" : 14178728
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "818198580049547264",
   "geo" : { },
   "id_str" : "818202787347656704",
-  "in_reply_to_user_id" : 14178728,
   "text" : "@patr1ck My brain initially read \u201CReachNow\u201D\u00A0as \u201CReact Native\u201D",
   "id" : 818202787347656704,
-  "in_reply_to_status_id" : 818198580049547264,
   "created_at" : "2017-01-08 21:08:40 +0000",
-  "in_reply_to_screen_name" : "patr1ck",
-  "in_reply_to_user_id_str" : "14178728",
   "user" : {
     "name" : "Bryan Irace",
     "screen_name" : "irace",
@@ -12708,7 +12697,7 @@ Grailbird.data.tweets_2017_01 =
       "id_str" : "4765141",
       "id" : 4765141
     }, {
-      "name" : "Lyzi \"Bonecrusher\" Diamond",
+      "name" : "Lyzi Diamond",
       "screen_name" : "lyzidiamond",
       "indices" : [ 11, 23 ],
       "id_str" : "17523331",
@@ -12777,7 +12766,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lyzi \"Bonecrusher\" Diamond",
+      "name" : "Lyzi Diamond",
       "screen_name" : "lyzidiamond",
       "indices" : [ 0, 12 ],
       "id_str" : "17523331",
@@ -12810,7 +12799,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lyzi \"Bonecrusher\" Diamond",
+      "name" : "Lyzi Diamond",
       "screen_name" : "lyzidiamond",
       "indices" : [ 0, 12 ],
       "id_str" : "17523331",
@@ -12843,7 +12832,7 @@ Grailbird.data.tweets_2017_01 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lyzi \"Bonecrusher\" Diamond",
+      "name" : "Lyzi Diamond",
       "screen_name" : "lyzidiamond",
       "indices" : [ 0, 12 ],
       "id_str" : "17523331",
@@ -13846,7 +13835,7 @@ Grailbird.data.tweets_2017_01 =
       "id_str" : "25502671",
       "id" : 25502671
     }, {
-      "name" : "Peter Steinberger",
+      "name" : "Peter.pdf",
       "screen_name" : "steipete",
       "indices" : [ 8, 17 ],
       "id_str" : "25401953",

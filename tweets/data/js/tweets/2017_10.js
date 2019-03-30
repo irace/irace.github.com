@@ -1649,7 +1649,7 @@ Grailbird.data.tweets_2017_10 =
       "id_str" : "15806521",
       "id" : 15806521
     }, {
-      "name" : "Oktawian Chojnacki",
+      "name" : "Oktawian (\u5C4B\u5927\u7EF4) Chojnacki",
       "screen_name" : "nsmeme",
       "indices" : [ 83, 90 ],
       "id_str" : "2190220224",
@@ -2354,7 +2354,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Roderic \u201CThe \uD83D\uDC13\u201D Campbell",
+      "name" : "Roderic \u201CCutestory\u201D Campbell",
       "screen_name" : "roderic",
       "indices" : [ 0, 8 ],
       "id_str" : "2706181",
@@ -2809,7 +2809,7 @@ Grailbird.data.tweets_2017_10 =
   "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Oktawian Chojnacki",
+      "name" : "Oktawian (\u5C4B\u5927\u7EF4) Chojnacki",
       "screen_name" : "nsmeme",
       "indices" : [ 0, 7 ],
       "id_str" : "2190220224",
