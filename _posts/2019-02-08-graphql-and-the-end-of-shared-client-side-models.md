@@ -101,7 +101,7 @@ Reducing this overhead by more tightly coupling our client-side type definitions
 
 There’s a lot to like about GraphQL – if you’re looking for a comprehensive overview, I’d recommend checking out [the official documentation](https://graphql.org/learn/).
 
-One advantage over traditional RESTful interfaces is that GraphQL servers vend strongly-typed schemas. These schemas can be programatically introspected, making your APIs self-documenting by default[^4]. But this is an essay about client-side models, not avoiding stale documentation.
+One advantage over traditional RESTful interfaces is that GraphQL servers vend strongly-typed schemas. These schemas can be programmatically introspected, making your APIs self-documenting by default[^4]. But this is an essay about client-side models, not avoiding stale documentation.
 
 With higher model specificity comes higher clarity and efficiency, the primary downside being the additional work involved to maintain a larger number of models. Let’s dig deeper into how code generation can mitigate this downside.
 
@@ -194,7 +194,7 @@ User interface libraries like [React](https://reactjs.org) and [UIKit](https://d
 
 This is at odds with traditional RESTful API development, where a single route will often return a large swath of data used to populate whole branch of the component tree, rather than just an individual node.
 
-GraphQL query fragments better facilite the colocation of components _and_ their data requirements:
+GraphQL query fragments better facilitate the colocation of components _and_ their data requirements:
 
 ```
 const FriendListItem = gql`
