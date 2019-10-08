@@ -32,6 +32,10 @@ In August 2014, I gave a talk entitled [Don’t be “an Objective-C” or “a 
 
 I feel like I could give this same talk today, to a more experienced set of engineers no less, and simply replace “Objective-C and Swift” with “frontend and backend” or “mobile and web.” The idea is the same - technologies move fast and careers are long, and while you may enjoy being a specialist or a generalist for some time, you never really know when your situation could change and when circumstances may warrant otherwise. Or, when you might simply feel like trying something new.
 
-When I write Ruby, it’s painfully obvious to me that I don’t know Ruby to nearly the same extent that I _know_ Swift. On some days, this makes me sad, but it just as often makes me feel empowered. Perhaps I’ll decide to spend the time needed to achieve Ruby mastery, or maybe I’ll end up retreating back to Swift at some point in the future. Or, more realistically, I’ll get slightly better at the former and slightly worse at the latter and come to peace with that, just in time to shift towards learning something different altogether. In any case, how others describe what I do, and more importantly, how I view it myself, remains a fluid work in progress.
+When I write Ruby, it’s painfully obvious to me that I don’t know Ruby to nearly the same extent that I _know_ Swift. On some days, this makes me sad, but it just as often makes me feel empowered. Perhaps I’ll decide to spend the time needed to achieve Ruby mastery, or maybe I’ll end up retreating back to Swift at some point in the future. Or, more realistically, I’ll get slightly better at the former and slightly worse at the latter and come to peace with that, just in time to shift towards learning something different altogether. In any case, <mark>how others describe what I do, and more importantly, how I view it myself, remains a fluid work in progress</mark>.
 
 I don’t expect this to change, and this I _am_ at peace with.
+
+---
+
+[Originally published](https://medium.com/better-programming/on-specialism-vs-generalism-and-not-being-an-ios-engineer-anymore-ed5fa65ed76e) on [Better Programming](https://medium.com/better-programming).
