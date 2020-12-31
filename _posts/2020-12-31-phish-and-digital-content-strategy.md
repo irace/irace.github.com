@@ -11,7 +11,7 @@ image: http://irace.me/images/phish/nye.jpg
   <figcaption>Photo by Rene Huemer via <a href="https://www.instagram.com/p/BsFl82YnQ37/">Phish: From The Road</a></figcaption>
 </figure>
 
-Let’s start by getting the tropes out of the way: drugs, hippies, [Ben & Jerry’s](https://www.benjerry.com/flavors/phish-food-ice-cream), “the Grateful Dead were better,” [that “Gin and Juice” cover from Napster with the wrong MP3 metadata](https://www.austinchronicle.com/music/2000-06-16/77606/). And say what you will about their music; love it, hate it, or have no opinion whatsoever[^1], this essay isn’t really about music. <mark>It’s about a unique–and I have to think _incredibly successful_–digital content strategy unlike anything else I’ve ever seen, and seemingly nearly impossible to replicate.</mark>
+Let’s start by getting the tropes out of the way: drugs, hippies, [Ben & Jerry’s](https://www.benjerry.com/flavors/phish-food-ice-cream), “the Grateful Dead were better,” [that “Gin and Juice” cover from Napster with the wrong MP3 metadata](https://www.austinchronicle.com/music/2000-06-16/77606/). And say what you will about their music; love it, hate it, or have no opinion whatsoever[^1], this essay isn’t really about music. <mark>It’s about a unique–and I have to think <em>incredibly successful</em>–digital content strategy unlike anything else I’ve ever seen, and seemingly nearly impossible to replicate.</mark>
 
 Before we dig in, let’s jump back a couple of decades.
 
