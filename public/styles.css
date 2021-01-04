@@ -1,9 +1,9 @@
 html {
-  font-family: "San Francisco", Helvetica, Arial, san-serif;
+  font-family: 'Lato', sans-serif;
 }
 
 body {
-  background-color: #292b37;
+  background-color: #18191d;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -35,7 +35,7 @@ a:hover {
 /* Navigation */
 
 nav {
-  font-family: "Myriad Set Pro", "Lucida Grande", "Helvetica Neue", "Helvetica", "Arial", "Verdana", "sans-serif";
+  font-weight: bold;
   text-align: center;
 }
 
@@ -48,8 +48,7 @@ nav a {
 h1,
 h2,
 h3 {
-  font-family: "Myriad Set Pro", "Lucida Grande", "Helvetica Neue", "Helvetica", "Arial", "Verdana", "sans-serif";
-  font-weight: normal;
+  font-weight: bold;
 }
 
 h1 {
@@ -155,6 +154,12 @@ code,
 
 .highlight * {
   font-weight: normal !important;
+}
+
+/* Pagination */
+
+a.pagination-item:hover {
+  background-color: #474747;
 }
 
 /* Footer */
