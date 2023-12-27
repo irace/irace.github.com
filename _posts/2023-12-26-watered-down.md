@@ -11,7 +11,7 @@ image: http://irace.me/images/watered-down/dissolve.png
 </figure>
 
 
-Studies have shown that algorithmic timelines drive more engagement than reverse-chronological timelines comprised exclusively of content that the user has explicitly chosen to follow. This makes sense—the overwhelming majority of social media users don’t built and cultivate robust networks on these platforms. As such, it shouldn’t be much of a surprise that algorithmic timelines “outperform” what would likely otherwise be a pretty desolate experience.
+Studies have shown that algorithmic timelines drive more engagement than reverse-chronological timelines comprised exclusively of content that the user has explicitly chosen to follow. This makes sense—the overwhelming majority of social media users don’t build and cultivate robust networks on these platforms. As such, it shouldn’t be much of a surprise that algorithmic timelines “outperform” what would likely otherwise be a pretty desolate experience.
 
 That said, the few of us who _did_ invest in curation got something even better. Every launch of Twitter or Reddit was comprised purely of _exactly what you actually wanted to see_. And if you used certain clients—an option that users of both services had until very recently—you could pick up right where you left off.
 
@@ -27,6 +27,6 @@ Before the diaspora there used to be one place to look and one place to post. Bu
 
 It adds up. It’s exhausting. It’s impossible to imagine that anyone who spent years with the uncut experience would spend nearly as much time doing all of this. 
 
-So we won’t. And we’ll be so much better for it.
+So we won’t. And we’ll be so much better for it. It almost certainly wasn’t ideal for us to be spending so much time this way, but how could we not have?
 
 We didn’t know how good we had it. But it’s even better now that it’s worse.
