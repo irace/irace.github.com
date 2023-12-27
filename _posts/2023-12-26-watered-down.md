@@ -27,6 +27,6 @@ Before the diaspora there used to be one place to look and one place to post. Bu
 
 It adds up. It’s exhausting. It’s impossible to imagine that anyone who spent years with the uncut experience would spend nearly as much time doing all of this. 
 
-So we won’t. And we’ll so much better for it.
+So we won’t. And we’ll be so much better for it.
 
 We didn’t know how good we had it. But it’s even better now that it’s worse.
