@@ -27,6 +27,6 @@ Before the diaspora there used to be one place to look and one place to post. Bu
 
 It adds up. It’s exhausting. It’s impossible to imagine that anyone who spent years with the uncut experience would spend nearly as much time doing all of this. 
 
-So we won’t. And we’ll be so much better for it. It almost certainly wasn’t ideal for us to be spending so much time this way, but how could we not have?
+So we won’t. And we’ll be so much better for it. It couldn’t have been ideal for us to have spent so much time that way, but how could we not have?
 
-We didn’t know how good we had it. But it’s even better now that it’s worse.
+We didn’t know how good we had it. But you can have too much of a good thing, so it’s better now that it’s worse.
