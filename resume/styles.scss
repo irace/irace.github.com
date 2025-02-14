@@ -50,4 +50,14 @@
       }
     }
   }
+
+  @media print {
+    .thumbnails, .post-thumbnails-spacer, .twitter-tweet {
+      display: none;
+    }
+
+    .page-break {
+      page-break-before: always;
+    }
+  }
 }
